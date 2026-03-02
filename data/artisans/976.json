@@ -1,0 +1,575 @@
+{
+  "tsingoni": {
+    "artisans": [
+      {
+        "id": "3514957900456412825",
+        "nom": "MBA-Menuiserie, bois, agencement",
+        "slug": "mba-menuiserie-bois-agencement",
+        "telephone": "+262 269 61 50 69",
+        "site_web": "http://www.mba-mayotte.com/",
+        "adresse": "Koungou 97660, Mayotte",
+        "note": 4,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3500902088976225460",
+        "nom": "Fantaisie Menuiserie",
+        "slug": "fantaisie-menuiserie",
+        "telephone": "+262 639 66 50 51",
+        "site_web": null,
+        "adresse": "2 rue du cimetière, Poroani, 2 Rue du Cimetière, Chirongui 97620, Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16376489459934349185",
+        "nom": "SAID MATRAFI CHIBACO",
+        "slug": "said-matrafi-chibaco",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "QUA 100 VILLAS, Tsingoni 97680, Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12683566021904008381",
+        "nom": "Menuiserie Mela bois Mayotte",
+        "slug": "menuiserie-mela-bois-mayotte",
+        "telephone": "+262 269 60 93 51",
+        "site_web": "http://melabois.fr/",
+        "adresse": "N2 Route National de Sada, Tsoundzou, 2 Mamoudzou, 97600, Mayotte",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7086508273877608462",
+        "nom": "KARAMA BOIS",
+        "slug": "karama-bois",
+        "telephone": "+262 639 69 41 35",
+        "site_web": null,
+        "adresse": "Rue de la Geole Kawéni, 97600, Mayotte",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12598298854257061154",
+        "nom": "Mci menuiserie bois agencement",
+        "slug": "mci-menuiserie-bois-agencement",
+        "telephone": "+262 692 27 41 85",
+        "site_web": null,
+        "adresse": "73G7+C2G Mci menuiserie bois agencement, CCD1, Canton d'Acoua 97630, Mayotte",
+        "note": 4,
+        "avis": 0,
+        "type": "Siège social"
+      },
+      {
+        "id": "17517667738004718871",
+        "nom": "BOITCHA Menuiserie Bois",
+        "slug": "boitcha-menuiserie-bois",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "BANDRANI Sada, En haut du Terrain de Basket, 25 Rue du Collège, Sada 97640, Mayotte",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15840072970782511636",
+        "nom": "MAKAZI SERVICES",
+        "slug": "makazi-services",
+        "telephone": "02 69 61 22 83",
+        "site_web": null,
+        "adresse": "PPF, QUARTIER, Bandraboua 97650, Mayotte",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6183606363401515456",
+        "nom": "Dodji bois menuiserie",
+        "slug": "dodji-bois-menuiserie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Unnamed Road, 48 Rue Maouli, Bouéni 97620, Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant"
+      },
+      {
+        "id": "13281384404833183230",
+        "nom": "May Agencement Design",
+        "slug": "may-agencement-design",
+        "telephone": "+262 639 06 45 69",
+        "site_web": null,
+        "adresse": "785 Boulevard Mzé Mihami, Chirongui 97620, Mayotte",
+        "note": 1.5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "dzaoudzi": {
+    "artisans": [
+      {
+        "id": "16305789025446408201",
+        "nom": "Atelier menuiserie",
+        "slug": "atelier-menuiserie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Boulevard des Tortues 97620, Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant"
+      },
+      {
+        "id": "9339164975436309427",
+        "nom": "Sofaal Mayotte",
+        "slug": "sofaal-mayotte",
+        "telephone": "02 69 66 65 90",
+        "site_web": null,
+        "adresse": "de Kawéni, Zone Industrielle de Kawéni, 97600 Av. de l'Europe, Mamoudzou 97600, Mayotte",
+        "note": 3.3,
+        "avis": 10,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10432492085385274330",
+        "nom": "STYL ALU",
+        "slug": "styl-alu",
+        "telephone": "+262 639 09 07 11",
+        "site_web": null,
+        "adresse": "RN1, Kaweni, 97600, Mayotte",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12184249979657452812",
+        "nom": "Mayana aluminium",
+        "slug": "mayana-aluminium",
+        "telephone": "+262 639 27 11 74",
+        "site_web": null,
+        "adresse": "380, Rue de l'Hôtel de Ville, Bandraboua 97650, Mayotte",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4587657933614557789",
+        "nom": "EWALU MAYOTTE",
+        "slug": "ewalu-mayotte",
+        "telephone": "+262 639 67 25 62",
+        "site_web": "https://www.facebook.com/ewalumayotte",
+        "adresse": "540 Avenue Said Vitta, Chirongui 97620, Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11992144110775682895",
+        "nom": "A-Z Menuserie",
+        "slug": "a-z-menuserie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "9 RUE TADJIDINE CHANFI, Sada 97640, Mayotte",
+        "note": 1,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14386019587350541790",
+        "nom": "menuserie de hapandzo",
+        "slug": "menuserie-de-hapandzo",
+        "telephone": "+262 767 19 89 17",
+        "site_web": null,
+        "adresse": "1710 Av. Georges Nahouda, Ouangani 97670, Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11791796354181329317",
+        "nom": "AHMED ALI",
+        "slug": "ahmed-ali",
+        "telephone": "+262 639 05 69 13",
+        "site_web": null,
+        "adresse": "Mosquee De Vendredi, Tsimkoura Quartier, 97620, Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18208684522059710656",
+        "nom": "Atoumani BOITCHA",
+        "slug": "atoumani-boitcha",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "44X3+VXQ Atoumani BOITCHA, quartier Badrani, Sada 97640, Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13314094654518378059",
+        "nom": "AMC",
+        "slug": "amc",
+        "telephone": "+262 269 61 68 85",
+        "site_web": null,
+        "adresse": "RN1 Kawéni, 97600, Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": "Centre de formation"
+      }
+    ]
+  },
+  "koungou": {
+    "artisans": [
+      {
+        "id": "8707951549084166569",
+        "nom": "PLAC OI",
+        "slug": "plac-oi",
+        "telephone": "+262 269 67 37 71",
+        "site_web": null,
+        "adresse": "ZI VALLE 3 LONGONI, Koungou 97690, Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7818494384021994774",
+        "nom": "HMS Mayotte",
+        "slug": "hms-mayotte",
+        "telephone": "+262 269 60 01 58",
+        "site_web": "https://hmsmayotte.yt/",
+        "adresse": "ZAE Vallée 3, RN1, Koungou 97600, Mayotte",
+        "note": 1,
+        "avis": 2,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "kani-keli": {
+    "artisans": [
+      {
+        "id": "9698223759794791789",
+        "nom": "FAYNOUDALI",
+        "slug": "faynoudali",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/faynoudali",
+        "adresse": "6 Rue du Collège, Kani Kéli 97625, Mayotte",
+        "note": 3,
+        "avis": 1,
+        "type": "Quincaillerie"
+      },
+      {
+        "id": "281170497609938963",
+        "nom": "Kani-Kéli",
+        "slug": "kani-keli",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "4185154052330972506",
+        "nom": "MAYOTTE RENOV",
+        "slug": "mayotte-renov",
+        "telephone": "+262 639 00 39 83",
+        "site_web": "https://www.facebook.com/mayotterenov",
+        "adresse": "CCD4, Kani Kéli 97625, Mayotte",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "5752378021975371588",
+        "nom": "La Citronnelle",
+        "slug": "la-citronnelle",
+        "telephone": "+262 639 65 93 61",
+        "site_web": null,
+        "adresse": "24Q2+P5H La Citronnelle, CCD4, Kani Kéli 97625, Mayotte",
+        "note": 4.2,
+        "avis": 178,
+        "type": "Restaurant"
+      }
+    ]
+  },
+  "chiconi": {
+    "artisans": [
+      {
+        "id": "16866729548377827905",
+        "nom": "Salama tsara",
+        "slug": "salama-tsara",
+        "telephone": "+262 269 62 30 10",
+        "site_web": "https://salamatsara.fr/",
+        "adresse": "21 avenue du collège carrefour, Chiconi 97670, Mayotte",
+        "note": 5,
+        "avis": 1,
+        "type": "Quincaillerie"
+      },
+      {
+        "id": "11692092985028235370",
+        "nom": "Métal concept multi-services",
+        "slug": "metal-concept-multi-services",
+        "telephone": "+262 269 63 14 93",
+        "site_web": null,
+        "adresse": "5 Impasse Agnabourano, Chiconi 97670, Mayotte",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "14843458834929035373",
+        "nom": "Chiconi",
+        "slug": "chiconi",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "dembeni": {
+    "artisans": [
+      {
+        "id": "90445219958913281",
+        "nom": "AB SERVICES bois",
+        "slug": "ab-services-bois",
+        "telephone": "+262 639 05 08 62",
+        "site_web": null,
+        "adresse": "283 B BD MZE MANDELA Tsararano, Dembéni 97660, Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2494339608564526346",
+        "nom": "Mouirinnov",
+        "slug": "mouirinnov",
+        "telephone": "06 68 52 48 16",
+        "site_web": null,
+        "adresse": "6 rue Chales de Gaulle tsararano, Démbeni 97660, Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13490033833419193722",
+        "nom": "Hareram majhi",
+        "slug": "hareram-majhi",
+        "telephone": null,
+        "site_web": "https://m.facebook.com/business/help/325793898950394",
+        "adresse": "31 Rue de la Bibliothèque, Ouangani 97670, Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "m-tsangamouji": {
+    "artisans": [
+      {
+        "id": "1709528897046599464",
+        "nom": "M'Tsangamouji",
+        "slug": "mtsangamouji",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "97650, Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "4494463821595028191",
+        "nom": "M'Tsangamouji",
+        "slug": "mtsangamouji",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "ouangani": {
+    "artisans": [
+      {
+        "id": "233009456854068226",
+        "nom": "Ouangani",
+        "slug": "ouangani",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ouangani 97670, Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "pamandzi": {
+    "artisans": [
+      {
+        "id": "17766360904829266786",
+        "nom": "L'Élégance pour la Maison",
+        "slug": "lelegance-pour-la-maison",
+        "telephone": "+262 639 29 18 55",
+        "site_web": null,
+        "adresse": "53 Rue des Jardins, Pamandzi 97615, Mayotte",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin d'ameublement et de décoration"
+      }
+    ]
+  },
+  "acoua": {
+    "artisans": [
+      {
+        "id": "12598298854257061154",
+        "nom": "Mci menuiserie bois agencement",
+        "slug": "mci-menuiserie-bois-agencement",
+        "telephone": "+262 692 27 41 85",
+        "site_web": null,
+        "adresse": "73G7+C2G Mci menuiserie bois agencement, CCD1, Canton d'Acoua 97630, Mayotte",
+        "note": 4,
+        "avis": 0,
+        "type": "Siège social"
+      }
+    ]
+  },
+  "mtsamboro": {
+    "artisans": [
+      {
+        "id": "17577291875762768024",
+        "nom": "LATELIER",
+        "slug": "latelier",
+        "telephone": "+262 639 06 69 39",
+        "site_web": "https://www.latelier.yt/",
+        "adresse": "93 route Jiva M'tsamboro, 97630, Mayotte",
+        "note": 4,
+        "avis": 0,
+        "type": "Assistance et services informatiques"
+      },
+      {
+        "id": "9481753876534295695",
+        "nom": "Mayotte Construction Développement",
+        "slug": "mayotte-construction-developpement",
+        "telephone": "+262 639 01 17 80",
+        "site_web": "https://www.welinkbuilders.fr/menuisier/platrier/decorateur/peintre/couvreur/97630-mtsamboro-mayotte/mayotte-construction-developpement-1150",
+        "adresse": "9 Che Mangazaina, Mtsamboro 97630, Mayotte",
+        "note": 3,
+        "avis": 2,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "boueni": {
+    "artisans": [
+      {
+        "id": "10505903802730302897",
+        "nom": "Hairati BOURA",
+        "slug": "hairati-boura",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "33RJ+266 Hairati BOURA, Rue École Maternelle, Bouéni 97620, Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14582858352477503504",
+        "nom": "SARL BEDANGUA",
+        "slug": "sarl-bedangua",
+        "telephone": "+262 269 61 56 96",
+        "site_web": null,
+        "adresse": "34M2+GRG SARL BEDANGUA, Bouéni 97620, Mayotte",
+        "note": 5,
+        "avis": 3,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "bandraboua": {
+    "artisans": [
+      {
+        "id": "15768258770085756466",
+        "nom": "Makazi Service",
+        "slug": "makazi-service",
+        "telephone": "+262 639 66 52 23",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8153781825717318654",
+        "nom": "Bandraboua",
+        "slug": "bandraboua",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "bandrele": {
+    "artisans": [
+      {
+        "id": "9263213759955601730",
+        "nom": "Musicale Plage",
+        "slug": "musicale-plage",
+        "telephone": "+262 269 51 15 50",
+        "site_web": null,
+        "adresse": "Bandrélé 97660, Mayotte",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Pavillon de plage"
+      },
+      {
+        "id": "10863219055010013824",
+        "nom": "Le Zam Zam",
+        "slug": "le-zam-zam",
+        "telephone": "+262 269 62 23 30",
+        "site_web": null,
+        "adresse": "35QR+PXF Le Zam Zam, Bandrélé 97660, Mayotte",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Restaurant"
+      },
+      {
+        "id": "4813992574174965697",
+        "nom": "L'arc En Ciel Snack",
+        "slug": "larc-en-ciel-snack",
+        "telephone": "+262 639 28 38 83",
+        "site_web": null,
+        "adresse": "433 Bd Moida Said, Bandrélé 97660, Mayotte",
+        "note": 4.3,
+        "avis": 69,
+        "type": "Restaurant"
+      },
+      {
+        "id": "1538915817381449461",
+        "nom": "Bandrele,Mayotte",
+        "slug": "bandrelemayotte",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Collège de bandrele, 100 Rue Fleur d'Ylang, Bandrélé 97660, Mayotte",
+        "note": 3,
+        "avis": 1,
+        "type": "Restaurant"
+      }
+    ]
+  }
+}

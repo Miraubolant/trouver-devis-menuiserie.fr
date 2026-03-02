@@ -1,0 +1,1909 @@
+{
+  "aubiet": {
+    "artisans": [
+      {
+        "id": "11167500619852592942",
+        "nom": "BOUSQUET MENUISERIE",
+        "slug": "bousquet-menuiserie",
+        "telephone": "07 86 39 44 83",
+        "site_web": "https://www.bousquetmenuiserie.fr/",
+        "adresse": "642 route de castet-arrouy, 32340 Miradoux",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15985577248063456505",
+        "nom": "Le petit atelier",
+        "slug": "le-petit-atelier",
+        "telephone": "07 67 97 11 01",
+        "site_web": "https://lepetitatelier32.wixsite.com/atelier",
+        "adresse": "Chem. du Stade, 32270 Aubiet",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3715025132680420716",
+        "nom": "Atelier Bois Gers (Sarlu)",
+        "slug": "atelier-bois-gers-sarlu",
+        "telephone": "06 30 44 29 18",
+        "site_web": null,
+        "adresse": "Au Village, 32390 Réjaumont",
+        "note": 4,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12885760915404177905",
+        "nom": "Menuiserie TEANI",
+        "slug": "menuiserie-teani",
+        "telephone": "05 62 67 72 33",
+        "site_web": "http://www.menuiserie-teani.com/",
+        "adresse": "2569 D634, 32600 Endoufielle",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2830544270354088717",
+        "nom": "Menuiserie Bignebat",
+        "slug": "menuiserie-bignebat",
+        "telephone": "06 16 50 50 54",
+        "site_web": "https://www.menuiseriebignebat.fr/",
+        "adresse": "Lieu-dit Marquisat, 32600 Monbrun",
+        "note": 5,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4442368464960221050",
+        "nom": "Sud Ouest Habitat - Art et Fenêtres",
+        "slug": "sud-ouest-habitat-art-et-fenetres",
+        "telephone": "05 62 62 06 20",
+        "site_web": "https://sud-ouest-habitat.artetfenetres.com/",
+        "adresse": "59 Av. de l'Yser, 32000 Auch",
+        "note": 4.9,
+        "avis": 78,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4821842432258946",
+        "nom": "Sarl d'exploitation Des Ets Vancoillie",
+        "slug": "sarl-dexploitation-des-ets-vancoillie",
+        "telephone": "05 62 65 93 48",
+        "site_web": null,
+        "adresse": "12 Rue des Mimosas, 32270 Aubiet",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "9399795942511304422",
+        "nom": "Menuiserie Mitchenko",
+        "slug": "menuiserie-mitchenko",
+        "telephone": "06 05 78 34 83",
+        "site_web": "https://menuiserie-m.com/",
+        "adresse": "1155 Rte de l'Isle Arné, 32200 Saint-Caprais",
+        "note": 5,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8199731760441528354",
+        "nom": "Cunha et Castera. Menuiserie pour l'habitat. Menuisier fabricant installateur Agréé aluminier Technal",
+        "slug": "cunha-et-castera-menuiserie-pour-lhabitat-menuisier-fabricant-installateur-agree-aluminier-technal",
+        "telephone": "05 62 61 83 39",
+        "site_web": "https://www.cunha-castera.com/",
+        "adresse": "3 Rue Henri Matisse, 32000 Auch",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16436516240119523765",
+        "nom": "RBois",
+        "slug": "rbois",
+        "telephone": "06 30 31 66 63",
+        "site_web": "https://www.rbois.fr/",
+        "adresse": "Zone Artisanale la Pouche, 297 Rue du Lombezis, 32220 Lombez",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "barcelonne-du-gers": {
+    "artisans": [
+      {
+        "id": "9482834676352760671",
+        "nom": "Peyranne Bernard",
+        "slug": "peyranne-bernard",
+        "telephone": "05 62 08 41 58",
+        "site_web": null,
+        "adresse": "9 Rue de l'Hôpital, 32720 Barcelonne-du-Gers",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "vic-fezensac": {
+    "artisans": [
+      {
+        "id": "12493613260853411916",
+        "nom": "renov menuiseries",
+        "slug": "renov-menuiseries",
+        "telephone": "06 07 45 62 44",
+        "site_web": null,
+        "adresse": "32360 Rte de Jegun, 32190 Vic-Fezensac",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "10827465219661212261",
+        "nom": "Or'Vent menuiserie",
+        "slug": "orvent-menuiserie",
+        "telephone": "05 62 07 83 86",
+        "site_web": null,
+        "adresse": "Route d'Auch, 32190 Vic-Fezensac",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "castera-verduzan": {
+    "artisans": [
+      {
+        "id": "3308835796944155658",
+        "nom": "Menuisier Bart.V",
+        "slug": "menuisier-bartv",
+        "telephone": "06 17 47 25 97",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15796730242681777191",
+        "nom": "menuiserie PITON Stéphane",
+        "slug": "menuiserie-piton-stephane",
+        "telephone": "05 81 23 48 97",
+        "site_web": null,
+        "adresse": "zone industrielle du lauron, 32800 Eauze",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6758542375305082454",
+        "nom": "Christophe VIUDES Menuiserie - Agencement",
+        "slug": "christophe-viudes-menuiserie-agencement",
+        "telephone": "06 67 05 21 29",
+        "site_web": "http://www.christopheviudes.com/",
+        "adresse": "Quartier Au Tucos, 32160 Tasque",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12618463588694384344",
+        "nom": "Kevin Guerenne",
+        "slug": "kevin-guerenne",
+        "telephone": "07 65 82 26 96",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10565721969092263951",
+        "nom": "L'Expert Fenêtre Astarac Pose Menuiserie",
+        "slug": "lexpert-fenetre-astarac-pose-menuiserie",
+        "telephone": "05 62 63 64 31",
+        "site_web": "https://www.astaracposemenuiserie-gers.com/",
+        "adresse": "1224a Rte d'Auch, 32300 Mirande",
+        "note": 4.3,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14594132361805042382",
+        "nom": "Fortin Menuiserie",
+        "slug": "fortin-menuiserie",
+        "telephone": "06 78 87 65 40",
+        "site_web": null,
+        "adresse": "N21, 32390 Sainte-Christie",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2337228598787630406",
+        "nom": "AM Menuiserie",
+        "slug": "am-menuiserie",
+        "telephone": "05 62 28 60 81",
+        "site_web": null,
+        "adresse": "186 Route De Poupas, 32340 Miradoux",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15470653334196935404",
+        "nom": "As Menuiseries - Sabbadin Alexandre",
+        "slug": "as-menuiseries-sabbadin-alexandre",
+        "telephone": "06 74 89 69 10",
+        "site_web": null,
+        "adresse": "112 Chem. de Hourtines, 32500 Céran",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13591349873884915163",
+        "nom": "Euseda",
+        "slug": "euseda",
+        "telephone": "05 62 29 45 70",
+        "site_web": "http://euseda.com/",
+        "adresse": "32 Rue des Oliviers, 32700 Saint-Mézard",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6522683430244797800",
+        "nom": "Petiton",
+        "slug": "petiton",
+        "telephone": "05 62 67 56 38",
+        "site_web": "http://www.menuiseriedupetiton-saintmaur.fr/",
+        "adresse": "32300 Saint-Maur",
+        "note": 3.4,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "auch": {
+    "artisans": [
+      {
+        "id": "7084423231467722700",
+        "nom": "GAUTHIER Diffusion - MENUISERIES & STORES- La Boutique du Menuisier",
+        "slug": "gauthier-diffusion-menuiseries-stores-la-boutique-du-menuisier",
+        "telephone": "05 62 05 42 08",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/gauthier-diffusion",
+        "adresse": "52 Av. des Pyrénées, 32000 Auch",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3506215933443104914",
+        "nom": "Dazéas SA",
+        "slug": "dazeas-sa",
+        "telephone": "05 62 63 04 88",
+        "site_web": "http://www.dazeas.fr/",
+        "adresse": "ZI d'Engachies, 37 Rte de Toulouse, 32000 Auch",
+        "note": 4,
+        "avis": 8,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13685452377406639099",
+        "nom": "Mea Menuiseries",
+        "slug": "mea-menuiseries",
+        "telephone": "05 62 65 53 48",
+        "site_web": "http://www.menuiseries-mea.com/",
+        "adresse": "21 Rue Roger Salengro, 32000 Auch",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5177602260790570141",
+        "nom": "Antonello",
+        "slug": "antonello",
+        "telephone": "05 62 63 28 75",
+        "site_web": "http://antonellomenuiserie.fr/",
+        "adresse": "4 Rue Marcel Luquet, 32000 Auch",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15583424782083648152",
+        "nom": "Menuiseries et fenêtres Auch",
+        "slug": "menuiseries-et-fenetres-auch",
+        "telephone": "05 62 63 08 60",
+        "site_web": "http://www.sudouesthabitat.fr/",
+        "adresse": "59 Av. de l'Yser, 32000 Auch",
+        "note": 5,
+        "avis": 2,
+        "type": "Vitrier"
+      },
+      {
+        "id": "5249178148356949719",
+        "nom": "B Et Fenêtres",
+        "slug": "b-et-fenetres",
+        "telephone": "05 62 60 22 97",
+        "site_web": "http://www.b-fenetres.fr/",
+        "adresse": "96 Av. 1ère Armée Française, 32000 Auch",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10720124156986824406",
+        "nom": "CASÉO Auch",
+        "slug": "caseo-auch",
+        "telephone": "05 62 05 50 25",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-auch-auch-22",
+        "adresse": "11 Rue Federico Garcia Lorca, 32000 Auch",
+        "note": 4.2,
+        "avis": 83,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16267111279811310145",
+        "nom": "Chris Menuisier Poseur",
+        "slug": "chris-menuisier-poseur",
+        "telephone": "06 87 51 83 75",
+        "site_web": null,
+        "adresse": "8 Rue Yves Montand, 32000 Auch",
+        "note": 1,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "cazaubon": {
+    "artisans": [
+      {
+        "id": "16847659948920690978",
+        "nom": "aucun",
+        "slug": "aucun",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "zone industrielle lamarraque boulevard avenir, 40310 Gabarret",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12747492240767027708",
+        "nom": "SARL DUGAS - LESTERLOU Menuiseries et agencements",
+        "slug": "sarl-dugas-lesterlou-menuiseries-et-agencements",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "51 Rte de L'Uby, 40240 Lagrange",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1314073513197410458",
+        "nom": "Etablissements Cazaubon",
+        "slug": "etablissements-cazaubon",
+        "telephone": "05 56 63 54 20",
+        "site_web": "https://www.cazaubon-menuiserie.fr/",
+        "adresse": "31 Av. du Huit Mai 1945, 33210 Toulenne",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14462111543638814537",
+        "nom": "XP BOIS CAZAUBON",
+        "slug": "xp-bois-cazaubon",
+        "telephone": "06 89 67 50 49",
+        "site_web": null,
+        "adresse": "778 Av. de l'Uby, 32150 Cazaubon",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Scierie"
+      },
+      {
+        "id": "9549295996247765389",
+        "nom": "LA BAIE LANDAISE",
+        "slug": "la-baie-landaise",
+        "telephone": null,
+        "site_web": "https://labaielandaise.fr/",
+        "adresse": "210 route de poujoulieu, 40310 Escalans",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9994308885881835260",
+        "nom": "LG BATI s.a.s",
+        "slug": "lg-bati-sas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "20 Rte de Cazaubon, 32240 Estang",
+        "note": 5,
+        "avis": 4,
+        "type": "Artisanat"
+      },
+      {
+        "id": "15112897351745975212",
+        "nom": "Dupeyron Michel",
+        "slug": "dupeyron-michel",
+        "telephone": "05 62 08 91 34",
+        "site_web": null,
+        "adresse": "Route d'Aire, Bd des Pyrénées, 32460 Le Houga",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "marciac": {
+    "artisans": [
+      {
+        "id": "5083451580776873664",
+        "nom": "Gedimat Pomes Darré marciac",
+        "slug": "gedimat-pomes-darre-marciac",
+        "telephone": "05 62 09 64 14",
+        "site_web": "http://www.gedimat.fr/index.php?magDest=2356",
+        "adresse": "Rte de Mirande, 32230 Marciac",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Magasin"
+      },
+      {
+        "id": "6042137381255095161",
+        "nom": "I'D'AL Décor",
+        "slug": "idal-decor",
+        "telephone": "09 63 67 19 11",
+        "site_web": null,
+        "adresse": "23 Rue Joseph Abeilhe, 32230 Marciac",
+        "note": 5,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "8827438400657265057",
+        "nom": "Langlois Jean-François",
+        "slug": "langlois-jean-francois",
+        "telephone": "05 62 03 74 48",
+        "site_web": null,
+        "adresse": "23 Rue Joseph Abeilhe, 32230 Marciac",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "castelnau-d-auzan-labarrere": {
+    "artisans": [
+      {
+        "id": "5575935234389890004",
+        "nom": "couture ameublement et décor druillet",
+        "slug": "couture-ameublement-et-decor-druillet",
+        "telephone": "06 76 67 63 01",
+        "site_web": "http://druil32.wixsite.com/coutureameublement",
+        "adresse": "127 Rte de peyronduguet, 32440 Castelnau d'Auzan Labarrère",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Atelier de couture"
+      },
+      {
+        "id": "12557595348331626143",
+        "nom": "menuiserie jean philippe cadeillan 47",
+        "slug": "menuiserie-jean-philippe-cadeillan-47",
+        "telephone": "06 45 83 18 88",
+        "site_web": "https://jeanphilippecadeil.wixsite.com/menuisiers-d",
+        "adresse": "12 Bd des Remparts, 47230 Vianne",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11468697338406011517",
+        "nom": "MENUISERIES BOUSSES",
+        "slug": "menuiseries-bousses",
+        "telephone": "09 75 40 37 29",
+        "site_web": null,
+        "adresse": "10 Pl. des Capucins, 32110 Nogaro",
+        "note": 4,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16140699276430834104",
+        "nom": "M.P.L",
+        "slug": "mpl",
+        "telephone": "07 63 91 77 38",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "eauze": {
+    "artisans": [
+      {
+        "id": "17421155075122753615",
+        "nom": "COTE MAISON cmc Boutique du Menuisier Eauze",
+        "slug": "cote-maison-cmc-boutique-du-menuisier-eauze",
+        "telephone": "05 62 08 25 97",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/cote-maison-cmc",
+        "adresse": "3 Av. de la Ténarèze, 32800 Eauze",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8894673258269589960",
+        "nom": "Jeld-Wen France",
+        "slug": "jeld-wen-france",
+        "telephone": "05 62 08 10 10",
+        "site_web": "http://www.jeld-wen.fr/",
+        "adresse": "35 Av. de la Ténarèze, 32800 Eauze",
+        "note": 3,
+        "avis": 0,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "15625166041064904936",
+        "nom": "Les Ateliers de l'Armagnac",
+        "slug": "les-ateliers-de-larmagnac",
+        "telephone": "05 62 09 82 20",
+        "site_web": "http://ateliersdelarmagnac.site-solocal.com/?utm_source=gmb",
+        "adresse": "Zone Industrielle lauron, 32800 Eauze",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "4443488824369595125",
+        "nom": "Armagnac Menuiserie",
+        "slug": "armagnac-menuiserie",
+        "telephone": "06 50 64 75 20",
+        "site_web": null,
+        "adresse": "ld Rampeau, 32800 Bretagne-d'Armagnac",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8807350366125384805",
+        "nom": "Menuiserie - L'Atelier du Mobilier",
+        "slug": "menuiserie-latelier-du-mobilier",
+        "telephone": "06 77 13 32 71",
+        "site_web": null,
+        "adresse": "1414 Rte de Parleboscq, 32800 Eauze",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1429002343302178814",
+        "nom": "B & Fenêtres",
+        "slug": "b-fenetres",
+        "telephone": "05 62 60 22 97",
+        "site_web": "https://www.b-fenetres.fr/",
+        "adresse": "30 Av. des Pyrénées, 32800 Eauze",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "fleurance": {
+    "artisans": [
+      {
+        "id": "4686783435899675831",
+        "nom": "AYRAUD NEGOCE BOIS - La Boutique du Menuisier",
+        "slug": "ayraud-negoce-bois-la-boutique-du-menuisier",
+        "telephone": "05 62 06 61 37",
+        "site_web": "https://www.facebook.com/ayraudnegocebois/",
+        "adresse": "44 Av. Charles de Gaulle, 32500 Fleurance",
+        "note": 0,
+        "avis": 0,
+        "type": "Négociant en bois"
+      },
+      {
+        "id": "4158096764905756329",
+        "nom": "BOURDERE & MEUNIER",
+        "slug": "bourdere-meunier",
+        "telephone": "05 62 06 09 30",
+        "site_web": null,
+        "adresse": "37 Rte de Céran, 32500 Fleurance",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "condom": {
+    "artisans": [
+      {
+        "id": "7825993471755416668",
+        "nom": "Le Menuisier",
+        "slug": "le-menuisier",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "32100 Condom",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "le-houga": {
+    "artisans": [
+      {
+        "id": "4252540303560016566",
+        "nom": "Mouchet Thierry",
+        "slug": "mouchet-thierry",
+        "telephone": "05 62 08 93 69",
+        "site_web": null,
+        "adresse": "5 Cité Pierre Sauvage, 32460 Le Houga",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "1746948577372464666",
+        "nom": "Eurl Martin Jérôme",
+        "slug": "eurl-martin-jerome",
+        "telephone": "06 43 65 46 14",
+        "site_web": null,
+        "adresse": "5958 route de toujun, 32460 Le Houga",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "2956499620988437940",
+        "nom": "Agencement De Marchi Loïc",
+        "slug": "agencement-de-marchi-loic",
+        "telephone": "06 21 23 95 29",
+        "site_web": "https://www.agencement-demarchi.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "gondrin": {
+    "artisans": [
+      {
+        "id": "2042131044543259731",
+        "nom": "Atelier Vincent Bois.",
+        "slug": "atelier-vincent-bois",
+        "telephone": "06 58 95 76 78",
+        "site_web": "http://ateliervincentbois.fr/",
+        "adresse": "Pradet, 32330 Gondrin",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "540092907269583806",
+        "nom": "Les Ateliers Lépiney",
+        "slug": "les-ateliers-lepiney",
+        "telephone": "05 62 29 14 23",
+        "site_web": "https://www.atelierslepiney.com/",
+        "adresse": "32330 Gondrin",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "l-isle-jourdain": {
+    "artisans": [
+      {
+        "id": "1494164298700636909",
+        "nom": "AFH Menuiserie SOLABAIE L'Isle-Jourdain",
+        "slug": "afh-menuiserie-solabaie-lisle-jourdain",
+        "telephone": "06 23 82 69 46",
+        "site_web": "http://afh-menuiserie.fr/",
+        "adresse": "29 Rte de Toulouse, 32600 L'Isle-Jourdain",
+        "note": 4.5,
+        "avis": 27,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11220311240429205687",
+        "nom": "CASÉO L'Isle Jourdain",
+        "slug": "caseo-lisle-jourdain",
+        "telephone": "05 62 07 30 36",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-l-isle-jourdain-l-isle-jourdain-54",
+        "adresse": "16 Rue Colette Besson, 32600 L'Isle-Jourdain",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16671042915128034756",
+        "nom": "Multiservices & Créations",
+        "slug": "multiservices-creations",
+        "telephone": "06 12 99 29 58",
+        "site_web": null,
+        "adresse": "Chemin de Montagne Cornac, 32600 L'Isle-Jourdain",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6264170513041376892",
+        "nom": "Douat Bois - Matériaux bois/panneaux - L'Isle jourdain, Gers",
+        "slug": "douat-bois-materiaux-boispanneaux-lisle-jourdain-gers",
+        "telephone": "05 62 07 00 45",
+        "site_web": "http://www.douatbois.com/",
+        "adresse": "9 Pl. Saint-Bertrand, 32600 L'Isle-Jourdain",
+        "note": 4.7,
+        "avis": 53,
+        "type": "Négociant en bois"
+      },
+      {
+        "id": "18278429378132015439",
+        "nom": "Fpv Renov-Oknoplast",
+        "slug": "fpv-renov-oknoplast",
+        "telephone": "09 78 80 22 70",
+        "site_web": "https://oknoplast.fr/boutiques/fpv-renov/",
+        "adresse": "2 Av. Charles Bacqué, 32600 L'Isle-Jourdain",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12030668633471072256",
+        "nom": "LPR renovation",
+        "slug": "lpr-renovation",
+        "telephone": "06 27 30 42 93",
+        "site_web": null,
+        "adresse": "47 Av. de Verdun, 32600 L'Isle-Jourdain",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5721098883460219339",
+        "nom": "ALTEA menuiseries",
+        "slug": "altea-menuiseries",
+        "telephone": "05 62 06 83 04",
+        "site_web": null,
+        "adresse": "2 Bd Carnot, 32600 L'Isle-Jourdain",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "267798070786022297",
+        "nom": "OuvertureS - Azurenov 32 - Fenêtres, portes, portails, menuiseries - L'Isle Jourdain, Gers",
+        "slug": "ouvertures-azurenov-32-fenetres-portes-portails-menuiseries-lisle-jourdain-gers",
+        "telephone": "05 62 66 39 01",
+        "site_web": "https://lisle-jourdain.ouvertures.com/?utm_campaign=GMB_lisle_jourdain&utm_medium=organic&utm_source=GMB",
+        "adresse": "15 A Bd Carnot, 32600 L'Isle-Jourdain",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9912110685625154929",
+        "nom": "Héron Christophe",
+        "slug": "heron-christophe",
+        "telephone": "06 08 98 68 58",
+        "site_web": null,
+        "adresse": "Le Marquisat, 32600 Monbrun",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13324013409465421679",
+        "nom": "ebl 32 menuiserie",
+        "slug": "ebl-32-menuiserie",
+        "telephone": "07 89 61 85 77",
+        "site_web": "https://www.ebl32.fr/",
+        "adresse": "68 Chem. d'en marchet, 32600 Endoufielle",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "jegun": {
+    "artisans": [
+      {
+        "id": "2823411509157449155",
+        "nom": "RH EBENISTERIE EURL",
+        "slug": "rh-ebenisterie-eurl",
+        "telephone": "05 62 64 53 40",
+        "site_web": "http://www.russellhewitt.com/",
+        "adresse": "15 Chem. de Roses, 32360 Jegun",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "6997059159461602906",
+        "nom": "VMOB",
+        "slug": "vmob",
+        "telephone": "06 31 62 19 85",
+        "site_web": null,
+        "adresse": "Lieu dit Peyret, 32360 Jegun",
+        "note": 1,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "8100270147762779738",
+        "nom": "RENOV MENUISERIES ( rmba )",
+        "slug": "renov-menuiseries-rmba",
+        "telephone": "06 07 45 62 44",
+        "site_web": "http://www.renov-menuiseries.fr/",
+        "adresse": "10 Rue de l'Acacia, 32360 Jegun",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "gimont": {
+    "artisans": [
+      {
+        "id": "3988678091228805652",
+        "nom": "Meubles Duez",
+        "slug": "meubles-duez",
+        "telephone": "05 62 63 99 01",
+        "site_web": "https://www.meublesduez.fr/",
+        "adresse": "6 bis ZA Lafourcade S, 32200 Gimont",
+        "note": 5,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "202816984453823144",
+        "nom": "GB Métallerie",
+        "slug": "gb-metallerie",
+        "telephone": "05 62 65 90 14",
+        "site_web": null,
+        "adresse": "ZA Lafourcade, 32200 Gimont",
+        "note": 2.4,
+        "avis": 5,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "13803275261639426890",
+        "nom": "Menuiserie FRATUS",
+        "slug": "menuiserie-fratus",
+        "telephone": "05 62 67 73 44",
+        "site_web": "http://www.menuiserie-fratus.com/",
+        "adresse": "27 ZA Lafourcade S, 32200 Gimont",
+        "note": 4,
+        "avis": 24,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15012933549677130261",
+        "nom": "Kirche Stéphane",
+        "slug": "kirche-stephane",
+        "telephone": "05 62 65 52 07",
+        "site_web": "http://www.facebook.com/M-Kirche-St%C3%A9phane-100261834918292/",
+        "adresse": "11 ZA Lafourcade S, 32200 Gimont",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1360303656469606987",
+        "nom": "EURL Kirche Stephane",
+        "slug": "eurl-kirche-stephane",
+        "telephone": "05 62 65 52 07",
+        "site_web": "http://www.kirche.fr/",
+        "adresse": "Z.A Lafourcade, 32200 Gimont",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "5189370569085677049",
+        "nom": "CELERMÈS - Travaux Rénovation",
+        "slug": "celermes-travaux-renovation",
+        "telephone": "07 59 65 53 25",
+        "site_web": "https://celermes.fr/",
+        "adresse": "2 Lot. le clos de Beauregard, 32200 Gimont",
+        "note": 5,
+        "avis": 4,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "6238833701468168709",
+        "nom": "MARESTAING & FILS",
+        "slug": "marestaing-fils",
+        "telephone": "05 62 67 87 95",
+        "site_web": "http://marestaingetfils.com/",
+        "adresse": "Rue de la Tuilerie, 32200 Gimont",
+        "note": 3.3,
+        "avis": 0,
+        "type": "Siège social"
+      },
+      {
+        "id": "10423848775497199357",
+        "nom": "J.R Agencements",
+        "slug": "jr-agencements",
+        "telephone": "06 62 34 78 59",
+        "site_web": "https://www.facebook.com/share/1C3ayTnVeW/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16797748834056843973",
+        "nom": "Boas Jean-Luc",
+        "slug": "boas-jean-luc",
+        "telephone": "05 62 67 77 04",
+        "site_web": "https://electricien-boas.fr/",
+        "adresse": "Za La Fourcade, 32200 Gimont",
+        "note": 4.6,
+        "avis": 8,
+        "type": "Électricien"
+      },
+      {
+        "id": "11495166172963735926",
+        "nom": "Sarl Zanchetta Et Fils",
+        "slug": "sarl-zanchetta-et-fils",
+        "telephone": "05 62 67 80 34",
+        "site_web": null,
+        "adresse": "Les Barraques, 32200 Sainte-Marie",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "lectoure": {
+    "artisans": [
+      {
+        "id": "10106358288718560066",
+        "nom": "M-Design VENET Maxime",
+        "slug": "m-design-venet-maxime",
+        "telephone": "06 47 78 72 03",
+        "site_web": "https://www.m-design-lectoure.com/",
+        "adresse": "31 Rue Alsace Lorraine, 32700 Lectoure",
+        "note": 5,
+        "avis": 0,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "1552633592541884623",
+        "nom": "ORALU",
+        "slug": "oralu",
+        "telephone": "09 83 53 32 10",
+        "site_web": "https://www.oralu.net/",
+        "adresse": "11 All. des Entrepreneurs Lieu-dit, 32700 Lectoure",
+        "note": 4.7,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "955077477212673942",
+        "nom": "Menuiserie Magri",
+        "slug": "menuiserie-magri",
+        "telephone": "05 62 68 88 76",
+        "site_web": "https://www.menuiserie-magri.fr/",
+        "adresse": "423 ZI Route, 32700 Lectoure",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16431453754143226579",
+        "nom": "RENOV’TOUT MENUISERIE",
+        "slug": "renovtout-menuiserie",
+        "telephone": "06 78 62 70 37",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "plaisance": {
+    "artisans": [
+      {
+        "id": "10524385876335134706",
+        "nom": "Menuiserie",
+        "slug": "menuiserie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "13 Rue de l'Adour, 32160 Plaisance",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17305899721874909357",
+        "nom": "Bonabri SAS",
+        "slug": "bonabri-sas",
+        "telephone": "05 62 69 27 34",
+        "site_web": "http://www.bonabri.com/",
+        "adresse": "4 Chem. de la Ribère, 32160 Plaisance",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Bois"
+      },
+      {
+        "id": "12378971256298085735",
+        "nom": "J2M Ouvertures",
+        "slug": "j2m-ouvertures",
+        "telephone": "05 62 03 14 19",
+        "site_web": "https://www.j2m-ouvertures.fr/",
+        "adresse": "102 Rue de l'Adour, 32160 Plaisance",
+        "note": 4.9,
+        "avis": 44,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "4074222378592609974",
+        "nom": "BONABRI 32",
+        "slug": "bonabri-32",
+        "telephone": "05 62 69 58 61",
+        "site_web": "https://winob.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "lombez": {
+    "artisans": [
+      {
+        "id": "3495285168508741927",
+        "nom": "TREPPENMEISTER LOMBEZ",
+        "slug": "treppenmeister-lombez",
+        "telephone": "06 30 31 66 63",
+        "site_web": "https://www.treppenmeister.com/fr/escaliers-rbois-gers-32/",
+        "adresse": "297 Rue du Lombezis, 32220 Lombez",
+        "note": 0,
+        "avis": 0,
+        "type": "Société de fabrication d'escaliers"
+      },
+      {
+        "id": "9248269959644984811",
+        "nom": "depanvolets",
+        "slug": "depanvolets",
+        "telephone": "06 64 77 39 32",
+        "site_web": "http://www.depanvolets.fr/",
+        "adresse": "36 bis Av. du Maquis de Meilhan, 32220 Lombez",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "14974063321983572908",
+        "nom": "Vella Creation Bois",
+        "slug": "vella-creation-bois",
+        "telephone": "06 98 22 91 73",
+        "site_web": "http://www.facebook.com/vella.creation.bois/?ref=page_internal&utm_source=gmb",
+        "adresse": "181 Chem. de la Hillaire, 32130 Samatan",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7226809295596907876",
+        "nom": "FERMETURES FONTAN",
+        "slug": "fermetures-fontan",
+        "telephone": "05 62 59 63 54",
+        "site_web": "http://www.fermeturesfontan.fr/",
+        "adresse": "1 Rue du Coin du Sac, 32130 Samatan",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "2930024987203488802",
+        "nom": "MENUISERIE R-CONCEPT",
+        "slug": "menuiserie-r-concept",
+        "telephone": "06 24 70 86 16",
+        "site_web": "https://www.menuiserie-r-concept.fr/",
+        "adresse": "La Houme, 628 D634, 32130 Samatan",
+        "note": 5,
+        "avis": 0,
+        "type": "Prestataire de réaménagement de cuisine"
+      }
+    ]
+  },
+  "mauvezin": {
+    "artisans": [
+      {
+        "id": "8081903894816063340",
+        "nom": "MDB",
+        "slug": "mdb",
+        "telephone": "05 62 06 82 72",
+        "site_web": "http://menuiserie-mauvezin.fr/",
+        "adresse": "La Hune, 32120 Mauvezin",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5221211208114477897",
+        "nom": "Diana Thierry",
+        "slug": "diana-thierry",
+        "telephone": "06 31 62 99 17",
+        "site_web": "https://www.dianathierry-menuisier32.com/?utm_source=gmb",
+        "adresse": "Zone Artisanale Économique, Rte de Gimont, 32120 Mauvezin",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3018588051180841778",
+        "nom": "Meubles Cassajus SARL",
+        "slug": "meubles-cassajus-sarl",
+        "telephone": "05 62 06 83 76",
+        "site_web": "http://cassajus.com/",
+        "adresse": "Rte de Gimont, 32120 Mauvezin",
+        "note": 4.3,
+        "avis": 12,
+        "type": "Fabricant de meubles"
+      }
+    ]
+  },
+  "masseube": {
+    "artisans": [
+      {
+        "id": "13691558477566411359",
+        "nom": "Menuiserie Atelier Bois le Vosselet, Gers, Occitanie",
+        "slug": "menuiserie-atelier-bois-le-vosselet-gers-occitanie",
+        "telephone": "06 15 70 03 26",
+        "site_web": null,
+        "adresse": "7 rue de l'artisanat, 32140 Masseube",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "nogaro": {
+    "artisans": [
+      {
+        "id": "14210909697069856306",
+        "nom": "DAUGA Ets - Ets DAUGA",
+        "slug": "dauga-ets-ets-dauga",
+        "telephone": "05 62 09 03 73",
+        "site_web": "https://www.etsdauga.fr/",
+        "adresse": "14 Av. des Sports, 32110 Nogaro",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Fournisseur de fenêtres en PVC"
+      }
+    ]
+  },
+  "mielan": {
+    "artisans": [
+      {
+        "id": "13470003251211054534",
+        "nom": "Menuiserie LAHAYE",
+        "slug": "menuiserie-lahaye",
+        "telephone": "06 48 53 53 42",
+        "site_web": "https://www.facebook.com/profile.php?id=61559578056791",
+        "adresse": "26 Av. du Onze Novembre, 32170 Miélan",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18163394438189198000",
+        "nom": "Sud Ouest Habitat Art et Fenêtres",
+        "slug": "sud-ouest-habitat-art-et-fenetres",
+        "telephone": "05 62 62 06 20",
+        "site_web": "http://www.sudouesthabitat.fr/",
+        "adresse": "Route d'Auch, 32170 Miélan",
+        "note": 4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4145528794750033726",
+        "nom": "Esaie rénov",
+        "slug": "esaie-renov",
+        "telephone": "06 16 58 38 92",
+        "site_web": "http://www.esaierenov32.fr/",
+        "adresse": "3 Rue Bastanous, 32170 Miélan",
+        "note": 5,
+        "avis": 2,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "8883556458208941102",
+        "nom": "E.P.B. Entre Portes et Baies Batiman",
+        "slug": "epb-entre-portes-et-baies-batiman",
+        "telephone": "05 62 66 65 56",
+        "site_web": "http://epb-mirande.fr/?utm_source=gmb",
+        "adresse": "Auch FR, 6 Zone Industrielle du Pountet, 32300 Mirande",
+        "note": 4.7,
+        "avis": 48,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10313598619842833191",
+        "nom": "Fernandes Philippe",
+        "slug": "fernandes-philippe",
+        "telephone": "05 62 67 52 09",
+        "site_web": null,
+        "adresse": "32170 Laas",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "15452934406081956831",
+        "nom": "Entreprise Victor Dos Santos",
+        "slug": "entreprise-victor-dos-santos",
+        "telephone": "05 62 67 38 03",
+        "site_web": null,
+        "adresse": "15 Rue Saint-Jean, 32170 Miélan",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "17674309033487958753",
+        "nom": "OnRénov",
+        "slug": "onrenov",
+        "telephone": "06 02 80 39 99",
+        "site_web": "https://www.onrenov.net/",
+        "adresse": "3 Rue du Cubet, 32170 Miélan",
+        "note": 4.9,
+        "avis": 19,
+        "type": "Maçon"
+      },
+      {
+        "id": "2460850886489972587",
+        "nom": "EURL BEGARIE",
+        "slug": "eurl-begarie",
+        "telephone": "05 62 67 64 78",
+        "site_web": "http://www.begarie.fr/",
+        "adresse": "49 Rue Saint-Jean, 32170 Miélan",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7912064556574128122",
+        "nom": "SARREMÉJEAN - Matériaux et Bricolage",
+        "slug": "sarremejean-materiaux-et-bricolage",
+        "telephone": "05 62 67 61 26",
+        "site_web": "https://sarremejean.fr/",
+        "adresse": "Route de Mirande, 32170 Miélan",
+        "note": 4.6,
+        "avis": 28,
+        "type": "Magasin de carrelage"
+      },
+      {
+        "id": "9089048975594633094",
+        "nom": "MIELAN Bois et Métal (MBM)",
+        "slug": "mielan-bois-et-metal-mbm",
+        "telephone": "06 27 94 67 90",
+        "site_web": "https://www.mbm-artisan.fr/",
+        "adresse": "7 Chem. des Rondes, 32700 Pergain-Taillac",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "mirande": {
+    "artisans": [
+      {
+        "id": "8707119490262758877",
+        "nom": "GAUTHIER Diffusion - MENUISERIES CUISINE - La Boutique du Menuisier",
+        "slug": "gauthier-diffusion-menuiseries-cuisine-la-boutique-du-menuisier",
+        "telephone": "05 62 66 72 55",
+        "site_web": null,
+        "adresse": "7 Av. d'Etigny, 32300 Mirande",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "7053922166896706530",
+        "nom": "Batty Menuiserie",
+        "slug": "batty-menuiserie",
+        "telephone": "05 62 61 98 57",
+        "site_web": null,
+        "adresse": "Route Auch , Zone des Angelats, 32300 Mirande",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6506110658107827141",
+        "nom": "Menuiserie Bois-Alu-Pvc",
+        "slug": "menuiserie-bois-alu-pvc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "32300 Mirande",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "13672660513567882737",
+        "nom": "JPMI - Terres de Fenêtre",
+        "slug": "jpmi-terres-de-fenetre",
+        "telephone": "05 62 66 83 90",
+        "site_web": "https://www.jpmi32.fr/?utm_source=gmb",
+        "adresse": "2854 Chem. du Traouès, 32300 Estipouy",
+        "note": 5,
+        "avis": 0,
+        "type": "Plâtrier.ère"
+      }
+    ]
+  },
+  "montreal": {
+    "artisans": [
+      {
+        "id": "18357997757179372961",
+        "nom": "Carrere Alain Jean",
+        "slug": "carrere-alain-jean",
+        "telephone": "05 62 28 02 45",
+        "site_web": null,
+        "adresse": "A Tollet, 32100 Larressingle",
+        "note": 5,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "12145324693907310632",
+        "nom": "Monsieur A",
+        "slug": "monsieur-a",
+        "telephone": "06 59 28 78 41",
+        "site_web": "https://www.monsieura.fr/",
+        "adresse": "610 Route de Gondrin, 32250 Montréal",
+        "note": 5,
+        "avis": 12,
+        "type": "Concepteur de sites Web"
+      },
+      {
+        "id": "6690247861368992574",
+        "nom": "Ceceille Menuiserie",
+        "slug": "ceceille-menuiserie",
+        "telephone": "05 62 68 28 12",
+        "site_web": "http://www.menuiserie-ceceille.fr/",
+        "adresse": "Zone industrielle de pôme, Route de Nérac, 32100 Condom",
+        "note": 4.3,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1662395849443609549",
+        "nom": "Castay Jean-Marc",
+        "slug": "castay-jean-marc",
+        "telephone": "05 62 29 40 42",
+        "site_web": "https://charpentes-castay32.fr/",
+        "adresse": "Le Pelot, 32250 Montréal",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "14197529057057677611",
+        "nom": "Menuiserie Bourgade | Menuiserie intérieure, extérieure et ébénisterie à Condom",
+        "slug": "menuiserie-bourgade-menuiserie-interieure-exterieure-et-ebenisterie-a-condom",
+        "telephone": "05 62 28 04 23",
+        "site_web": "http://www.menuiserie-bourgade-32.fr/",
+        "adresse": "5 Chem. de Calamet, 32100 Condom",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5102382281859980728",
+        "nom": "PASCOUAL CHRISTOPHE",
+        "slug": "pascoual-christophe",
+        "telephone": "06 08 94 75 30",
+        "site_web": "https://www.pascoual-menuisier32.fr/",
+        "adresse": "391 rue du Cousso de l'Esquillot, 32330 Lauraët",
+        "note": 5,
+        "avis": 1,
+        "type": "Prestataire de réaménagement de cuisine"
+      },
+      {
+        "id": "16110828925969435134",
+        "nom": "Komilfo CHB à Condom - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-chb-a-condom-pergolas-stores-fenetres-menuiseries",
+        "telephone": "05 62 28 33 67",
+        "site_web": "https://www.komilfo.fr/magasins/veralutec-auch-32?utm_source=gmb",
+        "adresse": "45 Av. des Mousquetaires, 32100 Condom",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5838629171521619159",
+        "nom": "Bernet Didier",
+        "slug": "bernet-didier",
+        "telephone": "05 62 28 29 44",
+        "site_web": null,
+        "adresse": "230 dunau, 32330 Mouchan",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "6800389891647258415",
+        "nom": "Sarl Barranger R.m",
+        "slug": "sarl-barranger-rm",
+        "telephone": "05 53 97 30 51",
+        "site_web": "http://www.menuiseriebarrangermezin.com/",
+        "adresse": "1 Rue de la Ténarèze, 47170 Mézin",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13969180678338537748",
+        "nom": "Atelier Grisot",
+        "slug": "atelier-grisot",
+        "telephone": "06 82 26 47 61",
+        "site_web": null,
+        "adresse": "7 Av. d'Aquitaine, 32100 Condom",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier d'art"
+      }
+    ]
+  },
+  "samatan": {
+    "artisans": [
+      {
+        "id": "10315482827494509686",
+        "nom": "Giraudo Père et Fils SARL",
+        "slug": "giraudo-pere-et-fils-sarl",
+        "telephone": "05 62 62 38 54",
+        "site_web": null,
+        "adresse": "249 Route de Samatan, 32130 Monblanc",
+        "note": 3.3,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2300810982236314091",
+        "nom": "Weldom Samatan",
+        "slug": "weldom-samatan",
+        "telephone": "05 62 62 31 71",
+        "site_web": "https://www.weldom.fr/m/weldom-samatan",
+        "adresse": "Allee Jean Cahuzac Centre Commercial Des, Pl. des Halles, 32130 Samatan",
+        "note": 4.3,
+        "avis": 529,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "5468315821988702367",
+        "nom": "Charpente Cazemage",
+        "slug": "charpente-cazemage",
+        "telephone": "06 38 85 50 81",
+        "site_web": "http://www.charpente-cazemage.fr/",
+        "adresse": "En Bijon, 32130 Polastron",
+        "note": 3.2,
+        "avis": 6,
+        "type": "Charpentier"
+      },
+      {
+        "id": "2934106041656444754",
+        "nom": "Latapie Charpente",
+        "slug": "latapie-charpente",
+        "telephone": "05 62 62 38 68",
+        "site_web": "http://www.charpente-latapie.fr/",
+        "adresse": "6 Rue Albert Deumié, 32130 Samatan",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "segoufielle": {
+    "artisans": [
+      {
+        "id": "17255814053239412968",
+        "nom": "CBS",
+        "slug": "cbs",
+        "telephone": "06 61 29 79 75",
+        "site_web": "http://www.cbs-charpente-31.com/",
+        "adresse": "629 Chem. du Pountet, 32600 Ségoufielle",
+        "note": 5,
+        "avis": 22,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "pujaudran": {
+    "artisans": [
+      {
+        "id": "15722718837886990251",
+        "nom": "SEUVA Studio",
+        "slug": "seuva-studio",
+        "telephone": "06 26 69 23 38",
+        "site_web": "https://www.seuvastudio.fr/",
+        "adresse": "2 Imp. de Gascogne, 31470 Fontenilles",
+        "note": 4.9,
+        "avis": 44,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17130164235187170926",
+        "nom": "VVF Véranda et Verrière de France (by Créalu Diffusion)",
+        "slug": "vvf-veranda-et-verriere-de-france-by-crealu-diffusion",
+        "telephone": "05 62 07 69 14",
+        "site_web": "https://verandaetverrieredefrance.fr/",
+        "adresse": "869 Av. de Gascogne, 32600 Pujaudran",
+        "note": 4.6,
+        "avis": 90,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "4739381216472927587",
+        "nom": "Johan PLUSKOTA Artisan menuisier",
+        "slug": "johan-pluskota-artisan-menuisier",
+        "telephone": "06 03 33 22 01",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13436864804097013009",
+        "nom": "Bois 32",
+        "slug": "bois-32",
+        "telephone": "06 85 21 80 24",
+        "site_web": "https://www.bois32.fr/",
+        "adresse": "1880 Rte de Fontenilles, 32600 Pujaudran",
+        "note": 3.1,
+        "avis": 25,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "13581708936109099732",
+        "nom": "ASTON sas",
+        "slug": "aston-sas",
+        "telephone": "05 42 54 29 22",
+        "site_web": "https://www.aston-sas.com/",
+        "adresse": "180 Av. du Roulage, 32600 Pujaudran",
+        "note": 4.2,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10658459647608541294",
+        "nom": "Windo",
+        "slug": "windo",
+        "telephone": "06 51 02 13 47",
+        "site_web": "https://www.windo-menuiserie.fr/",
+        "adresse": "13 Imp. de Gascogne, 31470 Fontenilles",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7442660898896059384",
+        "nom": "La place aux bois",
+        "slug": "la-place-aux-bois",
+        "telephone": "09 66 88 45 15",
+        "site_web": "http://www.laplaceauxbois.com/",
+        "adresse": "Zone artisanale du roulage, 570 Av. du Roulage, 32600 Pujaudran",
+        "note": 5,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "seissan": {
+    "artisans": [
+      {
+        "id": "10327466121281512377",
+        "nom": "OuvertureS - Seissan - Azurenov 32",
+        "slug": "ouvertures-seissan-azurenov-32",
+        "telephone": "05 62 66 39 01",
+        "site_web": "https://seissan.ouvertures.com/?utm_campaign=GMB_seissan&utm_medium=organic&utm_source=GMB",
+        "adresse": "Rte d'Auch, 32260 Seissan",
+        "note": 5,
+        "avis": 35,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "pavie": {
+    "artisans": [
+      {
+        "id": "10253217936544023499",
+        "nom": "SARL VIGGIANO & Fils",
+        "slug": "sarl-viggiano-fils",
+        "telephone": "05 62 05 69 18",
+        "site_web": "http://www.sarl-viggiano-fils.fr/",
+        "adresse": "2163 chemin de, 32550, Pavie",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12627353696460707522",
+        "nom": "LBM 32",
+        "slug": "lbm-32",
+        "telephone": "05 62 67 60 30",
+        "site_web": "http://lbm32.net/",
+        "adresse": "6 Chem. des Quatre Chênes, 32550 Lasseube-Propre",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "valence-sur-baise": {
+    "artisans": [
+      {
+        "id": "2158180896717459413",
+        "nom": "SAS PEBAYLE",
+        "slug": "sas-pebayle",
+        "telephone": "06 70 69 63 01",
+        "site_web": "https://www.saspebayle.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11676403374738522423",
+        "nom": "SERRURERIE DEBERDT - M&G FIEGEN",
+        "slug": "serrurerie-deberdt-mg-fiegen",
+        "telephone": "05 62 28 58 87",
+        "site_web": null,
+        "adresse": "10 BIS Rte d'Auch, 32310 Valence-sur-Baïse",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "4086216562254504038",
+        "nom": "SARL Pivotto et Fils",
+        "slug": "sarl-pivotto-et-fils",
+        "telephone": "06 32 66 04 66",
+        "site_web": "http://sarlpivottoetfils.fr/",
+        "adresse": "Zone Artisanale, Lot. Jamon, 32310 Valence-sur-Baïse",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "10174395125695231849",
+        "nom": "PHENNYX MENUISERIE",
+        "slug": "phennyx-menuiserie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chem. de la Chapelle, 32310 Maignaut-Tauzia",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "18064329137407277726",
+        "nom": "Mouton et Gueule de Loup",
+        "slug": "mouton-et-gueule-de-loup",
+        "telephone": "06 89 80 14 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4038757075434190858",
+        "nom": "Pignon Gascon",
+        "slug": "pignon-gascon",
+        "telephone": "05 62 29 58 39",
+        "site_web": "http://www.pignongascon.com/",
+        "adresse": "Au Régé, 655 Rte d'Auch, 32310 Valence-sur-Baïse",
+        "note": 3.9,
+        "avis": 19,
+        "type": "Service de restauration de bâtiments"
+      }
+    ]
+  },
+  "preignan": {
+    "artisans": [
+      {
+        "id": "4087927276279191790",
+        "nom": "Daniel Moquet signe vos allées - Ent. Rochdi - Lefevre",
+        "slug": "daniel-moquet-signe-vos-allees-ent-rochdi-lefevre",
+        "telephone": "05 62 62 31 09",
+        "site_web": "https://www.daniel-moquet.com/",
+        "adresse": "ZA de l'Armand, 32810 Preignan",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "9935041648900605217",
+        "nom": "EDDY RENOV",
+        "slug": "eddy-renov",
+        "telephone": "06 10 63 94 96",
+        "site_web": "https://couvreur-gers.fr/",
+        "adresse": "Zone artisanale de, Boulevard de Clairfont, 32810 Preignan",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4312271987449784443",
+        "nom": "Ets. Kirche Alu Pvc Stores",
+        "slug": "ets-kirche-alu-pvc-stores",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "N21, 32810 Preignan",
+        "note": 5,
+        "avis": 1,
+        "type": "Église"
+      },
+      {
+        "id": "15449710265504947943",
+        "nom": "Maçonnerie et Piscines Gersoises",
+        "slug": "maconnerie-et-piscines-gersoises",
+        "telephone": "05 62 64 33 51",
+        "site_web": null,
+        "adresse": "7B Av. de l'Europe, 32810 Preignan",
+        "note": 4,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "3019082788472645010",
+        "nom": "Piscines Béoustès",
+        "slug": "piscines-beoustes",
+        "telephone": "05 62 65 59 48",
+        "site_web": "https://www.piscines-gers.com/",
+        "adresse": "ZA de l'Armand, 32810 Preignan",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Société de construction de piscine"
+      },
+      {
+        "id": "457964712674983640",
+        "nom": "Gers Confort Alu veranda, Menuiserie, volets , stores, portail",
+        "slug": "gers-confort-alu-veranda-menuiserie-volets-stores-portail",
+        "telephone": "06 71 47 01 12",
+        "site_web": "http://veranda-gers-auch.blogspot.com/",
+        "adresse": "Zi de Clerfond, RN21, 32810 Preignan Gers Auch",
+        "note": 3,
+        "avis": 1,
+        "type": null
+      },
+      {
+        "id": "13320794205135562385",
+        "nom": "Nartet TP",
+        "slug": "nartet-tp",
+        "telephone": "05 62 65 58 13",
+        "site_web": "http://www.nartet-gers.fr/",
+        "adresse": "ZA L'Armand, 32810 Preignan",
+        "note": 5,
+        "avis": 0,
+        "type": "Société de travaux publics"
+      }
+    ]
+  },
+  "riscle": {
+    "artisans": [
+      {
+        "id": "105040858769969187",
+        "nom": "Sarl Bianchi 32",
+        "slug": "sarl-bianchi-32",
+        "telephone": "05 62 69 07 01",
+        "site_web": "https://www.bianchij.fr/",
+        "adresse": "Mirande, 32110 Saint-Martin-d'Armagnac",
+        "note": 3.6,
+        "avis": 5,
+        "type": "Charpentier"
+      },
+      {
+        "id": "15433166240708680854",
+        "nom": "Menuiseries Stores DEPANNAGES DOMESTIQUES",
+        "slug": "menuiseries-stores-depannages-domestiques",
+        "telephone": "06 84 25 28 62",
+        "site_web": null,
+        "adresse": "Bidalot, 32400 Sarragachies",
+        "note": 5,
+        "avis": 0,
+        "type": "Artisanat"
+      },
+      {
+        "id": "15557234436141610444",
+        "nom": "SARREMÉJEAN - Matériaux et Bricolage",
+        "slug": "sarremejean-materiaux-et-bricolage",
+        "telephone": "05 62 69 70 23",
+        "site_web": "https://www.facebook.com/Sarremejean/",
+        "adresse": "111 Rte de Tarsac, 32400 Riscle",
+        "note": 4.6,
+        "avis": 51,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "14764759694145414598",
+        "nom": "ENTREPRISE MENUISERIE DELORD ET FILS SARL",
+        "slug": "entreprise-menuiserie-delord-et-fils-sarl",
+        "telephone": "09 74 56 36 00",
+        "site_web": "http://www.menuiserie-delord-et-fils.fr/",
+        "adresse": "La Barade, 32400 Viella",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "506960182176285247",
+        "nom": "MZL création",
+        "slug": "mzl-creation",
+        "telephone": "06 85 47 52 82",
+        "site_web": null,
+        "adresse": "12 Rue du Ctre, 32400 Riscle",
+        "note": 5,
+        "avis": 0,
+        "type": "Mercerie"
+      },
+      {
+        "id": "11893647504105833675",
+        "nom": "Color Fenêtre Menuiserie Riscle",
+        "slug": "color-fenetre-menuiserie-riscle",
+        "telephone": "05 62 08 93 66",
+        "site_web": "https://colorfenetre.fr/",
+        "adresse": "71 Av. de l'Adour, 32400 Riscle",
+        "note": 3.8,
+        "avis": 8,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "15772401241442871615",
+        "nom": "Le Baron Chaudronnerie",
+        "slug": "le-baron-chaudronnerie",
+        "telephone": "05 62 03 23 50",
+        "site_web": "https://lebaronchaudronnerie.fr/",
+        "adresse": "10 Rue de la Menoue, 32400 Riscle",
+        "note": 5,
+        "avis": 2,
+        "type": "Producteur de ferronnerie industrielle"
+      }
+    ]
+  },
+  "saint-clar": {
+    "artisans": [
+      {
+        "id": "1345159356439899325",
+        "nom": "APM Thierry Goulard",
+        "slug": "apm-thierry-goulard",
+        "telephone": "05 62 70 98 93",
+        "site_web": null,
+        "adresse": "Route Fleurance, 32380 Saint-Clar",
+        "note": 4,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "15810215076140231548",
+        "nom": "MC ALU",
+        "slug": "mc-alu",
+        "telephone": "06 37 95 99 80",
+        "site_web": null,
+        "adresse": "3 zone artisanale Labarthète, 32380 Saint-Clar",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  }
+}

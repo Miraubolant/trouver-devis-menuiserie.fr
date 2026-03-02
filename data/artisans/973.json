@@ -1,0 +1,624 @@
+{
+  "remire-montjoly": {
+    "artisans": [
+      {
+        "id": "11037593257829852453",
+        "nom": "C.M.G Guyane",
+        "slug": "cmg-guyane",
+        "telephone": "+594 594 38 50 88",
+        "site_web": null,
+        "adresse": "31 rue des Amandiers, Remire-Montjoly 97354, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1839241584244919384",
+        "nom": "MENUISERIE GINO",
+        "slug": "menuiserie-gino",
+        "telephone": "+594 594 35 51 15",
+        "site_web": null,
+        "adresse": "PARCELLE 103, PAE DE Dégrad Des Cannes REMIRE MONTJOLY, 97354, Guyane française",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6798998231360354151",
+        "nom": "ACM",
+        "slug": "acm",
+        "telephone": "+594 594 37 61 91",
+        "site_web": "https://agencementconstructionmenuiserie.fr/",
+        "adresse": "lot 5 - PK, 16 Route de Dégrad des Cannes, Remire-Montjoly 97354, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2438377893992083739",
+        "nom": "Pro Aluminium Services",
+        "slug": "pro-aluminium-services",
+        "telephone": "+594 594 46 91 54",
+        "site_web": "http://pro-aluminium-services.fr/?utm_source=gmb",
+        "adresse": "3155 Rte d'Attila Cabassou, Remire-Montjoly 97354, Guyane française",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "macouria": {
+    "artisans": [
+      {
+        "id": "2982636212106059853",
+        "nom": "Mina Menuiserie",
+        "slug": "mina-menuiserie",
+        "telephone": "+594 694 25 81 50",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8508078067735573454",
+        "nom": "BSP Menuiserie",
+        "slug": "bsp-menuiserie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "CD5 route de montsinery, 97355 PK 6, Macouria 97355, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "14974894823422524332",
+        "nom": "Guyane Alu Roll",
+        "slug": "guyane-alu-roll",
+        "telephone": "+594 594 31 76 20",
+        "site_web": "http://www.guyanealuroll.fr/",
+        "adresse": "6 impasse Watampana Les Portes de Soula, Macouria 97355, Guyane française",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "papaichton": {
+    "artisans": [
+      {
+        "id": "11661316254291204068",
+        "nom": "Batica Menuiseries",
+        "slug": "batica-menuiseries",
+        "telephone": "+594 594 25 66 20",
+        "site_web": null,
+        "adresse": "Matoury 97351, Guyane française",
+        "note": 4.5,
+        "avis": 28,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8807427269979811116",
+        "nom": "Menuiserie Patawa",
+        "slug": "menuiserie-patawa",
+        "telephone": "+594 694 15 54 82",
+        "site_web": null,
+        "adresse": "21 Rue du Canal, Kourou 97310, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9298297252496548743",
+        "nom": "Menuiserie Bois Guyane",
+        "slug": "menuiserie-bois-guyane",
+        "telephone": "+594 694 20 37 65",
+        "site_web": null,
+        "adresse": "Rue Marcel Magne, Kourou 97310, Guyane française",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Constructeur de maisons en bois"
+      }
+    ]
+  },
+  "iracoubo": {
+    "artisans": [
+      {
+        "id": "8802249197914104223",
+        "nom": "Aluminium Menuiserie Guyane",
+        "slug": "aluminium-menuiserie-guyane",
+        "telephone": "+594 694 21 31 90",
+        "site_web": "https://www.aluminium-guyane.fr/",
+        "adresse": "1 Rue Thiers, Saint-Laurent-du-Maroni 97320, Guyane française",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3115657679433145684",
+        "nom": "ENTREPRISE BJ",
+        "slug": "entreprise-bj",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "17 Rue Albert Camus Saint-Laurent-Du-Maroni, 97320, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12555509596678326627",
+        "nom": "Alu Maintenance+Services",
+        "slug": "alu-maintenanceservices",
+        "telephone": "+594 694 01 91 98",
+        "site_web": "https://www.facebook.com/ALU-MAINTENANCE-ET-SERVICES-157510018225345/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "9893800919444367743",
+        "nom": "Piti service",
+        "slug": "piti-service",
+        "telephone": "+594 694 05 11 51",
+        "site_web": null,
+        "adresse": "H, Piti service, 6 Pl. Emile Zola, Saint-Laurent-du-Maroni 97320, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4539107341945582667",
+        "nom": "Glass Alu",
+        "slug": "glass-alu",
+        "telephone": "+594 594 35 20 02",
+        "site_web": "http://www.glass-alu-matoury.fr/?utm_source=gmb",
+        "adresse": "20 Rue Chawari Cogneau Larivot Matoury, 97351, Guyane française",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16343113661314418056",
+        "nom": "Espace Alu",
+        "slug": "espace-alu",
+        "telephone": "+594 594 32 25 45",
+        "site_web": null,
+        "adresse": "586H+9MF Espace Alu, Av. de Prefontaine, Kourou 97310, Guyane française",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "kourou": {
+    "artisans": [
+      {
+        "id": "755231037085188014",
+        "nom": "SARL MCGR",
+        "slug": "sarl-mcgr",
+        "telephone": "06 94 47 69 85",
+        "site_web": null,
+        "adresse": "21 Av. de la Passoura, Kourou 97310, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "13165034667121571438",
+        "nom": "ALUTECH",
+        "slug": "alutech",
+        "telephone": "+594 594 32 70 77",
+        "site_web": "http://www.alutech-guyane.com/",
+        "adresse": "Rue Marcel Dassault, Kourou 97304, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4377543531370160239",
+        "nom": "Cuartas Rios",
+        "slug": "cuartas-rios",
+        "telephone": "+594 694 02 00 74",
+        "site_web": null,
+        "adresse": "Zone Industrielle, Kourou 97304, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4229893032502190354",
+        "nom": "Hendri-Zoze PANSA",
+        "slug": "hendri-zoze-pansa",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5943+86Q Hendri-Zoze PANSA, Rue Cabalou, Kourou 97304, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2504101852197754187",
+        "nom": "CEMKO",
+        "slug": "cemko",
+        "telephone": "+594 594 22 80 73",
+        "site_web": "https://m.facebook.com/100064130526314/",
+        "adresse": "6-8 Rue des Roches Gravees, 97310 ZI Pariacabo, Kourou, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "mana": {
+    "artisans": [
+      {
+        "id": "13728508374360235065",
+        "nom": "CAA Agencement Guyane",
+        "slug": "caa-agencement-guyane",
+        "telephone": "+594 594 28 27 93",
+        "site_web": "https://www.caa-agencement.fr/nos-filiales/filiale-guyane/",
+        "adresse": "19, ZI Collery III, 97300, Guyane française",
+        "note": 3,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "cayenne": {
+    "artisans": [
+      {
+        "id": "1397238121334631717",
+        "nom": "MG ALUMINIUM GUYANE",
+        "slug": "mg-aluminium-guyane",
+        "telephone": "+594 594 37 79 58",
+        "site_web": "https://mg-aluminium.com/",
+        "adresse": "24 rue de MORPHOS Zone Industrielle Collery 4 est CAYENNE, 97300, Guyane française",
+        "note": 3.4,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14084025632704519442",
+        "nom": "Major Menuiserie",
+        "slug": "major-menuiserie",
+        "telephone": "+594 594 25 06 22",
+        "site_web": "https://sites.google.com/view/majormenuiserie/accueil",
+        "adresse": "6 Imp. Potofios, Cayenne 97300, Guyane française",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11423611670662828128",
+        "nom": "Le Bois Guyanais",
+        "slug": "le-bois-guyanais",
+        "telephone": "06 94 24 33 13",
+        "site_web": null,
+        "adresse": "route de la Madeleine B.P. 178, 97324, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "340431275999821025",
+        "nom": "ALUVER Guyane",
+        "slug": "aluver-guyane",
+        "telephone": "+594 594 31 20 50",
+        "site_web": "http://www.aluver-guyane.fr/",
+        "adresse": "8 Rue des Morphos Z.I. Collery 3 Cayenne, 97329, Guyane française",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5718069930983905262",
+        "nom": "Univers Alu",
+        "slug": "univers-alu",
+        "telephone": "+594 594 57 32 41",
+        "site_web": null,
+        "adresse": "668 avenue Justin Catayee, Cayenne 97300, Guyane française",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2171693851989082817",
+        "nom": "Modern Design Concept",
+        "slug": "modern-design-concept",
+        "telephone": "07 88 05 55 36",
+        "site_web": null,
+        "adresse": "19 Bd de la République, Cayenne 97300, Guyane française",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "regina": {
+    "artisans": [
+      {
+        "id": "13871883206597675450",
+        "nom": "Patoz Guyane = FERMÉE DÉFINITIVEMENT",
+        "slug": "patoz-guyane-fermee-definitivement",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Zone industrielle de degrad des cannes REMIRE-MONTJOLY, 97354, Guyane française",
+        "note": 5,
+        "avis": 2,
+        "type": "Scierie"
+      },
+      {
+        "id": "11352518519652893694",
+        "nom": "FOCUS MENUISERIE ALUMINIUM",
+        "slug": "focus-menuiserie-aluminium",
+        "telephone": "+594 694 06 95 06",
+        "site_web": "https://focusmenuiseriealuminium.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2334387489494025344",
+        "nom": "Bois et Sciage Guyanais",
+        "slug": "bois-et-sciage-guyanais",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "D50, Roura 97311, Guyane française",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Scierie"
+      }
+    ]
+  },
+  "matoury": {
+    "artisans": [
+      {
+        "id": "4319662727229709994",
+        "nom": "pose dépannage alu Guyane",
+        "slug": "pose-depannage-alu-guyane",
+        "telephone": "+594 694 21 44 62",
+        "site_web": null,
+        "adresse": "1405 rue de champs de canne, Matoury 97351, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Bâtiment patrimonial"
+      },
+      {
+        "id": "12514387684249798283",
+        "nom": "MG ALU STANDARD",
+        "slug": "mg-alu-standard",
+        "telephone": "+594 594 31 89 31",
+        "site_web": "https://mg-aluminium.com/",
+        "adresse": "lotissement Cotonière Ouest, 42bis, Matoury 97351, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant"
+      },
+      {
+        "id": "11442301243941597471",
+        "nom": "Scierie Du Larivot",
+        "slug": "scierie-du-larivot",
+        "telephone": "+594 594 35 26 66",
+        "site_web": null,
+        "adresse": "VMW8+79F Scierie Du Larivot, Matoury 97351, Guyane française",
+        "note": 3,
+        "avis": 1,
+        "type": "Scierie"
+      },
+      {
+        "id": "1156307115798528802",
+        "nom": "Alustock Guyane",
+        "slug": "alustock-guyane",
+        "telephone": "05 94 25 18 98",
+        "site_web": null,
+        "adresse": "26 Rue Yayamadou Parc Activité Cogneau Larivot, Matoury, 97351",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de métallurgie"
+      },
+      {
+        "id": "9932211795970812014",
+        "nom": "MEUBLAMAG",
+        "slug": "meublamag",
+        "telephone": "06 60 02 40 30",
+        "site_web": "https://meublamag.negocio.site/?utm_source=gmb&utm_medium=referral",
+        "adresse": "54/55 Rue Bois de Fer, Matoury 97351, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6806902326096044244",
+        "nom": "Madera et Métal Guyane",
+        "slug": "madera-et-metal-guyane",
+        "telephone": "+594 694 38 44 10",
+        "site_web": null,
+        "adresse": "Lotissement Dalmazir , le Larivot ( a côté de Déco- Quartz, Matoury 97351, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-georges": {
+    "artisans": [
+      {
+        "id": "14836553527280461200",
+        "nom": "POSE ALU Diego",
+        "slug": "pose-alu-diego",
+        "telephone": "+594 694 43 41 63",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13635726407400233969",
+        "nom": "SCIERIE MINAS",
+        "slug": "scierie-minas",
+        "telephone": "+594 694 04 73 34",
+        "site_web": null,
+        "adresse": "X4V2+F8H SCIERIE MINAS, Ouanary 97380, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "3360330692118228222",
+        "nom": "Pose Alu Diego",
+        "slug": "pose-alu-diego",
+        "telephone": "+594 694 43 41 63",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10775554917912777344",
+        "nom": "Pharmacie de l'Oyapock",
+        "slug": "pharmacie-de-loyapock",
+        "telephone": "+594 594 10 60 04",
+        "site_web": null,
+        "adresse": "V5RX+V3W Pharmacie de l'Oyapock, Unnamed Road, Saint-Georges, Ouanary, Guyane française",
+        "note": 4.3,
+        "avis": 11,
+        "type": "Pharmacie"
+      }
+    ]
+  },
+  "saint-laurent-du-maroni": {
+    "artisans": [
+      {
+        "id": "829879127131407783",
+        "nom": "SWAN BRICO DECO",
+        "slug": "swan-brico-deco",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "GX3F+5QH SWAN BRICO DECO, Rue Jeanne Garre, Saint-Laurent-du-Maroni 97320, Guyane française",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin d'ameublement et de décoration"
+      }
+    ]
+  },
+  "roura": {
+    "artisans": [
+      {
+        "id": "9927879469139916092",
+        "nom": "CROSYSTEMES",
+        "slug": "crosystemes",
+        "telephone": "+594 594 31 94 48",
+        "site_web": null,
+        "adresse": "1976 Route de Dégrad des Cannes, Remire-Montjoly 97354, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "maripasoula": {
+    "artisans": [
+      {
+        "id": "2982636212106059853",
+        "nom": "Mina Menuiserie",
+        "slug": "mina-menuiserie",
+        "telephone": "+594 694 25 81 50",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "grand-santi": {
+    "artisans": [
+      {
+        "id": "8802249197914104223",
+        "nom": "Aluminium Menuiserie Guyane",
+        "slug": "aluminium-menuiserie-guyane",
+        "telephone": "+594 694 21 31 90",
+        "site_web": "https://www.aluminium-guyane.fr/",
+        "adresse": "1 Rue Thiers, Saint-Laurent-du-Maroni 97320, Guyane française",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "montsinery-tonnegrande": {
+    "artisans": [
+      {
+        "id": "10030887667849575964",
+        "nom": "Walaba",
+        "slug": "walaba",
+        "telephone": "+594 594 40 11 48",
+        "site_web": "https://www.facebook.com/saswalaba/",
+        "adresse": "2901 route départementale 5, Montsinéry-Tonnegrande 97356, Guyane française",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Fournisseur de bois"
+      }
+    ]
+  },
+  "sinnamary": {
+    "artisans": [
+      {
+        "id": "5052720640557154595",
+        "nom": "Bois Changement",
+        "slug": "bois-changement",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sinnamary 97315, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Bois"
+      }
+    ]
+  },
+  "apatou": {
+    "artisans": [
+      {
+        "id": "8807427269979811116",
+        "nom": "Menuiserie Patawa",
+        "slug": "menuiserie-patawa",
+        "telephone": "+594 694 15 54 82",
+        "site_web": null,
+        "adresse": "21 Rue du Canal, Kourou 97310, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "awala-yalimapo": {
+    "artisans": [
+      {
+        "id": "4493711094000221744",
+        "nom": "Sabaya",
+        "slug": "sabaya",
+        "telephone": "+594 694 25 44 75",
+        "site_web": null,
+        "adresse": "2879 avenue Jean Galmot, Saint-Laurent-du-Maroni 97320, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17881366150258431948",
+        "nom": "Awala-Yalimapo",
+        "slug": "awala-yalimapo",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  }
+}

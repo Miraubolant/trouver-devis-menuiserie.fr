@@ -1,0 +1,1650 @@
+{
+  "le-rouget-pers": {
+    "artisans": [
+      {
+        "id": "12094670421505308850",
+        "nom": "SAMUEL JURADO",
+        "slug": "samuel-jurado",
+        "telephone": "06 15 78 16 78",
+        "site_web": "http://www.jurado-menuisier.fr/",
+        "adresse": "1 Rue Louis Delhostal, 15130 Prunet",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6512004243500769140",
+        "nom": "Roques Gilbert",
+        "slug": "roques-gilbert",
+        "telephone": "04 71 64 12 78",
+        "site_web": null,
+        "adresse": "3 Rue Carnot, 15000 Aurillac",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4209154013360861082",
+        "nom": "Atelier Gouteredonde",
+        "slug": "atelier-gouteredonde",
+        "telephone": "06 52 12 47 21",
+        "site_web": "https://atelier-gouteredonde.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "7346746274686389836",
+        "nom": "JCM Ebeniste",
+        "slug": "jcm-ebeniste",
+        "telephone": "04 71 46 98 49",
+        "site_web": "http://www.ebeniste-cantal.com/",
+        "adresse": "15290 Parlan",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2879320876525444785",
+        "nom": "Morgane et Bruno",
+        "slug": "morgane-et-bruno",
+        "telephone": "04 71 46 10 63",
+        "site_web": null,
+        "adresse": "24 Av. du 15 Septembre 1945, 15290 Le Rouget-Pers",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Boulangerie"
+      },
+      {
+        "id": "1360379123130985978",
+        "nom": "La Boutique du Menuisier",
+        "slug": "la-boutique-du-menuisier",
+        "telephone": "07 57 57 63 66",
+        "site_web": "https://laboutiquedumenuisier.fr/",
+        "adresse": "Z.A.C. du Puy d’Esban, 4 rue Pierre et Marie Curie, 15130 Ytrac",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6949640647378220582",
+        "nom": "LAUMOND MENUISERIE",
+        "slug": "laumond-menuiserie",
+        "telephone": "04 71 63 59 30",
+        "site_web": "http://www.miroiterie-laumond.com/",
+        "adresse": "15 Bd du Vialenc, 15000 Aurillac",
+        "note": 4,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4658201832099592467",
+        "nom": "Brousse Création Bois",
+        "slug": "brousse-creation-bois",
+        "telephone": "06 07 62 25 46",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8324977575471092191",
+        "nom": "AF Pose - Les Pavillons-sous-Bois",
+        "slug": "af-pose-les-pavillons-sous-bois",
+        "telephone": "07 89 52 43 10",
+        "site_web": "https://www.af-pose.com/",
+        "adresse": "34 All. Monthyon, 93320 Les Pavillons-sous-Bois",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6620647081287919679",
+        "nom": "Au bois de palette",
+        "slug": "au-bois-de-palette",
+        "telephone": "07 86 26 14 91",
+        "site_web": null,
+        "adresse": "5 Rue de L’Etang, 15290 Parlan",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "arpajon-sur-cere": {
+    "artisans": [
+      {
+        "id": "13340556910943780911",
+        "nom": "Lair Dominique",
+        "slug": "lair-dominique",
+        "telephone": "04 71 63 53 96",
+        "site_web": null,
+        "adresse": "2 Sq. Maurice Ravel, 15130 Arpajon-sur-Cère",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "14047611237559635624",
+        "nom": "Vergne Menuiserie",
+        "slug": "vergne-menuiserie",
+        "telephone": "04 71 62 39 85",
+        "site_web": "https://menuiserie-vergne.fr/",
+        "adresse": "11 Rue du Chauffour, 15130 Arpajon-sur-Cère",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15352240649408285565",
+        "nom": "SARL Menuiserie Bouysse",
+        "slug": "sarl-menuiserie-bouysse",
+        "telephone": "04 71 46 00 39",
+        "site_web": "http://www.bouysse-menuiserie.fr/",
+        "adresse": "195 Chemin de Redon, 15130 Arpajon-sur-Cère",
+        "note": 4,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8130072677783869788",
+        "nom": "Menuiserie Clément",
+        "slug": "menuiserie-clement",
+        "telephone": "06 65 27 33 00",
+        "site_web": null,
+        "adresse": "694 Rte de la Vallée, 15130 Arpajon-sur-Cère",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2482705570831026535",
+        "nom": "Etablissements Bonhomme Sarl",
+        "slug": "etablissements-bonhomme-sarl",
+        "telephone": "04 71 63 50 69",
+        "site_web": "https://www.scierie-bonhomme.com/",
+        "adresse": "Plainadieu, 15130 Arpajon-sur-Cère",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "14770186128031088176",
+        "nom": "SARL MB15",
+        "slug": "sarl-mb15",
+        "telephone": "06 50 63 70 72",
+        "site_web": null,
+        "adresse": "3 Rue de la Montade, 15130 Arpajon-sur-Cère",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "14338779949033275920",
+        "nom": "Menuisier Habitat Léger, Aurillac",
+        "slug": "menuisier-habitat-leger-aurillac",
+        "telephone": "07 69 68 57 69",
+        "site_web": "http://habitat-leger.fr/",
+        "adresse": "13 Allée de Salers, 15590 Mandailles-Saint-Julien",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4695926854343299698",
+        "nom": "Menna Menuiserie",
+        "slug": "menna-menuiserie",
+        "telephone": "07 50 32 08 96",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "champagnac": {
+    "artisans": [
+      {
+        "id": "13158874946924536365",
+        "nom": "Marty Menuiseries Miroiteries",
+        "slug": "marty-menuiseries-miroiteries",
+        "telephone": "05 53 08 58 86",
+        "site_web": null,
+        "adresse": "Les Bourriauds, 24530 Champagnac-de-Belair",
+        "note": 4,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "4420233768526451345",
+        "nom": "Cantal Menuiserie",
+        "slug": "cantal-menuiserie",
+        "telephone": "07 57 49 05 73",
+        "site_web": "https://www.facebook.com/Cantal-menuiserie-139554231576435/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "18109703390284599135",
+        "nom": "Cantal menuiserie",
+        "slug": "cantal-menuiserie",
+        "telephone": "07 57 49 05 73",
+        "site_web": null,
+        "adresse": "Le Fayet, 15210 Ydes",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17411266027597620677",
+        "nom": "MDC - Menuiseries du Centre",
+        "slug": "mdc-menuiseries-du-centre",
+        "telephone": "04 71 67 90 00",
+        "site_web": "http://www.menuiseriesducentre.fr/",
+        "adresse": "15 Av. Martial Lapeyre, 15210 Ydes",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "1728188131470563031",
+        "nom": "M.P.P.F SARL. Menuiserie Peyrazat Père & Fils",
+        "slug": "mppf-sarl-menuiserie-peyrazat-pere-fils",
+        "telephone": "06 64 88 45 39",
+        "site_web": "http://www.xn--sarl-mppf-menuiserie-peyrazat-pre-et-fils-yud.fr/",
+        "adresse": "35 Route de Limoges, Chez Soulat, 87150 Champagnac-la-Rivière",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "884769268915872248",
+        "nom": "Doulcet Cyril",
+        "slug": "doulcet-cyril",
+        "telephone": "04 71 40 86 55",
+        "site_web": "http://sarldoulcet.com/",
+        "adresse": "1 All. de Sumène Artense, 15210 Ydes",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4621390294716884042",
+        "nom": "SARL MARTIN",
+        "slug": "sarl-martin",
+        "telephone": "05 53 60 92 77",
+        "site_web": "https://martin-thierry.com/",
+        "adresse": "24530 Champagnac-de-Belair",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11364558443067840036",
+        "nom": "Menuiserie Laroche Jean-Louis",
+        "slug": "menuiserie-laroche-jean-louis",
+        "telephone": "04 71 68 03 33",
+        "site_web": "http://menuiseries-laroche.fr/",
+        "adresse": "Verlhac le Jeune, 15200 Mauriac",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17979197660633522896",
+        "nom": "Gatiniol Art et Fenêtres Ydes",
+        "slug": "gatiniol-art-et-fenetres-ydes",
+        "telephone": "04 71 40 82 09",
+        "site_web": "http://www.gatiniol.fr/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=2919884257560259114",
+        "adresse": "10 Av. Roger Besse, 15210 Ydes",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1003349689849505019",
+        "nom": "Autour du Bois",
+        "slug": "autour-du-bois",
+        "telephone": "06 36 91 63 98",
+        "site_web": "http://www.autourdubois19.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "jussac": {
+    "artisans": [
+      {
+        "id": "12312137431471714187",
+        "nom": "SAS GEDER CHANUT",
+        "slug": "sas-geder-chanut",
+        "telephone": "04 71 46 34 38",
+        "site_web": "https://www.forge-geder-aurillac.com/",
+        "adresse": "ZAE les Rivières, Av. de la Jordanne, 15250 Jussac",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "12626165474524824587",
+        "nom": "Alrivie Philippe",
+        "slug": "alrivie-philippe",
+        "telephone": "04 71 46 60 05",
+        "site_web": null,
+        "adresse": "3 Lot. Marie-Marvingt, 15250 Jussac",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "aurillac": {
+    "artisans": [
+      {
+        "id": "16625713299476328513",
+        "nom": "TRYBA Aurillac",
+        "slug": "tryba-aurillac",
+        "telephone": "04 20 98 15 99",
+        "site_web": "https://www.tryba.com/espace-conseil/15/tryba-aurillac/?utm_campaign=Tryba_Aurillac&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "17 Rue de Gutenberg, 15000 Aurillac",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12260689014199619404",
+        "nom": "TECHNIMEN Menuiserie Aurillac",
+        "slug": "technimen-menuiserie-aurillac",
+        "telephone": "04 71 43 25 88",
+        "site_web": "http://www.technimen.fr/",
+        "adresse": "5 Rte du Collet, 15000 Aurillac",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17355732434430337802",
+        "nom": "Profession Habitat Aurillac | Spécialiste dans l'aménagement et rénovation de l'habitat",
+        "slug": "profession-habitat-aurillac-specialiste-dans-lamenagement-et-renovation-de-lhabitat",
+        "telephone": "04 71 63 79 14",
+        "site_web": "https://www.professionhabitat.fr/",
+        "adresse": "153 Av. du Général Leclerc, 15000 Aurillac",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "14784844687485245510",
+        "nom": "DT'M Menuiserie - Partenaire Arcades et Baies",
+        "slug": "dtm-menuiserie-partenaire-arcades-et-baies",
+        "telephone": "04 71 45 04 09",
+        "site_web": "https://magasin-aurillac.arcadesetbaies.com/",
+        "adresse": "41 Av. des Pupilles de la Nation, 15000 Aurillac",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "3517873837769195288",
+        "nom": "Menuiseries Daniel Sarl - Maison du Menuisier",
+        "slug": "menuiseries-daniel-sarl-maison-du-menuisier",
+        "telephone": "04 71 64 29 00",
+        "site_web": "https://aurillac.maisondumenuisier.fr/",
+        "adresse": "128 Av. de Conthe, 15000 Aurillac",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15795630946666567501",
+        "nom": "Mazet et Fils",
+        "slug": "mazet-et-fils",
+        "telephone": "04 71 63 48 47",
+        "site_web": "https://www.mazet-menuiseries.fr/",
+        "adresse": "138 Av. de Conthe, 15000 Aurillac",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "4790167719626681724",
+        "nom": "2l Menuiseries",
+        "slug": "2l-menuiseries",
+        "telephone": "04 71 43 28 56",
+        "site_web": "http://2lmenuiseries.cleasite.fr/",
+        "adresse": "1 Rue Jacquard, 15000 Aurillac",
+        "note": 3,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16714077033101455973",
+        "nom": "CASÉO Aurillac",
+        "slug": "caseo-aurillac",
+        "telephone": "04 71 64 00 90",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-aurillac-aurillac-23",
+        "adresse": "33 Av. Georges Pompidou, 15000 Aurillac",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16667066820902208168",
+        "nom": "Entreprise Hugon: Extension de maison, fabrication pose véranda fenêtre travaux menuiserie Cantal 15 Aurillac Ytrac Jussac",
+        "slug": "entreprise-hugon-extension-de-maison-fabrication-pose-veranda-fenetre-travaux-menuiserie-cantal-15-aurillac-ytrac-jussac",
+        "telephone": "06 30 89 80 80",
+        "site_web": null,
+        "adresse": "129 Av. de Conthe, 15000 Aurillac",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "11753723795690732118",
+        "nom": "Alu Construction",
+        "slug": "alu-construction",
+        "telephone": "04 71 43 80 43",
+        "site_web": "https://www.alu-construction.fr/sarl-alu-construction-menuiserie-cantal_fr.html",
+        "adresse": "2 Rue Monge, 15000 Aurillac",
+        "note": 2.8,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "champs-sur-tarentaine-marchal": {
+    "artisans": [
+      {
+        "id": "15721544613991588431",
+        "nom": "menuiserie charbonnel",
+        "slug": "menuiserie-charbonnel",
+        "telephone": "06 50 61 93 37",
+        "site_web": null,
+        "adresse": "15270 Lanobre",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10846844243033187653",
+        "nom": "Arnaud Morel Menuiserie.Charpente.Couverture",
+        "slug": "arnaud-morel-menuiseriecharpentecouverture",
+        "telephone": "07 63 10 31 05",
+        "site_web": null,
+        "adresse": "D30, 63850 Saint-Genès-Champespe",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "723175952155400512",
+        "nom": "Marchal",
+        "slug": "marchal",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "15270 Champs-sur-Tarentaine-Marchal",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "18121810399825766327",
+        "nom": "Besse Jacques",
+        "slug": "besse-jacques",
+        "telephone": "05 55 96 70 98",
+        "site_web": null,
+        "adresse": "181 Rue Jules Ferry, 19110 Bort-les-Orgues",
+        "note": 3,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "4256119680381798670",
+        "nom": "Au fil de Maud",
+        "slug": "au-fil-de-maud",
+        "telephone": "04 71 78 79 85",
+        "site_web": null,
+        "adresse": "1, 15270 Champs-sur-Tarentaine-Marchal",
+        "note": 5,
+        "avis": 0,
+        "type": "Couturier"
+      },
+      {
+        "id": "3426214280730979908",
+        "nom": "Vaquez Stéphane",
+        "slug": "vaquez-stephane",
+        "telephone": "05 55 96 73 09",
+        "site_web": null,
+        "adresse": "300 Chem. des Peupliers, 19110 Bort-les-Orgues",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "1663873246755696969",
+        "nom": "VVF Cantal Champs-sur-Tarentaine",
+        "slug": "vvf-cantal-champs-sur-tarentaine",
+        "telephone": "04 71 78 78 22",
+        "site_web": "https://www.vvf.fr/location-vacances/vacances-champs-sur-tarentaine-vvf-villages.html",
+        "adresse": "Marchal Le, Suc de Triviaux, 15270 Champs-sur-Tarentaine-Marchal",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Village de vacances"
+      },
+      {
+        "id": "10986507962081342122",
+        "nom": "BS TP AGRI",
+        "slug": "bs-tp-agri",
+        "telephone": "06 31 63 14 90",
+        "site_web": "https://www.facebook.com/BS-TP-AGRI-464655684373496/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "5326373815428256027",
+        "nom": "SARL Bonhomme",
+        "slug": "sarl-bonhomme",
+        "telephone": "06 26 45 30 50",
+        "site_web": null,
+        "adresse": "Chastelanay, 15190 Montboudif",
+        "note": 5,
+        "avis": 0,
+        "type": "Artisanat"
+      },
+      {
+        "id": "465306097460739764",
+        "nom": "Entreprise Delfau",
+        "slug": "entreprise-delfau",
+        "telephone": "06 02 16 99 59",
+        "site_web": null,
+        "adresse": "7 ZAC de Verchalles, 15240 Vebret",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "polminhac": {
+    "artisans": [
+      {
+        "id": "14620713251174017517",
+        "nom": "Rue du Menuisier",
+        "slug": "rue-du-menuisier",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "15800 Polminhac",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "lanobre": {
+    "artisans": [
+      {
+        "id": "15721544613991588431",
+        "nom": "menuiserie charbonnel",
+        "slug": "menuiserie-charbonnel",
+        "telephone": "06 50 61 93 37",
+        "site_web": null,
+        "adresse": "15270 Lanobre",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "mauriac": {
+    "artisans": [
+      {
+        "id": "8126585067624548906",
+        "nom": "PERS Sébastien",
+        "slug": "pers-sebastien",
+        "telephone": "06 07 28 83 16",
+        "site_web": null,
+        "adresse": "5 Chemin du Clos Vert - Lieu-dit SERRE, 15200 Mauriac",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "maurs": {
+    "artisans": [
+      {
+        "id": "5918955182732098685",
+        "nom": "Lavigne Pradier - Terres de Fenêtre",
+        "slug": "lavigne-pradier-terres-de-fenetre",
+        "telephone": "04 71 49 95 87",
+        "site_web": null,
+        "adresse": "4 Rue du 8 Mai 1945, 15600 Maurs",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10799626906548632269",
+        "nom": "Sarl DUVAL RODDE",
+        "slug": "sarl-duval-rodde",
+        "telephone": "04 71 46 77 06",
+        "site_web": "https://www.duval-rodde.fr/",
+        "adresse": "ZA Laborie, 9 Rue Bernard Palissy, 15600 Maurs",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9961095854027052383",
+        "nom": "Evolution Bois Couverture Charpente",
+        "slug": "evolution-bois-couverture-charpente",
+        "telephone": "04 71 45 16 96",
+        "site_web": "http://www.charpentedefrance.fr/",
+        "adresse": "12 Chem. du Vallon, 15600 Maurs",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9897314572619976030",
+        "nom": "La Boutique Du Menuisier",
+        "slug": "la-boutique-du-menuisier",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 Rue de la Mairie, 15600 Saint-Étienne-de-Maurs",
+        "note": 4,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "18403020346578403077",
+        "nom": "MSL Fermetures - Menuiserie à Maurs",
+        "slug": "msl-fermetures-menuiserie-a-maurs",
+        "telephone": "04 71 43 68 29",
+        "site_web": "https://www.msl-fermetures.fr/",
+        "adresse": "Place de la Grande Fontaine, 15600 Maurs",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4720057703962656165",
+        "nom": "Atelier bois & matières",
+        "slug": "atelier-bois-matieres",
+        "telephone": "06 73 58 32 25",
+        "site_web": "https://atelier-bois-matieres.fr/?%20%20%20%20%20%20%20utm_source=google-my-business",
+        "adresse": "Embals, 15600 Saint-Constant-Fournoulès",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15066763948833826260",
+        "nom": "Pergola de France",
+        "slug": "pergola-de-france",
+        "telephone": "04 71 45 16 96",
+        "site_web": "http://www.pergoladefrance.fr/",
+        "adresse": "12 Rte du Vallon, 15600 Maurs",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      },
+      {
+        "id": "3108340462498178175",
+        "nom": "Charpente de France",
+        "slug": "charpente-de-france",
+        "telephone": "04 15 55 96 23",
+        "site_web": "https://www.charpentedefrance.fr/",
+        "adresse": "12 Chem. du Vallon, 15600 Maurs",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "6588745924700577813",
+        "nom": "Menuiserie Latapie",
+        "slug": "menuiserie-latapie",
+        "telephone": "04 71 49 15 74",
+        "site_web": null,
+        "adresse": "Le Théron, 15600 Saint-Santin-de-Maurs",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "7425104370937956796",
+        "nom": "Atelier Mosaïque - Dispo Services",
+        "slug": "atelier-mosaique-dispo-services",
+        "telephone": "04 71 49 78 68",
+        "site_web": "http://www.dispo-services.fr/mosaique",
+        "adresse": "10 Rue Gutenberg, 15600 Maurs",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Association ou organisation"
+      }
+    ]
+  },
+  "massiac": {
+    "artisans": [
+      {
+        "id": "847825409084555386",
+        "nom": "Troupenat Jean-Pierre",
+        "slug": "troupenat-jean-pierre",
+        "telephone": "04 71 23 04 80",
+        "site_web": null,
+        "adresse": "15500 Massiac",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "16181024137859308159",
+        "nom": "CMF Structures",
+        "slug": "cmf-structures",
+        "telephone": "04 71 23 00 70",
+        "site_web": "http://www.cmf-structures.com/?utm_source=gmb",
+        "adresse": "ZA de La Prade, 16 Rue Jacques Chaban Delmas, 15500 Massiac",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8344655006037996960",
+        "nom": "Nicolas Jean-Michel",
+        "slug": "nicolas-jean-michel",
+        "telephone": "04 71 23 00 09",
+        "site_web": null,
+        "adresse": "3 Rue Jacques Chaban Delmas, 15500 Massiac",
+        "note": 5,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "13852505481762371342",
+        "nom": "LA MENUISERIE DE L’ALAGNON",
+        "slug": "la-menuiserie-de-lalagnon",
+        "telephone": "06 14 30 76 64",
+        "site_web": "http://menuiseriedelalagnon.fr/",
+        "adresse": "Chem. de Longchamp, 43450 Blesle",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "murat": {
+    "artisans": [
+      {
+        "id": "9693345040754236978",
+        "nom": "SAS JARRIGE",
+        "slug": "sas-jarrige",
+        "telephone": "04 71 20 16 63",
+        "site_web": null,
+        "adresse": "10 Rue du Stade, 15300 Murat",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "15640777557530568428",
+        "nom": "BRUGIROUX FABIEN",
+        "slug": "brugiroux-fabien",
+        "telephone": "09 70 35 90 70",
+        "site_web": null,
+        "adresse": "7 Rue du Bournantel, 15300 Murat",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "10759942043766086224",
+        "nom": "Entreprise Falcon",
+        "slug": "entreprise-falcon",
+        "telephone": "04 71 20 09 31",
+        "site_web": "http://www.entreprise-falcon.fr/",
+        "adresse": "za le martinet, 15300 Murat",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "neuveglise-sur-truyere": {
+    "artisans": [
+      {
+        "id": "17207564910866876007",
+        "nom": "MG Bois",
+        "slug": "mg-bois",
+        "telephone": "06 43 87 89 51",
+        "site_web": null,
+        "adresse": "Rue Des Artisans, 15260 Neuvéglise-sur-Truyère",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10178372112040512074",
+        "nom": "COMBE PASCAL MENUISERIES CHARPENTES",
+        "slug": "combe-pascal-menuiseries-charpentes",
+        "telephone": "04 71 60 71 00",
+        "site_web": "https://www.combegirard.com/contact",
+        "adresse": "6 Pl. de l'Ander, 15100 Saint-Flour",
+        "note": 2.5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14672007182037005725",
+        "nom": "Menuiserie Bertrand",
+        "slug": "menuiserie-bertrand",
+        "telephone": "06 37 42 60 12",
+        "site_web": "https://www.thomasbertrand-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6909233217538838788",
+        "nom": "Mourgues Charpentes",
+        "slug": "mourgues-charpentes",
+        "telephone": "04 71 23 87 50",
+        "site_web": null,
+        "adresse": "Le Cros, 15260 Neuvéglise-sur-Truyère",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "2687617176051838575",
+        "nom": "Menuiserie Ébénisterie Touzet",
+        "slug": "menuiserie-ebenisterie-touzet",
+        "telephone": "04 71 73 24 06",
+        "site_web": null,
+        "adresse": "15170 Coltines",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "16675642150364573938",
+        "nom": "L' Atelier de François",
+        "slug": "l-atelier-de-francois",
+        "telephone": "06 85 37 47 75",
+        "site_web": "https://www.facebook.com/l.atelier.de.francois.2024/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8359748276056088653",
+        "nom": "Auvergne Ouverture - Saint Flour - Menuiseries Aluminium d'Auvergne",
+        "slug": "auvergne-ouverture-saint-flour-menuiseries-aluminium-dauvergne",
+        "telephone": "04 71 60 25 25",
+        "site_web": "http://www.auvergne-ouverture.com/",
+        "adresse": "Zone Industrielle Montplain, 19 Rue Baptiste Rozières, 15100 Saint-Flour",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14739617816351856943",
+        "nom": "Trousselier Ebéniste",
+        "slug": "trousselier-ebeniste",
+        "telephone": "06 45 33 13 40",
+        "site_web": "https://www.trousselierebeniste.fr/",
+        "adresse": "6 Rue de la Dauzanne, 15100 Tanavelle",
+        "note": 5,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "14380472649057244235",
+        "nom": "Thibault Tourrette",
+        "slug": "thibault-tourrette",
+        "telephone": "06 32 13 18 49",
+        "site_web": null,
+        "adresse": "8 Rue de la Margeride, 15100 Vabres",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2165464371936024108",
+        "nom": "SARL MICHEL CHAREIRE",
+        "slug": "sarl-michel-chareire",
+        "telephone": "04 71 73 06 06",
+        "site_web": "http://www.charpente-cantal.fr/",
+        "adresse": "Z.A. de Volzac, 12 Rue du Millepertuis, 15100 Saint-Flour",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "neussargues-en-pinatelle": {
+    "artisans": [
+      {
+        "id": "14672007182037005725",
+        "nom": "Menuiserie Bertrand",
+        "slug": "menuiserie-bertrand",
+        "telephone": "06 37 42 60 12",
+        "site_web": "https://www.thomasbertrand-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "naucelles": {
+    "artisans": [
+      {
+        "id": "2027137868005398649",
+        "nom": "EI Maxime Paysages et Menuiseries",
+        "slug": "ei-maxime-paysages-et-menuiseries",
+        "telephone": "06 83 43 47 30",
+        "site_web": "https://www.maxime-paysage.fr/",
+        "adresse": "1 Imp. de Verniols, 15250 Naucelles",
+        "note": 0,
+        "avis": 0,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "17876202162293870894",
+        "nom": "Menuiserie Barthez",
+        "slug": "menuiserie-barthez",
+        "telephone": null,
+        "site_web": "https://menuiseriebarthez.com/",
+        "adresse": "18 Rue de la Gare, 12800 Naucelle",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "510784116698919003",
+        "nom": "Menuiserie Des monts",
+        "slug": "menuiserie-des-monts",
+        "telephone": "04 71 47 90 61",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14700023735761085356",
+        "nom": "SARL DUVAL RODDE",
+        "slug": "sarl-duval-rodde",
+        "telephone": "04 71 48 33 19",
+        "site_web": "https://www.duvalrodde.fr/",
+        "adresse": "5 Rte du Parapluie, 15250 Naucelles",
+        "note": 4,
+        "avis": 0,
+        "type": "Constructeur de maisons en bois"
+      },
+      {
+        "id": "5970369508574339605",
+        "nom": "Créa Bois Lagat Alexandre",
+        "slug": "crea-bois-lagat-alexandre",
+        "telephone": "04 71 47 21 41",
+        "site_web": null,
+        "adresse": "33 Av. de la Liberté, 15250 Reilhac",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "pleaux": {
+    "artisans": [
+      {
+        "id": "8428831250709221135",
+        "nom": "Maze Jacques",
+        "slug": "maze-jacques",
+        "telephone": "04 71 69 27 04",
+        "site_web": "http://menuiseries-maze.fr/",
+        "adresse": "15700 Pleaux",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "2930728841904755111",
+        "nom": "Veyriere Gérard",
+        "slug": "veyriere-gerard",
+        "telephone": "04 71 40 45 27",
+        "site_web": "http://menuiserie-veyriere.fr/",
+        "adresse": "Zone d'activité, 15700 Pleaux",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4813161474881255443",
+        "nom": "Toulze Sylvain SARL",
+        "slug": "toulze-sylvain-sarl",
+        "telephone": "06 62 12 97 82",
+        "site_web": null,
+        "adresse": "3 route d'Argentat, 15700 Pleaux",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "riom-es-montagnes": {
+    "artisans": [
+      {
+        "id": "11162811148889371262",
+        "nom": "Hossely Menuiserie",
+        "slug": "hossely-menuiserie",
+        "telephone": "06 78 46 00 19",
+        "site_web": "http://hossely-menuiserie.fr/",
+        "adresse": "57 Av. de la République, 15400 Riom-ès-Montagnes",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2787746456000971038",
+        "nom": "Gatiniol Art et Fenêtres Riom-Es-Montagnes",
+        "slug": "gatiniol-art-et-fenetres-riom-es-montagnes",
+        "telephone": "04 71 40 81 59",
+        "site_web": "http://www.gatiniol.fr/",
+        "adresse": "7 Av. de la République, 15400 Riom-ès-Montagnes",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-flour": {
+    "artisans": [
+      {
+        "id": "4662782627530933596",
+        "nom": "Pergola Bioclimatique/Leader Pergola",
+        "slug": "pergola-bioclimatiqueleader-pergola",
+        "telephone": "04 71 73 62 98",
+        "site_web": null,
+        "adresse": "1 Rue Baptiste Rozières, 15100 Saint-Flour",
+        "note": 5,
+        "avis": 0,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      },
+      {
+        "id": "2782124013425917867",
+        "nom": "Menuiserie De La Florizane",
+        "slug": "menuiserie-de-la-florizane",
+        "telephone": "04 71 60 37 21",
+        "site_web": "https://www.facebook.com/share/1DwSFPxQ4i/",
+        "adresse": "4 ZI la Florizane, 15100 Saint-Flour",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13074135779407288827",
+        "nom": "ALUTEX BATIMAN",
+        "slug": "alutex-batiman",
+        "telephone": "04 71 20 73 72",
+        "site_web": "https://www.batiman.fr/nos-points-de-vente/batiman-alutex-saint-flour",
+        "adresse": "7 Rue Henri Rassemusse, 15100 Saint-Flour",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1922817676202787631",
+        "nom": "TRYBA Saint-Flour",
+        "slug": "tryba-saint-flour",
+        "telephone": "04 20 98 44 09",
+        "site_web": "https://www.tryba.com/espace-conseil/15/tryba-saint-flour/?utm_campaign=Tryba_Saint-Flour&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "43 Pl. de la Liberté, 15100 Saint-Flour",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13105603681266149798",
+        "nom": "Margeride Fermetures",
+        "slug": "margeride-fermetures",
+        "telephone": "04 71 60 92 06",
+        "site_web": "https://groupemcc.com/margeride-fermetures/",
+        "adresse": "5 rue de la tranchée, 15100 Saint-Flour",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "9629525763957423242",
+        "nom": "HNT CONFORT Saint Flour",
+        "slug": "hnt-confort-saint-flour",
+        "telephone": "04 71 50 05 00",
+        "site_web": "https://hntauvergne.fr/",
+        "adresse": "8 Av. de la République, 15100 Saint-Flour",
+        "note": 3,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11276970377276242176",
+        "nom": "CASÉO Saint Flour",
+        "slug": "caseo-saint-flour",
+        "telephone": "04 71 73 41 45",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-saint-flour-saint-flour-73",
+        "adresse": "ZI DE Montplain, D926 Chemin De Vedernat, 15100 Roffiac",
+        "note": 2.8,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3705051421097432841",
+        "nom": "Scierie snab",
+        "slug": "scierie-snab",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5 Bis Rue de la Florizane, 15100 Saint-Flour",
+        "note": 0,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "10161346234660425606",
+        "nom": "GEMARIN XAVIER",
+        "slug": "gemarin-xavier",
+        "telephone": "04 71 60 00 55",
+        "site_web": null,
+        "adresse": "8 Rue Henri Rassemusse, 15100 Saint-Flour",
+        "note": 3.3,
+        "avis": 0,
+        "type": "Service de serrurerie d'urgence"
+      },
+      {
+        "id": "5897795960018409117",
+        "nom": "Nouvelle Auvergne Bois",
+        "slug": "nouvelle-auvergne-bois",
+        "telephone": "04 71 60 12 78",
+        "site_web": null,
+        "adresse": "Lajarrige, 15100 Saint-Flour",
+        "note": 0,
+        "avis": 0,
+        "type": "Scierie"
+      }
+    ]
+  },
+  "saint-mamet-la-salvetat": {
+    "artisans": [
+      {
+        "id": "233411783403800636",
+        "nom": "Philip Menuiserie",
+        "slug": "philip-menuiserie",
+        "telephone": "06 83 20 24 20",
+        "site_web": null,
+        "adresse": "23 route de Madunhac, 15220 Roannes-Saint-Mary",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6503661895869274063",
+        "nom": "IXINA Aurillac",
+        "slug": "ixina-aurillac",
+        "telephone": "04 71 46 13 80",
+        "site_web": "https://www.ixina.fr/trouvez-votre-magasin/magasin-de-cuisine-ixina-aurillac?at_campaign=1501_perm&at_channel=gmb&at_identifier=aurillac&at_medium=local_organic&utm_campaign=1501_perm&utm_content=aurillac&utm_medium=local_organic&utm_source=gmb",
+        "adresse": "25 Av. Georges Pompidou, 15000 Aurillac",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "7158308235188805709",
+        "nom": "Cuisinella Aurillac",
+        "slug": "cuisinella-aurillac",
+        "telephone": "04 71 49 11 97",
+        "site_web": "https://cuisinella-aurillac.fr/?utm_source=google_my_business",
+        "adresse": "8 Av. du Garric, 15000 Aurillac",
+        "note": 5,
+        "avis": 0,
+        "type": "Prestataire de réaménagement de cuisine"
+      },
+      {
+        "id": "9269465158620148405",
+        "nom": "Lhéritier et Fils",
+        "slug": "lheritier-et-fils",
+        "telephone": "04 71 64 71 51",
+        "site_web": "https://www.lheritier-dpm.fr/",
+        "adresse": "Les Places, 15220 Saint-Mamet-la-Salvetat",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "10098863073230330628",
+        "nom": "DPM Scierie",
+        "slug": "dpm-scierie",
+        "telephone": "04 71 64 71 51",
+        "site_web": "https://www.charpente-lheritier.fr/",
+        "adresse": "Puechagut, 15290 Omps",
+        "note": 5,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "9697425913009510325",
+        "nom": "Gatiniol Art et Fenêtres Aurillac-Ytrac",
+        "slug": "gatiniol-art-et-fenetres-aurillac-ytrac",
+        "telephone": "04 71 43 00 04",
+        "site_web": "http://www.gatiniol.fr/",
+        "adresse": "Z.A.C. du Puy d’Esban, 15130 Ytrac",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "4534025842355301030",
+        "nom": "Adrien Quiers Menuiserie",
+        "slug": "adrien-quiers-menuiserie",
+        "telephone": "06 29 05 80 20",
+        "site_web": "http://www.aquiers-menuiserie.com/",
+        "adresse": "23 le Cassaniol, 15220 Marcolès",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15139573433991717917",
+        "nom": "Menuiserie Couverture Bonhoure Sébastien",
+        "slug": "menuiserie-couverture-bonhoure-sebastien",
+        "telephone": "06 77 64 08 89",
+        "site_web": null,
+        "adresse": "6 route de beaussejour, 15600 Boisset",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3281053175323761239",
+        "nom": "MARCENAC SAS",
+        "slug": "marcenac-sas",
+        "telephone": "04 71 46 99 46",
+        "site_web": null,
+        "adresse": "Le Poux, 15220 Marcolès",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "12310094488304057706",
+        "nom": "CBA Menuiserie - Emonard Wilfried",
+        "slug": "cba-menuiserie-emonard-wilfried",
+        "telephone": "04 71 46 63 25",
+        "site_web": null,
+        "adresse": "16 La Croix de Laborie S, 15290 Roumégoux",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "roannes-saint-mary": {
+    "artisans": [
+      {
+        "id": "2654228854680862512",
+        "nom": "ETPF Entreprise de Travaux Publics et Forestiers",
+        "slug": "etpf-entreprise-de-travaux-publics-et-forestiers",
+        "telephone": "06 70 79 20 88",
+        "site_web": "https://www.facebook.com/profile.php?id=100092322607838",
+        "adresse": "Monloubou, 15220 Roannes-Saint-Mary",
+        "note": 0,
+        "avis": 0,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "10156153831957716506",
+        "nom": "Balmisse Laurent",
+        "slug": "balmisse-laurent",
+        "telephone": "04 71 62 87 69",
+        "site_web": null,
+        "adresse": "Montloubou, 15220 Roannes-Saint-Mary",
+        "note": 0,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "12457693193341477142",
+        "nom": "Théron S.C.E.V.I. Sté Cantalienne Equipement Véhicules Industriels",
+        "slug": "theron-scevi-ste-cantalienne-equipement-vehicules-industriels",
+        "telephone": "04 71 62 82 50",
+        "site_web": null,
+        "adresse": "La Grange, 15220 Roannes-Saint-Mary",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Atelier de carrosserie automobile"
+      }
+    ]
+  },
+  "saint-cernin": {
+    "artisans": [
+      {
+        "id": "10803082129896225489",
+        "nom": "Serre Cyrille",
+        "slug": "serre-cyrille",
+        "telephone": "04 71 47 66 63",
+        "site_web": "https://www.cyrilleserre.fr/",
+        "adresse": "4 Lot. de Saint-Martin de Valois, 15310 Saint-Cernin",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "13389339240797556313",
+        "nom": "Atelier Cros",
+        "slug": "atelier-cros",
+        "telephone": "06 12 21 58 91",
+        "site_web": "https://www.ateliercros.fr/",
+        "adresse": "8 Leygues, 15340 Sénezergues",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12058254580503155482",
+        "nom": "Alexandre Selves, \"La ferme d'Alterines\"",
+        "slug": "alexandre-selves-la-ferme-dalterines",
+        "telephone": "06 82 29 29 92",
+        "site_web": "https://www.facebook.com/fermealterines/",
+        "adresse": "15310 Saint-Cernin",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Agriculteur"
+      },
+      {
+        "id": "13257783355971047611",
+        "nom": "Lesmarie Victor",
+        "slug": "lesmarie-victor",
+        "telephone": "04 71 47 68 61",
+        "site_web": null,
+        "adresse": "2 Lot. de Saint-Martin de Valois, 15310 Saint-Cernin",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4970305379730933998",
+        "nom": "Plane & Plans Vladimir du Rieu Architecte Charpentier Menuisier (Plane et Plans)",
+        "slug": "plane-plans-vladimir-du-rieu-architecte-charpentier-menuisier-plane-et-plans",
+        "telephone": "06 78 60 06 01",
+        "site_web": "https://planeetplans.wixsite.com/planeetplans",
+        "adresse": "15140 Fontanges",
+        "note": 5,
+        "avis": 0,
+        "type": "Architecte"
+      },
+      {
+        "id": "7494276922189155431",
+        "nom": "Auvergne Bois de Chauffage",
+        "slug": "auvergne-bois-de-chauffage",
+        "telephone": "06 36 89 02 20",
+        "site_web": "https://www.auvergne-bois-chauffage.com/",
+        "adresse": "15310 Tournemire",
+        "note": 2.2,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "3216358599498831883",
+        "nom": "Rouffet Hubert",
+        "slug": "rouffet-hubert",
+        "telephone": "09 61 20 14 95",
+        "site_web": null,
+        "adresse": "15310 Tournemire",
+        "note": 2,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2998356302250466288",
+        "nom": "Lacombe Jean-Michel",
+        "slug": "lacombe-jean-michel",
+        "telephone": "04 71 47 61 04",
+        "site_web": "http://www.maconnerie-lacombe.fr/",
+        "adresse": "15310 Saint-Cernin",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "11892418240763830247",
+        "nom": "Domaine d' Anjoigny ESAT Agricole - ADSEA du Cantal",
+        "slug": "domaine-d-anjoigny-esat-agricole-adsea-du-cantal",
+        "telephone": "04 71 47 69 77",
+        "site_web": "http://www.adsea15.fr/",
+        "adresse": "Domaine d'Anjoigny, 15310 Saint-Cernin",
+        "note": 4.3,
+        "avis": 14,
+        "type": "Organisme de soutien et de services aux personnes handicapées"
+      }
+    ]
+  },
+  "saint-georges": {
+    "artisans": [
+      {
+        "id": "17133060970302723411",
+        "nom": "Machemie David",
+        "slug": "machemie-david",
+        "telephone": "04 71 60 00 38",
+        "site_web": "https://www.charpente-couverture-machemie.fr/",
+        "adresse": "15100 Saint-Georges",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "vezac": {
+    "artisans": [
+      {
+        "id": "16331839541227876271",
+        "nom": "Espitbois",
+        "slug": "espitbois",
+        "telephone": "05 53 30 31 20",
+        "site_web": "http://www.espitbois.com/",
+        "adresse": "Faye Basse, 99 Rue de l'Atelier Gilbert, 24220 Vézac",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "2195888800625269119",
+        "nom": "Centre Commercial De Vézac",
+        "slug": "centre-commercial-de-vezac",
+        "telephone": "04 71 43 38 61",
+        "site_web": null,
+        "adresse": "31 Rue Pierre Marty, 15130 Vézac",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Supérette"
+      },
+      {
+        "id": "13100993108875969284",
+        "nom": "Le salon",
+        "slug": "le-salon",
+        "telephone": "04 71 43 20 44",
+        "site_web": "https://frmaps.xyz/business/le-salon-kC9IT0LU",
+        "adresse": "Zone des terrons, 31 Rue Pierre Marty, 15130 Vézac",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Salon de coiffure"
+      },
+      {
+        "id": "14168663519503129292",
+        "nom": "ROMAIN HEBRARD bricolagepourtous",
+        "slug": "romain-hebrard-bricolagepourtous",
+        "telephone": "06 33 61 02 45",
+        "site_web": "http://www.lebricolagepourtous.com/",
+        "adresse": "6 Lotissement Le Méjanes, 15130 Giou-de-Mamou",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Entreprise de bricolage"
+      }
+    ]
+  },
+  "saint-paul-des-landes": {
+    "artisans": [
+      {
+        "id": "12898658370995913373",
+        "nom": "Ferluc Williams",
+        "slug": "ferluc-williams",
+        "telephone": "04 71 46 35 45",
+        "site_web": null,
+        "adresse": "15250 Saint-Paul-des-Landes",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      }
+    ]
+  },
+  "vic-sur-cere": {
+    "artisans": [
+      {
+        "id": "802813640238137906",
+        "nom": "Menuiserie CAMMAS",
+        "slug": "menuiserie-cammas",
+        "telephone": "06 48 80 54 30",
+        "site_web": "https://menuiseriecammas.com/",
+        "adresse": "03 impasse du Pradal, 15800 Vic-sur-Cère",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13865003061759646417",
+        "nom": "Carrier Etablissement Bonal",
+        "slug": "carrier-etablissement-bonal",
+        "telephone": "04 71 47 51 02",
+        "site_web": null,
+        "adresse": "Rue Eugène Pages, 15800 Vic-sur-Cère",
+        "note": 4,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13160935992785927643",
+        "nom": "JB RISPAL",
+        "slug": "jb-rispal",
+        "telephone": "06 85 67 08 86",
+        "site_web": null,
+        "adresse": "Pl. de l'Égalité, 15800 Vic-sur-Cère",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17864655341873001120",
+        "nom": "Woodwork Agencement",
+        "slug": "woodwork-agencement",
+        "telephone": "06 85 67 08 86",
+        "site_web": "https://www.woodwork-agencement.fr/contact",
+        "adresse": "1 Pl. de l'Égalité, 15800 Vic-sur-Cère",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "sansac-de-marmiesse": {
+    "artisans": [
+      {
+        "id": "2367905934114537715",
+        "nom": "Atelier Créateur",
+        "slug": "atelier-createur",
+        "telephone": "04 63 27 20 64",
+        "site_web": "https://www.ateliercreateur.fr/",
+        "adresse": "10 Chem. de Lasfargues, 15130 Sansac-de-Marmiesse",
+        "note": 0,
+        "avis": 0,
+        "type": "Artisanat"
+      },
+      {
+        "id": "64416299054023238",
+        "nom": "Scierie Antoine",
+        "slug": "scierie-antoine",
+        "telephone": "09 74 56 98 56",
+        "site_web": "https://www.scierie-antoine.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Lagarrouste, 15120 Sansac-Veinazès",
+        "note": 5,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "1512077611602223238",
+        "nom": "Lacalmontie Jean",
+        "slug": "lacalmontie-jean",
+        "telephone": "04 71 47 75 10",
+        "site_web": "http://arts.revacances.com/",
+        "adresse": "11 Chem. du Mas, 15130 Sansac-de-Marmiesse",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Galerie d'art"
+      },
+      {
+        "id": "4039084287054450580",
+        "nom": "GÉRARD TEULADE",
+        "slug": "gerard-teulade",
+        "telephone": "04 71 46 95 08",
+        "site_web": null,
+        "adresse": "25 Rue du Lac Pavin, 15130 Ytrac",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "6127339492060708201",
+        "nom": "VEDREINE & Cie",
+        "slug": "vedreine-cie",
+        "telephone": "04 71 62 80 80",
+        "site_web": "http://www.vedreine.com/",
+        "adresse": "Route d'Aurillac, 15130 Sansac-de-Marmiesse",
+        "note": 2.8,
+        "avis": 0,
+        "type": "Imprimeur"
+      }
+    ]
+  },
+  "saint-simon": {
+    "artisans": [
+      {
+        "id": "16916253874940894869",
+        "nom": "Toubert Sarl",
+        "slug": "toubert-sarl",
+        "telephone": "04 71 47 30 32",
+        "site_web": null,
+        "adresse": "Délai lou Pont, 15250 Marmanhac",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "11581435741838304451",
+        "nom": "Bulle de Salers",
+        "slug": "bulle-de-salers",
+        "telephone": "06 61 48 09 38",
+        "site_web": "http://www.bulledesalers.fr/",
+        "adresse": "La Croix de l'Arbre, à 6 km d'Aurillac, 15130 Saint-Simon",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Restaurant"
+      }
+    ]
+  }
+}

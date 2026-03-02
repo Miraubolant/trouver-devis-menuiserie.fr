@@ -1,0 +1,4583 @@
+{
+  "auxonne": {
+    "artisans": [
+      {
+        "id": "7674690019448171710",
+        "nom": "Fenêtres Bois 21 (anciennement Menuiseries 21)",
+        "slug": "fenetres-bois-21-anciennement-menuiseries-21",
+        "telephone": "01 40 69 57 40",
+        "site_web": "http://menuiseries21.com/",
+        "adresse": "7 Rue La Pérouse, 75016 Paris",
+        "note": 5,
+        "avis": 0,
+        "type": "Bois"
+      },
+      {
+        "id": "16668105315635010348",
+        "nom": "Menuiserie De Jesus Manuel",
+        "slug": "menuiserie-de-jesus-manuel",
+        "telephone": "03 80 37 48 84",
+        "site_web": "https://dejesus-manuel.fr/",
+        "adresse": "1 Rue des Granges Hautes, 21130 Auxonne",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7059248841470835747",
+        "nom": "Menuiserie Alexandre",
+        "slug": "menuiserie-alexandre",
+        "telephone": "03 80 31 10 93",
+        "site_web": null,
+        "adresse": "12 Rue du Bief Pérou, 21130 Auxonne",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7222859862859999980",
+        "nom": "Menuiserie et Services",
+        "slug": "menuiserie-et-services",
+        "telephone": "06 47 01 14 94",
+        "site_web": "http://menuiserieetservices.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7493539250371021175",
+        "nom": "NARIAN FERMETURES",
+        "slug": "narian-fermetures",
+        "telephone": "03 73 73 67 10",
+        "site_web": "https://www.narian.fr/",
+        "adresse": "6 Rue de la Petite Saône, 21130 Auxonne",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "rouvres-en-plaine": {
+    "artisans": [
+      {
+        "id": "4724886775376416014",
+        "nom": "SARL Martinez",
+        "slug": "sarl-martinez",
+        "telephone": "02 37 51 21 43",
+        "site_web": "http://www.charpente-martinez.fr/",
+        "adresse": "2 Rte de Berchères, 28260 Rouvres",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "9656990486118199047",
+        "nom": "ARTEBA",
+        "slug": "arteba",
+        "telephone": "03 80 65 40 27",
+        "site_web": "http://www.arteba.fr/",
+        "adresse": "11 Rue Jean Baptiste Say, 21800 Chevigny-Saint-Sauveur",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7224769915428749799",
+        "nom": "RTrenovation",
+        "slug": "rtrenovation",
+        "telephone": "03 80 79 14 89",
+        "site_web": null,
+        "adresse": "14 Rue des Ducs de Bourgogne, 21110 Rouvres-en-Plaine",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3897497491311492058",
+        "nom": "Menuiserie FM Services et Dépannages",
+        "slug": "menuiserie-fm-services-et-depannages",
+        "telephone": "06 64 98 92 05",
+        "site_web": "https://www.fmsd21.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6107462855763831600",
+        "nom": "Thom Création Bois",
+        "slug": "thom-creation-bois",
+        "telephone": "06 30 23 05 10",
+        "site_web": "https://charpentier-menuisier-bourgogne.fr/",
+        "adresse": "4allée du séquoia, All. du Séquoia, 21110 Izier",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2645753090077586713",
+        "nom": "Wil and Co Menuiserie",
+        "slug": "wil-and-co-menuiserie",
+        "telephone": "03 73 62 01 95",
+        "site_web": "https://www.wilandco-menuiserie.com/",
+        "adresse": "ZA de Boulouze, 21110 Fauverney",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17288770379504296638",
+        "nom": "Desormieres",
+        "slug": "desormieres",
+        "telephone": "06 63 46 25 84",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2452696777553789829",
+        "nom": "PPRS Menuiserie",
+        "slug": "pprs-menuiserie",
+        "telephone": "03 74 48 20 51",
+        "site_web": "http://pprs-menuiserie.com/",
+        "adresse": "2 Rue Gustave Eiffel, 21110 Genlis",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17419150021792590400",
+        "nom": "Menuiseries Concept 21 - Artisan menuisier Dijon",
+        "slug": "menuiseries-concept-21-artisan-menuisier-dijon",
+        "telephone": "03 80 61 05 53",
+        "site_web": "https://www.menuiseriesconcept21.fr/",
+        "adresse": "8 Bd de l'Europe, 21800 Quetigny",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4788462131737185665",
+        "nom": "Menuiserie dautel",
+        "slug": "menuiserie-dautel",
+        "telephone": "03 80 55 35 71",
+        "site_web": "http://www.menuiseriedautel.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "belleneuve": {
+    "artisans": [
+      {
+        "id": "15387976921732886413",
+        "nom": "Menuiserie Sebastien WALLE",
+        "slug": "menuiserie-sebastien-walle",
+        "telephone": "06 80 73 41 49",
+        "site_web": "https://user.clicrdv.com/menuiserie-sebastien-walle",
+        "adresse": "Rue Beauregard, 21490 Norges-la-Ville",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8866173740690984258",
+        "nom": "Menuiserie La Source",
+        "slug": "menuiserie-la-source",
+        "telephone": "07 83 69 45 07",
+        "site_web": "https://menuiserie-lasource.com/",
+        "adresse": "4 Rte de Dijon, 21490 Norges-la-Ville",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5302643369234482215",
+        "nom": "DP BOIS et Cie",
+        "slug": "dp-bois-et-cie",
+        "telephone": "06 81 53 73 68",
+        "site_web": "http://dpboisetcie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2096194278067842137",
+        "nom": "Menuiserie Daniel Pioche",
+        "slug": "menuiserie-daniel-pioche",
+        "telephone": "03 80 36 52 66",
+        "site_web": null,
+        "adresse": "80 Grande Rue, 21310 Mirebeau-sur-Bèze",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15765538068088300758",
+        "nom": "Les Menuiseries Bourguignonnes",
+        "slug": "les-menuiseries-bourguignonnes",
+        "telephone": "06 82 87 78 83",
+        "site_web": null,
+        "adresse": "26 Rte de Talmay, 21310 Renève",
+        "note": 4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17096192460541119623",
+        "nom": "Menuiserie PETIT",
+        "slug": "menuiserie-petit",
+        "telephone": null,
+        "site_web": "http://www.menuiseriepetit2152.fr/",
+        "adresse": "45 Rue General Fauconnet, 21000 Dijon",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "4398568010602819092",
+        "nom": "Noirébène",
+        "slug": "noirebene",
+        "telephone": "06 35 39 79 20",
+        "site_web": "https://noirebene.wixsite.com/website",
+        "adresse": "10 Rte de Drambon, 21270 Saint-Léger-Triey",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12688249864472468939",
+        "nom": "Avenir Menuiserie",
+        "slug": "avenir-menuiserie",
+        "telephone": "06 81 78 78 48",
+        "site_web": null,
+        "adresse": "1 Ter Cr du Château, 21490 Ruffey-lès-Echirey",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3098520595681006705",
+        "nom": "Maison l'Embrasure",
+        "slug": "maison-lembrasure",
+        "telephone": "07 80 86 20 16",
+        "site_web": "https://www.embrasure-menuiserie.fr/",
+        "adresse": "6 Rue de Bastogne, 21850 Saint-Apollinaire",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3622130392477763818",
+        "nom": "Armando Vitorio – Agencement & Menuiserie",
+        "slug": "armando-vitorio-agencement-menuiserie",
+        "telephone": "06 12 13 18 60",
+        "site_web": "https://armandovitorio-menuiserie-renovation.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bligny-les-beaune": {
+    "artisans": [
+      {
+        "id": "14412914404714869179",
+        "nom": "Ebénisterie CHATAGNIER",
+        "slug": "ebenisterie-chatagnier",
+        "telephone": "03 80 22 17 07",
+        "site_web": null,
+        "adresse": "29 Rue du Faubourg Perpreuil, 21200 Beaune",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "6322710030890033607",
+        "nom": "Menuiserie Pourtaud Yohan",
+        "slug": "menuiserie-pourtaud-yohan",
+        "telephone": "06 88 09 79 91",
+        "site_web": "https://menuiserie-pourtaud.com/",
+        "adresse": "11 Rte d'Ecutigny, 21360 Bligny-sur-Ouche",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3990553068702491976",
+        "nom": "Fermetures de l'Ouche - Sur Mesure Menuiserie",
+        "slug": "fermetures-de-louche-sur-mesure-menuiserie",
+        "telephone": "06 84 08 55 28",
+        "site_web": "https://bligny-sur-ouche.surmesure-menuiserie.fr/",
+        "adresse": "65 Rte de Beaune, 21360 Bligny-sur-Ouche",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9105409872765214401",
+        "nom": "Menuiserie Charpente Bois David Barberet",
+        "slug": "menuiserie-charpente-bois-david-barberet",
+        "telephone": "03 80 24 94 82",
+        "site_web": "https://www.lepagnier-scm.com/",
+        "adresse": "27 Rte de Beaune, 21420 Savigny-lès-Beaune",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5905796337809847929",
+        "nom": "Menuiserie Del Rosario",
+        "slug": "menuiserie-del-rosario",
+        "telephone": "06 21 72 59 03",
+        "site_web": "https://www.menuiserie-dr.com/",
+        "adresse": "473 Rue André Marie Ampère, 21200 Beaune",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12659298261346510279",
+        "nom": "Menuiserie Bruno",
+        "slug": "menuiserie-bruno",
+        "telephone": "06 87 54 82 09",
+        "site_web": null,
+        "adresse": "Rue sous la Velle, 21190 Nantoux",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7705960372350140319",
+        "nom": "Atelier Ballereaud",
+        "slug": "atelier-ballereaud",
+        "telephone": "06 03 16 76 67",
+        "site_web": "http://www.atelier-ballereaud.com/",
+        "adresse": "43 BIS Av. Charles Jaffelin, 21200 Beaune",
+        "note": 4,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "10259594226116294828",
+        "nom": "Atelier des Hautes Côtes",
+        "slug": "atelier-des-hautes-cotes",
+        "telephone": "06 78 75 49 32",
+        "site_web": "https://www.atelierdeshautescotes.fr/",
+        "adresse": "3 rue du 19 Mars 1962, 21700 Chaux",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6353447088131627651",
+        "nom": "Label Ouvrage",
+        "slug": "label-ouvrage",
+        "telephone": "06 20 66 69 74",
+        "site_web": "https://www.label-ouvrage.fr/",
+        "adresse": "7 Rle Morlot, 21200 Beaune",
+        "note": 5,
+        "avis": 0,
+        "type": "Agenceur"
+      },
+      {
+        "id": "12960524819101659324",
+        "nom": "Menuiserie Belorgey",
+        "slug": "menuiserie-belorgey",
+        "telephone": "06 85 36 27 24",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "asnieres-les-dijon": {
+    "artisans": [
+      {
+        "id": "6725149081596001777",
+        "nom": "Heurtaux Jérôme",
+        "slug": "heurtaux-jerome",
+        "telephone": "06 10 25 64 65",
+        "site_web": "http://www.menuiserie-heurtaux.fr/?utm_source=gmb",
+        "adresse": "8 Rue de Messigny, 21380 Asnières-lès-Dijon",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "14373913717050394462",
+        "nom": "MJP Menuiserie",
+        "slug": "mjp-menuiserie",
+        "telephone": "06 61 76 75 05",
+        "site_web": "https://www.menuiserie-mjp.fr/",
+        "adresse": "13 Rue de Messigny, 21380 Asnières-lès-Dijon",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "brazey-en-plaine": {
+    "artisans": [
+      {
+        "id": "14223362495645576741",
+        "nom": "360plus",
+        "slug": "360plus",
+        "telephone": "06 69 37 17 72",
+        "site_web": null,
+        "adresse": "142 Rte de Dijon, 21470 Brazey-en-Plaine",
+        "note": 0,
+        "avis": 0,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "620782366156854542",
+        "nom": "Presta Fermetures",
+        "slug": "presta-fermetures",
+        "telephone": "06 87 10 97 71",
+        "site_web": null,
+        "adresse": "11 Pl. de L Hôtel de ville, 21470 Brazey-en-Plaine",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3720317811554952146",
+        "nom": "Inan",
+        "slug": "inan",
+        "telephone": "06 72 93 14 36",
+        "site_web": "https://sites.google.com/view/sarlinan/",
+        "adresse": "148 Rte de Dijon, 21470 Brazey-en-Plaine",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Façadier"
+      },
+      {
+        "id": "399423264460379247",
+        "nom": "Menuiserie Quenot",
+        "slug": "menuiserie-quenot",
+        "telephone": "07 70 43 94 05",
+        "site_web": null,
+        "adresse": "46 Rte de Dole, 21170 Losne",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1149857161505031907",
+        "nom": "Fred Bond Bois",
+        "slug": "fred-bond-bois",
+        "telephone": "06 40 36 91 49",
+        "site_web": "http://www.fredbondbois.com/",
+        "adresse": "16 Chemin du canal, Abbayotte, 21170 Saint-Usage",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "7835556396401226809",
+        "nom": "Curé Emballages",
+        "slug": "cure-emballages",
+        "telephone": "03 80 29 83 13",
+        "site_web": "http://www.cure-emballages.com/",
+        "adresse": "Rte d'Esbarres, 21470 Brazey-en-Plaine",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Entreprise de packaging"
+      },
+      {
+        "id": "683104203078146183",
+        "nom": "Bourgeois Fermetures EURL",
+        "slug": "bourgeois-fermetures-eurl",
+        "telephone": "03 80 39 49 38",
+        "site_web": null,
+        "adresse": "3 Rue Deher, 21170 Trouhans",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2396451602760857125",
+        "nom": "HB21 menuiserie",
+        "slug": "hb21-menuiserie",
+        "telephone": "06 17 92 43 19",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12622916140102243574",
+        "nom": "Celen Halil",
+        "slug": "celen-halil",
+        "telephone": "03 80 29 86 55",
+        "site_web": null,
+        "adresse": "de Tassigny 46, Rue Maréchal de Lattre, 21470 Brazey-en-Plaine",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "14573859987526798969",
+        "nom": "Sarl Leveque",
+        "slug": "sarl-leveque",
+        "telephone": "03 80 32 04 00",
+        "site_web": null,
+        "adresse": "Rte d'Esbarres, 21470 Brazey-en-Plaine",
+        "note": 5,
+        "avis": 0,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "beaune": {
+    "artisans": [
+      {
+        "id": "7742891207515647419",
+        "nom": "Bourgogne Menuiseries Fermetures - Beaune- fenêtres - portails - portes d'entrée - alu - pvc",
+        "slug": "bourgogne-menuiseries-fermetures-beaune-fenetres-portails-portes-dentree-alu-pvc",
+        "telephone": "03 80 24 75 24",
+        "site_web": "http://www.bourgogne-miroiterie.fr/",
+        "adresse": "164 Rte de Dijon, 21200 Beaune",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13793173248908112937",
+        "nom": "SCHMIDT Beaune",
+        "slug": "schmidt-beaune",
+        "telephone": "03 80 20 84 11",
+        "site_web": "https://www.home-design.schmidt/fr-fr/magasins/cote-d-or/beaune",
+        "adresse": "2 Rue Gustave Eiffel, 21200 Beaune",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Prestataire de réaménagement de cuisine"
+      },
+      {
+        "id": "15962287136397083075",
+        "nom": "TRYBA Beaune",
+        "slug": "tryba-beaune",
+        "telephone": "03 53 64 13 06",
+        "site_web": "https://www.tryba.com/espace-conseil/21/tryba-beaune/?utm_campaign=Tryba_beaune&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "20 Av. du Lac, 21200 Beaune",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11073094425651988745",
+        "nom": "La Maison Des Travaux",
+        "slug": "la-maison-des-travaux",
+        "telephone": "06 10 93 12 99",
+        "site_web": "https://beaune.lamaisondestravaux.com/",
+        "adresse": "26 Av. de la République, 21200 Beaune",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "1307116272485485243",
+        "nom": "D.L.H. Menuiseries",
+        "slug": "dlh-menuiseries",
+        "telephone": "03 80 24 09 11",
+        "site_web": "https://www.tryba.com/menuiserie/?utm_source=GMB&utm_medium=CTA-WEB&utm_campaign=Tryba_Beaune",
+        "adresse": "2 Rue du Lieutenant Dupuis, 21200 Beaune",
+        "note": 3.2,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9022409393559691438",
+        "nom": "Serrurerie Métallerie RADREAU",
+        "slug": "serrurerie-metallerie-radreau",
+        "telephone": "03 80 22 27 51",
+        "site_web": "https://www.radreau.fr/",
+        "adresse": "1 A Rue du Régiment de Bourgogne, 21200 Beaune",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "7308466994006185461",
+        "nom": "Le Menuisier de la Cave",
+        "slug": "le-menuisier-de-la-cave",
+        "telephone": "07 50 97 82 69",
+        "site_web": "https://lemenuisierdelacave.fr/",
+        "adresse": "10 Rue Cabry, 21700 Premeaux-Prissey",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14093121430414480126",
+        "nom": "Abrisun Fermetures",
+        "slug": "abrisun-fermetures",
+        "telephone": "03 80 72 36 42",
+        "site_web": "https://www.abrisun-fermetures.com/",
+        "adresse": "12 Av. du 8 Septembre 1944, 21200 Beaune",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13319237226847287782",
+        "nom": "Métallerie PIROUX",
+        "slug": "metallerie-piroux",
+        "telephone": "07 85 91 93 11",
+        "site_web": "http://www.metallerie-piroux.fr/",
+        "adresse": "25 Rte de Beaune, 21420 Savigny-lès-Beaune",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "16335572629321934929",
+        "nom": "Augey Ets",
+        "slug": "augey-ets",
+        "telephone": "03 80 24 17 27",
+        "site_web": "https://www.amc-augey.com/",
+        "adresse": "7 Rue du Mont Batois, 21200 Beaune",
+        "note": 4,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "arnay-le-duc": {
+    "artisans": [
+      {
+        "id": "14740240760232008068",
+        "nom": "MC HABITAT",
+        "slug": "mc-habitat",
+        "telephone": "03 80 64 68 76",
+        "site_web": "https://mc-habitat-fenetres.fr/",
+        "adresse": "7 Rue de Paris, 21230 Arnay-le-Duc",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "3606858248424431885",
+        "nom": "MENUISERIE DES MONTQUARTIERS",
+        "slug": "menuiserie-des-montquartiers",
+        "telephone": "03 80 84 24 52",
+        "site_web": null,
+        "adresse": "7 Rue Traversière, 21230 Arnay-le-Duc",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "bressey-sur-tille": {
+    "artisans": [
+      {
+        "id": "2143234449712055509",
+        "nom": "PROJINOV Menuiseries",
+        "slug": "projinov-menuiseries",
+        "telephone": "03 73 27 55 00",
+        "site_web": "https://www.projinov-menuiseries.com/",
+        "adresse": "22 Rue de la Rochotte, 21120 Is-sur-Tille",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2418256567693607438",
+        "nom": "Solutions Menuiserie",
+        "slug": "solutions-menuiserie",
+        "telephone": "03 80 37 26 34",
+        "site_web": null,
+        "adresse": "16 Rue des Renardières, 21560 Arc-sur-Tille",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14898295475465699015",
+        "nom": "SP MENUISERIE 21560 REMILLY SUR TILLE",
+        "slug": "sp-menuiserie-21560-remilly-sur-tille",
+        "telephone": "06 08 66 11 73",
+        "site_web": null,
+        "adresse": "All. des Charmilles, 21560 Remilly-sur-Tille",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18015651446291602703",
+        "nom": "Mil'house",
+        "slug": "milhouse",
+        "telephone": "06 61 79 82 65",
+        "site_web": "http://milhoue.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Décorateur d'intérieur"
+      }
+    ]
+  },
+  "chenove": {
+    "artisans": [
+      {
+        "id": "11091856675188824567",
+        "nom": "Menuiserie Nicolardot",
+        "slug": "menuiserie-nicolardot",
+        "telephone": "0 820 22 23 10",
+        "site_web": "http://www.nicolardot.fr/?utm_source=gmb",
+        "adresse": "50 Av. Jean Moulin, 21160 Marsannay-la-Côte",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Agenceur"
+      },
+      {
+        "id": "4015342134494536845",
+        "nom": "MTM",
+        "slug": "mtm",
+        "telephone": "03 80 52 14 15",
+        "site_web": "https://www.mtm21.com/",
+        "adresse": "46 Rue de Longvic, 21300 Chenôve",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "6445912638363568180",
+        "nom": "MENUISERIE DU FOULTOT - DIJON",
+        "slug": "menuiserie-du-foultot-dijon",
+        "telephone": "03 80 27 06 95",
+        "site_web": "http://menuiserie-foultot.com/",
+        "adresse": "2 Rue du Vignery, 21160 Perrigny-lès-Dijon",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5688082185913726567",
+        "nom": "Ménéo Chenôve",
+        "slug": "meneo-chenove",
+        "telephone": "03 80 42 33 09",
+        "site_web": "https://www.doras.fr/meneo?utm_source=gmb",
+        "adresse": "6 Rue Antoine Becquerel, 21300 Chenôve",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10881794066012788561",
+        "nom": "M&A agencement",
+        "slug": "ma-agencement",
+        "telephone": "06 25 75 62 76",
+        "site_web": null,
+        "adresse": "8 Rue Albert Thomas, 21300 Chenôve",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10558246288938326523",
+        "nom": "Arcades & Baies Dijon",
+        "slug": "arcades-baies-dijon",
+        "telephone": "06 11 26 24 30",
+        "site_web": "https://magasin-dijon.arcadesetbaies.com/",
+        "adresse": "112 Av. Jean Jaurès, 21000 Dijon",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10369429495745615581",
+        "nom": "Adimes Agencement",
+        "slug": "adimes-agencement",
+        "telephone": "03 80 52 06 07",
+        "site_web": "http://www.adimes-concept.com/",
+        "adresse": "8 Rue des Frères Montgolfier, 21300 Chenôve",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9925114991951756702",
+        "nom": "SARL LE QUERE",
+        "slug": "sarl-le-quere",
+        "telephone": "03 80 58 87 16",
+        "site_web": "http://www.lequere-1991.fr/",
+        "adresse": "7 Rue Nicolas Cugnot, 21300 Chenôve",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11340626107139454200",
+        "nom": "Chenove",
+        "slug": "chenove",
+        "telephone": "06 49 26 34 00",
+        "site_web": null,
+        "adresse": "47 Rue de Marsannay, 21300 Chenôve",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12809146350971372635",
+        "nom": "Fenêtres, portes, vérandas - Boudier aluminium et acier",
+        "slug": "fenetres-portes-verandas-boudier-aluminium-et-acier",
+        "telephone": "03 80 65 16 21",
+        "site_web": "https://boudier-metallerie.com/",
+        "adresse": "7 Rue des Frères Montgolfier, 21300 Chenôve",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "chatillon-sur-seine": {
+    "artisans": [
+      {
+        "id": "785466294696998708",
+        "nom": "Intérieurs Guy Merlhou",
+        "slug": "interieurs-guy-merlhou",
+        "telephone": "03 80 91 05 88",
+        "site_web": null,
+        "adresse": "7 Rue de Cramont, 21400 Châtillon-sur-Seine",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "13841623831728757059",
+        "nom": "Menuiserie Gallice à Châtillon-sur-Seine",
+        "slug": "menuiserie-gallice-a-chatillon-sur-seine",
+        "telephone": "03 80 81 56 65",
+        "site_web": null,
+        "adresse": "7 Rue du Montoir, 21400 Châtillon-sur-Seine",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "126831787004498753",
+        "nom": "Menuiserie GRUET",
+        "slug": "menuiserie-gruet",
+        "telephone": "03 80 91 32 49",
+        "site_web": "http://www.gruet-menuiserie.com/",
+        "adresse": "44 Av. Edouard Herriot, 21400 Châtillon-sur-Seine",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17440403607287303562",
+        "nom": "Menuiserie Gresset",
+        "slug": "menuiserie-gresset",
+        "telephone": "03 80 91 03 17",
+        "site_web": "http://www.menuiserie-gresset.fr/",
+        "adresse": "2 Rue Claude Bernard, 21400 Châtillon-sur-Seine",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "580381828816839701",
+        "nom": "ALU CHATILLONNAIS SARL",
+        "slug": "alu-chatillonnais-sarl",
+        "telephone": "03 80 91 12 58",
+        "site_web": "https://www.alu-chatillonnais.fr/",
+        "adresse": "05 Av. du Président Coty, 21400 Châtillon-sur-Seine",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5171069761691585422",
+        "nom": "établissements Arnoult",
+        "slug": "etablissements-arnoult",
+        "telephone": "09 70 35 80 98",
+        "site_web": "https://www.ets-arnoult.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "18 Rue de Cramont, 21400 Châtillon-sur-Seine",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5331082942467255018",
+        "nom": "Julien Sivry L'atelier de Julien",
+        "slug": "julien-sivry-latelier-de-julien",
+        "telephone": "06 14 95 90 49",
+        "site_web": null,
+        "adresse": "1 Rue de Prusly, 21400 Châtillon-sur-Seine",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9578222356149384531",
+        "nom": "Hudeley David",
+        "slug": "hudeley-david",
+        "telephone": "06 84 84 32 45",
+        "site_web": "https://www.hudeley-cie-menuiserie.com/",
+        "adresse": "Combe de la Tête au Loup, 21400 Sainte-Colombe-sur-Seine",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "13634865352992499098",
+        "nom": "Mz Nature Bois",
+        "slug": "mz-nature-bois",
+        "telephone": "03 80 81 65 54",
+        "site_web": "http://www.mznaturebois.fr/",
+        "adresse": "42 Av. Edouard Herriot, 21400 Châtillon-sur-Seine",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Négociant en bois"
+      },
+      {
+        "id": "16045257000711859506",
+        "nom": "Menuiserie Sanchez",
+        "slug": "menuiserie-sanchez",
+        "telephone": "06 37 99 08 04",
+        "site_web": "https://www.facebook.com/Menuiserie.Sanchez.Geoffrey/",
+        "adresse": "1 B Cr Tanier, 21400 Nod-sur-Seine",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "chevigny-saint-sauveur": {
+    "artisans": [
+      {
+        "id": "1353977186946280607",
+        "nom": "Reggiori SARL",
+        "slug": "reggiori-sarl",
+        "telephone": "03 80 46 10 32",
+        "site_web": "http://www.reggiori.fr/",
+        "adresse": "Zone Industrielle Sud, 11 Imp. de la Margelle, 21800 Chevigny-Saint-Sauveur",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "9656990486118199047",
+        "nom": "ARTEBA",
+        "slug": "arteba",
+        "telephone": "03 80 65 40 27",
+        "site_web": "http://www.arteba.fr/",
+        "adresse": "11 Rue Jean Baptiste Say, 21800 Chevigny-Saint-Sauveur",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "639425465614862627",
+        "nom": "Maison Bois Dumont",
+        "slug": "maison-bois-dumont",
+        "telephone": "03 80 35 75 98",
+        "site_web": "https://www.charpentedumont.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "1 Rue du Point du Jour, 21800 Chevigny-Saint-Sauveur",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "7636195788072973029",
+        "nom": "Porcherel Roger",
+        "slug": "porcherel-roger",
+        "telephone": "03 80 46 12 63",
+        "site_web": null,
+        "adresse": "6 Rue des Artisans, 21800 Chevigny-Saint-Sauveur",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "760443778742894720",
+        "nom": "Etablissements Laveaux",
+        "slug": "etablissements-laveaux",
+        "telephone": "03 80 46 14 30",
+        "site_web": "http://www.grillages-laveaux.com/?utm_source=gmb",
+        "adresse": "Rue des Menuisiers, 21800 Chevigny-Saint-Sauveur",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Magasin de matériel pour clôtures"
+      },
+      {
+        "id": "9647032669186538087",
+        "nom": "Menuisier à Dijon - GUIHOME 21",
+        "slug": "menuisier-a-dijon-guihome-21",
+        "telephone": "06 20 40 21 91",
+        "site_web": "https://guihome21.fr/",
+        "adresse": "3 Rue des Marronniers, 21800 Quetigny",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5403774185366040956",
+        "nom": "C.E.M. Charpente Escalier Menuiserie",
+        "slug": "cem-charpente-escalier-menuiserie",
+        "telephone": "03 80 47 58 18",
+        "site_web": "https://www.cem21.fr/",
+        "adresse": "30 Rue des Mardors, 21560 Couternon",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "1540693979174630073",
+        "nom": "JGF Menuiserie",
+        "slug": "jgf-menuiserie",
+        "telephone": "06 23 22 78 42",
+        "site_web": null,
+        "adresse": "1B Imp. Champeau, 21800 Quetigny",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10850636400648599314",
+        "nom": "Forquet Menuiserie",
+        "slug": "forquet-menuiserie",
+        "telephone": "06 59 11 49 49",
+        "site_web": null,
+        "adresse": "5 Rue de Cluj, 21000 Dijon",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14829718543603439223",
+        "nom": "Centre Est Isolation",
+        "slug": "centre-est-isolation",
+        "telephone": "03 80 46 25 12",
+        "site_web": "https://www.centreestisolation.com/",
+        "adresse": "11 Bd du Champ aux Métiers, 21800 Quetigny",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "couternon": {
+    "artisans": [
+      {
+        "id": "1745189029577931535",
+        "nom": "Menuiserie Pech",
+        "slug": "menuiserie-pech",
+        "telephone": "06 18 20 80 61",
+        "site_web": null,
+        "adresse": "6 Rue des Bords de Norges, 21560 Couternon",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "collonges-et-premieres": {
+    "artisans": [
+      {
+        "id": "15406086668988822555",
+        "nom": "Aubertin Rénov Multi-Travaux",
+        "slug": "aubertin-renov-multi-travaux",
+        "telephone": "07 70 50 18 21",
+        "site_web": "https://www.facebook.com/Aubertin-R%C3%A9nov-Multi-Travaux-102849195574398",
+        "adresse": "5 Rue des Meix, 21110 Collonges-et-Premières",
+        "note": 5,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "12220349119504225767",
+        "nom": "Atout Bois 21",
+        "slug": "atout-bois-21",
+        "telephone": "03 80 37 92 98",
+        "site_web": "https://www.semabat.fr/",
+        "adresse": "14 Rue de la Gare, 21110 Collonges-et-Premières",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de packaging"
+      },
+      {
+        "id": "15899140869538418760",
+        "nom": "Esprit Bois 21",
+        "slug": "esprit-bois-21",
+        "telephone": "03 80 37 97 97",
+        "site_web": "http://www.espritbois21.com/",
+        "adresse": "14 Rue de la Gare, 21110 Collonges-et-Premières",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "18141684246293382339",
+        "nom": "L'ATELIER GUIDO",
+        "slug": "latelier-guido",
+        "telephone": "06 13 55 36 32",
+        "site_web": "https://www.l-atelier-guido.fr/",
+        "adresse": "11 Rue Grande Rue, 21110 Collonges-et-Premières",
+        "note": 5,
+        "avis": 0,
+        "type": "Chambre des Métiers et de l'Artisanat"
+      },
+      {
+        "id": "14253880542590677766",
+        "nom": "Haut Doubs Bois 21 - GEDIBOIS (Collonges-et-Premières)",
+        "slug": "haut-doubs-bois-21-gedibois-collonges-et-premieres",
+        "telephone": "03 80 39 49 71",
+        "site_web": "http://www.haut-doubs-bois.com/",
+        "adresse": "14 Rue de la Gare, 21110 Collonges-et-Premières",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Négociant en bois"
+      },
+      {
+        "id": "12253254285677331424",
+        "nom": "ESPACE BOIS FRANCE",
+        "slug": "espace-bois-france",
+        "telephone": "06 12 21 89 05",
+        "site_web": "https://www.ebfrance.com/",
+        "adresse": "14 Rue de la Gare, 21110 Collonges-et-Premières",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "11775145992972904512",
+        "nom": "Constructions Bois Fournier",
+        "slug": "constructions-bois-fournier",
+        "telephone": "03 80 31 03 72",
+        "site_web": "http://www.charpente-bourgogne.com/",
+        "adresse": "14 Rue de la Gare, 21110 Collonges-et-Premières",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "14194980711953569192",
+        "nom": "SARL ESPADA",
+        "slug": "sarl-espada",
+        "telephone": "03 80 31 21 79",
+        "site_web": "https://www.sarl-espada.com/",
+        "adresse": "20 Av. de la Tille, 21110 Genlis",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "3303884247199779435",
+        "nom": "Pilliard Menuiserie Agencement",
+        "slug": "pilliard-menuiserie-agencement",
+        "telephone": "06 16 19 65 10",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3653859685816606556",
+        "nom": "Step Arcadia NSA",
+        "slug": "step-arcadia-nsa",
+        "telephone": "03 80 47 29 00",
+        "site_web": "http://www.step-arcadia.com/?utm_source=gmb",
+        "adresse": "26 Rue des Lilas, 21110 Genlis",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "couchey": {
+    "artisans": [
+      {
+        "id": "16641827194660603896",
+        "nom": "Menuiserie Voye et Fils SARL",
+        "slug": "menuiserie-voye-et-fils-sarl",
+        "telephone": "03 80 58 82 28",
+        "site_web": null,
+        "adresse": "3 Chem. de la Ruellette, 21160 Perrigny-lès-Dijon",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "9816584533969071163",
+        "nom": "M.A.D.B Menuiserie Agencement de Bourgogne",
+        "slug": "madb-menuiserie-agencement-de-bourgogne",
+        "telephone": "03 80 52 01 20",
+        "site_web": "https://www.madb-agencement.com/",
+        "adresse": "10 Imp. des Prés Sampagny, 21160 Couchey",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9912206929688598487",
+        "nom": "Direct Fermeture",
+        "slug": "direct-fermeture",
+        "telephone": "03 73 73 92 72",
+        "site_web": "http://www.directfermeture.fr/?utm_source=gmb",
+        "adresse": "Rue du 8 Mai 1945, 21160 Couchey",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7999437589869773853",
+        "nom": "Charpente Côte d'Or",
+        "slug": "charpente-cote-dor",
+        "telephone": "03 80 51 26 95",
+        "site_web": null,
+        "adresse": "8 Imp. des Prés Sampagny, 21160 Couchey",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "6147544860692184793",
+        "nom": "Menuiserie Cruchaudet - Beaumont",
+        "slug": "menuiserie-cruchaudet-beaumont",
+        "telephone": "03 80 51 88 11",
+        "site_web": null,
+        "adresse": "Rte de Saulon, 21220 Gevrey-Chambertin",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "daix": {
+    "artisans": [
+      {
+        "id": "9295187473018413952",
+        "nom": "Menuiserie Dijon - CMA",
+        "slug": "menuiserie-dijon-cma",
+        "telephone": "06 45 70 45 39",
+        "site_web": "https://www.cma-menuiserie.com/",
+        "adresse": "28 Rue de la Bresse, 21121 Fontaine-lès-Dijon",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11248083865430083487",
+        "nom": "Menuiserie Bidault",
+        "slug": "menuiserie-bidault",
+        "telephone": "03 80 56 37 31",
+        "site_web": null,
+        "adresse": "46 bis Rue de Dijon, 21121 Daix",
+        "note": 1.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15280235394807853518",
+        "nom": "l'Atelier de Rory Menuiserie",
+        "slug": "latelier-de-rory-menuiserie",
+        "telephone": "06 30 41 88 33",
+        "site_web": "https://www.facebook.com/profile.php?id=100094548681606",
+        "adresse": "3 Rue des Moulissards, 21240 Talant",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6146174082305276167",
+        "nom": "L'ARTISAN MENUISIER BOURGUIGNON",
+        "slug": "lartisan-menuisier-bourguignon",
+        "telephone": "03 80 57 38 71",
+        "site_web": "http://www.artisan-menuisier-bourguignon.fr/",
+        "adresse": "10 Rue des Novalles, 21240 Talant",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "2347007828539339761",
+        "nom": "Dijon Fermetures SARL",
+        "slug": "dijon-fermetures-sarl",
+        "telephone": "03 80 73 69 95",
+        "site_web": "http://www.dijon-fermetures.fr/",
+        "adresse": "16 Rue René Char, 21000 Dijon",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "5268869200387833871",
+        "nom": "SARL NRV ANTONI tous corps d’état",
+        "slug": "sarl-nrv-antoni-tous-corps-detat",
+        "telephone": "03 80 57 42 29",
+        "site_web": "http://www.nrv-entreprise.fr/",
+        "adresse": "46 Rue de Dijon, 21121 Daix",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "254818462054399262",
+        "nom": "Alexandre Menuiserie",
+        "slug": "alexandre-menuiserie",
+        "telephone": "06 82 53 75 83",
+        "site_web": "https://www.facebook.com/AlexandreMenuiserie21/",
+        "adresse": "3 Imp. de la Fontaine, 21370 Velars-sur-Ouche",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "708738964667960733",
+        "nom": "MB DIRECT - KOMILFO - CONCEPT ALU - Dijon",
+        "slug": "mb-direct-komilfo-concept-alu-dijon",
+        "telephone": "03 80 53 96 20",
+        "site_web": "https://www.mbdirect.fr/",
+        "adresse": "5 Rue des Champs aux Fèves, 21121 Fontaine-lès-Dijon",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5116185277568058172",
+        "nom": "Menuiserie Julien LANDUCCI",
+        "slug": "menuiserie-julien-landucci",
+        "telephone": "06 32 40 48 31",
+        "site_web": "https://menuiseriejulienlanducci.mystrikingly.com/",
+        "adresse": "Roy Jeannot, 21121 Étaules",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15234340426934974304",
+        "nom": "Vérandas CONCEPT ALU",
+        "slug": "verandas-concept-alu",
+        "telephone": "03 80 53 96 20",
+        "site_web": "https://www.conceptalu.com/points-de-vente/cotes-dor/21-verandas-dijon/?utm_campaign=gmb&utm_medium=organic&utm_source=google",
+        "adresse": "5 Rue des Champs aux Fèves, 21121 Fontaine-lès-Dijon",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "dijon": {
+    "artisans": [
+      {
+        "id": "3692301851412303756",
+        "nom": "SOMMANT Menuiserie",
+        "slug": "sommant-menuiserie",
+        "telephone": "03 80 41 31 56",
+        "site_web": null,
+        "adresse": "5 Rue du Havre, 21000 Dijon",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5805584511255641917",
+        "nom": "Paupert Fermetures",
+        "slug": "paupert-fermetures",
+        "telephone": "06 84 94 16 09",
+        "site_web": null,
+        "adresse": "12 Rue Philippe le Hardi, 21000 Dijon",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16675376082794113786",
+        "nom": "Menuisiers dijon",
+        "slug": "menuisiers-dijon",
+        "telephone": "07 81 08 26 35",
+        "site_web": "https://menuisierdijon.com/",
+        "adresse": "Pl. de la France libre, 21000 Dijon",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15420622289218012530",
+        "nom": "La Menuiserie",
+        "slug": "la-menuiserie",
+        "telephone": "03 80 30 46 07",
+        "site_web": "http://www.lamenuiseriedijon.fr/",
+        "adresse": "28 Rue des Godrans, 21000 Dijon",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Bistro"
+      },
+      {
+        "id": "9098592745734996533",
+        "nom": "PACOTTE & MIGNOTTE Sn - Fenêtres et ouvertures Dijon",
+        "slug": "pacotte-mignotte-sn-fenetres-et-ouvertures-dijon",
+        "telephone": "03 80 71 32 32",
+        "site_web": "https://www.pacotte-mignotte.fr/?utm_source=google&utm_medium=seo&utm_campaign=gmb_dijon",
+        "adresse": "17 Rue de la Brot, 21000 Dijon",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "fenay": {
+    "artisans": [
+      {
+        "id": "8144105817482589823",
+        "nom": "MENUISERIE DAUTEL",
+        "slug": "menuiserie-dautel",
+        "telephone": "06 85 64 91 97",
+        "site_web": "http://www.menuiseriedautel.fr/contact.html",
+        "adresse": "5 Imp. des Colleys, 21600 Fénay",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "fleurey-sur-ouche": {
+    "artisans": [
+      {
+        "id": "1242063565724306507",
+        "nom": "Aires Fermetures",
+        "slug": "aires-fermetures",
+        "telephone": "06 08 94 24 88",
+        "site_web": null,
+        "adresse": "4 Rue d'Amont, 21410 Arcey",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "664129941623095411",
+        "nom": "ccenergie",
+        "slug": "ccenergie",
+        "telephone": "03 80 76 01 65",
+        "site_web": null,
+        "adresse": "ZAC DES COMBETS, 21410 Fleurey-sur-Ouche",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "17413594748461554348",
+        "nom": "Conseil Confort Energie",
+        "slug": "conseil-confort-energie",
+        "telephone": "07 83 96 00 92",
+        "site_web": "http://www.ccenergie.fr/?utm_source=gmb",
+        "adresse": "Rue des Combets, 21410 Fleurey-sur-Ouche",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "15263726930520874637",
+        "nom": "GB Serrurerie-Fermetures et Automatismes",
+        "slug": "gb-serrurerie-fermetures-et-automatismes",
+        "telephone": "06 72 16 38 81",
+        "site_web": null,
+        "adresse": "Zone Artisanale, Au Bas des Combets, 21410 Fleurey-sur-Ouche",
+        "note": 5,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "1482395476340959746",
+        "nom": "Menuiserie Souverbie",
+        "slug": "menuiserie-souverbie",
+        "telephone": "07 88 00 74 81",
+        "site_web": null,
+        "adresse": "15 Rue de l'Église, 21410 Mâlain",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5706487326659836133",
+        "nom": "Les Charpentiers de L'Ouche",
+        "slug": "les-charpentiers-de-louche",
+        "telephone": "03 80 76 01 97",
+        "site_web": "https://charpentiersdelouche.fr/",
+        "adresse": "ZA des, 21410 Ancey",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "14260679744830971852",
+        "nom": "Delignum",
+        "slug": "delignum",
+        "telephone": "06 61 21 78 70",
+        "site_web": "https://www.delignum.fr/",
+        "adresse": "144 Rue Haute, 21410 Sainte-Marie-sur-Ouche",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15481799256427243245",
+        "nom": "Olivier Rossi",
+        "slug": "olivier-rossi",
+        "telephone": "07 44 71 04 43",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17530187090199904027",
+        "nom": "maison bioclimatique semi enterrée",
+        "slug": "maison-bioclimatique-semi-enterree",
+        "telephone": "07 81 21 75 26",
+        "site_web": null,
+        "adresse": "Rue de la Croix Saint-Pierre, 21410 Fleurey-sur-Ouche",
+        "note": 5,
+        "avis": 0,
+        "type": "Architecte"
+      },
+      {
+        "id": "11694746584469339629",
+        "nom": "Chaineaux François",
+        "slug": "chaineaux-francois",
+        "telephone": "03 80 49 72 33",
+        "site_web": null,
+        "adresse": "35 Rue Boudrot, 21410 Mâlain",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "fontaine-les-dijon": {
+    "artisans": [
+      {
+        "id": "8997639542535225908",
+        "nom": "Gerriet Escaliers",
+        "slug": "gerriet-escaliers",
+        "telephone": "03 80 56 60 54",
+        "site_web": "http://www.gerriet.com/",
+        "adresse": "15 Rue de la Petite Fin, 21121 Fontaine-lès-Dijon",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Société de fabrication d'escaliers"
+      },
+      {
+        "id": "16646210212597707373",
+        "nom": "Serrurerie Ménétrier",
+        "slug": "serrurerie-menetrier",
+        "telephone": "03 80 56 59 23",
+        "site_web": "http://serrureriemenetrier.com/",
+        "adresse": "9 Rue de la Grande Fin, 21121 Fontaine-lès-Dijon",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "2642774926124007782",
+        "nom": "SERRURERIE MATRAT METALLERIE",
+        "slug": "serrurerie-matrat-metallerie",
+        "telephone": "03 80 56 51 55",
+        "site_web": "http://www.serrurerie-matrat.com/",
+        "adresse": "14 Rue de la Petite Fin, 21121 Fontaine-lès-Dijon",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "14507945119780898646",
+        "nom": "BERTHELON Menuiserie Agencement",
+        "slug": "berthelon-menuiserie-agencement",
+        "telephone": "03 80 67 10 59",
+        "site_web": null,
+        "adresse": "11 Rue de l'Ingénieur Bertin, 21600 Longvic",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10003458591275972899",
+        "nom": "SUNCLEAR France",
+        "slug": "sunclear-france",
+        "telephone": "03 80 55 05 00",
+        "site_web": "https://www.sunclear.fr/",
+        "adresse": "7 Rue des Cortots, 21121 Fontaine-lès-Dijon",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "gevrey-chambertin": {
+    "artisans": [
+      {
+        "id": "6147544860692184793",
+        "nom": "Menuiserie Cruchaudet - Beaumont",
+        "slug": "menuiserie-cruchaudet-beaumont",
+        "telephone": "03 80 51 88 11",
+        "site_web": null,
+        "adresse": "Rte de Saulon, 21220 Gevrey-Chambertin",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "genlis": {
+    "artisans": [
+      {
+        "id": "12500444478059681455",
+        "nom": "G.R.C.B. Charpentier-Couvreur",
+        "slug": "grcb-charpentier-couvreur",
+        "telephone": "06 10 33 47 03",
+        "site_web": "https://www.grcb-charp-couv.com/",
+        "adresse": "395 Chemin de Beire le Fort, 21110 Genlis",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14627214708600076194",
+        "nom": "Serrurerie Thierry Bourdot",
+        "slug": "serrurerie-thierry-bourdot",
+        "telephone": "03 80 29 80 81",
+        "site_web": "https://www.serrureriethierrybourdot.fr/",
+        "adresse": "Rue des Roses, 21110 Genlis",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "9858439908910506827",
+        "nom": "Autour de l'Acier",
+        "slug": "autour-de-lacier",
+        "telephone": "03 80 65 21 43",
+        "site_web": "https://www.autourdelacier.com/",
+        "adresse": "5 Rue des Compagnons, 21110 Genlis",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "11714706462454343660",
+        "nom": "Salignon Père et Fils SARL",
+        "slug": "salignon-pere-et-fils-sarl",
+        "telephone": "03 80 37 91 97",
+        "site_web": "http://www.sarl-salignon.fr/",
+        "adresse": "25 Av. de la Gare, 21110 Genlis",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "hauteville-les-dijon": {
+    "artisans": [
+      {
+        "id": "4119862363075247547",
+        "nom": "Menuiserie Thelongeon",
+        "slug": "menuiserie-thelongeon",
+        "telephone": "06 81 75 94 49",
+        "site_web": "http://menuiserie-thelongeon.fr/",
+        "adresse": "6 voie Champ Grand Didier, 21490 Saint-Julien",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5795131258537179416",
+        "nom": "Bgs Alu - PORTAILS ALUMINIUM - PORTES - PERGOLA",
+        "slug": "bgs-alu-portails-aluminium-portes-pergola",
+        "telephone": "03 80 52 76 79",
+        "site_web": "http://www.bgs-alu.com/",
+        "adresse": "1 RUE DU CHAMP AUX PIERRES, 21850 Saint-Apollinaire",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "is-sur-tille": {
+    "artisans": [
+      {
+        "id": "3592796166248765597",
+        "nom": "Robinet Dominique",
+        "slug": "robinet-dominique",
+        "telephone": "03 80 95 28 51",
+        "site_web": null,
+        "adresse": "Rue de la Rochotte, 21120 Is-sur-Tille",
+        "note": 4,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "17703172404516053012",
+        "nom": "Pascal Marchand",
+        "slug": "pascal-marchand",
+        "telephone": "03 80 95 46 90",
+        "site_web": "https://www.marchand-menuiserie.fr/",
+        "adresse": "37 Rue François Mitterrand, 21120 Is-sur-Tille",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13274015008942348965",
+        "nom": "Atelier Christophe SUARD",
+        "slug": "atelier-christophe-suard",
+        "telephone": null,
+        "site_web": "https://www.atelier-acs.com/",
+        "adresse": "10 Rue du Président Wilson, 21120 Is-sur-Tille",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8524324043618829466",
+        "nom": "JSB Père et fils",
+        "slug": "jsb-pere-et-fils",
+        "telephone": "06 99 93 19 88",
+        "site_web": null,
+        "adresse": "26 Av. Carnot, 21120 Is-sur-Tille",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "6164737686061831472",
+        "nom": "J.t.p. Pro Sarl",
+        "slug": "jtp-pro-sarl",
+        "telephone": "06 17 47 62 74",
+        "site_web": null,
+        "adresse": "12 Ter Rue François Mitterrand, 21120 Is-sur-Tille",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13383875452418117037",
+        "nom": "Agencement Bois Mardon",
+        "slug": "agencement-bois-mardon",
+        "telephone": "06 62 34 21 49",
+        "site_web": "http://www.abmardon.com/",
+        "adresse": "32 Av. Edouard Spahr, 21260 Selongey",
+        "note": 5,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "8599200611776602207",
+        "nom": "SARL IS SERRURERIE",
+        "slug": "sarl-is-serrurerie",
+        "telephone": "03 80 95 04 59",
+        "site_web": "http://www.is-serrurerie-metallerie.fr/",
+        "adresse": "Zone Industrielle, 15 Rue du Triage, 21120 Is-sur-Tille",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10206258387601024794",
+        "nom": "Alu 21 - Menuiserie aluminium, fabricant - installateur",
+        "slug": "alu-21-menuiserie-aluminium-fabricant-installateur",
+        "telephone": "03 80 75 96 84",
+        "site_web": "http://alu-21.fr/",
+        "adresse": "8 Av. Edouard Spahr, 21260 Selongey",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "17766810500240781691",
+        "nom": "ATELIER CHARME ET CONCEPT",
+        "slug": "atelier-charme-et-concept",
+        "telephone": "06 68 88 33 59",
+        "site_web": null,
+        "adresse": "12 Rue de Labergement, 21120 Moloy",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "labergement-les-seurre": {
+    "artisans": [
+      {
+        "id": "7361531837953913109",
+        "nom": "MENUISERIE DUMONT ET BERT - TERRES DE FENETRE - SOGAL EXPERT",
+        "slug": "menuiserie-dumont-et-bert-terres-de-fenetre-sogal-expert",
+        "telephone": "03 80 21 11 73",
+        "site_web": "https://www.dumont-bert-menuiserie.com/",
+        "adresse": "24 Bis Rue de l'Usine, 21250 Pouilly-sur-Saône",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5969477647581523079",
+        "nom": "Cottone David",
+        "slug": "cottone-david",
+        "telephone": "03 80 21 07 72",
+        "site_web": null,
+        "adresse": "4 Rue du Meix Pichot, 21820 Labergement-lès-Seurre",
+        "note": 3,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "3392522339602042",
+        "nom": "DG Menuiserie",
+        "slug": "dg-menuiserie",
+        "telephone": "06 58 50 09 12",
+        "site_web": "https://dg-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "longchamp": {
+    "artisans": [
+      {
+        "id": "16573080346145513372",
+        "nom": "JCM Fermetures",
+        "slug": "jcm-fermetures",
+        "telephone": "07 84 08 11 41",
+        "site_web": "https://www.jcm-fermetures.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7517017112552326388",
+        "nom": "Delort&Bois",
+        "slug": "delortbois",
+        "telephone": "06 79 46 45 13",
+        "site_web": null,
+        "adresse": "18 Rte de Dijon, 21310 Magny-Saint-Médard",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "lamarche-sur-saone": {
+    "artisans": [
+      {
+        "id": "2794604036508722672",
+        "nom": "J&F Aménagement et confort intérieur",
+        "slug": "jf-amenagement-et-confort-interieur",
+        "telephone": "06 66 84 14 89",
+        "site_web": "https://www.facebook.com/profile.php?id=61551939030109",
+        "adresse": "6 Rue du Tertre, 21310 Charmes",
+        "note": 5,
+        "avis": 0,
+        "type": "Agenceur"
+      },
+      {
+        "id": "9438565640831671535",
+        "nom": "RH Renovation - Plaquiste Jointeur",
+        "slug": "rh-renovation-plaquiste-jointeur",
+        "telephone": "06 69 47 25 71",
+        "site_web": "https://sites.google.com/view/rhreno",
+        "adresse": "9 Rue de Franche-Comté, 21760 Lamarche-sur-Saône",
+        "note": 5,
+        "avis": 0,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "2426517353269824817",
+        "nom": "HM Bois Design",
+        "slug": "hm-bois-design",
+        "telephone": "03 80 65 31 86",
+        "site_web": "http://www.hmbois-tournage.com/",
+        "adresse": "7 Rue du Val de Saône, 21270 Étevaux",
+        "note": 5,
+        "avis": 0,
+        "type": "Artisanat"
+      },
+      {
+        "id": "16437546013503903137",
+        "nom": "MCP Fermetures",
+        "slug": "mcp-fermetures",
+        "telephone": "06 22 05 43 40",
+        "site_web": null,
+        "adresse": "44 Rue du 8 Mai 1945, 21270 Pontailler-sur-Saône",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13426445820062041441",
+        "nom": "TRIFAM",
+        "slug": "trifam",
+        "telephone": "03 80 37 97 88",
+        "site_web": "http://www.trifam.fr/",
+        "adresse": "5 Rte de Lamarche, 21270 Vonges",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "4437477724290471924",
+        "nom": "Chambres Clément. Tables et chambres d'hôte.",
+        "slug": "chambres-clement-tables-et-chambres-dhote",
+        "telephone": "03 80 47 17 04",
+        "site_web": "http://www.chambresclement.fr/en/contact.html",
+        "adresse": "15 Rue du Pont, 21760 Lamarche-sur-Saône",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Chambre d'hôtes"
+      },
+      {
+        "id": "290990376680182320",
+        "nom": "Lamarche-sur-Saône",
+        "slug": "lamarche-sur-saone",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lamarche-sur-Saône",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "18100479346750443722",
+        "nom": "Protection Solaire 21 et Fermetures",
+        "slug": "protection-solaire-21-et-fermetures",
+        "telephone": "03 80 36 71 86",
+        "site_web": null,
+        "adresse": "82a Grande Rue, 21310 Mirebeau-sur-Bèze",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "longecourt-en-plaine": {
+    "artisans": [
+      {
+        "id": "16328542175510399021",
+        "nom": "LMS Maçonnerie Services",
+        "slug": "lms-maconnerie-services",
+        "telephone": "06 01 31 20 78",
+        "site_web": "https://www.facebook.com/LMS-Ma%C3%A7onnerie-services-100995379201158/",
+        "adresse": "4 Rue du Murot, 21110 Longecourt-en-Plaine",
+        "note": 5,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "13332689606195227882",
+        "nom": "Thivant Jean Francois",
+        "slug": "thivant-jean-francois",
+        "telephone": "03 80 39 76 65",
+        "site_web": null,
+        "adresse": "45 Rte de Dijon, 21110 Longecourt-en-Plaine",
+        "note": 0,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "15066778890347265933",
+        "nom": "SARL Jolibois",
+        "slug": "sarl-jolibois",
+        "telephone": "03 80 39 84 96",
+        "site_web": "http://sarljoliboisfreres.site-solocal.com/",
+        "adresse": "2 Rue Neuve, 21110 Longecourt-en-Plaine",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4322377820237921475",
+        "nom": "Cabinet Infirmier Devilliers Flajollet",
+        "slug": "cabinet-infirmier-devilliers-flajollet",
+        "telephone": "03 80 67 44 86",
+        "site_web": null,
+        "adresse": "32 Rte de Dijon, 21110 Longecourt-en-Plaine",
+        "note": 5,
+        "avis": 0,
+        "type": "Cabinet infirmier"
+      },
+      {
+        "id": "18026499479873505678",
+        "nom": "pilliard menuiserie agencement",
+        "slug": "pilliard-menuiserie-agencement",
+        "telephone": "06 16 19 65 10",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2830214272059597382",
+        "nom": "Plastalu",
+        "slug": "plastalu",
+        "telephone": "03 80 79 25 10",
+        "site_web": null,
+        "adresse": "Rte de Chevigny, 21600 Ouges",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Fabricant"
+      },
+      {
+        "id": "2062928224723131790",
+        "nom": "Mz Peinture Et Traditions",
+        "slug": "mz-peinture-et-traditions",
+        "telephone": "06 24 31 73 79",
+        "site_web": "https://www.facebook.com/pages/MZ-Peinture-Et-Traditions-Varanges-Genlis-C%C3%B4te-d-Or-d%C3%A9p-21/387015211419287",
+        "adresse": "3 Rue de l'épeautre, 21110 Thorey-en-Plaine",
+        "note": 5,
+        "avis": 0,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "longeault-pluvault": {
+    "artisans": [
+      {
+        "id": "13201207417455131161",
+        "nom": "Espace Bois 21",
+        "slug": "espace-bois-21",
+        "telephone": "03 80 55 01 17",
+        "site_web": "http://www.ebfrance.com/",
+        "adresse": "5 RN 5, 21110 Longeault-Pluvault",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "15635915384375217136",
+        "nom": "Cuisines Références Dijon - Longeault",
+        "slug": "cuisines-references-dijon-longeault",
+        "telephone": "03 80 37 82 21",
+        "site_web": "https://www.cuisines-references.fr/trouvez-votre-magasin/magasin-cuisines-references-longeault-dijon?at_campaign=2103-perm&at_channel=gmb&at_identifier=Longeault&at_medium=local_organic&utm_campaign=2103-perm&utm_content=Longeault&utm_medium=local_organic&utm_source=gmb",
+        "adresse": "5 RN 5, 21110 Longeault-Pluvault",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "2677253904989092178",
+        "nom": "ISOFRANCE Fenêtres & Energies - Longeault Pluvault",
+        "slug": "isofrance-fenetres-energies-longeault-pluvault",
+        "telephone": "03 73 73 91 40",
+        "site_web": "https://www.isofrance-fenetres-energies.fr/magasin/isofrance-fenetres-energies-21-longeault-pluvault/63",
+        "adresse": "RN 5, 21110 Longeault-Pluvault",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "12490658968961054363",
+        "nom": "A.R.I Aménagement Rénovation Intérieure",
+        "slug": "ari-amenagement-renovation-interieure",
+        "telephone": "06 16 96 76 88",
+        "site_web": null,
+        "adresse": "4 Rue Roulotte, 21110 Longeault-Pluvault",
+        "note": 5,
+        "avis": 0,
+        "type": "Plâtrier.ère"
+      }
+    ]
+  },
+  "nuits-saint-georges": {
+    "artisans": [
+      {
+        "id": "14564888256948322724",
+        "nom": "Sanchez et Fils",
+        "slug": "sanchez-et-fils",
+        "telephone": "03 80 62 95 14",
+        "site_web": "http://www.sarlsanchezetfils.fr/",
+        "adresse": "11 Rue du 18 Décembre, 21700 Nuits-Saint-Georges",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5114416941447689768",
+        "nom": "Qualidécor",
+        "slug": "qualidecor",
+        "telephone": "03 80 62 88 66",
+        "site_web": "http://qualidecor-fermetures.com/",
+        "adresse": "2 Rue Saint-Joseph, 21700 Nuits-Saint-Georges",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Artisanat"
+      },
+      {
+        "id": "7925367019400974726",
+        "nom": "SARL SANCHEZ ET FILS",
+        "slug": "sarl-sanchez-et-fils",
+        "telephone": "03 80 30 60 29",
+        "site_web": "http://www.sarlsanchezetfils.fr/",
+        "adresse": "ZAC Renardières, Rue Buffon, 21700 Nuits-Saint-Georges",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "18052465343857771600",
+        "nom": "Fermetures De La Côte",
+        "slug": "fermetures-de-la-cote",
+        "telephone": "03 80 79 21 38",
+        "site_web": "http://www.fermetures-et-cuisines-du-morvan.com/",
+        "adresse": "15 Rue Henri Challand, 21700 Nuits-Saint-Georges",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "nolay": {
+    "artisans": [
+      {
+        "id": "2429601519916619514",
+        "nom": "Menuiserie Bretin",
+        "slug": "menuiserie-bretin",
+        "telephone": "06 99 51 40 66",
+        "site_web": "http://www.menuiserie-bretin.fr/",
+        "adresse": "Showroom :, 49 Rue de la République, 21340 Nolay",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "noiron-sous-gevrey": {
+    "artisans": [
+      {
+        "id": "9986159506215913220",
+        "nom": "CREATION MENUISERIE",
+        "slug": "creation-menuiserie",
+        "telephone": "07 81 57 07 75",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5923320982452592730",
+        "nom": "EURL ECCM",
+        "slug": "eurl-eccm",
+        "telephone": "06 75 70 06 43",
+        "site_web": "http://eccmbois.fr/",
+        "adresse": "3 Rte de Savouges, 21910 Noiron-sous-Gevrey",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "ouges": {
+    "artisans": [
+      {
+        "id": "16901130717887066637",
+        "nom": "R.B.Menuiserie",
+        "slug": "rbmenuiserie",
+        "telephone": "03 80 36 67 09",
+        "site_web": null,
+        "adresse": "Rue de Dijon, 21600 Ouges",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "15243724875726414106",
+        "nom": "GUIDOT SYLVAIN PAUL ANDRE (Menuiserie Longvicienne)",
+        "slug": "guidot-sylvain-paul-andre-menuiserie-longvicienne",
+        "telephone": "06 05 62 64 29",
+        "site_web": null,
+        "adresse": "1925 Rue de l'aviation Aéroport de Dijon Bourgogne, 21600 Ouges",
+        "note": 2.1,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "18394801888085708070",
+        "nom": "La Fermeture",
+        "slug": "la-fermeture",
+        "telephone": "06 60 46 97 37",
+        "site_web": "http://www.lafermeture.fr/",
+        "adresse": "13 Rue de la Plucharde, 21110 Bretenière",
+        "note": 3.4,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6020145292535021475",
+        "nom": "la Fabrik à Portail",
+        "slug": "la-fabrik-a-portail",
+        "telephone": "03 45 83 15 66",
+        "site_web": "http://www.la-fabrik-a-portail.fr/",
+        "adresse": "31 A Av. de la Gare, 21910 Saulon-la-Chapelle",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17958593560863511378",
+        "nom": "FPM Fermeture Pose Maintenance",
+        "slug": "fpm-fermeture-pose-maintenance",
+        "telephone": "06 70 77 65 46",
+        "site_web": "https://fpm-menuiserie-aluminium.fr/",
+        "adresse": "13 Av. de la Gare, 21600 Ouges",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "plombieres-les-dijon": {
+    "artisans": [
+      {
+        "id": "17442893062517608585",
+        "nom": "Renovia Services EURL",
+        "slug": "renovia-services-eurl",
+        "telephone": "07 62 35 59 59",
+        "site_web": "http://www.renovia-services.com/",
+        "adresse": "38 Rue Bernard Courtois, 21370 Plombières-lès-Dijon",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "pouilly-en-auxois": {
+    "artisans": [
+      {
+        "id": "3218613891089122165",
+        "nom": "Menuiserie de l'Auxois",
+        "slug": "menuiserie-de-lauxois",
+        "telephone": "03 80 64 21 77",
+        "site_web": "http://www.menuiseriedelauxois.com/?utm_source=gmb",
+        "adresse": "2 ZA Champ Roger, 21320 Pouilly-en-Auxois",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10952013119924594151",
+        "nom": "Gedibois",
+        "slug": "gedibois",
+        "telephone": "03 80 90 81 70",
+        "site_web": "http://www.scierie-gaitey.fr/?utm_source=gmb",
+        "adresse": "1 Rue du Mignereau, 21320 Pouilly-en-Auxois",
+        "note": 5,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "3278932117836009551",
+        "nom": "Atelier de l'habitat Bourgogne – Franche-Comté",
+        "slug": "atelier-de-lhabitat-bourgogne-franche-comte",
+        "telephone": "07 71 71 71 43",
+        "site_web": null,
+        "adresse": "1 Rue du Sergent Stéphane Mazeau, 21320 Pouilly-en-Auxois",
+        "note": 1,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "55485044002592605",
+        "nom": "CHIC & BOIS",
+        "slug": "chic-bois",
+        "telephone": "06 83 32 67 42",
+        "site_web": null,
+        "adresse": "2 za champ roger, 21320 Pouilly-en-Auxois",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans la décoration d'intérieur"
+      },
+      {
+        "id": "12343669014365982814",
+        "nom": "Menuiserie Torchin",
+        "slug": "menuiserie-torchin",
+        "telephone": "03 80 90 62 00",
+        "site_web": null,
+        "adresse": "le seuil, 21320 Pouilly-en-Auxois",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "539898853102423126",
+        "nom": "Chevalier",
+        "slug": "chevalier",
+        "telephone": "03 80 90 82 92",
+        "site_web": null,
+        "adresse": "13 Les portes de bourgogne, 21320 Créancey",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3873310355830115679",
+        "nom": "Prod Al",
+        "slug": "prod-al",
+        "telephone": "03 80 90 69 00",
+        "site_web": null,
+        "adresse": "ZA Les Portes De Bourgogne, 21320 Créancey",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7100402580142326623",
+        "nom": "ATELIER DE L'HABITAT",
+        "slug": "atelier-de-lhabitat",
+        "telephone": "07 71 71 71 43",
+        "site_web": null,
+        "adresse": null,
+        "note": 1,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15546785557732911743",
+        "nom": "Menuiserie Gaitey",
+        "slug": "menuiserie-gaitey",
+        "telephone": "03 80 64 07 66",
+        "site_web": "http://www.menuiserie-gaitey-jenvrin.com/",
+        "adresse": "ZAC Les portes de Bourgogne, Rue Georges Besse, 21320 Créancey",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin d'ameublement et de décoration"
+      }
+    ]
+  },
+  "quetigny": {
+    "artisans": [
+      {
+        "id": "9499717618225604554",
+        "nom": "IDEALFERM",
+        "slug": "idealferm",
+        "telephone": "06 47 53 68 52",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13546338173970938418",
+        "nom": "TRYBA Quetigny",
+        "slug": "tryba-quetigny",
+        "telephone": "03 53 64 13 55",
+        "site_web": "https://www.tryba.com/espace-conseil/21/tryba-dijon-est/?utm_campaign=Tryba_Dijon-Est&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "1 Rue des Ciseaux, 21800 Quetigny",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "longvic": {
+    "artisans": [
+      {
+        "id": "6946311889410408682",
+        "nom": "SK FERMETURES",
+        "slug": "sk-fermetures",
+        "telephone": "07 62 86 70 58",
+        "site_web": "https://www.helloartisan.com/annuaire/pro-sk-fermetures-886875?activity=29&city=21600",
+        "adresse": "6 Rue du 19 Mars 1962, 21600 Longvic",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14355370917522505173",
+        "nom": "Posco",
+        "slug": "posco",
+        "telephone": "06 85 13 31 44",
+        "site_web": "http://www.posco.fr/",
+        "adresse": "1 Rue du, Rue Professeur Georges Chabot, 21600 Longvic",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13572115014331126305",
+        "nom": "Atelier Met'alu",
+        "slug": "atelier-metalu",
+        "telephone": "03 80 37 17 64",
+        "site_web": "https://www.atelier-metalu.com/",
+        "adresse": "23-31, 23 Rue de l'Ingénieur Bertin, 21600 Longvic",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "1671060481030299424",
+        "nom": "SOLUTIONS MENUISERIE",
+        "slug": "solutions-menuiserie",
+        "telephone": "03 80 37 26 34",
+        "site_web": null,
+        "adresse": "25 Rue de l'Ingénieur Bertin, 21600 Longvic",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "marsannay-la-cote": {
+    "artisans": [
+      {
+        "id": "3300635144249682983",
+        "nom": "S.M.E Menuiserie",
+        "slug": "sme-menuiserie",
+        "telephone": "06 75 51 62 20",
+        "site_web": null,
+        "adresse": "31 Rue de la Pièce Léger, 21160 Marsannay-la-Côte",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "6257629911849960848",
+        "nom": "Technistore",
+        "slug": "technistore",
+        "telephone": "03 80 54 06 56",
+        "site_web": null,
+        "adresse": "30 Rue de la Pièce Léger, 21160 Marsannay-la-Côte",
+        "note": 2.3,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "11123293739827289261",
+        "nom": "Loiseau Fermetures",
+        "slug": "loiseau-fermetures",
+        "telephone": "03 80 51 48 51",
+        "site_web": "https://www.fermetures-loiseau.fr/",
+        "adresse": "161 Rue de la Pièce Léger, 21160 Marsannay-la-Côte",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "9516916845763051633",
+        "nom": "Gustave Rideau",
+        "slug": "gustave-rideau",
+        "telephone": "03 84 79 13 12",
+        "site_web": "https://www.gustaverideau.com/agences/dijon-moyse-3d/?utm_campaign=dijon&utm_medium=GMB&utm_source=google",
+        "adresse": "121 All. Dr Lépine, 21160 Marsannay-la-Côte",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "marcilly-sur-tille": {
+    "artisans": [
+      {
+        "id": "711786318242045454",
+        "nom": "Métallerie BIGUEURE – Atelier de métallerie & charpente métallique à Dijon et Orville",
+        "slug": "metallerie-bigueure-atelier-de-metallerie-charpente-metallique-a-dijon-et-orville",
+        "telephone": "07 86 93 38 87",
+        "site_web": "https://app.inter-fast.fr/public/company/F75950/request/forms/1ec7cd30-c0e1-4d2f-b1a7-6dfa270af777",
+        "adresse": "42 D974, 21260 Orville",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "11652609052019606952",
+        "nom": "Atelier Picxwood",
+        "slug": "atelier-picxwood",
+        "telephone": "07 88 37 62 06",
+        "site_web": "http://instagram.com/picx_wood",
+        "adresse": "16 Rte de la Combe Gissey, 21120 Vernot",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15293262985772750772",
+        "nom": "Vauzelle Fermetures",
+        "slug": "vauzelle-fermetures",
+        "telephone": "06 35 45 89 27",
+        "site_web": "https://www.vauzelle-fermetures-21.fr/devis-gratuit-votre-entreprise-menuiserie-exterieure-vauzelle-fermetures",
+        "adresse": "Imp. de la Commotte, 21120 Marcilly-sur-Tille",
+        "note": 4,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "14539056463626566242",
+        "nom": "AM MOREIRA Menuiserie / Agencement",
+        "slug": "am-moreira-menuiserie-agencement",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Impasse des Cigognes, 21120 Gemeaux",
+        "note": 0,
+        "avis": 0,
+        "type": "Résidence"
+      },
+      {
+        "id": "6585733528016425626",
+        "nom": "MENUISERIE ROGER",
+        "slug": "menuiserie-roger",
+        "telephone": "03 80 75 70 93",
+        "site_web": null,
+        "adresse": "9 Rte de la Gare, 21260 Selongey",
+        "note": 3.3,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "losne": {
+    "artisans": [
+      {
+        "id": "3870028613075351788",
+        "nom": "MB Bois Creation",
+        "slug": "mb-bois-creation",
+        "telephone": "03 80 79 22 09",
+        "site_web": null,
+        "adresse": "32 Rte de Dole, 21170 Losne",
+        "note": 0,
+        "avis": 0,
+        "type": "Siège social"
+      },
+      {
+        "id": "2800428904236548696",
+        "nom": "Toit et Bois",
+        "slug": "toit-et-bois",
+        "telephone": "03 80 39 22 55",
+        "site_web": "http://toit-et-bois.com/",
+        "adresse": "27 Rte de Dole, 21170 Losne",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "8428192078429238782",
+        "nom": "KM Agencements",
+        "slug": "km-agencements",
+        "telephone": "06 34 11 36 14",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "meursault": {
+    "artisans": [
+      {
+        "id": "11924327408869829766",
+        "nom": "Didier Greuzard",
+        "slug": "didier-greuzard",
+        "telephone": "06 82 92 66 61",
+        "site_web": "http://terrasse-bois-greuzard.fr/",
+        "adresse": "21 Rue de Bligny, 21200 Montagny-lès-Beaune",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17396414714583327761",
+        "nom": "F2CP Fermetures",
+        "slug": "f2cp-fermetures",
+        "telephone": "06 19 79 13 96",
+        "site_web": "http://www.f2cp-fermetures-21.com/",
+        "adresse": "8 Rue Georges Faivre, 21190 Merceuil",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "5922523166968219235",
+        "nom": "Gerbet D Sarl",
+        "slug": "gerbet-d-sarl",
+        "telephone": "03 80 21 32 54",
+        "site_web": "http://www.menuiserie-gerbet.fr/",
+        "adresse": "1 Chem. des Loueres, 21190 Corpeau",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "14678811758395928662",
+        "nom": "Nelle Charcuterie De Bourgogne",
+        "slug": "nelle-charcuterie-de-bourgogne",
+        "telephone": "03 80 21 20 62",
+        "site_web": "https://www.charcuterie-meursault.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "1 Rue de Lattre de Tassigny, 21190 Meursault",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Boucherie-charcuterie"
+      },
+      {
+        "id": "13570126570087336923",
+        "nom": "Meursault Travaux Publics",
+        "slug": "meursault-travaux-publics",
+        "telephone": "03 80 21 63 45",
+        "site_web": "http://www.mtp-piscines.com/",
+        "adresse": "Rue de la Planche Meunière, 21190 Meursault",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Société de construction de piscine"
+      },
+      {
+        "id": "10111024906629396329",
+        "nom": "ent nicolas",
+        "slug": "ent-nicolas",
+        "telephone": "03 80 24 23 02",
+        "site_web": null,
+        "adresse": "10 Rue Pisserotte, 21200 Montagny-lès-Beaune",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5341189544650493242",
+        "nom": "Belorgey Michel",
+        "slug": "belorgey-michel",
+        "telephone": "03 80 24 96 55",
+        "site_web": null,
+        "adresse": "Rue Anc. Rte d'Autun, 21630 Pommard",
+        "note": 0,
+        "avis": 0,
+        "type": "Tapissier décorateur"
+      },
+      {
+        "id": "4120730580295073682",
+        "nom": "Covre Charpente Sarl",
+        "slug": "covre-charpente-sarl",
+        "telephone": "03 85 87 00 48",
+        "site_web": "http://www.covre-charpente.com/",
+        "adresse": "Chem. des Champagnes, 71150 Chagny",
+        "note": 2.3,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "12126402566836254297",
+        "nom": "Roux Christian",
+        "slug": "roux-christian",
+        "telephone": "03 80 21 90 95",
+        "site_web": null,
+        "adresse": "12 Rue des Pingulières, 21190 Corpeau",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "6303636071226549784",
+        "nom": "Gilles Martin",
+        "slug": "gilles-martin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "21190 Meursault",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "messigny-et-vantoux": {
+    "artisans": [
+      {
+        "id": "779731098752809420",
+        "nom": "B.A. Bois",
+        "slug": "ba-bois",
+        "telephone": "03 80 55 47 71",
+        "site_web": "https://ba-bois.fr/",
+        "adresse": "ZA AU 9, Chp Pourceau D996, 21380 Messigny-et-Vantoux",
+        "note": 5,
+        "avis": 0,
+        "type": "Négociant en bois"
+      },
+      {
+        "id": "6389281909691996898",
+        "nom": "La ferme du val suzon",
+        "slug": "la-ferme-du-val-suzon",
+        "telephone": "06 70 00 99 37",
+        "site_web": null,
+        "adresse": "3 Pl. Raclot, 21380 Messigny-et-Vantoux",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "aiserey": {
+    "artisans": [
+      {
+        "id": "14478391101184585777",
+        "nom": "B.l.d Sarl",
+        "slug": "bld-sarl",
+        "telephone": "03 80 29 76 79",
+        "site_web": null,
+        "adresse": "18 Rte de Dijon, 21110 Aiserey",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "588577705345177178",
+        "nom": "Weldom Aiserey",
+        "slug": "weldom-aiserey",
+        "telephone": "03 80 29 68 25",
+        "site_web": "https://www.weldom.fr/m/weldom-aiserey",
+        "adresse": "La Corvee Aux Moines, Rte de Dijon, 21110 Aiserey",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "3891771604363822510",
+        "nom": "Mouillon Olivier SARL",
+        "slug": "mouillon-olivier-sarl",
+        "telephone": "03 80 29 76 87",
+        "site_web": "http://www.facebook.com/Mouillon-Olivier-343649982451538",
+        "adresse": "27 Rue de l'Oucherotte, 21110 Aiserey",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de terrassement"
+      }
+    ]
+  },
+  "mirebeau-sur-beze": {
+    "artisans": [
+      {
+        "id": "6211381142612926059",
+        "nom": "alu'r'soudure",
+        "slug": "alursoudure",
+        "telephone": "06 63 02 28 62",
+        "site_web": "http://alursoudure.com/?utm_source=gmb&utm_medium=referral",
+        "adresse": "6 Rue des Lingons, 21310 Mirebeau-sur-Bèze",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10335296376404524854",
+        "nom": "MF CREATION ET RENOVATION SARL",
+        "slug": "mf-creation-et-renovation-sarl",
+        "telephone": "06 78 96 80 83",
+        "site_web": "http://www.mf-creation-et-renovation.com/",
+        "adresse": "2 Rue du Lavoir, 21310 Oisilly",
+        "note": 5,
+        "avis": 0,
+        "type": "Tailleur de pierre"
+      },
+      {
+        "id": "12549557609467719436",
+        "nom": "hb menuiserie",
+        "slug": "hb-menuiserie",
+        "telephone": "06 65 54 45 80",
+        "site_web": "https://www.facebook.com/profile.php?id=100093244213638",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "ahuy": {
+    "artisans": [
+      {
+        "id": "6199717065923574691",
+        "nom": "Loiseau Volets Roulants",
+        "slug": "loiseau-volets-roulants",
+        "telephone": "03 80 51 08 88",
+        "site_web": "http://www.loiseau-volets-roulants.com/?utm_source=gmb",
+        "adresse": "2 Rue des Grandes Varennes, 21121 Ahuy",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14088815653290324973",
+        "nom": "Abrisun Fermetures",
+        "slug": "abrisun-fermetures",
+        "telephone": "03 80 72 35 47",
+        "site_web": "http://www.abrisun-fermetures.com/",
+        "adresse": "10 Rue de Mayence, 21000 Dijon",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8953820760529965818",
+        "nom": "AI Cuisine Dijon",
+        "slug": "ai-cuisine-dijon",
+        "telephone": "03 80 35 87 81",
+        "site_web": "https://www.cuisine-dijon.fr/",
+        "adresse": "4 Rue des Grandes Varennes, 21121 Ahuy",
+        "note": 5,
+        "avis": 0,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "7993644704042286530",
+        "nom": "Artbois Pose cuisine",
+        "slug": "artbois-pose-cuisine",
+        "telephone": "06 52 46 00 64",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "arc-sur-tille": {
+    "artisans": [
+      {
+        "id": "2235931270977660422",
+        "nom": "Mob 21",
+        "slug": "mob-21",
+        "telephone": "03 80 48 26 84",
+        "site_web": "https://www.mob-21.fr/",
+        "adresse": "10 Rue de la Fontaine, 21560 Arc-sur-Tille",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "montbard": {
+    "artisans": [
+      {
+        "id": "11208918830571480286",
+        "nom": "GR Agencement Rénov'",
+        "slug": "gr-agencement-renov",
+        "telephone": "06 63 78 26 81",
+        "site_web": "https://sites.google.com/view/gr-agencement-renov/accueil",
+        "adresse": "4 Rue du Patis, 21500 Marmagne",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4279611152126054017",
+        "nom": "Decomo Menuiserie",
+        "slug": "decomo-menuiserie",
+        "telephone": "09 77 96 31 68",
+        "site_web": "https://decomo-menuiserie.fr/",
+        "adresse": "3 Rue du Château, 21500 Saint-Rémy",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18290887316622041800",
+        "nom": "Jourdan Laurent EI",
+        "slug": "jourdan-laurent-ei",
+        "telephone": "03 80 92 35 66",
+        "site_web": null,
+        "adresse": "6 Rue du Dr Brunhes, 21500 Montbard",
+        "note": 4,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11593663963271311596",
+        "nom": "GS Menuiseries",
+        "slug": "gs-menuiseries",
+        "telephone": "06 77 47 66 89",
+        "site_web": "https://www.gsmenuiseries.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "2 Rue Saint-Philibert, 21500 Villaines-les-Prévôtes",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18361357844060154872",
+        "nom": "les Ateliers du Colombier",
+        "slug": "les-ateliers-du-colombier",
+        "telephone": "06 18 40 32 51",
+        "site_web": "https://www.lesateliersducolombier.fr/",
+        "adresse": "Rue du Château, 21500 Nogent-lès-Montbard",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17587018182267735568",
+        "nom": "L'Essence Du'Bois",
+        "slug": "lessence-dubois",
+        "telephone": "06 34 12 09 15",
+        "site_web": null,
+        "adresse": "3 Quater A, Rue du Château, 21500 Saint-Rémy",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "neuilly-crimolois": {
+    "artisans": [
+      {
+        "id": "13409964164986511519",
+        "nom": "Lucie Marot",
+        "slug": "lucie-marot",
+        "telephone": "06 81 20 42 12",
+        "site_web": "https://luciemarot.wordpress.com/",
+        "adresse": "3 Rue Saint-Antoine, 21800 Neuilly-Crimolois",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2353463450657584370",
+        "nom": "Legros Michel",
+        "slug": "legros-michel",
+        "telephone": "03 80 46 95 44",
+        "site_web": null,
+        "adresse": "42 Av. de Tavaux, 21800 Chevigny-Saint-Sauveur",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "saint-jean-de-losne": {
+    "artisans": [
+      {
+        "id": "3392522339602042",
+        "nom": "DG Menuiserie",
+        "slug": "dg-menuiserie",
+        "telephone": "06 58 50 09 12",
+        "site_web": "https://dg-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "399423264460379247",
+        "nom": "Menuiserie Quenot",
+        "slug": "menuiserie-quenot",
+        "telephone": "07 70 43 94 05",
+        "site_web": null,
+        "adresse": "46 Rte de Dole, 21170 Losne",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2800428904236548696",
+        "nom": "Toit et Bois",
+        "slug": "toit-et-bois",
+        "telephone": "03 80 39 22 55",
+        "site_web": "http://toit-et-bois.com/",
+        "adresse": "27 Rte de Dole, 21170 Losne",
+        "note": 5,
+        "avis": 20,
+        "type": "Charpentier"
+      },
+      {
+        "id": "2645753090077586713",
+        "nom": "Wil and Co Menuiserie",
+        "slug": "wil-and-co-menuiserie",
+        "telephone": "03 73 62 01 95",
+        "site_web": "https://www.wilandco-menuiserie.com/",
+        "adresse": "ZA de Boulouze, 21110 Fauverney",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9345068484900968796",
+        "nom": "Norba Bourgogne - Franche Comté",
+        "slug": "norba-bourgogne-franche-comte",
+        "telephone": "06 09 41 18 34",
+        "site_web": "https://www.norba-menuiserie.com/agence/bourgogne-franche-comte/",
+        "adresse": "ZAE La Boulouze, 21110 Fauverney",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17111157731384450387",
+        "nom": "WS Menuiserie",
+        "slug": "ws-menuiserie",
+        "telephone": "06 03 76 70 00",
+        "site_web": "http://www.wsmenuiserie.fr/",
+        "adresse": "5 Imp. de la Margelle, 21800 Chevigny-Saint-Sauveur",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7674690019448171710",
+        "nom": "Fenêtres Bois 21 (anciennement Menuiseries 21)",
+        "slug": "fenetres-bois-21-anciennement-menuiseries-21",
+        "telephone": "01 40 69 57 40",
+        "site_web": "http://menuiseries21.com/",
+        "adresse": "7 Rue La Pérouse, 75016 Paris",
+        "note": 5,
+        "avis": 0,
+        "type": "Bois"
+      },
+      {
+        "id": "4788462131737185665",
+        "nom": "Menuiserie dautel",
+        "slug": "menuiserie-dautel",
+        "telephone": "03 80 55 35 71",
+        "site_web": "http://www.menuiseriedautel.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18067506676117529186",
+        "nom": "Atelier du Bois - Menuiserie Penneçot",
+        "slug": "atelier-du-bois-menuiserie-pennecot",
+        "telephone": "03 80 31 30 20",
+        "site_web": "http://www.menuiserie-pennecot.com/",
+        "adresse": "Rue du Canal, 21110 Varanges",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16668105315635010348",
+        "nom": "Menuiserie De Jesus Manuel",
+        "slug": "menuiserie-de-jesus-manuel",
+        "telephone": "03 80 37 48 84",
+        "site_web": "https://dejesus-manuel.fr/",
+        "adresse": "1 Rue des Granges Hautes, 21130 Auxonne",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "ruffey-les-echirey": {
+    "artisans": [
+      {
+        "id": "12688249864472468939",
+        "nom": "Avenir Menuiserie",
+        "slug": "avenir-menuiserie",
+        "telephone": "06 81 78 78 48",
+        "site_web": null,
+        "adresse": "1 Ter Cr du Château, 21490 Ruffey-lès-Echirey",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-usage": {
+    "artisans": [
+      {
+        "id": "7308466994006185461",
+        "nom": "Le Menuisier de la Cave",
+        "slug": "le-menuisier-de-la-cave",
+        "telephone": "07 50 97 82 69",
+        "site_web": "https://lemenuisierdelacave.fr/",
+        "adresse": "10 Rue Cabry, 21700 Premeaux-Prissey",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17419150021792590400",
+        "nom": "Menuiseries Concept 21 - Artisan menuisier Dijon",
+        "slug": "menuiseries-concept-21-artisan-menuisier-dijon",
+        "telephone": "03 80 61 05 53",
+        "site_web": "https://www.menuiseriesconcept21.fr/",
+        "adresse": "8 Bd de l'Europe, 21800 Quetigny",
+        "note": 5,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6445912638363568180",
+        "nom": "MENUISERIE DU FOULTOT - DIJON",
+        "slug": "menuiserie-du-foultot-dijon",
+        "telephone": "03 80 27 06 95",
+        "site_web": "http://menuiserie-foultot.com/",
+        "adresse": "2 Rue du Vignery, 21160 Perrigny-lès-Dijon",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9816584533969071163",
+        "nom": "M.A.D.B Menuiserie Agencement de Bourgogne",
+        "slug": "madb-menuiserie-agencement-de-bourgogne",
+        "telephone": "03 80 52 01 20",
+        "site_web": "https://www.madb-agencement.com/",
+        "adresse": "10 Imp. des Prés Sampagny, 21160 Couchey",
+        "note": 4.4,
+        "avis": 17,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "vitteaux": {
+    "artisans": [
+      {
+        "id": "10597252260154201672",
+        "nom": "sas BARRET Florent MENUISERIE",
+        "slug": "sas-barret-florent-menuiserie",
+        "telephone": "06 33 94 43 25",
+        "site_web": null,
+        "adresse": "31Rue du château, 21350 Villy-en-Auxois",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15573870597509449301",
+        "nom": "Scierie Barbier",
+        "slug": "scierie-barbier",
+        "telephone": "03 80 49 66 76",
+        "site_web": "https://www.parquet-chene-cote-dor.fr/",
+        "adresse": "22 Routes des, 22 Rte des Laumes, 21350 Vitteaux",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "7385450088093193181",
+        "nom": "MaKe & Scie",
+        "slug": "make-scie",
+        "telephone": "06 31 03 25 44",
+        "site_web": null,
+        "adresse": "4 Rue des Saintes-Marie, 21140 Semur-en-Auxois",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6555456984245591882",
+        "nom": "Vadot Arnaud",
+        "slug": "vadot-arnaud",
+        "telephone": "03 80 92 21 39",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/vadot-arnaud?utm_source=gmb",
+        "adresse": "24B Av. de Dijon, 21150 Venarey-les-Laumes",
+        "note": 4.8,
+        "avis": 41,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17096192460541119623",
+        "nom": "Menuiserie PETIT",
+        "slug": "menuiserie-petit",
+        "telephone": null,
+        "site_web": "http://www.menuiseriepetit2152.fr/",
+        "adresse": "45 Rue General Fauconnet, 21000 Dijon",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "3218613891089122165",
+        "nom": "Menuiserie de l'Auxois",
+        "slug": "menuiserie-de-lauxois",
+        "telephone": "03 80 64 21 77",
+        "site_web": "http://www.menuiseriedelauxois.com/?utm_source=gmb",
+        "adresse": "2 ZA Champ Roger, 21320 Pouilly-en-Auxois",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4377051846380946343",
+        "nom": "La Barbette - Menuiserie, ébénisterie",
+        "slug": "la-barbette-menuiserie-ebenisterie",
+        "telephone": "06 72 45 06 97",
+        "site_web": "https://labarbette-menuiserie.fr/",
+        "adresse": "2 Qur De La Gare, 21530 La Roche-en-Brenil",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16655825752478379054",
+        "nom": "FD Renovation SAS",
+        "slug": "fd-renovation-sas",
+        "telephone": "06 19 73 48 96",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12082573347579868833",
+        "nom": "FG Créarénov",
+        "slug": "fg-crearenov",
+        "telephone": "06 60 92 34 10",
+        "site_web": null,
+        "adresse": "2 Rue Vignot, 21350 Thorey-sous-Charny",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7100402580142326623",
+        "nom": "ATELIER DE L'HABITAT",
+        "slug": "atelier-de-lhabitat",
+        "telephone": "07 71 71 71 43",
+        "site_web": null,
+        "adresse": null,
+        "note": 1,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-julien": {
+    "artisans": [
+      {
+        "id": "9656990486118199047",
+        "nom": "ARTEBA",
+        "slug": "arteba",
+        "telephone": "03 80 65 40 27",
+        "site_web": "http://www.arteba.fr/",
+        "adresse": "11 Rue Jean Baptiste Say, 21800 Chevigny-Saint-Sauveur",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5302643369234482215",
+        "nom": "DP BOIS et Cie",
+        "slug": "dp-bois-et-cie",
+        "telephone": "06 81 53 73 68",
+        "site_web": "http://dpboisetcie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saulieu": {
+    "artisans": [
+      {
+        "id": "8378424226791302588",
+        "nom": "Sarl Mathey Jean Michel",
+        "slug": "sarl-mathey-jean-michel",
+        "telephone": "03 80 64 17 71",
+        "site_web": null,
+        "adresse": "Chem. de Collonges, 21210 Saulieu",
+        "note": 5,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16423583587177711740",
+        "nom": "SAS Bordier Mathey menuiserie",
+        "slug": "sas-bordier-mathey-menuiserie",
+        "telephone": "06 62 16 80 16",
+        "site_web": null,
+        "adresse": "18 Chem. de Villargoix, 21210 Saulieu",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14150987137157985671",
+        "nom": "Murgia ébénisterie",
+        "slug": "murgia-ebenisterie",
+        "telephone": "06 61 11 62 47",
+        "site_web": null,
+        "adresse": "Pl. Monge, 21210 Saulieu",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1398842837663142506",
+        "nom": "Charpentier du Haut-Morvan",
+        "slug": "charpentier-du-haut-morvan",
+        "telephone": "06 32 90 49 41",
+        "site_web": null,
+        "adresse": "Chem. du Chatelôt, 21210 Saulieu",
+        "note": 5,
+        "avis": 4,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "saint-apollinaire": {
+    "artisans": [
+      {
+        "id": "14722963383892488298",
+        "nom": "Alexandre Menuiserie 21",
+        "slug": "alexandre-menuiserie-21",
+        "telephone": "06 82 53 75 83",
+        "site_web": "http://facebook.com/alexandremenuiserie21",
+        "adresse": "16 Rue François Mitterrand, 21850 Saint-Apollinaire",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17447269486244759984",
+        "nom": "Menuiserie Ebénisterie Nouvelle SARL",
+        "slug": "menuiserie-ebenisterie-nouvelle-sarl",
+        "telephone": "03 80 74 93 80",
+        "site_web": null,
+        "adresse": "5 Rue de l'Yser, 21850 Saint-Apollinaire",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "3098520595681006705",
+        "nom": "Maison l'Embrasure",
+        "slug": "maison-lembrasure",
+        "telephone": "07 80 86 20 16",
+        "site_web": "https://www.embrasure-menuiserie.fr/",
+        "adresse": "6 Rue de Bastogne, 21850 Saint-Apollinaire",
+        "note": 4.5,
+        "avis": 17,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18373128285098299417",
+        "nom": "EL. AGENCEMENT",
+        "slug": "el-agencement",
+        "telephone": "03 80 53 67 00",
+        "site_web": "http://www.equiplabofroid.com/",
+        "adresse": "3 Rue de la Combe d'Enfer, 21850 Saint-Apollinaire",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin"
+      },
+      {
+        "id": "9144162676530007896",
+        "nom": "CAMUS FERMETURE - votre expert en volets roulants",
+        "slug": "camus-fermeture-votre-expert-en-volets-roulants",
+        "telephone": "06 08 70 08 72",
+        "site_web": null,
+        "adresse": "6 Imp. du Vert Village, 21850 Saint-Apollinaire",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5795131258537179416",
+        "nom": "Bgs Alu - PORTAILS ALUMINIUM - PORTES - PERGOLA",
+        "slug": "bgs-alu-portails-aluminium-portes-pergola",
+        "telephone": "03 80 52 76 79",
+        "site_web": "http://www.bgs-alu.com/",
+        "adresse": "1 RUE DU CHAMP AUX PIERRES, 21850 Saint-Apollinaire",
+        "note": 4.6,
+        "avis": 55,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13418573910624303300",
+        "nom": "Eurl Schmitt",
+        "slug": "eurl-schmitt",
+        "telephone": "06 67 28 26 70",
+        "site_web": "http://eurlschmitt.fr/",
+        "adresse": "AUX PIERRES, 5 Rue du Champs Aux Pierres, 21850 Saint-Apollinaire",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10827674921188271616",
+        "nom": "MAEG",
+        "slug": "maeg",
+        "telephone": "06 51 76 20 70",
+        "site_web": null,
+        "adresse": "108 Rue François Lechenet, 21850 Saint-Apollinaire",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "sennecey-les-dijon": {
+    "artisans": [
+      {
+        "id": "12270078217246330557",
+        "nom": "Atout Fermeture – Fenêtrier VEKA",
+        "slug": "atout-fermeture-fenetrier-veka",
+        "telephone": "03 80 54 37 55",
+        "site_web": "https://www.fenetrier-atout-fermeture.fr/",
+        "adresse": "1 Rue Joseph Jacquard, 21800 Sennecey-lès-Dijon",
+        "note": 4.4,
+        "avis": 40,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saulon-la-chapelle": {
+    "artisans": [
+      {
+        "id": "11504162817163967888",
+        "nom": "Denis Frederic",
+        "slug": "denis-frederic",
+        "telephone": "03 80 63 81 80",
+        "site_web": null,
+        "adresse": "4 Chem. de la Genevrière, 21910 Saulon-la-Chapelle",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6020145292535021475",
+        "nom": "la Fabrik à Portail",
+        "slug": "la-fabrik-a-portail",
+        "telephone": "03 45 83 15 66",
+        "site_web": "http://www.la-fabrik-a-portail.fr/",
+        "adresse": "31 A Av. de la Gare, 21910 Saulon-la-Chapelle",
+        "note": 5,
+        "avis": 49,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4241583567639336226",
+        "nom": "SAS NOIREAUT",
+        "slug": "sas-noireaut",
+        "telephone": "03 80 39 82 81",
+        "site_web": null,
+        "adresse": "56 Av. de la Gare, 21910 Saulon-la-Chapelle",
+        "note": 4,
+        "avis": 9,
+        "type": "Siège social"
+      },
+      {
+        "id": "5923320982452592730",
+        "nom": "EURL ECCM",
+        "slug": "eurl-eccm",
+        "telephone": "06 75 70 06 43",
+        "site_web": "http://eccmbois.fr/",
+        "adresse": "3 Rte de Savouges, 21910 Noiron-sous-Gevrey",
+        "note": 5,
+        "avis": 13,
+        "type": "Charpentier"
+      },
+      {
+        "id": "8144105817482589823",
+        "nom": "MENUISERIE DAUTEL",
+        "slug": "menuiserie-dautel",
+        "telephone": "06 85 64 91 97",
+        "site_web": "http://www.menuiseriedautel.fr/contact.html",
+        "adresse": "5 Imp. des Colleys, 21600 Fénay",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9986159506215913220",
+        "nom": "CREATION MENUISERIE",
+        "slug": "creation-menuiserie",
+        "telephone": "07 81 57 07 75",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "ladoix-serrigny": {
+    "artisans": [
+      {
+        "id": "13319237226847287782",
+        "nom": "Métallerie PIROUX",
+        "slug": "metallerie-piroux",
+        "telephone": "07 85 91 93 11",
+        "site_web": "http://www.metallerie-piroux.fr/",
+        "adresse": "25 Rte de Beaune, 21420 Savigny-lès-Beaune",
+        "note": 4.9,
+        "avis": 51,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "9105409872765214401",
+        "nom": "Menuiserie Charpente Bois David Barberet",
+        "slug": "menuiserie-charpente-bois-david-barberet",
+        "telephone": "03 80 24 94 82",
+        "site_web": "https://www.lepagnier-scm.com/",
+        "adresse": "27 Rte de Beaune, 21420 Savigny-lès-Beaune",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10271739319153554053",
+        "nom": "Atelier Suau",
+        "slug": "atelier-suau",
+        "telephone": "06 11 37 59 21",
+        "site_web": "http://www.ateliersuau.fr/",
+        "adresse": "46 Gr Grande Rue, 21700 Quincey",
+        "note": 4,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11093544573382683793",
+        "nom": "Menuiseries Henri Vincent",
+        "slug": "menuiseries-henri-vincent",
+        "telephone": "06 21 34 21 56",
+        "site_web": "https://menuiseries-henri-vincent.com/",
+        "adresse": "4 Voie Romaine, 21700 Corgoloin",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "10975742730668559188",
+        "nom": "Bois relié",
+        "slug": "bois-relie",
+        "telephone": "06 83 51 99 02",
+        "site_web": null,
+        "adresse": "48 Rue des Moutots, 21200 Chorey-les-Beaune",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15442624456599537184",
+        "nom": "Sécu-filets",
+        "slug": "secu-filets",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Gd Rue de Buisson, 21550 Ladoix-Serrigny",
+        "note": 1,
+        "avis": 2,
+        "type": "Siège social"
+      },
+      {
+        "id": "5114416941447689768",
+        "nom": "Qualidécor",
+        "slug": "qualidecor",
+        "telephone": "03 80 62 88 66",
+        "site_web": "http://qualidecor-fermetures.com/",
+        "adresse": "2 Rue Saint-Joseph, 21700 Nuits-Saint-Georges",
+        "note": 4.3,
+        "avis": 35,
+        "type": "Artisanat"
+      },
+      {
+        "id": "7742891207515647419",
+        "nom": "Bourgogne Menuiseries Fermetures - Beaune- fenêtres - portails - portes d'entrée - alu - pvc",
+        "slug": "bourgogne-menuiseries-fermetures-beaune-fenetres-portails-portes-dentree-alu-pvc",
+        "telephone": "03 80 24 75 24",
+        "site_web": "http://www.bourgogne-miroiterie.fr/",
+        "adresse": "164 Rte de Dijon, 21200 Beaune",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15962287136397083075",
+        "nom": "TRYBA Beaune",
+        "slug": "tryba-beaune",
+        "telephone": "03 53 64 13 06",
+        "site_web": "https://www.tryba.com/espace-conseil/21/tryba-beaune/?utm_campaign=Tryba_beaune&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "20 Av. du Lac, 21200 Beaune",
+        "note": 4.3,
+        "avis": 43,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15734655110766768730",
+        "nom": "Esprit d'ouverture Magnien",
+        "slug": "esprit-douverture-magnien",
+        "telephone": "06 42 19 99 56",
+        "site_web": "http://www.espritdouverturemagnien.com/",
+        "adresse": "11 impasse de Travoisy, Le Pâquis des Borelets ZI les, 21200 Combertault",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "savigny-les-beaune": {
+    "artisans": [
+      {
+        "id": "11317921348624653834",
+        "nom": "BARBIER Olivier",
+        "slug": "barbier-olivier",
+        "telephone": "06 25 36 44 36",
+        "site_web": "https://menuiserie-pose-cuisines-bains-et-rangements-19.webself.net/",
+        "adresse": "28C Pt Rue des Rôles, 21200 Beaune",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5905796337809847929",
+        "nom": "Menuiserie Del Rosario",
+        "slug": "menuiserie-del-rosario",
+        "telephone": "06 21 72 59 03",
+        "site_web": "https://www.menuiserie-dr.com/",
+        "adresse": "473 Rue André Marie Ampère, 21200 Beaune",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12659298261346510279",
+        "nom": "Menuiserie Bruno",
+        "slug": "menuiserie-bruno",
+        "telephone": "06 87 54 82 09",
+        "site_web": null,
+        "adresse": "Rue sous la Velle, 21190 Nantoux",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6353447088131627651",
+        "nom": "Label Ouvrage",
+        "slug": "label-ouvrage",
+        "telephone": "06 20 66 69 74",
+        "site_web": "https://www.label-ouvrage.fr/",
+        "adresse": "7 Rle Morlot, 21200 Beaune",
+        "note": 5,
+        "avis": 1,
+        "type": "Agenceur"
+      },
+      {
+        "id": "9022409393559691438",
+        "nom": "Serrurerie Métallerie RADREAU",
+        "slug": "serrurerie-metallerie-radreau",
+        "telephone": "03 80 22 27 51",
+        "site_web": "https://www.radreau.fr/",
+        "adresse": "1 A Rue du Régiment de Bourgogne, 21200 Beaune",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "7705960372350140319",
+        "nom": "Atelier Ballereaud",
+        "slug": "atelier-ballereaud",
+        "telephone": "06 03 16 76 67",
+        "site_web": "http://www.atelier-ballereaud.com/",
+        "adresse": "43 BIS Av. Charles Jaffelin, 21200 Beaune",
+        "note": 4,
+        "avis": 2,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "14412914404714869179",
+        "nom": "Ebénisterie CHATAGNIER",
+        "slug": "ebenisterie-chatagnier",
+        "telephone": "03 80 22 17 07",
+        "site_web": null,
+        "adresse": "29 Rue du Faubourg Perpreuil, 21200 Beaune",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "14093121430414480126",
+        "nom": "Abrisun Fermetures",
+        "slug": "abrisun-fermetures",
+        "telephone": "03 80 72 36 42",
+        "site_web": "https://www.abrisun-fermetures.com/",
+        "adresse": "12 Av. du 8 Septembre 1944, 21200 Beaune",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11197799076441049503",
+        "nom": "A+ FERMETURES",
+        "slug": "a-fermetures",
+        "telephone": "03 80 24 90 81",
+        "site_web": "http://aplus-fermetures.fr/",
+        "adresse": "6 Pl. des Nazoirs, 21420 Bouilland",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16511812149169699316",
+        "nom": "HJ RENOV 21",
+        "slug": "hj-renov-21",
+        "telephone": "07 78 52 25 89",
+        "site_web": null,
+        "adresse": "35 Rue de la Mairie, 21200 Bouze-lès-Beaune",
+        "note": 1,
+        "avis": 2,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "semur-en-auxois": {
+    "artisans": [
+      {
+        "id": "7212442879901927390",
+        "nom": "Le Meuble Dans Tous Ses Etats - Lb",
+        "slug": "le-meuble-dans-tous-ses-etats-lb",
+        "telephone": "03 80 96 89 52",
+        "site_web": null,
+        "adresse": "Rue de l'Oeuvre, 21140 Semur-en-Auxois",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin d'ameublement et de décoration"
+      }
+    ]
+  },
+  "selongey": {
+    "artisans": [
+      {
+        "id": "13383875452418117037",
+        "nom": "Agencement Bois Mardon",
+        "slug": "agencement-bois-mardon",
+        "telephone": "06 62 34 21 49",
+        "site_web": "http://www.abmardon.com/",
+        "adresse": "32 Av. Edouard Spahr, 21260 Selongey",
+        "note": 5,
+        "avis": 3,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "10206258387601024794",
+        "nom": "Alu 21 - Menuiserie aluminium, fabricant - installateur",
+        "slug": "alu-21-menuiserie-aluminium-fabricant-installateur",
+        "telephone": "03 80 75 96 84",
+        "site_web": "http://alu-21.fr/",
+        "adresse": "8 Av. Edouard Spahr, 21260 Selongey",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "6585733528016425626",
+        "nom": "MENUISERIE ROGER",
+        "slug": "menuiserie-roger",
+        "telephone": "03 80 75 70 93",
+        "site_web": null,
+        "adresse": "9 Rte de la Gare, 21260 Selongey",
+        "note": 3.3,
+        "avis": 3,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "2143234449712055509",
+        "nom": "PROJINOV Menuiseries",
+        "slug": "projinov-menuiseries",
+        "telephone": "03 73 27 55 00",
+        "site_web": "https://www.projinov-menuiseries.com/",
+        "adresse": "22 Rue de la Rochotte, 21120 Is-sur-Tille",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9479605529860085381",
+        "nom": "FENESTRA FRANCE",
+        "slug": "fenestra-france",
+        "telephone": "09 55 11 01 10",
+        "site_web": null,
+        "adresse": "27 Rte de la Gare, 21260 Selongey",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "thorey-en-plaine": {
+    "artisans": [
+      {
+        "id": "10496230680364319158",
+        "nom": "jgfermeture21",
+        "slug": "jgfermeture21",
+        "telephone": "06 37 63 06 94",
+        "site_web": "https://www.allovoisins.com/p/jordangueury",
+        "adresse": "9b Rue de la Stéarinerie, 21000 Dijon",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7224769915428749799",
+        "nom": "RTrenovation",
+        "slug": "rtrenovation",
+        "telephone": "03 80 79 14 89",
+        "site_web": null,
+        "adresse": "14 Rue des Ducs de Bourgogne, 21110 Rouvres-en-Plaine",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18394801888085708070",
+        "nom": "La Fermeture",
+        "slug": "la-fermeture",
+        "telephone": "06 60 46 97 37",
+        "site_web": "http://www.lafermeture.fr/",
+        "adresse": "13 Rue de la Plucharde, 21110 Bretenière",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15280235394807853518",
+        "nom": "l'Atelier de Rory Menuiserie",
+        "slug": "latelier-de-rory-menuiserie",
+        "telephone": "06 30 41 88 33",
+        "site_web": "https://www.facebook.com/profile.php?id=100094548681606",
+        "adresse": "3 Rue des Moulissards, 21240 Talant",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14373913717050394462",
+        "nom": "MJP Menuiserie",
+        "slug": "mjp-menuiserie",
+        "telephone": "06 61 76 75 05",
+        "site_web": "https://www.menuiserie-mjp.fr/",
+        "adresse": "13 Rue de Messigny, 21380 Asnières-lès-Dijon",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18136421263880146528",
+        "nom": "Menuiserie Rémond",
+        "slug": "menuiserie-remond",
+        "telephone": "03 80 71 97 78",
+        "site_web": "https://menuiserie-remond.fr/",
+        "adresse": "48 Av. de Tavaux, 21800 Chevigny-Saint-Sauveur",
+        "note": 3.7,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2062928224723131790",
+        "nom": "Mz Peinture Et Traditions",
+        "slug": "mz-peinture-et-traditions",
+        "telephone": "06 24 31 73 79",
+        "site_web": "https://www.facebook.com/pages/MZ-Peinture-Et-Traditions-Varanges-Genlis-C%C3%B4te-d-Or-d%C3%A9p-21/387015211419287",
+        "adresse": "3 Rue de l'épeautre, 21110 Thorey-en-Plaine",
+        "note": 5,
+        "avis": 3,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "4015342134494536845",
+        "nom": "MTM",
+        "slug": "mtm",
+        "telephone": "03 80 52 14 15",
+        "site_web": "https://www.mtm21.com/",
+        "adresse": "46 Rue de Longvic, 21300 Chenôve",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "3653859685816606556",
+        "nom": "Step Arcadia NSA",
+        "slug": "step-arcadia-nsa",
+        "telephone": "03 80 47 29 00",
+        "site_web": "http://www.step-arcadia.com/?utm_source=gmb",
+        "adresse": "26 Rue des Lilas, 21110 Genlis",
+        "note": 4.1,
+        "avis": 13,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "741349602113378276",
+        "nom": "Osmoses Agencement",
+        "slug": "osmoses-agencement",
+        "telephone": "07 78 38 39 21",
+        "site_web": "https://tally.so/r/WOEk8P",
+        "adresse": "4B Rue de Dijon, 21490 Ruffey-lès-Echirey",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "seurre": {
+    "artisans": [
+      {
+        "id": "5969477647581523079",
+        "nom": "Cottone David",
+        "slug": "cottone-david",
+        "telephone": "03 80 21 07 72",
+        "site_web": null,
+        "adresse": "4 Rue du Meix Pichot, 21820 Labergement-lès-Seurre",
+        "note": 3,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "984074545295237445",
+        "nom": "Graine De Meuble",
+        "slug": "graine-de-meuble",
+        "telephone": "06 50 27 43 77",
+        "site_web": "https://www.facebook.com/MenuiserieSeurre/?modal=admin_todo_tour",
+        "adresse": "7 Rue de Cheffin, 21250 Seurre",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7361531837953913109",
+        "nom": "MENUISERIE DUMONT ET BERT - TERRES DE FENETRE - SOGAL EXPERT",
+        "slug": "menuiserie-dumont-et-bert-terres-de-fenetre-sogal-expert",
+        "telephone": "03 80 21 11 73",
+        "site_web": "https://www.dumont-bert-menuiserie.com/",
+        "adresse": "24 Bis Rue de l'Usine, 21250 Pouilly-sur-Saône",
+        "note": 4.3,
+        "avis": 23,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2059004540351693426",
+        "nom": "Mugnier-Lonjaret Christian EURL",
+        "slug": "mugnier-lonjaret-christian-eurl",
+        "telephone": "03 80 21 03 75",
+        "site_web": null,
+        "adresse": "Rte de Pagny, 21250 Seurre",
+        "note": 4,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "12521352493129775010",
+        "nom": "Agenc'in",
+        "slug": "agencin",
+        "telephone": "06 12 70 07 73",
+        "site_web": null,
+        "adresse": "17 Rte de Seurre, 21250 Pouilly-sur-Saône",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2027422527085820014",
+        "nom": "M.T Installation",
+        "slug": "mt-installation",
+        "telephone": "03 80 20 72 79",
+        "site_web": null,
+        "adresse": "16 Rue Neuve Prolongée, 21250 Pouilly-sur-Saône",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3036945366412818055",
+        "nom": "Thévenin Ducrot Distribution",
+        "slug": "thevenin-ducrot-distribution",
+        "telephone": "03 80 20 48 48",
+        "site_web": null,
+        "adresse": "Rue du Faubourg de Chamblanc, 21250 Seurre",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "11438456573761292062",
+        "nom": "Am Menuiserie",
+        "slug": "am-menuiserie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Gd Rue du Faubourg Saint-Georges, 21250 Seurre",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "talant": {
+    "artisans": [
+      {
+        "id": "15420622289218012530",
+        "nom": "La Menuiserie",
+        "slug": "la-menuiserie",
+        "telephone": "03 80 30 46 07",
+        "site_web": "http://www.lamenuiseriedijon.fr/",
+        "adresse": "28 Rue des Godrans, 21000 Dijon",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Bistro"
+      },
+      {
+        "id": "6146174082305276167",
+        "nom": "L'ARTISAN MENUISIER BOURGUIGNON",
+        "slug": "lartisan-menuisier-bourguignon",
+        "telephone": "03 80 57 38 71",
+        "site_web": "http://www.artisan-menuisier-bourguignon.fr/",
+        "adresse": "10 Rue des Novalles, 21240 Talant",
+        "note": 5,
+        "avis": 32,
+        "type": "Charpentier"
+      },
+      {
+        "id": "9295187473018413952",
+        "nom": "Menuiserie Dijon - CMA",
+        "slug": "menuiserie-dijon-cma",
+        "telephone": "06 45 70 45 39",
+        "site_web": "https://www.cma-menuiserie.com/",
+        "adresse": "28 Rue de la Bresse, 21121 Fontaine-lès-Dijon",
+        "note": 4.7,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5805584511255641917",
+        "nom": "Paupert Fermetures",
+        "slug": "paupert-fermetures",
+        "telephone": "06 84 94 16 09",
+        "site_web": null,
+        "adresse": "12 Rue Philippe le Hardi, 21000 Dijon",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10850636400648599314",
+        "nom": "Forquet Menuiserie",
+        "slug": "forquet-menuiserie",
+        "telephone": "06 59 11 49 49",
+        "site_web": null,
+        "adresse": "5 Rue de Cluj, 21000 Dijon",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14507945119780898646",
+        "nom": "BERTHELON Menuiserie Agencement",
+        "slug": "berthelon-menuiserie-agencement",
+        "telephone": "03 80 67 10 59",
+        "site_web": null,
+        "adresse": "11 Rue de l'Ingénieur Bertin, 21600 Longvic",
+        "note": 3.9,
+        "avis": 26,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8997639542535225908",
+        "nom": "Gerriet Escaliers",
+        "slug": "gerriet-escaliers",
+        "telephone": "03 80 56 60 54",
+        "site_web": "http://www.gerriet.com/",
+        "adresse": "15 Rue de la Petite Fin, 21121 Fontaine-lès-Dijon",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Société de fabrication d'escaliers"
+      },
+      {
+        "id": "254818462054399262",
+        "nom": "Alexandre Menuiserie",
+        "slug": "alexandre-menuiserie",
+        "telephone": "06 82 53 75 83",
+        "site_web": "https://www.facebook.com/AlexandreMenuiserie21/",
+        "adresse": "3 Imp. de la Fontaine, 21370 Velars-sur-Ouche",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2347007828539339761",
+        "nom": "Dijon Fermetures SARL",
+        "slug": "dijon-fermetures-sarl",
+        "telephone": "03 80 73 69 95",
+        "site_web": "http://www.dijon-fermetures.fr/",
+        "adresse": "16 Rue René Char, 21000 Dijon",
+        "note": 4.8,
+        "avis": 44,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "16675376082794113786",
+        "nom": "Menuisiers dijon",
+        "slug": "menuisiers-dijon",
+        "telephone": "07 81 08 26 35",
+        "site_web": "https://menuisierdijon.com/",
+        "adresse": "Pl. de la France libre, 21000 Dijon",
+        "note": 5,
+        "avis": 8,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "villers-les-pots": {
+    "artisans": [
+      {
+        "id": "12386673200285087671",
+        "nom": "Créa'Bois Bourgogne",
+        "slug": "creabois-bourgogne",
+        "telephone": "06 51 39 98 63",
+        "site_web": "http://www.creabois-bourgogne.fr/",
+        "adresse": "7 bis Rue Tabour, 21130 Auxonne",
+        "note": 5,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10013241447173196093",
+        "nom": "VMstructureBois",
+        "slug": "vmstructurebois",
+        "telephone": "06 30 35 75 49",
+        "site_web": null,
+        "adresse": "15 Rue de Fer, 21130 Tillenay",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "7059248841470835747",
+        "nom": "Menuiserie Alexandre",
+        "slug": "menuiserie-alexandre",
+        "telephone": "03 80 31 10 93",
+        "site_web": null,
+        "adresse": "12 Rue du Bief Pérou, 21130 Auxonne",
+        "note": 5,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7222859862859999980",
+        "nom": "Menuiserie et Services",
+        "slug": "menuiserie-et-services",
+        "telephone": "06 47 01 14 94",
+        "site_web": "http://menuiserieetservices.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5573752153759986318",
+        "nom": "GD SERVICES",
+        "slug": "gd-services",
+        "telephone": "06 62 37 25 22",
+        "site_web": "http://www.gdservices21.fr/",
+        "adresse": "4 bis Rue d' Avau, 21130 Champdôtre",
+        "note": 5,
+        "avis": 21,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10188856118193191414",
+        "nom": "AK Fenêtres",
+        "slug": "ak-fenetres",
+        "telephone": "07 61 00 48 98",
+        "site_web": "https://www.akfenetres.fr/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=5565631023442791460",
+        "adresse": "11 Rue du Commandant Garnier, 21130 Auxonne",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13580416012197401783",
+        "nom": "Serrurerie Generale Auxonne",
+        "slug": "serrurerie-generale-auxonne",
+        "telephone": "03 80 37 33 28",
+        "site_web": "https://www.serrurerie-generale-auxonnaise.fr/",
+        "adresse": "Quartier de la Gare, 9 Rue Village Tillenay, 21130 Auxonne",
+        "note": 4.7,
+        "avis": 6,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "17274427911984020760",
+        "nom": "Vmstructurebois",
+        "slug": "vmstructurebois",
+        "telephone": "06 30 35 75 49",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10501890798814847130",
+        "nom": "Scierie Victor",
+        "slug": "scierie-victor",
+        "telephone": "07 57 81 26 10",
+        "site_web": "https://www.scierie-victor.fr/contactez-nous/",
+        "adresse": "Chem. de la Ferme, 21110 Soirans",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "velars-sur-ouche": {
+    "artisans": [
+      {
+        "id": "254818462054399262",
+        "nom": "Alexandre Menuiserie",
+        "slug": "alexandre-menuiserie",
+        "telephone": "06 82 53 75 83",
+        "site_web": "https://www.facebook.com/AlexandreMenuiserie21/",
+        "adresse": "3 Imp. de la Fontaine, 21370 Velars-sur-Ouche",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "tart": {
+    "artisans": [
+      {
+        "id": "12500444478059681455",
+        "nom": "G.R.C.B. Charpentier-Couvreur",
+        "slug": "grcb-charpentier-couvreur",
+        "telephone": "06 10 33 47 03",
+        "site_web": "https://www.grcb-charp-couv.com/",
+        "adresse": "395 Chemin de Beire le Fort, 21110 Genlis",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3631512946175467908",
+        "nom": "Socoreve",
+        "slug": "socoreve",
+        "telephone": "03 80 47 97 00",
+        "site_web": "https://www.socoreve.com/",
+        "adresse": "535 Route de Longeault, 21110 Genlis",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Artisanat"
+      },
+      {
+        "id": "2396451602760857125",
+        "nom": "HB21 menuiserie",
+        "slug": "hb21-menuiserie",
+        "telephone": "06 17 92 43 19",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2452696777553789829",
+        "nom": "PPRS Menuiserie",
+        "slug": "pprs-menuiserie",
+        "telephone": "03 74 48 20 51",
+        "site_web": "http://pprs-menuiserie.com/",
+        "adresse": "2 Rue Gustave Eiffel, 21110 Genlis",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11091856675188824567",
+        "nom": "Menuiserie Nicolardot",
+        "slug": "menuiserie-nicolardot",
+        "telephone": "0 820 22 23 10",
+        "site_web": "http://www.nicolardot.fr/?utm_source=gmb",
+        "adresse": "50 Av. Jean Moulin, 21160 Marsannay-la-Côte",
+        "note": 4.5,
+        "avis": 17,
+        "type": "Agenceur"
+      },
+      {
+        "id": "3870602431484866171",
+        "nom": "Fabrice Belin",
+        "slug": "fabrice-belin",
+        "telephone": "06 22 13 87 86",
+        "site_web": null,
+        "adresse": "4 Rue Gustave Eiffel, 21110 Genlis",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7517017112552326388",
+        "nom": "Delort&Bois",
+        "slug": "delortbois",
+        "telephone": "06 79 46 45 13",
+        "site_web": null,
+        "adresse": "18 Rte de Dijon, 21310 Magny-Saint-Médard",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2571151814911240073",
+        "nom": "HB21 menuiserie",
+        "slug": "hb21-menuiserie",
+        "telephone": "06 17 92 43 19",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "til-chatel": {
+    "artisans": [
+      {
+        "id": "6164737686061831472",
+        "nom": "J.t.p. Pro Sarl",
+        "slug": "jtp-pro-sarl",
+        "telephone": "06 17 47 62 74",
+        "site_web": null,
+        "adresse": "12 Ter Rue François Mitterrand, 21120 Is-sur-Tille",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3622130392477763818",
+        "nom": "Armando Vitorio – Agencement & Menuiserie",
+        "slug": "armando-vitorio-agencement-menuiserie",
+        "telephone": "06 12 13 18 60",
+        "site_web": "https://armandovitorio-menuiserie-renovation.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13274015008942348965",
+        "nom": "Atelier Christophe SUARD",
+        "slug": "atelier-christophe-suard",
+        "telephone": null,
+        "site_web": "https://www.atelier-acs.com/",
+        "adresse": "10 Rue du Président Wilson, 21120 Is-sur-Tille",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "711786318242045454",
+        "nom": "Métallerie BIGUEURE – Atelier de métallerie & charpente métallique à Dijon et Orville",
+        "slug": "metallerie-bigueure-atelier-de-metallerie-charpente-metallique-a-dijon-et-orville",
+        "telephone": "07 86 93 38 87",
+        "site_web": "https://app.inter-fast.fr/public/company/F75950/request/forms/1ec7cd30-c0e1-4d2f-b1a7-6dfa270af777",
+        "adresse": "42 D974, 21260 Orville",
+        "note": 5,
+        "avis": 11,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "1166574561100294418",
+        "nom": "Ag Fermeture",
+        "slug": "ag-fermeture",
+        "telephone": "06 99 44 32 88",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "17703172404516053012",
+        "nom": "Pascal Marchand",
+        "slug": "pascal-marchand",
+        "telephone": "03 80 95 46 90",
+        "site_web": "https://www.marchand-menuiserie.fr/",
+        "adresse": "37 Rue François Mitterrand, 21120 Is-sur-Tille",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "18015651446291602703",
+        "nom": "Mil'house",
+        "slug": "milhouse",
+        "telephone": "06 61 79 82 65",
+        "site_web": "http://milhoue.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 9,
+        "type": "Décorateur d'intérieur"
+      },
+      {
+        "id": "8866173740690984258",
+        "nom": "Menuiserie La Source",
+        "slug": "menuiserie-la-source",
+        "telephone": "07 83 69 45 07",
+        "site_web": "https://menuiserie-lasource.com/",
+        "adresse": "4 Rte de Dijon, 21490 Norges-la-Ville",
+        "note": 4.4,
+        "avis": 12,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14539056463626566242",
+        "nom": "AM MOREIRA Menuiserie / Agencement",
+        "slug": "am-moreira-menuiserie-agencement",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Impasse des Cigognes, 21120 Gemeaux",
+        "note": 0,
+        "avis": 0,
+        "type": "Résidence"
+      },
+      {
+        "id": "15293262985772750772",
+        "nom": "Vauzelle Fermetures",
+        "slug": "vauzelle-fermetures",
+        "telephone": "06 35 45 89 27",
+        "site_web": "https://www.vauzelle-fermetures-21.fr/devis-gratuit-votre-entreprise-menuiserie-exterieure-vauzelle-fermetures",
+        "adresse": "Imp. de la Commotte, 21120 Marcilly-sur-Tille",
+        "note": 4,
+        "avis": 3,
+        "type": null
+      }
+    ]
+  },
+  "varois-et-chaignot": {
+    "artisans": [
+      {
+        "id": "3389071769571675283",
+        "nom": "Perdry Père et Fils SARL",
+        "slug": "perdry-pere-et-fils-sarl",
+        "telephone": "03 80 36 07 62",
+        "site_web": null,
+        "adresse": "31 Rte de Fontaine-Française, 21490 Varois-et-Chaignot",
+        "note": 4,
+        "avis": 1,
+        "type": "Artisanat"
+      },
+      {
+        "id": "15651549869739109323",
+        "nom": "AC2M",
+        "slug": "ac2m",
+        "telephone": "03 80 74 14 33",
+        "site_web": "https://ac2m-creation.fr/",
+        "adresse": "3 All. des Nouratons, 21490 Ruffey-lès-Echirey",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "5403666460067711554",
+        "nom": "Fenergy",
+        "slug": "fenergy",
+        "telephone": "03 80 35 48 42",
+        "site_web": "https://www.fenergy.fr/",
+        "adresse": "2025 Rte de Gray, 21850 Saint-Apollinaire",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "12688249864472468939",
+        "nom": "Avenir Menuiserie",
+        "slug": "avenir-menuiserie",
+        "telephone": "06 81 78 78 48",
+        "site_web": null,
+        "adresse": "1 Ter Cr du Château, 21490 Ruffey-lès-Echirey",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2599996850348879428",
+        "nom": "Piretti",
+        "slug": "piretti",
+        "telephone": "03 80 71 16 13",
+        "site_web": "http://www.piretti.fr/",
+        "adresse": "Rte de Gray, 21490 Varois-et-Chaignot",
+        "note": 4.3,
+        "avis": 32,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "9098592745734996533",
+        "nom": "PACOTTE & MIGNOTTE Sn - Fenêtres et ouvertures Dijon",
+        "slug": "pacotte-mignotte-sn-fenetres-et-ouvertures-dijon",
+        "telephone": "03 80 71 32 32",
+        "site_web": "https://www.pacotte-mignotte.fr/?utm_source=google&utm_medium=seo&utm_campaign=gmb_dijon",
+        "adresse": "17 Rue de la Brot, 21000 Dijon",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "venarey-les-laumes": {
+    "artisans": [
+      {
+        "id": "765760186225879210",
+        "nom": "ENTREPRISE BESANÇON JEREMY",
+        "slug": "entreprise-besancon-jeremy",
+        "telephone": "09 74 56 56 73",
+        "site_web": null,
+        "adresse": "28 Rue Alexandre Dumas, 21150 Venarey-les-Laumes",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10502092659170704158",
+        "nom": "Selles Jean-Michel",
+        "slug": "selles-jean-michel",
+        "telephone": "03 80 96 10 27",
+        "site_web": null,
+        "adresse": "16 bis Rue Victor Hugo, 21150 Venarey-les-Laumes",
+        "note": 3,
+        "avis": 1,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "2602893908085286449",
+        "nom": "Entreprise Garnier Laurent Travaux de menuiserie métallique, serrurerie, soudeur, terrassement et assainissement",
+        "slug": "entreprise-garnier-laurent-travaux-de-menuiserie-metallique-serrurerie-soudeur-terrassement-et-assainissement",
+        "telephone": "06 21 84 90 29",
+        "site_web": null,
+        "adresse": "Chaudronnier, 1 Rue Avau, 21140 Massingy-lès-Semur",
+        "note": 5,
+        "avis": 0,
+        "type": "Soudeur.euse d'aluminium"
+      },
+      {
+        "id": "15167486503641397083",
+        "nom": "Entreprise BMA menuiserie",
+        "slug": "entreprise-bma-menuiserie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3B Grande Rue, 21150 Seigny",
+        "note": 5,
+        "avis": 0,
+        "type": "Fabricant"
+      },
+      {
+        "id": "17627727054517284860",
+        "nom": "Glantenay SARL",
+        "slug": "glantenay-sarl",
+        "telephone": "03 80 96 05 79",
+        "site_web": "https://www.glantenay.com/contact?utm_source=gmb",
+        "adresse": "17 Rue du Chemin Vert, 21150 Venarey-les-Laumes",
+        "note": 4,
+        "avis": 12,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "16047900257594029828",
+        "nom": "MENUISERIE L'ATELIER DE LA CARRE",
+        "slug": "menuiserie-latelier-de-la-carre",
+        "telephone": "06 20 08 04 47",
+        "site_web": "https://www.atelierdelacarre-menuiserie.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  }
+}

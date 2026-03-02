@@ -1,0 +1,619 @@
+{
+  "florac-trois-rivieres": {
+    "artisans": [
+      {
+        "id": "4222535832601285980",
+        "nom": "MIRMAN",
+        "slug": "mirman",
+        "telephone": "04 66 45 02 58",
+        "site_web": "https://menuiserie-mirman.fr/",
+        "adresse": "St Julien du Gourg, 48400 Florac Trois Rivières",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "bourgs-sur-colagne": {
+    "artisans": [
+      {
+        "id": "2966070337215834013",
+        "nom": "CHALETS DE LA COLAGNE",
+        "slug": "chalets-de-la-colagne",
+        "telephone": "04 66 32 78 97",
+        "site_web": "http://www.gites-en-nature.fr/",
+        "adresse": "8 Rte de Doultre, 48100 Bourgs sur Colagne",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Village de vacances"
+      },
+      {
+        "id": "11459986414027966531",
+        "nom": "ATELIER LA COLAGNE",
+        "slug": "atelier-la-colagne",
+        "telephone": "04 66 42 93 35",
+        "site_web": null,
+        "adresse": "Av. de la Méridienne, 48100 Marvejols",
+        "note": 3.3,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13901994432089829168",
+        "nom": "Imbert Père et Fils",
+        "slug": "imbert-pere-et-fils",
+        "telephone": "04 66 32 74 37",
+        "site_web": null,
+        "adresse": "Av. de la République, 48100 Bourgs sur Colagne",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "1475347562378648554",
+        "nom": "Garrel Menuiserie (SARL)",
+        "slug": "garrel-menuiserie-sarl",
+        "telephone": "04 66 49 30 31",
+        "site_web": "http://www.menuiseriegarrel.fr/",
+        "adresse": "ZA DU GÉVAUDAN, 48700",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1962678875813102675",
+        "nom": "POUDEVIGNE",
+        "slug": "poudevigne",
+        "telephone": "04 66 32 22 79",
+        "site_web": "http://www.ebenisterie-poudevigne.com/",
+        "adresse": "ld Rouvière, 80 Route de la Brousse, 48100 Le Buisson",
+        "note": 4.9,
+        "avis": 32,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "978357816023117717",
+        "nom": "Osty Nicolas",
+        "slug": "osty-nicolas",
+        "telephone": "06 08 05 74 26",
+        "site_web": "http://www.osty-nicolas-menuisier.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2783318822126893381",
+        "nom": "Alzur",
+        "slug": "alzur",
+        "telephone": "04 66 32 71 52",
+        "site_web": "http://www.alzur.fr/",
+        "adresse": "67 Av. de la République, 48100 Bourgs sur Colagne",
+        "note": 4.3,
+        "avis": 39,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "147308315102911930",
+        "nom": "Ébénisterie - Menuiserie Philippe Soulard",
+        "slug": "ebenisterie-menuiserie-philippe-soulard",
+        "telephone": "04 66 32 33 72",
+        "site_web": "http://www.soulard-cuisine.fr/",
+        "adresse": "4 Av. Martyrs de la Résistance, 48100 Marvejols",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "14204336180211386896",
+        "nom": "LG Menuiseries & Services - Sur Mesure Menuiserie",
+        "slug": "lg-menuiseries-services-sur-mesure-menuiserie",
+        "telephone": "06 85 15 91 29",
+        "site_web": "https://marvejols.surmesure-menuiserie.fr/",
+        "adresse": "16 Av. Savorgnan de Brazza, 48100 Marvejols",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4113131778393101264",
+        "nom": "La Compagnie des Menuisiers de France",
+        "slug": "la-compagnie-des-menuisiers-de-france",
+        "telephone": "04 66 49 11 11",
+        "site_web": "https://www.facebook.com/profile.php?id=100063628569123&locale=fr_FR&utm_source=gmb",
+        "adresse": "Lot. les Terres Bleues, 48000 Lanuéjols",
+        "note": 4.7,
+        "avis": 76,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "langogne": {
+    "artisans": [
+      {
+        "id": "3920467900587490048",
+        "nom": "1976 Ebénisterie",
+        "slug": "1976-ebenisterie",
+        "telephone": "06 62 61 97 19",
+        "site_web": null,
+        "adresse": "55 Av. du Maréchal Foch, 48300 Langogne",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18126899464337397679",
+        "nom": "Lhermet Menuiserie",
+        "slug": "lhermet-menuiserie",
+        "telephone": "04 66 69 12 87",
+        "site_web": "http://www.veranda-lhermet.com/",
+        "adresse": "21 Av. Jean Moulin, 48300 Langogne",
+        "note": 3.8,
+        "avis": 17,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-chely-d-apcher": {
+    "artisans": [
+      {
+        "id": "16160269358794610096",
+        "nom": "Ambiance Bois Agencement",
+        "slug": "ambiance-bois-agencement",
+        "telephone": "04 66 32 83 39",
+        "site_web": "http://www.ambiance-bois-agencement.com/",
+        "adresse": "10 Rue des Artisans, 48200 Saint-Chély-d'Apcher",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6540010094280890107",
+        "nom": "Menuiseries D Ici",
+        "slug": "menuiseries-d-ici",
+        "telephone": "04 30 43 40 20",
+        "site_web": null,
+        "adresse": "15 Bd Guérin d'Apcher, 48200 Saint-Chély-d'Apcher",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12276911340235746914",
+        "nom": "Menuiseries du Gévaudan",
+        "slug": "menuiseries-du-gevaudan",
+        "telephone": "04 66 31 69 23",
+        "site_web": "https://www.menuiserie-du-gevaudan.fr/",
+        "adresse": "1 impasse Des Entrepreneurs, 48200 Saint-Chély-d'Apcher",
+        "note": 3.3,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2653615830894893780",
+        "nom": "Ebénisterie Théo & Mortaise",
+        "slug": "ebenisterie-theo-mortaise",
+        "telephone": "06 48 75 32 59",
+        "site_web": "https://www.facebook.com/theoetmortaise",
+        "adresse": "73 Rue Théophile Roussel, 48200 Saint-Chély-d'Apcher",
+        "note": 5,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "2925117441220268808",
+        "nom": "NICOLAS BRUNEL Menuiseries INTERNORM / Pergolas - Store Banne GIBUS / Etanchéité - Charpente",
+        "slug": "nicolas-brunel-menuiseries-internorm-pergolas-store-banne-gibus-etancheite-charpente",
+        "telephone": "04 48 25 02 18",
+        "site_web": "https://www.nicolas-brunel-menuiseries.fr/",
+        "adresse": "81 Rue Théophile Roussel, 48200 Saint-Chély-d'Apcher",
+        "note": 5,
+        "avis": 12,
+        "type": "Showroom"
+      },
+      {
+        "id": "9850653955692633557",
+        "nom": "ORLHAC MENUISERIES",
+        "slug": "orlhac-menuiseries",
+        "telephone": "04 66 31 00 68",
+        "site_web": "https://orlhacmenuiseries.com/",
+        "adresse": "36 Av. Pierre Pignide, 48200 Saint-Chély-d'Apcher",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "marvejols": {
+    "artisans": [
+      {
+        "id": "5702275599216270313",
+        "nom": "Atelier du Piou",
+        "slug": "atelier-du-piou",
+        "telephone": "04 66 32 02 08",
+        "site_web": "http://www.atelierdupiou.com/",
+        "adresse": "6 Rue des Causses, 48100 Marvejols",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "15393727618320972338",
+        "nom": "SARL FRANCIS MALIGES",
+        "slug": "sarl-francis-maliges",
+        "telephone": "04 66 32 32 88",
+        "site_web": "https://sas-maliges-constructionsbois.com/",
+        "adresse": "695 Av. de la Méridienne Bp 9, 48100 Marvejols",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "monts-de-randon": {
+    "artisans": [
+      {
+        "id": "11313632245404784713",
+        "nom": "Atelier Lilliu",
+        "slug": "atelier-lilliu",
+        "telephone": "04 66 47 34 96",
+        "site_web": "http://www.atelier-lilliu.fr/",
+        "adresse": "Village, 48700 Monts-de-Randon",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "12966990452328408739",
+        "nom": "Lozère menuiserie",
+        "slug": "lozere-menuiserie",
+        "telephone": null,
+        "site_web": "https://laboutiquedumenuisier.fr/",
+        "adresse": "Av. des Gorges du Tarn, 48000 Mende",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chanac": {
+    "artisans": [
+      {
+        "id": "8571095647209528515",
+        "nom": "Menuiserie Lartaud",
+        "slug": "menuiserie-lartaud",
+        "telephone": "06 72 20 09 91",
+        "site_web": null,
+        "adresse": "10 Allee des Artisans, 48230 Chanac",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12884441956131533227",
+        "nom": "Aluminium Systeme",
+        "slug": "aluminium-systeme",
+        "telephone": "04 66 45 93 80",
+        "site_web": "http://www.aluminium-systeme.fr/",
+        "adresse": "7 allée des Artisans, Za les Plaines, 48230 Chanac",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "mende": {
+    "artisans": [
+      {
+        "id": "1653443477549539137",
+        "nom": "SAS Gely Menuiserie",
+        "slug": "sas-gely-menuiserie",
+        "telephone": "04 66 49 13 20",
+        "site_web": null,
+        "adresse": "Gardes, 48000 Mende",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "12339840700264909817",
+        "nom": "TRYBA Mende",
+        "slug": "tryba-mende",
+        "telephone": "04 20 98 14 31",
+        "site_web": "https://www.tryba.com/espace-conseil/48/tryba-mende/?utm_campaign=Tryba_Mende&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "2 Av. du Père Coudrin, 48000 Mende",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11574567471356908675",
+        "nom": "Menuiserie Concept 48",
+        "slug": "menuiserie-concept-48",
+        "telephone": "07 86 52 22 96",
+        "site_web": "https://www.menuiserieconcept48.fr/?utm_source=gmb",
+        "adresse": "12 Rue de la Draine, 48000 Mende",
+        "note": 4.8,
+        "avis": 32,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2866273696293662868",
+        "nom": "CADRAL",
+        "slug": "cadral",
+        "telephone": "04 66 69 16 23",
+        "site_web": "https://cadral.fr/",
+        "adresse": "23 Rue de la Draine, 48000 Mende",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6226492341671299553",
+        "nom": "GAMSO MENDE",
+        "slug": "gamso-mende",
+        "telephone": "04 66 48 08 79",
+        "site_web": "https://www.gamso-menuiseries.fr/",
+        "adresse": "7 Av. Jean Moulin, 48000 Mende",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8493844550701932132",
+        "nom": "Atelier Design Bois et Derives",
+        "slug": "atelier-design-bois-et-derives",
+        "telephone": "04 66 49 29 57",
+        "site_web": "https://adbd48.fr/",
+        "adresse": "7 Rue Albert Einstein, 48000 Mende",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17920866860048263139",
+        "nom": "Ébénisterie Lozérienne",
+        "slug": "ebenisterie-lozerienne",
+        "telephone": "04 66 49 05 24",
+        "site_web": "http://www.cuisines-references.fr/",
+        "adresse": "ZAE Causse d'Auge, 1 Rue de la Draine, 48000 Mende",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15172221669402315293",
+        "nom": "L'ATTISOIR",
+        "slug": "lattisoir",
+        "telephone": "07 45 09 48 74",
+        "site_web": "https://attisoir.fr/",
+        "adresse": "2 Rue de la Tride, 48000 Mende",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17835718417200786726",
+        "nom": "Geode Agencement",
+        "slug": "geode-agencement",
+        "telephone": "06 59 75 48 97",
+        "site_web": null,
+        "adresse": "2 Rue de la Tride, 48000 Mende",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3739170344221645890",
+        "nom": "ETS CANAC",
+        "slug": "ets-canac",
+        "telephone": "04 66 47 38 57",
+        "site_web": "http://etscanac.fr/",
+        "adresse": "6 Rue des Tourdres, 48000 Mende",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "montrodat": {
+    "artisans": [
+      {
+        "id": "4927692358649730672",
+        "nom": "Nicolas Ousty",
+        "slug": "nicolas-ousty",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "48100 Montrodat",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "banassac-canilhac": {
+    "artisans": [
+      {
+        "id": "13518299603007768587",
+        "nom": "RS Création Rénovation",
+        "slug": "rs-creation-renovation",
+        "telephone": "06 47 35 87 26",
+        "site_web": "https://urldefense.com/v3/__https://www.facebook.com/share/1DnaDN8tSJ/?mibextid=wwXIfr__;!!L5defV79sgTvOShi!Y_4SgTUvcA05zeSEqNVoZ6r0-n84em59uEx-znCnlGBPcjxheMiXvfkkW105N-x9c-aqqyFvWKZn_PqvXx8ujIJe-lroMg$",
+        "adresse": "4 Ldt Verteilhac, 48500 Banassac-Canilhac",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-alban-sur-limagnole": {
+    "artisans": [
+      {
+        "id": "14291157431075048847",
+        "nom": "Le Chemin Des Sens",
+        "slug": "le-chemin-des-sens",
+        "telephone": "04 66 44 72 61",
+        "site_web": "http://www.lechemindessens.com/",
+        "adresse": "13 Grand-Rue, 48120 Saint-Alban-sur-Limagnole",
+        "note": 4.9,
+        "avis": 99,
+        "type": "Restaurant"
+      },
+      {
+        "id": "13074636349401787301",
+        "nom": "LOZCOM - Rodier Sylvain",
+        "slug": "lozcom-rodier-sylvain",
+        "telephone": "06 70 62 69 59",
+        "site_web": "http://www.lozcom.com/",
+        "adresse": "Rte de Montalbert, 48120 Saint-Alban-sur-Limagnole",
+        "note": 5,
+        "avis": 1,
+        "type": "Concepteur de sites Web"
+      },
+      {
+        "id": "12276911340235746914",
+        "nom": "Menuiseries du Gévaudan",
+        "slug": "menuiseries-du-gevaudan",
+        "telephone": "04 66 31 69 23",
+        "site_web": "https://www.menuiserie-du-gevaudan.fr/",
+        "adresse": "1 impasse Des Entrepreneurs, 48200 Saint-Chély-d'Apcher",
+        "note": 3.3,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7996309056644377132",
+        "nom": "Menuisieries services",
+        "slug": "menuisieries-services",
+        "telephone": "06 87 10 01 31",
+        "site_web": null,
+        "adresse": "Lotissement la route d'argent, 48140 Le Malzieu-Ville",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2748684681140492173",
+        "nom": "Clic'Margeride",
+        "slug": "clicmargeride",
+        "telephone": "06 81 09 09 79",
+        "site_web": null,
+        "adresse": "Le Marlet, 48120 Saint-Alban-sur-Limagnole",
+        "note": 0,
+        "avis": 0,
+        "type": "Concepteur de sites Web"
+      }
+    ]
+  },
+  "la-canourgue": {
+    "artisans": [
+      {
+        "id": "16702865366872289344",
+        "nom": "menuiserie cordesse",
+        "slug": "menuiserie-cordesse",
+        "telephone": "09 70 35 65 53",
+        "site_web": null,
+        "adresse": "24 Av. des Gorges du Tarn, 48500 La Canourgue",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "peyre-en-aubrac": {
+    "artisans": [
+      {
+        "id": "14828174287168551172",
+        "nom": "MARTIN PERE & FILS",
+        "slug": "martin-pere-fils",
+        "telephone": "04 66 42 90 05",
+        "site_web": null,
+        "adresse": "L'Oustal Neuf, 48130 Peyre en Aubrac",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "4876277416421713727",
+        "nom": "BATIMAN Alutex Aumont-Aubrac",
+        "slug": "batiman-alutex-aumont-aubrac",
+        "telephone": "04 66 42 95 46",
+        "site_web": "https://www.batiman.fr/nos-points-de-vente/batiman-alutex-aumont-aubrac-48130-experts-en-menuiserie",
+        "adresse": "ZAE du Pêcher, 90 Av. de la Méridienne, 48130 Peyre en Aubrac",
+        "note": 4.6,
+        "avis": 104,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4338711294513233068",
+        "nom": "Gaillard Rondino",
+        "slug": "gaillard-rondino",
+        "telephone": "04 66 42 80 34",
+        "site_web": null,
+        "adresse": "Lieu dit La Croix, 48130 Peyre en Aubrac",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "15317443838365927321",
+        "nom": "Crespin Patrick Sarl",
+        "slug": "crespin-patrick-sarl",
+        "telephone": "04 66 42 89 69",
+        "site_web": null,
+        "adresse": "Rte de la Margeride, 48130 Peyre en Aubrac",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "mont-lozere-et-goulet": {
+    "artisans": [
+      {
+        "id": "585275491873817259",
+        "nom": "Hébrard Patrick - menuiserie",
+        "slug": "hebrard-patrick-menuiserie",
+        "telephone": "04 66 47 65 50",
+        "site_web": null,
+        "adresse": "Lou Clausel, 48190 Mont Lozère et Goulet",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9505335092784504978",
+        "nom": "Menuiserie MOURET",
+        "slug": "menuiserie-mouret",
+        "telephone": "06 88 19 37 99",
+        "site_web": null,
+        "adresse": "La FAYSSE, 48190 Chadenet",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9679508831156526479",
+        "nom": "Chapelle Benjamin",
+        "slug": "chapelle-benjamin",
+        "telephone": "09 71 21 12 38",
+        "site_web": null,
+        "adresse": "10 Le Viala, 48220 Pont de Montvert - Sud Mont Lozère",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9058649928365680424",
+        "nom": "Wood Vision",
+        "slug": "wood-vision",
+        "telephone": "06 41 30 32 86",
+        "site_web": "https://www.instagram.com/woodvision48/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3222 @@
+{
+  "villeneuve-la-garenne": {
+    "artisans": [
+      {
+        "id": "8074364225628944614",
+        "nom": "Hopen - Remplacer ses fenêtres devient plus simple et moins cher",
+        "slug": "hopen-remplacer-ses-fenetres-devient-plus-simple-et-moins-cher",
+        "telephone": "01 88 61 64 41",
+        "site_web": "http://www.hopen.fr/",
+        "adresse": "23 Rue de Cléry, 75002 Paris",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5627369767256282806",
+        "nom": "Mon Atelier En Ville",
+        "slug": "mon-atelier-en-ville",
+        "telephone": "09 82 55 08 34",
+        "site_web": "http://www.monatelierenville.com/",
+        "adresse": "30 Rue de Cléry, 75002 Paris",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6724663005717673915",
+        "nom": "Art et Fenêtres - Paris - SB Ouvertures",
+        "slug": "art-et-fenetres-paris-sb-ouvertures",
+        "telephone": "01 44 82 02 90",
+        "site_web": "http://sbouvertures.artetfenetres.com/",
+        "adresse": "135 Bd de Sébastopol, 75002 Paris",
+        "note": 4.9,
+        "avis": 231,
+        "type": "Vitrier"
+      },
+      {
+        "id": "12536564403812874508",
+        "nom": "MGH Agencement",
+        "slug": "mgh-agencement",
+        "telephone": "06 61 99 10 29",
+        "site_web": "http://mgh-agencement.fr/",
+        "adresse": "15 Rue du Louvre, 75001 Paris",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant"
+      },
+      {
+        "id": "16417947684271181305",
+        "nom": "Agencement Bois Menuiserie",
+        "slug": "agencement-bois-menuiserie",
+        "telephone": "06 98 71 10 55",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14404571531376461517",
+        "nom": "Fenêtres EBEN Paris",
+        "slug": "fenetres-eben-paris",
+        "telephone": "01 89 70 11 55",
+        "site_web": "http://www.eben.fr/",
+        "adresse": "10 Rue Saint-Marc, 75002 Paris",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10163976584466052534",
+        "nom": "TRYBA Paris 2e",
+        "slug": "tryba-paris-2e",
+        "telephone": "01 45 08 19 68",
+        "site_web": "https://www.tryba.com/espace-conseil/75/tryba-paris-2e/?utm_campaign=Tryba_Paris-2e&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "107 Bd de Sébastopol, 75002 Paris",
+        "note": 4.7,
+        "avis": 141,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "367475909707150168",
+        "nom": "BAM System",
+        "slug": "bam-system",
+        "telephone": "06 07 86 61 07",
+        "site_web": "https://bam-system.com/",
+        "adresse": "67 Rue d'Argout, 75002 Paris",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "16159817750445498366",
+        "nom": "Espace 115 Schüco",
+        "slug": "espace-115-schuco",
+        "telephone": "01 59 23 58 29",
+        "site_web": "https://www.schueco.com/fr",
+        "adresse": "115 Rue Réaumur, 75002 Paris",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Showroom"
+      },
+      {
+        "id": "10802698462427302902",
+        "nom": "BATON ROMPU",
+        "slug": "baton-rompu",
+        "telephone": "06 42 86 24 11",
+        "site_web": null,
+        "adresse": "15 Rue du Louvre 75 001, 75001 Paris",
+        "note": 1,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "bagneux": {
+    "artisans": [
+      {
+        "id": "10064683855568849310",
+        "nom": "ART & FENETRES PARISIENNES MONTROUGE",
+        "slug": "art-fenetres-parisiennes-montrouge",
+        "telephone": "01 49 97 92 10",
+        "site_web": "https://qualiso.artetfenetres.com/adresses-magasins/montrouge-92120.php",
+        "adresse": "82 Av. Aristide Briand, 92120 Montrouge",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "4591311573500898306",
+        "nom": "Menuiserie de France",
+        "slug": "menuiserie-de-france",
+        "telephone": "06 25 10 98 11",
+        "site_web": "https://menuiseriedefrance.wixsite.com/website",
+        "adresse": "21 Rue des Cuverons, 92220 Bagneux",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14043424588499209113",
+        "nom": "Atelier de Menuiserie en Sièges Jallet",
+        "slug": "atelier-de-menuiserie-en-sieges-jallet",
+        "telephone": "01 47 00 26 64",
+        "site_web": null,
+        "adresse": "5 Rue de Charonne, 75011 Paris",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15647817795504981805",
+        "nom": "Montrouge Menuiserie",
+        "slug": "montrouge-menuiserie",
+        "telephone": "01 42 53 47 22",
+        "site_web": null,
+        "adresse": "114 Av. Henri Ravera, 92220 Bagneux",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2353118314229002847",
+        "nom": "MILLET ANTOINE",
+        "slug": "millet-antoine",
+        "telephone": "07 58 00 20 34",
+        "site_web": "https://www.pappers.fr/entreprise/millet-antoine-953447893",
+        "adresse": "14 Rue Charles V, 75004 Paris",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6867907506082742604",
+        "nom": "Menuiserie VALENTIN",
+        "slug": "menuiserie-valentin",
+        "telephone": "06 63 85 49 30",
+        "site_web": null,
+        "adresse": "33 Rue de la Bièvre, 92340 Bourg-la-Reine",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1632370144402302934",
+        "nom": "Octo Menuiserie - Menuisier sur mesure à Paris",
+        "slug": "octo-menuiserie-menuisier-sur-mesure-a-paris",
+        "telephone": "06 11 63 08 86",
+        "site_web": "http://www.octo-menuiserie.com/",
+        "adresse": "61 Rue de Lyon, 75012 Paris",
+        "note": 5,
+        "avis": 22,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5505616791900678811",
+        "nom": "Teixeira Freres Menuiserie",
+        "slug": "teixeira-freres-menuiserie",
+        "telephone": "06 09 15 88 41",
+        "site_web": "https://www.facebook.com/teixeira.freres.menuiserie/",
+        "adresse": "53 Av. Aristide Briand, 92120 Montrouge",
+        "note": 3,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9724100900709681248",
+        "nom": "2F BTP",
+        "slug": "2f-btp",
+        "telephone": "06 05 51 43 23",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "507074008379524848",
+        "nom": "IS2 atelier",
+        "slug": "is2-atelier",
+        "telephone": null,
+        "site_web": "http://www.is2atelier.fr/",
+        "adresse": "14 Rue Charles V, 75004 Paris",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "boulogne-billancourt": {
+    "artisans": [
+      {
+        "id": "11957503880705230637",
+        "nom": "BOIS ET BLANC - Meubles sur Mesure",
+        "slug": "bois-et-blanc-meubles-sur-mesure",
+        "telephone": "01 80 88 60 04",
+        "site_web": "https://boisetblanc.fr/",
+        "adresse": "8 Rue Souchal, 92110 Clichy",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "4899999677774141612",
+        "nom": "Mon petit marteau",
+        "slug": "mon-petit-marteau",
+        "telephone": "06 50 66 07 11",
+        "site_web": "https://monpetitmarteau.com/",
+        "adresse": "7 Rue Houdon, 75018 Paris",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2317596632014190391",
+        "nom": "MANUFACTURA - Artisan Menuisier - Boulogne",
+        "slug": "manufactura-artisan-menuisier-boulogne",
+        "telephone": "01 81 70 68 38",
+        "site_web": "http://la-menuiserie-parisienne.com/",
+        "adresse": "3 Rue Esnault Pelterie, 92100 Boulogne-Billancourt",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16097636265473564208",
+        "nom": "Avenir Rénovations 92 Boulogne Billancourt",
+        "slug": "avenir-renovations-92-boulogne-billancourt",
+        "telephone": "01 83 62 53 14",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-92-boulogne-billancourt/",
+        "adresse": "21 Rue des Longs Prés, 92100 Boulogne-Billancourt",
+        "note": 4.7,
+        "avis": 66,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "393094641864557431",
+        "nom": "Reparation Fenetre Paris toute marque: cremone,poignee",
+        "slug": "reparation-fenetre-paris-toute-marque-cremonepoignee",
+        "telephone": "06 51 85 75 38",
+        "site_web": "https://www.paris-fenetre.fr/",
+        "adresse": "102 Av. des Champs-Élysées, 75008 Paris",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8224827752670034891",
+        "nom": "Prieur Jean",
+        "slug": "prieur-jean",
+        "telephone": "01 46 08 30 33",
+        "site_web": "https://www.meilleur-artisan.com/entreprise.jean-prieur.218225.html?utm_source=gmb",
+        "adresse": "256 boulevard Jean Jaurès, 4 Sente Des Chandeliers, 92100 Boulogne-Billancourt",
+        "note": 4,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1019004367023845348",
+        "nom": "EWDI",
+        "slug": "ewdi",
+        "telephone": "01 30 10 50 16",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12240896100371701900",
+        "nom": "Excellence Bâti Rénov",
+        "slug": "excellence-bati-renov",
+        "telephone": "07 60 90 78 06",
+        "site_web": "https://excellence-batirenov.com/devis-personnalise/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "1298384614429970558",
+        "nom": "ART & FENETRES PARISIENNES - BOULOGNE BILLANCOURT",
+        "slug": "art-fenetres-parisiennes-boulogne-billancourt",
+        "telephone": "01 49 97 92 10",
+        "site_web": "https://qualiso.artetfenetres.com/adresses-magasins/boulogne-billancourt-92100.php",
+        "adresse": "9 bis Av. du Maréchal de Lattre de Tassigny, 92100 Boulogne-Billancourt",
+        "note": 4.7,
+        "avis": 49,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "7735451502069535760",
+        "nom": "boisreduc",
+        "slug": "boisreduc",
+        "telephone": "09 70 25 23 03",
+        "site_web": "https://www.boisreduc.com/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "antony": {
+    "artisans": [
+      {
+        "id": "16429338631010032830",
+        "nom": "OuvertureS - Côté Fermetures - Pose de fenêtres à Antony",
+        "slug": "ouvertures-cote-fermetures-pose-de-fenetres-a-antony",
+        "telephone": "01 40 96 87 03",
+        "site_web": "https://antony.ouvertures.com/?utm_campaign=GMB_antony&utm_medium=organic&utm_source=GMB",
+        "adresse": "77 Av. de la Division Leclerc, 92160 Antony",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5174361859957869036",
+        "nom": "Fenêtres Étoile",
+        "slug": "fenetres-etoile",
+        "telephone": "01 46 89 15 84",
+        "site_web": "https://fenetresetoile.fr/",
+        "adresse": "94 Rue du Point du Jour, 92100 Boulogne-Billancourt",
+        "note": 5,
+        "avis": 194,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10114773574855621960",
+        "nom": "Maison Boucault - L'Expert Fenêtre",
+        "slug": "maison-boucault-lexpert-fenetre",
+        "telephone": "01 60 11 44 48",
+        "site_web": "https://maison-boucault.fr/",
+        "adresse": "11 Rue des Petits Ruisseaux, 91370 Verrières-le-Buisson",
+        "note": 4.6,
+        "avis": 154,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9426297201998953624",
+        "nom": "Du Cèdre à l'Olivier - Menuisier",
+        "slug": "du-cedre-a-lolivier-menuisier",
+        "telephone": "06 63 78 82 80",
+        "site_web": null,
+        "adresse": "2 Av. Raymond Aron, 92160 Antony",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7228604672803264322",
+        "nom": "ATELIER J.F.B.",
+        "slug": "atelier-jfb",
+        "telephone": "06 65 56 84 50",
+        "site_web": null,
+        "adresse": "23 Av. Jules Ferry, 92160 Antony",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2075070255072904720",
+        "nom": "Menuiserie Morvan-Le Strat",
+        "slug": "menuiserie-morvan-le-strat",
+        "telephone": "06 81 49 14 17",
+        "site_web": null,
+        "adresse": "10 Imp. Curie, 92160 Antony",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12068819664840770722",
+        "nom": "Antony Fenêtres",
+        "slug": "antony-fenetres",
+        "telephone": "01 46 66 01 58",
+        "site_web": "https://antony-fenetres-verandas-volets.fr/",
+        "adresse": "2 Av. du President Kennedy, 92160 Antony",
+        "note": 4.5,
+        "avis": 103,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1609656724976808582",
+        "nom": "Atelier Pierre&Antoine",
+        "slug": "atelier-pierreantoine",
+        "telephone": "06 78 98 09 18",
+        "site_web": "https://www.instagram.com/atelier_pierre_et_antoine/",
+        "adresse": "40 All. Gambrinus, 92140 Clamart",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12145670942697266466",
+        "nom": "Lorenove Antony",
+        "slug": "lorenove-antony",
+        "telephone": "01 40 91 91 16",
+        "site_web": "https://www.fenetres-lorenove.fr/agence/antony?utm_source=Google&utm_medium=organic&utm_campaign=gmb&utm_content=agence_antony",
+        "adresse": "76 Av. de la Division Leclerc, 92160 Antony",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "18054574756213615464",
+        "nom": "Menuiserie Morin",
+        "slug": "menuiserie-morin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "79 Av. de la Division Leclerc, 92160 Antony",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de meubles de cuisine"
+      }
+    ]
+  },
+  "issy-les-moulineaux": {
+    "artisans": [
+      {
+        "id": "5542051966809695486",
+        "nom": "Entreprise Ferrari",
+        "slug": "entreprise-ferrari",
+        "telephone": "01 46 42 26 74",
+        "site_web": "http://entreprise-ferrari.fr/",
+        "adresse": "32 Rue Danton, 92130 Issy-les-Moulineaux",
+        "note": 4.3,
+        "avis": 15,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "16823897325428923150",
+        "nom": "Avenir Rénovations Paris Ouest (75)",
+        "slug": "avenir-renovations-paris-ouest-75",
+        "telephone": "01 59 30 31 85",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-75-paris-ouest/",
+        "adresse": "6 Av. de Lamballe, 75016 Paris",
+        "note": 4.5,
+        "avis": 16,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "15244429822868232294",
+        "nom": "VITREA menuiseries Ile de france",
+        "slug": "vitrea-menuiseries-ile-de-france",
+        "telephone": "01 89 62 17 21",
+        "site_web": "https://www.vitrea-menuiserie.fr/",
+        "adresse": "24 Rue du Gouverneur Général Éboué, 92130 Issy-les-Moulineaux",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1754772258427182562",
+        "nom": "ART ET FENETRES PARISIENNES ISSY LES MOULINEAUX",
+        "slug": "art-et-fenetres-parisiennes-issy-les-moulineaux",
+        "telephone": "01 49 97 92 10",
+        "site_web": "https://qualiso.artetfenetres.com/",
+        "adresse": "11 bis Rue Ernest Renan, 92130 Issy-les-Moulineaux",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "18058851267232516572",
+        "nom": "Atelier Amboine",
+        "slug": "atelier-amboine",
+        "telephone": "01 47 36 02 64",
+        "site_web": null,
+        "adresse": "14 Rue de l'Abbé Derry, 92130 Issy-les-Moulineaux",
+        "note": 5,
+        "avis": 3,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "7240546348024323475",
+        "nom": "VITSAR STYLE Menuiserie",
+        "slug": "vitsar-style-menuiserie",
+        "telephone": "06 46 87 99 69",
+        "site_web": "http://vsfenetre.eu/",
+        "adresse": "51 Rue du Général Leclerc, 92130 Issy-les-Moulineaux",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "7866305407001182339",
+        "nom": "Atelier des Meubles Anciens",
+        "slug": "atelier-des-meubles-anciens",
+        "telephone": "01 40 95 04 62",
+        "site_web": "http://www.atelier-meubles-anciens.fr/?utm_source=gmb",
+        "adresse": "18 Rue Adolphe Chérioux, 92130 Issy-les-Moulineaux",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Service de restauration de meubles anciens"
+      },
+      {
+        "id": "3580727964644290959",
+        "nom": "Atelier Roba - Ebéniste",
+        "slug": "atelier-roba-ebeniste",
+        "telephone": "06 09 86 39 76",
+        "site_web": "https://atelier-roba.com/",
+        "adresse": "Péniche Ste Geneviève II, 228 Quai de Stalingrad, 92130 Issy-les-Moulineaux",
+        "note": 5,
+        "avis": 0,
+        "type": "Service de restauration de meubles anciens"
+      },
+      {
+        "id": "5578066896507642498",
+        "nom": "Thierry De Mullenheim",
+        "slug": "thierry-de-mullenheim",
+        "telephone": "06 64 47 31 92",
+        "site_web": "https://www.thierry-de-mullenheim.com/?utm_source=gmb",
+        "adresse": "11 Rue Sadi Carnot, 92170 Vanves",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "9366133033169263361",
+        "nom": "Stores 19 - OuvertureS Issy-les-Moulineaux",
+        "slug": "stores-19-ouvertures-issy-les-moulineaux",
+        "telephone": "01 46 38 27 55",
+        "site_web": "http://www.stores19.com/",
+        "adresse": "43 Rue Pierre Brossolette, 92130 Issy-les-Moulineaux",
+        "note": 4,
+        "avis": 33,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "bois-colombes": {
+    "artisans": [
+      {
+        "id": "17196616037368087951",
+        "nom": "Menuiserie Lesage",
+        "slug": "menuiserie-lesage",
+        "telephone": "06 30 80 24 54",
+        "site_web": "https://menuiserie-lesage-94.webself.net/",
+        "adresse": "273 Rue Gabriel Péri, 92700 Colombes",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13182104207143200913",
+        "nom": "Menuiserie Galien",
+        "slug": "menuiserie-galien",
+        "telephone": "01 47 33 59 14",
+        "site_web": "http://www.menuiserie-galien.com/",
+        "adresse": "33 Rue Chanzy, 92600 Asnières-sur-Seine",
+        "note": 3.8,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17631643603703494236",
+        "nom": "EBENISTERIE 111",
+        "slug": "ebenisterie-111",
+        "telephone": "06 07 57 99 78",
+        "site_web": "http://www.ebenisterie111.fr/",
+        "adresse": "111 Av. du Révérend Père Corentin Cloarec, 92270 Bois-Colombes",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "5277123068475416310",
+        "nom": "LEMON TREE - Artisan Menuisier",
+        "slug": "lemon-tree-artisan-menuisier",
+        "telephone": "06 68 73 95 68",
+        "site_web": "https://www.atelierlemontree.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5465143407867981872",
+        "nom": "Couvreur Bois-Colombes - Les Ateliers de la Couverture",
+        "slug": "couvreur-bois-colombes-les-ateliers-de-la-couverture",
+        "telephone": "06 14 56 88 83",
+        "site_web": "http://lesateliersdelacouverture.com/",
+        "adresse": "9 Rue Philippe de Metz, 92270 Bois-Colombes",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9795405372718933110",
+        "nom": "Menuiserie Bré",
+        "slug": "menuiserie-bre",
+        "telephone": "01 40 80 08 43",
+        "site_web": "http://www.menuiseriebre.fr/",
+        "adresse": "17 Av. d'Argenteuil, 92600 Asnières-sur-Seine",
+        "note": 3,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1043838815078953315",
+        "nom": "TRYBA Colombes",
+        "slug": "tryba-colombes",
+        "telephone": "01 59 30 12 43",
+        "site_web": "https://www.tryba.com/espace-conseil/92/tryba-colombes/?utm_campaign=Tryba_Colombes&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "177 Av. Henri Barbusse, 92700 Colombes",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14265843259038277797",
+        "nom": "Dude in the wood - Le menuisier d'à côté",
+        "slug": "dude-in-the-wood-le-menuisier-da-cote",
+        "telephone": "06 27 80 08 33",
+        "site_web": "https://www.dudeinthewood.fr/",
+        "adresse": "273 Rue Gabriel Péri, 92700 Colombes",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10270207383996027324",
+        "nom": "SARL Artelier",
+        "slug": "sarl-artelier",
+        "telephone": "06 10 11 85 14",
+        "site_web": "https://artelier.fr/",
+        "adresse": "99 Rue des Bourguignons, 92270 Bois-Colombes",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "548753622911438054",
+        "nom": "A.Ogalod",
+        "slug": "aogalod",
+        "telephone": null,
+        "site_web": "https://www.ogalod.com/",
+        "adresse": "19 Rue Maurice Berteaux, 92700 Colombes",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "asnieres-sur-seine": {
+    "artisans": [
+      {
+        "id": "845880222634888949",
+        "nom": "IDEA concept",
+        "slug": "idea-concept",
+        "telephone": "06 62 02 12 75",
+        "site_web": "https://www.idea-concept.fr/",
+        "adresse": "7 Cour Napoléon Bonaparte, 92600 Asnières-sur-Seine",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17127589704377421823",
+        "nom": "Agenceur D'interieur",
+        "slug": "agenceur-dinterieur",
+        "telephone": "06 07 67 36 16",
+        "site_web": "https://www.menuiseriebre.fr/",
+        "adresse": "Av. d'Argenteuil, 92600 Asnières-sur-Seine",
+        "note": 2.3,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13790309078598739339",
+        "nom": "Côté Rangement | Placard Dressing Meuble Bibliothèque | Menuisier Création Fabrication Installation sur mesure Asnières 92",
+        "slug": "cote-rangement-placard-dressing-meuble-bibliotheque-menuisier-creation-fabrication-installation-sur-mesure-asnieres-92",
+        "telephone": "01 60 49 25 57",
+        "site_web": "http://www.cote-rangement.com/",
+        "adresse": "12 Rue du Chemin Vert, 92600 Asnières-sur-Seine",
+        "note": 5,
+        "avis": 19,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "4249732831312283602",
+        "nom": "Artisans du devoir",
+        "slug": "artisans-du-devoir",
+        "telephone": "06 78 48 46 21",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4874907137461281593",
+        "nom": "LES ATELIERS DEFOND menuiserie & métallerie d'art",
+        "slug": "les-ateliers-defond-menuiserie-metallerie-dart",
+        "telephone": "06 62 96 38 12",
+        "site_web": "https://lesateliersdefond.com/",
+        "adresse": "14 Rue de Neuilly, 92110 Clichy",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10651601894484189971",
+        "nom": "TRYBA Asnières",
+        "slug": "tryba-asnieres",
+        "telephone": "01 59 30 12 42",
+        "site_web": "https://www.tryba.com/espace-conseil/92/tryba-asnieres/?utm_campaign=Tryba_Asnieres&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "79 Av. de la Marne, 92600 Asnières-sur-Seine",
+        "note": 4.4,
+        "avis": 79,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9300843534879625757",
+        "nom": "IRIS Fenêtres Agence Hauts de Seine",
+        "slug": "iris-fenetres-agence-hauts-de-seine",
+        "telephone": "01 41 11 99 38",
+        "site_web": "https://iris-fenetres.com/",
+        "adresse": "49 Av. d'Argenteuil, 92600 Asnières-sur-Seine",
+        "note": 3.9,
+        "avis": 35,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "12178923994457657574",
+        "nom": "L'Ouverture Française",
+        "slug": "louverture-francaise",
+        "telephone": "06 68 59 22 28",
+        "site_web": "https://www.louverturefrancaise.com/",
+        "adresse": "16 Av. des Tuyas, 92600 Asnières-sur-Seine",
+        "note": 3.2,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17816849916302418147",
+        "nom": "Antoine Artisan",
+        "slug": "antoine-artisan",
+        "telephone": "09 88 32 33 06",
+        "site_web": "https://www.antoineartisan.fr/",
+        "adresse": "182 Rue des Bourguignons, 92600 Asnières-sur-Seine",
+        "note": 4,
+        "avis": 220,
+        "type": "Serrurier"
+      },
+      {
+        "id": "6104821075119183562",
+        "nom": "ASNIERES CONCEPT - spécialiste en agencement et rénovation intérieure à Asnières-sur-Seine",
+        "slug": "asnieres-concept-specialiste-en-agencement-et-renovation-interieure-a-asnieres-sur-seine",
+        "telephone": "01 85 78 40 38",
+        "site_web": "https://www.asnieres-concept.fr/",
+        "adresse": "15 Gd Rue Charles de Gaulle, 92600 Asnières-sur-Seine",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Spécialiste de la salle de bains"
+      }
+    ]
+  },
+  "bourg-la-reine": {
+    "artisans": [
+      {
+        "id": "6173774245885630333",
+        "nom": "Menuiserie Frame",
+        "slug": "menuiserie-frame",
+        "telephone": "01 46 74 94 56",
+        "site_web": "https://www.menuiserie-frame.fr/",
+        "adresse": "60 Bd du Maréchal Joffre, 92340 Bourg-la-Reine",
+        "note": 0,
+        "avis": 0,
+        "type": "Vitrier"
+      },
+      {
+        "id": "3122952618009831282",
+        "nom": "Rigonnot Art & Bois",
+        "slug": "rigonnot-art-bois",
+        "telephone": "06 66 63 35 50",
+        "site_web": "https://rigonnot-art-bois.fr/",
+        "adresse": "33 Rue de la Bièvre, 92340 Bourg-la-Reine",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10470999662567180133",
+        "nom": "Avenir Rénovations Villejuif (94)",
+        "slug": "avenir-renovations-villejuif-94",
+        "telephone": "01 82 88 62 81",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-94-villejuif/",
+        "adresse": "13 Rue de la Grange Ory, 94230 Cachan",
+        "note": 5,
+        "avis": 9,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "9878012063658680213",
+        "nom": "TRYBA Faron Fenêtres",
+        "slug": "tryba-faron-fenetres",
+        "telephone": "01 69 07 62 62",
+        "site_web": "https://www.faron-fenetres.com/",
+        "adresse": "153 Av. du Général Leclerc, 92340 Bourg-la-Reine",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "13837161309005935314",
+        "nom": "MSM RENOV",
+        "slug": "msm-renov",
+        "telephone": "06 59 79 77 07",
+        "site_web": "http://www.msmrenov.fr/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=7616332767072001702",
+        "adresse": "1 All. Françoise Dolto, 92340 Bourg-la-Reine",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15151946271819784854",
+        "nom": "KparK Bourg La Reine",
+        "slug": "kpark-bourg-la-reine",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/134-kpark-bourg-la-reine?utm_source=gmb",
+        "adresse": "96 Bd du Maréchal Joffre, 92340 Bourg-la-Reine",
+        "note": 2.7,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4940178043767568074",
+        "nom": "Bignon Hervé",
+        "slug": "bignon-herve",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "22 Rue des Peupliers, 94230 Cachan",
+        "note": 4.7,
+        "avis": 13,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chatenay-malabry": {
+    "artisans": [
+      {
+        "id": "4410713572722244847",
+        "nom": "DECOTOOLS",
+        "slug": "decotools",
+        "telephone": "06 60 73 33 64",
+        "site_web": "http://www.decotools.fr/",
+        "adresse": "2 Av. Pierre Brossolette, 92350 Le Plessis-Robinson",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11774391488354783023",
+        "nom": "La boutique du menuisier Manach Fermetures",
+        "slug": "la-boutique-du-menuisier-manach-fermetures",
+        "telephone": "01 47 51 09 06",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/manach-fermetures",
+        "adresse": "74 Av. du 18 Juin 1940, 92500 Rueil-Malmaison",
+        "note": 3,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13717810617734015544",
+        "nom": "Renowood",
+        "slug": "renowood",
+        "telephone": "07 69 95 93 35",
+        "site_web": null,
+        "adresse": "6 Rue de Saclay, 92290 Châtenay-Malabry",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12520615387804511338",
+        "nom": "TRYBA Faron Fenêtres",
+        "slug": "tryba-faron-fenetres",
+        "telephone": "01 69 07 62 62",
+        "site_web": "http://www.faron-fenetres.com/",
+        "adresse": "65 Av. de Robinson, 92290 Châtenay-Malabry",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13467178572458294611",
+        "nom": "ART & FENETRES PARISIENNES CHATENAY MALABRY",
+        "slug": "art-fenetres-parisiennes-chatenay-malabry",
+        "telephone": "01 49 97 92 10",
+        "site_web": "https://qualiso.artetfenetres.com/adresses-magasins/chatenay-malabry-92290.php",
+        "adresse": "105 Av. de la Division Leclerc, 92290 Châtenay-Malabry",
+        "note": 4.6,
+        "avis": 22,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14711206912025694010",
+        "nom": "Menuiserie Klein",
+        "slug": "menuiserie-klein",
+        "telephone": "06 66 52 12 67",
+        "site_web": "http://menuiserieklein92.fr/",
+        "adresse": "194 Rue d'Aulnay, 92350 Le Plessis-Robinson",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14267736409890876758",
+        "nom": "Societe Des Ets Rebeyrat",
+        "slug": "societe-des-ets-rebeyrat",
+        "telephone": "01 47 02 86 20",
+        "site_web": "https://www.metallerie-de-chatenay.fr/",
+        "adresse": "36 Av. Jean Jaurès, 92290 Châtenay-Malabry",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Forgeron"
+      },
+      {
+        "id": "14706244710105752100",
+        "nom": "Maxime & Scie",
+        "slug": "maxime-scie",
+        "telephone": "06 78 61 69 61",
+        "site_web": "https://maximeandscie.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 0,
+        "type": "Agenceur"
+      },
+      {
+        "id": "10811708753133524607",
+        "nom": "Joshua Bartlett - Artisan menuisier",
+        "slug": "joshua-bartlett-artisan-menuisier",
+        "telephone": "07 88 94 51 59",
+        "site_web": "https://www.joshua-bartlett.com/",
+        "adresse": "154 Rue Houdan, 92330 Sceaux",
+        "note": 5,
+        "avis": 8,
+        "type": "Charpentier"
+      },
+      {
+        "id": "15365635311726450401",
+        "nom": "Perene Châtenay-Malabry",
+        "slug": "perene-chatenay-malabry",
+        "telephone": "01 59 30 26 45",
+        "site_web": "https://www.perene.fr/magasin/perene-chatenay-malabry",
+        "adresse": "18 Cours du Commerce, 92290 Châtenay-Malabry",
+        "note": 4.9,
+        "avis": 33,
+        "type": "Designer d'intérieur"
+      }
+    ]
+  },
+  "chatillon": {
+    "artisans": [
+      {
+        "id": "16298083204685445821",
+        "nom": "Frances fenêtres",
+        "slug": "frances-fenetres",
+        "telephone": "01 55 58 16 16",
+        "site_web": "https://www.francefenetres-chatillon.fr/",
+        "adresse": "47 Av. de Verdun, 92320 Châtillon",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "11745263555504929534",
+        "nom": "MARIO MENUISERIE",
+        "slug": "mario-menuiserie",
+        "telephone": "06 15 76 12 33",
+        "site_web": "https://www.artisanpro-mario.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16658735629299375931",
+        "nom": "ISAL Châtillon 92 Daniel Fy - FENÊTRES, VOLETS ROULANTS, STORES - Dépannage - réparation",
+        "slug": "isal-chatillon-92-daniel-fy-fenetres-volets-roulants-stores-depannage-reparation",
+        "telephone": "01 46 42 64 00",
+        "site_web": "https://www.isal-92320.com/",
+        "adresse": "61 Rue Pierre Brossolette, 92320 Châtillon",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13582436501284650267",
+        "nom": "Quadro Intérieurs sur-mesure",
+        "slug": "quadro-interieurs-sur-mesure",
+        "telephone": "01 41 10 94 37",
+        "site_web": "https://www.quadro.fr/fr/magasins/chatillon-92320",
+        "adresse": "37 Av. de Verdun, 92320 Châtillon",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin d'ameublement et de décoration"
+      },
+      {
+        "id": "3662478671726479407",
+        "nom": "Boubker Erraji Auto-Entrepreneur",
+        "slug": "boubker-erraji-auto-entrepreneur",
+        "telephone": "06 51 05 46 09",
+        "site_web": "http://www.beae-bat.fr/Contact.php",
+        "adresse": "4 Rue Voltaire, 92320 Châtillon",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "8599419461829785083",
+        "nom": "Archea Châtillon",
+        "slug": "archea-chatillon",
+        "telephone": "01 46 55 11 55",
+        "site_web": "http://archea.fr/magasin/chatillon/",
+        "adresse": "24 Av. de Verdun, 92320 Châtillon",
+        "note": 4.9,
+        "avis": 70,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "515461149758151550",
+        "nom": "Touchez Du Bois",
+        "slug": "touchez-du-bois",
+        "telephone": "06 84 49 66 15",
+        "site_web": null,
+        "adresse": "2 Rue Jean Jaurès, 92320 Châtillon",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "1813956592968725590",
+        "nom": "Menuiserie Morin SARL",
+        "slug": "menuiserie-morin-sarl",
+        "telephone": "01 46 60 23 12",
+        "site_web": null,
+        "adresse": "16 Rue des Pierrelais, 92260 Fontenay-aux-Roses",
+        "note": 3,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "165468525404489818",
+        "nom": "Windotech",
+        "slug": "windotech",
+        "telephone": "01 41 90 27 22",
+        "site_web": null,
+        "adresse": "15 Rue René Coche, 92170 Vanves",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15041029842513162357",
+        "nom": "SAFE",
+        "slug": "safe",
+        "telephone": "01 84 19 31 00",
+        "site_web": "http://www.safemenuiseries.fr/",
+        "adresse": "1, BIS Rue Pierre et Marie Curie, 92140 Clamart",
+        "note": 5,
+        "avis": 70,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "clamart": {
+    "artisans": [
+      {
+        "id": "14405802210141158261",
+        "nom": "NEW DESIGN MENUISERIE",
+        "slug": "new-design-menuiserie",
+        "telephone": "07 83 74 72 74",
+        "site_web": null,
+        "adresse": "12 Rue de Vanves, 92140 Clamart",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14825038740423237382",
+        "nom": "SCHMIDT Châtillon",
+        "slug": "schmidt-chatillon",
+        "telephone": "09 55 72 59 72",
+        "site_web": "https://www.home-design.schmidt/fr-fr/magasins/hauts-de-seine/chatillon",
+        "adresse": "16 Rue Jean Pierre Timbaud, 92320 Châtillon",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Prestataire de réaménagement de cuisine"
+      },
+      {
+        "id": "11183614811972363214",
+        "nom": "KparK Clamart",
+        "slug": "kpark-clamart",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/104-kpark-clamart?utm_source=gmb",
+        "adresse": "144 Av. Jean Jaurès, 92140 Clamart",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6101896770355404735",
+        "nom": "Menuiserie Frank Laurent",
+        "slug": "menuiserie-frank-laurent",
+        "telephone": "06 82 65 28 74",
+        "site_web": null,
+        "adresse": "42 All. Gambrinus, 92140 Clamart",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12072058788992341999",
+        "nom": "TRYBA Clamart",
+        "slug": "tryba-clamart",
+        "telephone": "01 59 30 13 19",
+        "site_web": "https://www.tryba.com/espace-conseil/92/tryba-clamart/?utm_campaign=Tryba_Clamart&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "97 Av. Jean Jaurès, 92140 Clamart",
+        "note": 4.8,
+        "avis": 110,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4848670444116893066",
+        "nom": "Iso Store Clamart - Fenêtres, Volets, Portes, Stores",
+        "slug": "iso-store-clamart-fenetres-volets-portes-stores",
+        "telephone": "01 39 55 62 66",
+        "site_web": "https://isostore.fr/magasin/clamart/",
+        "adresse": "39 Av. Victor Hugo, 92140 Clamart",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1004083333570139815",
+        "nom": "INTERIEURS PARISIENS D’AUJOURD'HUI (IPA)",
+        "slug": "interieurs-parisiens-daujourdhui-ipa",
+        "telephone": "01 46 31 63 80",
+        "site_web": "http://www.ipa-paris.fr/",
+        "adresse": "54 Rue Perthuis, 92140 Clamart",
+        "note": 5,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12920967589486489817",
+        "nom": "Sarl Mpfe",
+        "slug": "sarl-mpfe",
+        "telephone": "06 49 87 72 84",
+        "site_web": "http://www.mpfe.fr/",
+        "adresse": "1 Rdpt du Général Leclerc, 92140 Clamart",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4241153693913846227",
+        "nom": "ARTISTORE SARL",
+        "slug": "artistore-sarl",
+        "telephone": "01 46 30 87 64",
+        "site_web": "https://www.volet-artistore.fr/",
+        "adresse": "183 Rue de la Prte de Trivaux, 92140 Clamart",
+        "note": 3.8,
+        "avis": 70,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12272174540035848045",
+        "nom": "MSD SERRURERIE IDF",
+        "slug": "msd-serrurerie-idf",
+        "telephone": "06 51 01 35 11",
+        "site_web": "https://www.msd-serrurerie.com/",
+        "adresse": "3 bis Rue d'Estienne d'Orves, 92140 Clamart",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "chaville": {
+    "artisans": [
+      {
+        "id": "12427976147140107127",
+        "nom": "Alizee Fermetures",
+        "slug": "alizee-fermetures",
+        "telephone": "01 47 50 51 50",
+        "site_web": "https://www.alizeefermetures.com/",
+        "adresse": "17 Rue Victor Hugo, 78350 Jouy-en-Josas",
+        "note": 4.8,
+        "avis": 10,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "7906178732474672116",
+        "nom": "Lopama Fermetures",
+        "slug": "lopama-fermetures",
+        "telephone": "01 47 50 69 04",
+        "site_web": null,
+        "adresse": "594 Av. Roger Salengro, 92370 Chaville",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "8536804496281925563",
+        "nom": "TRYBA Chaville",
+        "slug": "tryba-chaville",
+        "telephone": "01 47 50 69 04",
+        "site_web": "https://www.tryba.com/espace-conseil/92/tryba-chaville/?utm_campaign=Tryba_chaville&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "594 Av. Roger Salengro, 92370 Chaville",
+        "note": 4.5,
+        "avis": 111,
+        "type": "Menuisier"
+      },
+      {
+        "id": "39008752292259613",
+        "nom": "Menuiserie Le Coant",
+        "slug": "menuiserie-le-coant",
+        "telephone": "06 85 69 49 96",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8003671600904266556",
+        "nom": "Fernandes Decor",
+        "slug": "fernandes-decor",
+        "telephone": "01 41 15 21 39",
+        "site_web": "http://fernandesdecor.fr/",
+        "adresse": "17 Rue de Jouy, 92370 Chaville",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "7389008079074844616",
+        "nom": "Fenĕtrier Veka",
+        "slug": "fenetrier-veka",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "723 Av. Roger Salengro, 92370 Chaville",
+        "note": 5,
+        "avis": 1,
+        "type": null
+      },
+      {
+        "id": "5049795066451226435",
+        "nom": "ALLO STORE",
+        "slug": "allo-store",
+        "telephone": "06 28 74 24 99",
+        "site_web": "https://allo-store.fr/",
+        "adresse": "24c Rue de la Font Henri IV, 92370 Chaville",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "15885850037916610909",
+        "nom": "Art & Fenêtres - Viroflay",
+        "slug": "art-fenetres-viroflay",
+        "telephone": "01 30 24 10 49",
+        "site_web": "http://artetfenetresiso.fr/viroflay/",
+        "adresse": "21 Av. du Général-Leclerc, 78220 Viroflay",
+        "note": 4.5,
+        "avis": 370,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "41046710203474581",
+        "nom": "Arc en Ciel",
+        "slug": "arc-en-ciel",
+        "telephone": "01 39 20 09 57",
+        "site_web": "http://www.arc-en-ciel1.fr/",
+        "adresse": "8 Pl. de Verdun, 78220 Viroflay",
+        "note": 4,
+        "avis": 8,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14295457197324768253",
+        "nom": "VERSAILLES ALUMINIUM - Menuiseries extérieures (portes, fenêtres, volets...) bois / aluminium / PVC / mixte",
+        "slug": "versailles-aluminium-menuiseries-exterieures-portes-fenetres-volets-bois-aluminium-pvc-mixte",
+        "telephone": "09 81 07 15 93",
+        "site_web": "http://www.versailles-aluminium.fr/",
+        "adresse": "33 Esp. du Grand Siècle, 78000 Versailles",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "clichy": {
+    "artisans": [
+      {
+        "id": "11957503880705230637",
+        "nom": "BOIS ET BLANC - Meubles sur Mesure",
+        "slug": "bois-et-blanc-meubles-sur-mesure",
+        "telephone": "01 80 88 60 04",
+        "site_web": "https://boisetblanc.fr/",
+        "adresse": "8 Rue Souchal, 92110 Clichy",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "15935675060101290518",
+        "nom": "Atelier Auguste - Ebéniste / Menuisier - Saint-Ouen / Paris",
+        "slug": "atelier-auguste-ebeniste-menuisier-saint-ouen-paris",
+        "telephone": "06 18 25 05 06",
+        "site_web": null,
+        "adresse": "36 Av. Gabriel Péri, 93400 Saint-Ouen-sur-Seine",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17649322987785224044",
+        "nom": "Atelier Paris Menuiserie",
+        "slug": "atelier-paris-menuiserie",
+        "telephone": "01 45 26 00 50",
+        "site_web": "http://atelierparismenuiserie.fr/",
+        "adresse": "62 Rue de Paris, 92110 Clichy",
+        "note": 4.4,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7797369829415132876",
+        "nom": "Entreprise Francois",
+        "slug": "entreprise-francois",
+        "telephone": "01 46 27 21 70",
+        "site_web": "http://www.entreprisefrancois-menuiserie-fenetre.fr/",
+        "adresse": "83 Rue Truffaut, 75017 Paris",
+        "note": 4.3,
+        "avis": 35,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12041366566180044999",
+        "nom": "Quadro Intérieurs sur-mesure",
+        "slug": "quadro-interieurs-sur-mesure",
+        "telephone": "01 42 70 11 73",
+        "site_web": "https://www.quadro.fr/fr/magasins/clichy-92100",
+        "adresse": "119 Bd Jean Jaurès, 92110 Clichy",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Magasin d'ameublement et de décoration"
+      },
+      {
+        "id": "13548099647213529252",
+        "nom": "Une Pièce en Plus Clichy, Paris",
+        "slug": "une-piece-en-plus-clichy-paris",
+        "telephone": "01 49 68 01 20",
+        "site_web": "https://www.unepieceenplus.com/garde-meuble/ile-de-france/hauts-de-seine-92/clichy/?utm_source=gmb&utm_medium=organic",
+        "adresse": "200 Quai de Clichy, 92110 Clichy",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Garde-meubles en libre-service"
+      },
+      {
+        "id": "2806168728789603177",
+        "nom": "ATELIER 18 : Menuiserie & Agencement d'intérieur",
+        "slug": "atelier-18-menuiserie-agencement-dinterieur",
+        "telephone": "01 72 38 34 51",
+        "site_web": "https://www.atelier-18.com/",
+        "adresse": "55 Rue du Simplon, 75018 Paris",
+        "note": 4.9,
+        "avis": 39,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4862585612751265798",
+        "nom": "Dylane",
+        "slug": "dylane",
+        "telephone": "06 09 80 89 02",
+        "site_web": null,
+        "adresse": "130 Bd du Général Leclerc, 92110 Clichy",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "colombes": {
+    "artisans": [
+      {
+        "id": "11886197091862283219",
+        "nom": "Acanthe",
+        "slug": "acanthe",
+        "telephone": "01 56 05 40 70",
+        "site_web": null,
+        "adresse": "9 Rue Edouard Vaillant, 92700 Colombes",
+        "note": 3.3,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5239429552824631638",
+        "nom": "ALU NENAD Menuiserie PVC & ALU | Colombes",
+        "slug": "alu-nenad-menuiserie-pvc-alu-colombes",
+        "telephone": "07 43 01 37 57",
+        "site_web": "https://alunenad.fr/",
+        "adresse": "1 Rue Saint-Vincent, 92700 Colombes",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17010452646682804760",
+        "nom": "SATOR",
+        "slug": "sator",
+        "telephone": "07 64 16 99 77",
+        "site_web": "http://www.sator-sas.fr/",
+        "adresse": "1 Rue du Débarcadère, 92700 Colombes",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3919811024272128013",
+        "nom": "Cedre menuiserie",
+        "slug": "cedre-menuiserie",
+        "telephone": "01 41 19 63 49",
+        "site_web": null,
+        "adresse": "151 Rue du Président Salvador Allende, 92700 Colombes",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "17235165793868372888",
+        "nom": "AD Menuisier Ebeniste",
+        "slug": "ad-menuisier-ebeniste",
+        "telephone": "09 67 35 71 83",
+        "site_web": null,
+        "adresse": "273 Rue Gabriel Péri, 92700 Colombes",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "14889941965968111079",
+        "nom": "menuiserie multi services",
+        "slug": "menuiserie-multi-services",
+        "telephone": "01 47 85 80 56",
+        "site_web": null,
+        "adresse": "8 Av. Lesage, 92700 Colombes",
+        "note": 3,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "847776557931882406",
+        "nom": "Le Bois De Roze",
+        "slug": "le-bois-de-roze",
+        "telephone": "09 52 23 66 85",
+        "site_web": null,
+        "adresse": "28 Rue Bouin, 92700 Colombes",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17175042727979743995",
+        "nom": "LJI bâtiment",
+        "slug": "lji-batiment",
+        "telephone": "06 12 40 72 27",
+        "site_web": null,
+        "adresse": "1 Rue de la Fraternité, 92700 Colombes",
+        "note": 5,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "10214783603362921769",
+        "nom": "SO Serrurier",
+        "slug": "so-serrurier",
+        "telephone": "07 56 80 06 06",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 375,
+        "type": "Serrurier"
+      },
+      {
+        "id": "8916923343880367966",
+        "nom": "Miroiterie MVA",
+        "slug": "miroiterie-mva",
+        "telephone": "01 47 81 18 62",
+        "site_web": "https://www.miroiterie-mva.fr/?utm_source=gmb",
+        "adresse": "12 Rue du 8 Mai 1945, 92700 Colombes",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "fontenay-aux-roses": {
+    "artisans": [
+      {
+        "id": "13994866642014477157",
+        "nom": "Gallant Fermetures",
+        "slug": "gallant-fermetures",
+        "telephone": "01 43 50 49 22",
+        "site_web": "http://www.gallant-fermetures.fr/",
+        "adresse": "15 Rue Jean Jaurès, 92260 Fontenay-aux-Roses",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14647221782919749528",
+        "nom": "Fenêtres d'Hier Et D'Aujourdhui",
+        "slug": "fenetres-dhier-et-daujourdhui",
+        "telephone": "01 49 73 38 02",
+        "site_web": "https://op-fenetres-fha.com/les-offres-promotionnelles/ste-fenetres-dhier-et-daujourdhui/menuiseries",
+        "adresse": "144 Bis Av. du Général Leclerc, 92330 Sceaux",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17111574165769559225",
+        "nom": "Menuisier GOMES - Artisan Menuisier",
+        "slug": "menuisier-gomes-artisan-menuisier",
+        "telephone": "06 29 10 04 72",
+        "site_web": null,
+        "adresse": "41 Rue Julien Victor, 94240 L'Haÿ-les-Roses",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "courbevoie": {
+    "artisans": [
+      {
+        "id": "9194327055836125978",
+        "nom": "Immodesign Agencement",
+        "slug": "immodesign-agencement",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Rue Léon Boursier, 92400 Courbevoie",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "9452249637071346640",
+        "nom": "MAI AGENCEMENT",
+        "slug": "mai-agencement",
+        "telephone": "06 16 01 37 92",
+        "site_web": "https://www.maiagencement.com/",
+        "adresse": "12 Rue Molière, 92400 Courbevoie",
+        "note": 4.9,
+        "avis": 45,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18050460236292450009",
+        "nom": "José Ferreira Menuisier Agenceur - Courbevoie",
+        "slug": "jose-ferreira-menuisier-agenceur-courbevoie",
+        "telephone": "06 16 01 37 92",
+        "site_web": "https://www.joseferreira-menuisier-agenceur.com/",
+        "adresse": "12 Rue Molière, 92400 Courbevoie",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6509339246288260578",
+        "nom": "Societe Trilende",
+        "slug": "societe-trilende",
+        "telephone": "01 84 20 20 40",
+        "site_web": null,
+        "adresse": "12 Rue de Bezons, 92400 Courbevoie",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10866714360689546080",
+        "nom": "COQUATRIX SEBASTIEN - Ouverture de Porte",
+        "slug": "coquatrix-sebastien-ouverture-de-porte",
+        "telephone": "07 74 84 23 27",
+        "site_web": "https://www.pappers.fr/entreprise/coquatrix-sebastien-810247676",
+        "adresse": "119 Rue de Normandie, 92400 Courbevoie",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7542714685339755033",
+        "nom": "Lionel le Menuisier",
+        "slug": "lionel-le-menuisier",
+        "telephone": "06 17 49 11 86",
+        "site_web": "https://sites.google.com/view/lionel-omer-decugis",
+        "adresse": "11 Rue des Vieilles Vignes, 92400 Courbevoie",
+        "note": 5,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12913187133524951782",
+        "nom": "Lcdb Levallois",
+        "slug": "lcdb-levallois",
+        "telephone": "01 47 58 07 64",
+        "site_web": "http://lcdblevallois.site-solocal.com/",
+        "adresse": "68 Rue Chaptal, 92300 Levallois-Perret",
+        "note": 4.5,
+        "avis": 64,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11475303871233891387",
+        "nom": "Atelier Tromelin - Ébénisterie",
+        "slug": "atelier-tromelin-ebenisterie",
+        "telephone": "06 43 32 87 64",
+        "site_web": "http://www.atelier-tromelin.com/",
+        "adresse": null,
+        "note": 4.6,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "17270741796554219035",
+        "nom": "LAPEYRE Siège Social",
+        "slug": "lapeyre-siege-social",
+        "telephone": "01 48 11 74 00",
+        "site_web": "http://www.lapeyre.fr/",
+        "adresse": "6 Rue du Général Audran, 92400 Courbevoie",
+        "note": 2.3,
+        "avis": 91,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "6647029537324324115",
+        "nom": "ART & FENETRES PARISIENNES LEVALLOIS",
+        "slug": "art-fenetres-parisiennes-levallois",
+        "telephone": "01 49 97 92 10",
+        "site_web": "https://qualiso.artetfenetres.com/adresses-magasins/levallois-perret-92300.php",
+        "adresse": "28 Rue Rivay, 92300 Levallois-Perret",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "garches": {
+    "artisans": [
+      {
+        "id": "4345672049326433754",
+        "nom": "KITCHEN FAB - Garches",
+        "slug": "kitchen-fab-garches",
+        "telephone": "01 57 69 18 12",
+        "site_web": "https://www.kitchenfab.com/",
+        "adresse": "160 Bd du Général de Gaulle, 92380 Garches",
+        "note": 3.4,
+        "avis": 11,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "10224383512741134077",
+        "nom": "Romain De Soos",
+        "slug": "romain-de-soos",
+        "telephone": "01 47 95 31 21",
+        "site_web": null,
+        "adresse": "19 Rue de Suresnes, 92380 Garches",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Service de restauration de meubles anciens"
+      },
+      {
+        "id": "13015015832205761182",
+        "nom": "MEOVIA Habitat - WC Lavants japonais, Portes et fenêtres en bois & Rénovation électrique/domotique",
+        "slug": "meovia-habitat-wc-lavants-japonais-portes-et-fenetres-en-bois-renovation-electriquedomotique",
+        "telephone": "09 75 57 22 52",
+        "site_web": "https://meoviahabitat.fr/",
+        "adresse": "31 Rue de l'Yser, 92500 Rueil-Malmaison",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17080011738291602210",
+        "nom": "La Boutique du Menuisier Saint Cloud - Fenêtres et Menuiseries 92",
+        "slug": "la-boutique-du-menuisier-saint-cloud-fenetres-et-menuiseries-92",
+        "telephone": "01 86 04 23 38",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/fenetres-et-menuiseries-92",
+        "adresse": "5 Rue Dailly, 92210 Saint-Cloud",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3310358243572308650",
+        "nom": "Fenêtres Consulting",
+        "slug": "fenetres-consulting",
+        "telephone": "01 47 01 25 89",
+        "site_web": "https://fenetresconsulting.fr/",
+        "adresse": "21 Av. Joffre, 92380 Garches",
+        "note": 4.8,
+        "avis": 175,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6179949538346982856",
+        "nom": "Menuiserie Judit",
+        "slug": "menuiserie-judit",
+        "telephone": "06 18 98 80 59",
+        "site_web": "https://www.menuiserie-judit-vaucresson.fr/",
+        "adresse": "Rue de la Folie, 92420 Vaucresson",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10157323865076964307",
+        "nom": "Acajou Menuiserie",
+        "slug": "acajou-menuiserie",
+        "telephone": "01 47 49 10 40",
+        "site_web": "http://acajoumenuiserie.fr/",
+        "adresse": "41 bis Rue des Mazurières, 92500 Rueil-Malmaison",
+        "note": 3.4,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7184357118095025475",
+        "nom": "GAIF Sarl - Installation de Fenêtres, Stores, Volets Roulants et équipements de la maison.",
+        "slug": "gaif-sarl-installation-de-fenetres-stores-volets-roulants-et-equipements-de-la-maison",
+        "telephone": "01 47 01 32 60",
+        "site_web": "https://volets-stores-garches.fr/?utm_source=gmb",
+        "adresse": "107 Rue de Buzenval, 92380 Garches",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13634467937463563080",
+        "nom": "Cyrille Bel-Capafons",
+        "slug": "cyrille-bel-capafons",
+        "telephone": "09 51 62 78 83",
+        "site_web": "http://www.menuiseriechemin.fr/",
+        "adresse": "9 Chem. des Roses, 92150 Suresnes",
+        "note": 4.8,
+        "avis": 23,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9562057321052468414",
+        "nom": "Etablissements Roncajoli",
+        "slug": "etablissements-roncajoli",
+        "telephone": "01 47 41 50 63",
+        "site_web": "http://www.facebook.fr/391156930953865?utm_source=gmb",
+        "adresse": "74 Rue des Croissants, 92380 Garches",
+        "note": 2.4,
+        "avis": 56,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "la-garenne-colombes": {
+    "artisans": [
+      {
+        "id": "5827765296218839911",
+        "nom": "Fenétrier® VEKA by COURBEVOIE PROTECTION",
+        "slug": "fenetrier-veka-by-courbevoie-protection",
+        "telephone": "01 47 89 82 83",
+        "site_web": null,
+        "adresse": "3 Rue Emile Delsol, 92250 La Garenne-Colombes",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10386563580180845922",
+        "nom": "Phenix Fenêtres France",
+        "slug": "phenix-fenetres-france",
+        "telephone": "01 74 54 60 89",
+        "site_web": "http://www.facebook.com/Ph%C3%A9nix-Fen%C3%AAtres-France-2022843054678696/",
+        "adresse": "la, 25 Rue Yves le Caignard, 92250 La Garenne-Colombes",
+        "note": 3.6,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16500360246957663532",
+        "nom": "Espace Placard - Meubles sur-mesure | Placards sur-mesure",
+        "slug": "espace-placard-meubles-sur-mesure-placards-sur-mesure",
+        "telephone": "01 47 86 37 37",
+        "site_web": "http://espaceplacard.fr/",
+        "adresse": "9 Pl. Rhin et Danube, 92250 La Garenne-Colombes",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "11246368765432539173",
+        "nom": "Stores Francois",
+        "slug": "stores-francois",
+        "telephone": "01 47 82 66 34",
+        "site_web": null,
+        "adresse": "52 Rue Sartoris, 92250 La Garenne-Colombes",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "13835714686089208116",
+        "nom": "Binova & Armony Cuisine - La Garenne-Colombes",
+        "slug": "binova-armony-cuisine-la-garenne-colombes",
+        "telephone": "01 56 05 03 66",
+        "site_web": "https://immodesign-cuisine.com/",
+        "adresse": "4 Bd de la République, 92250 La Garenne-Colombes",
+        "note": 4.6,
+        "avis": 34,
+        "type": "Magasin de meubles de cuisine"
+      },
+      {
+        "id": "11071290096562456901",
+        "nom": "Victor Rénovation",
+        "slug": "victor-renovation",
+        "telephone": "06 33 44 28 74",
+        "site_web": "https://victor-renovation.com/",
+        "adresse": "61 Av. du Général Leclerc, 92250 La Garenne-Colombes",
+        "note": 5,
+        "avis": 29,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "gennevilliers": {
+    "artisans": [
+      {
+        "id": "3152556691900461724",
+        "nom": "Lorenove Paris Ouest",
+        "slug": "lorenove-paris-ouest",
+        "telephone": "01 47 89 45 90",
+        "site_web": "https://www.fenetres-lorenove.fr/agence/paris-ouest?utm_source=Google&utm_medium=organic&utm_campaign=gmb&utm_content=agence_paris-ouest",
+        "adresse": "13 Quai des Gresillons Bâtiment B, 21, 92230 Gennevilliers",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17440753516996277198",
+        "nom": "Espace TECHNAL Gennevilliers",
+        "slug": "espace-technal-gennevilliers",
+        "telephone": "01 80 03 80 30",
+        "site_web": "https://www.technal.com/fr/fr/accueil-professionnels/",
+        "adresse": "99/101 Av. Louis Roche Péripark - E4, 92230 Gennevilliers",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "10867289397548522839",
+        "nom": "Les Copeaux d'Abord",
+        "slug": "les-copeaux-dabord",
+        "telephone": "06 85 74 09 74",
+        "site_web": "https://lescopeauxasso.wordpress.com/",
+        "adresse": "28 Av. Louis Roche, 92230 Gennevilliers",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Organisme à but non lucratif"
+      },
+      {
+        "id": "4819169819102508917",
+        "nom": "JP Menuiserie",
+        "slug": "jp-menuiserie",
+        "telephone": "01 47 98 60 19",
+        "site_web": "https://jpmenuiserie.fr/",
+        "adresse": "18 Rue de la Procession, 92230 Gennevilliers",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12844809572736203941",
+        "nom": "E.G.BOIS Groupe LABABOIS",
+        "slug": "egbois-groupe-lababois",
+        "telephone": "01 47 81 74 74",
+        "site_web": "http://www.egbois.fr/",
+        "adresse": "3 Av. Henri Colin, 92230 Gennevilliers",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Négociant en bois"
+      },
+      {
+        "id": "17917137430290724366",
+        "nom": "JOLDA",
+        "slug": "jolda",
+        "telephone": "01 40 86 47 10",
+        "site_web": "https://www.welinkbuilders.fr/menuisier/92230-gennevilliers-france/jolda-1267",
+        "adresse": "13 Quai des Gresillons, 92230 Gennevilliers",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10415939239865866700",
+        "nom": "SFP ISOBAT",
+        "slug": "sfp-isobat",
+        "telephone": "01 40 86 47 10",
+        "site_web": "https://www.sfp-isobat.fr/",
+        "adresse": "13 Quai des Gresillons, 92230 Gennevilliers",
+        "note": 3.8,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2016383115631326309",
+        "nom": "NORPANO",
+        "slug": "norpano",
+        "telephone": "01 47 99 45 68",
+        "site_web": "http://www.norpano.fr/",
+        "adresse": "3 Av. Henri Colin, 92230 Gennevilliers",
+        "note": 4,
+        "avis": 24,
+        "type": "Négociant en bois"
+      },
+      {
+        "id": "11618992007532828774",
+        "nom": "MANRENOV",
+        "slug": "manrenov",
+        "telephone": "07 69 14 85 13",
+        "site_web": "http://manrenov.fr/",
+        "adresse": "77 Bd Camélinat, 92230 Gennevilliers",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "11521347775584873550",
+        "nom": "FRT Façade Alu",
+        "slug": "frt-facade-alu",
+        "telephone": "07 61 17 33 67",
+        "site_web": null,
+        "adresse": "25 Av. des Grésillons, 92230 Gennevilliers",
+        "note": 5,
+        "avis": 0,
+        "type": "Façadier"
+      }
+    ]
+  },
+  "levallois-perret": {
+    "artisans": [
+      {
+        "id": "15602911869033338365",
+        "nom": "Mezzanine",
+        "slug": "mezzanine",
+        "telephone": "07 69 93 39 29",
+        "site_web": "https://www.mamezzanine.com/",
+        "adresse": "25 rue Anatole France 1 place Louis Vitet 76200 Dieppe, 21 Rue Anatole France, 92300 Levallois-Perret",
+        "note": 5,
+        "avis": 24,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "18169848098447035941",
+        "nom": "Atelier Arnaud HUET Levallois-Perret",
+        "slug": "atelier-arnaud-huet-levallois-perret",
+        "telephone": "01 47 39 18 63",
+        "site_web": "http://atelierhuet.fr/",
+        "adresse": "34 Rue Edouard Vaillant, 92300 Levallois-Perret",
+        "note": 5,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "17516825204401684532",
+        "nom": "PLACARDS BEAUJOLI, DRESSING BEAUJOLI & BIBLIOTHEQUE 100% SUR MESURE \" BEAUJOLI \"",
+        "slug": "placards-beaujoli-dressing-beaujoli-bibliotheque-100-sur-mesure-beaujoli",
+        "telephone": "06 89 22 18 90",
+        "site_web": "http://www.beaujoli.fr/",
+        "adresse": "16 Bis Av. de la Motte-Picquet, 75007 Paris",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin d'ameublement et de décoration"
+      },
+      {
+        "id": "17946058043676315416",
+        "nom": "JZ meubles rares",
+        "slug": "jz-meubles-rares",
+        "telephone": "01 42 70 41 63",
+        "site_web": "http://www.meublesjeanzundel.com/",
+        "adresse": "73 Rue Voltaire, 92300 Levallois-Perret",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "16762398965036035608",
+        "nom": "QINQ",
+        "slug": "qinq",
+        "telephone": "06 50 58 10 14",
+        "site_web": null,
+        "adresse": "15 Rue Jules Guesde, 92300 Levallois-Perret",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10075689530477774379",
+        "nom": "Atelier bygares",
+        "slug": "atelier-bygares",
+        "telephone": "01 87 20 00 55",
+        "site_web": "http://www.atelier-bygares.fr/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=577525666134636402",
+        "adresse": "2 Rue Raspail, 92300 Levallois-Perret",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10426825749038096479",
+        "nom": "Vitrerie et Miroiterie Moderne - Levallois",
+        "slug": "vitrerie-et-miroiterie-moderne-levallois",
+        "telephone": "06 64 54 15 76",
+        "site_web": "http://miroiteriemoderne.fr/",
+        "adresse": "110 Rue du Président Wilson, 92300 Levallois-Perret",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "puteaux": {
+    "artisans": [
+      {
+        "id": "9671123708561325792",
+        "nom": "La Menuiserie",
+        "slug": "la-menuiserie",
+        "telephone": "01 41 18 00 40",
+        "site_web": "http://bm3a.com/",
+        "adresse": "20 Rue de la Poterie, 92150 Suresnes",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "15929084267562163395",
+        "nom": "Iso Store Puteaux - Fenêtres, Volets, Portes, Stores",
+        "slug": "iso-store-puteaux-fenetres-volets-portes-stores",
+        "telephone": "01 39 55 62 66",
+        "site_web": "https://isostore.fr/magasin/puteaux/",
+        "adresse": "85 Avenue du Général de Gaulle, 92800 Puteaux",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "17839489364556913714",
+        "nom": "Kermarec",
+        "slug": "kermarec",
+        "telephone": "01 47 76 18 50",
+        "site_web": null,
+        "adresse": "92 Rue de Verdun, 92800 Puteaux",
+        "note": 4.7,
+        "avis": 40,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5374454097288517009",
+        "nom": "GRM Conception & Rénovation",
+        "slug": "grm-conception-renovation",
+        "telephone": "06 95 93 08 78",
+        "site_web": "https://gilbertool.mystrikingly.com/",
+        "adresse": "6 Rue Marius Jacotot, 92800 Puteaux",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "2540116592286920322",
+        "nom": "Architoi : architecture & rénovation travaux",
+        "slug": "architoi-architecture-renovation-travaux",
+        "telephone": null,
+        "site_web": "https://www.architoi.com/",
+        "adresse": "32 Rue Arago, 92800 Puteaux",
+        "note": 4.6,
+        "avis": 41,
+        "type": "Agence d'architecture"
+      },
+      {
+        "id": "7296457421478392090",
+        "nom": "Synerciel - Rénovation de l'Habitat",
+        "slug": "synerciel-renovation-de-lhabitat",
+        "telephone": "0 805 85 04 50",
+        "site_web": "https://www.synerciel.fr/",
+        "adresse": "102 Terr. Boieldieu, 92800 Puteaux",
+        "note": 3.9,
+        "avis": 72,
+        "type": "Consultant en ingénierie"
+      },
+      {
+        "id": "14075626720469213270",
+        "nom": "Beynat Fermetures - OuvertureS - Nanterre",
+        "slug": "beynat-fermetures-ouvertures-nanterre",
+        "telephone": "01 40 99 00 36",
+        "site_web": "https://www.beynat-fermetures.net/",
+        "adresse": "290 Av. Georges Clemenceau, 92000 Nanterre",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3314267733350250864",
+        "nom": "Sarl nouvelles Rénovations",
+        "slug": "sarl-nouvelles-renovations",
+        "telephone": "06 07 79 79 75",
+        "site_web": null,
+        "adresse": "31-33 Rue Jean Jaurès, 92800 Puteaux",
+        "note": 5,
+        "avis": 0,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "14671993812930252332",
+        "nom": "Pose de cuisine",
+        "slug": "pose-de-cuisine",
+        "telephone": "06 30 71 80 89",
+        "site_web": "https://www.installercuisine.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=2326169036441461700",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13515479061368509644",
+        "nom": "Promb Menuiserie",
+        "slug": "promb-menuiserie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "malakoff": {
+    "artisans": [
+      {
+        "id": "11756589040808937212",
+        "nom": "LCA rénovation",
+        "slug": "lca-renovation",
+        "telephone": "06 13 18 73 67",
+        "site_web": "https://lca-renovation.fr/",
+        "adresse": "16 Av. Pierre Brossolette, 92240 Malakoff",
+        "note": 4.7,
+        "avis": 27,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "1396941193161462154",
+        "nom": "Avenir Rénovations 92 Montrouge",
+        "slug": "avenir-renovations-92-montrouge",
+        "telephone": "01 86 65 10 63",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-92-montrouge/",
+        "adresse": "1 Rue Sadi Carnot, 92120 Montrouge",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "10486105411210110357",
+        "nom": "Lusiarte",
+        "slug": "lusiarte",
+        "telephone": "01 71 16 42 91",
+        "site_web": "http://lusiarte.fr/",
+        "adresse": "64 Av. Pierre Brossolette, 92240 Malakoff",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12206268307656067793",
+        "nom": "Marbrerie Massi Paris agencement decoration",
+        "slug": "marbrerie-massi-paris-agencement-decoration",
+        "telephone": "01 46 26 83 03",
+        "site_web": "https://www.marbreriemassi.com/",
+        "adresse": "106 Av. Pierre Brossolette, 92240 Malakoff",
+        "note": 5,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans le marbre"
+      },
+      {
+        "id": "7257140787726979632",
+        "nom": "Ateliers Dewerpe - Bureaux",
+        "slug": "ateliers-dewerpe-bureaux",
+        "telephone": "01 46 05 04 32",
+        "site_web": "https://www.ateliersdewerpe.com/",
+        "adresse": "16 Rue Eugène Varlin, 92240 Malakoff",
+        "note": 4,
+        "avis": 8,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "2107359521317635239",
+        "nom": "Guap agencement",
+        "slug": "guap-agencement",
+        "telephone": "06 42 59 94 52",
+        "site_web": "https://www.guapagencement.fr/contact",
+        "adresse": "5 Pl. du Général Leclerc, 92170 Vanves",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9766296944471625011",
+        "nom": "Dereta",
+        "slug": "dereta",
+        "telephone": "01 46 56 75 05",
+        "site_web": "http://www.dereta.fr/",
+        "adresse": "126 Av. Pierre Brossolette, 92240 Malakoff",
+        "note": 5,
+        "avis": 0,
+        "type": "Tapissier décorateur"
+      },
+      {
+        "id": "781682627636158740",
+        "nom": "MAURIN PLOMBERIE",
+        "slug": "maurin-plomberie",
+        "telephone": "01 46 55 24 63",
+        "site_web": null,
+        "adresse": "2 Av. du Président Wilson, 92240 Malakoff",
+        "note": 4,
+        "avis": 28,
+        "type": "Plombier"
+      },
+      {
+        "id": "4616012933780389524",
+        "nom": "BDS ISOLATION",
+        "slug": "bds-isolation",
+        "telephone": "01 56 45 21 80",
+        "site_web": "http://bds-isolation.fr/",
+        "adresse": "83 Av. Pierre Brossolette, 92120 Montrouge",
+        "note": 4.2,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15294530884179851452",
+        "nom": "ARC HABITAT SAS",
+        "slug": "arc-habitat-sas",
+        "telephone": "06 38 03 03 19",
+        "site_web": "http://www.arc-habitat.com/",
+        "adresse": "8 Vla Sabot, 92240 Malakoff",
+        "note": 5,
+        "avis": 0,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "marnes-la-coquette": {
+    "artisans": [
+      {
+        "id": "11983017167529186490",
+        "nom": "AVW concept",
+        "slug": "avw-concept",
+        "telephone": "01 47 95 00 49",
+        "site_web": "http://www.avw-concept.com/",
+        "adresse": "9 Rue Gabriel Sommer, 92430 Marnes-la-Coquette",
+        "note": 5,
+        "avis": 1,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "6985008740880960767",
+        "nom": "SWAN EXPRESS Laurent BEMELMANS Menuisier",
+        "slug": "swan-express-laurent-bemelmans-menuisier",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "74 Av. du Maréchal Douglas Haig, 78000 Versailles",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7262300393471788349",
+        "nom": "TRYBA VAUCRESSON",
+        "slug": "tryba-vaucresson",
+        "telephone": "01 47 50 69 04",
+        "site_web": "https://www.tryba.com/espace-conseil/92/tryba-vaucresson/?utm_campaign=Tryba_vaucresson&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "102 Bd de la République, 92420 Vaucresson",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16318825734819565561",
+        "nom": "Serehen menuiserie",
+        "slug": "serehen-menuiserie",
+        "telephone": "01 39 54 42 16",
+        "site_web": "https://menuiserie-serehen.com/",
+        "adresse": "83 Rue de Versailles, 78150 Le Chesnay-Rocquencourt",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4629180101748860086",
+        "nom": "Menuiserie Godeau",
+        "slug": "menuiserie-godeau",
+        "telephone": "01 39 38 13 95",
+        "site_web": "http://menuiseriegodeau.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 16,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "meudon": {
+    "artisans": [
+      {
+        "id": "15041082672514878506",
+        "nom": "Artepa (travaux généraux tout corps d'état)",
+        "slug": "artepa-travaux-generaux-tout-corps-detat",
+        "telephone": "01 41 44 00 98",
+        "site_web": null,
+        "adresse": "11 Rue de l'Avenir, 92360 Meudon",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Siège social"
+      },
+      {
+        "id": "5646295425896537572",
+        "nom": "Les Fermetures de la Maison - Agence Fenêtres & Menuiseries",
+        "slug": "les-fermetures-de-la-maison-agence-fenetres-menuiseries",
+        "telephone": "01 45 74 60 06",
+        "site_web": "https://www.fenetreetmenuiserie.com/",
+        "adresse": "1 Pl. Rabelais, 92190 Meudon",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7262669282905117859",
+        "nom": "Ian Concept",
+        "slug": "ian-concept",
+        "telephone": "06 27 02 20 21",
+        "site_web": "http://www.ian-concept.fr/?utm_source=gmb",
+        "adresse": "38 Rue de Meudon, 92100 Boulogne-Billancourt",
+        "note": 3.3,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "420756054134484253",
+        "nom": "De L'Acajou A L'Amourette L'or de l'ébéniste",
+        "slug": "de-lacajou-a-lamourette-lor-de-lebeniste",
+        "telephone": "06 76 47 96 82",
+        "site_web": null,
+        "adresse": "8 Rue Pierre Wacquant, 92190 Meudon",
+        "note": 5,
+        "avis": 4,
+        "type": "Service de restauration de meubles anciens"
+      },
+      {
+        "id": "11809444115371981234",
+        "nom": "ADR RENOVATION",
+        "slug": "adr-renovation",
+        "telephone": "06 59 80 06 94",
+        "site_web": null,
+        "adresse": "14 Rue Alexandre Guilmant, 92190 Meudon",
+        "note": 5,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "11074090956990445556",
+        "nom": "Delage Bois",
+        "slug": "delage-bois",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "64 Av. du Bois, 92190 Meudon",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Charpentier"
+      },
+      {
+        "id": "3549095379473843671",
+        "nom": "Atelier Roba - Ebéniste",
+        "slug": "atelier-roba-ebeniste",
+        "telephone": "06 09 86 39 76",
+        "site_web": "https://www.atelier-roba.com/",
+        "adresse": "11 Rue Esnault Pelterie, 92100 Boulogne-Billancourt",
+        "note": 5,
+        "avis": 0,
+        "type": "Service de restauration de meubles anciens"
+      },
+      {
+        "id": "12016647662754641661",
+        "nom": "Atelier V",
+        "slug": "atelier-v",
+        "telephone": "06 63 17 47 25",
+        "site_web": "https://atelier-v.net/",
+        "adresse": "71 Rue Barthelemy Danjou, 92100 Boulogne-Billancourt",
+        "note": 5,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11602484932207651056",
+        "nom": "Serrurier Meudon - Seykeys",
+        "slug": "serrurier-meudon-seykeys",
+        "telephone": "01 89 16 08 87",
+        "site_web": "https://annuaire-entreprises.data.gouv.fr/entreprise/seykeys-949346068",
+        "adresse": "5B Rue de Paris, 92190 Meudon",
+        "note": 3,
+        "avis": 6,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "nanterre": {
+    "artisans": [
+      {
+        "id": "4862755799363829037",
+        "nom": "Yellom.Store, Atelier & livraison",
+        "slug": "yellomstore-atelier-livraison",
+        "telephone": "01 47 49 40 72",
+        "site_web": "http://www.yellom.store/",
+        "adresse": "108 Rue Danton, 92500 Rueil-Malmaison",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6214339365513834286",
+        "nom": "La Compagnie des Ateliers - Showroom Rueil Nanterre",
+        "slug": "la-compagnie-des-ateliers-showroom-rueil-nanterre",
+        "telephone": "01 85 78 37 32",
+        "site_web": "https://www.compagniedesateliers.com/",
+        "adresse": "87 Av. du Maréchal Joffre, 92000 Nanterre",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin d'ameublement et de décoration"
+      },
+      {
+        "id": "13333718074511345430",
+        "nom": "Art Wood",
+        "slug": "art-wood",
+        "telephone": "06 76 34 03 90",
+        "site_web": null,
+        "adresse": "13 Rue Paul Bertin, 92000 Nanterre",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4021275356728022768",
+        "nom": "Budprotect",
+        "slug": "budprotect",
+        "telephone": "07 53 65 30 19",
+        "site_web": "http://budprotect.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11576525645243951996",
+        "nom": "Double V Wood",
+        "slug": "double-v-wood",
+        "telephone": "06 10 17 85 95",
+        "site_web": "https://doublevwood.fr/",
+        "adresse": "33 Rue Victor Hugo, 92000 Nanterre",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2545653032600058944",
+        "nom": "Vasseur Fenêtres",
+        "slug": "vasseur-fenetres",
+        "telephone": "01 47 24 76 47",
+        "site_web": "http://www.vasseur-fenetres.fr/coordonnees/",
+        "adresse": "150 Bd National, 92000 Nanterre",
+        "note": 4.8,
+        "avis": 83,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4563966577312373648",
+        "nom": "SDK Agencement d'Interieur",
+        "slug": "sdk-agencement-dinterieur",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Maurice Torez, 92000 Nanterre",
+        "note": 5,
+        "avis": 0,
+        "type": "Prestataire de réaménagement de cuisine"
+      },
+      {
+        "id": "14272220262859046697",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "01 47 25 02 45",
+        "site_web": "https://magasins.lapeyre.fr/ile-de-france/hauts-de-seine/lapeyre-nanterre-53",
+        "adresse": "15 Rue Paul Lescop, 92000 Nanterre",
+        "note": 3.8,
+        "avis": 1293,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "4199364819030750346",
+        "nom": "M.ABD",
+        "slug": "mabd",
+        "telephone": "06 03 35 72 64",
+        "site_web": "https://www.welinkbuilders.fr/renovation-d-interieur/electricien/menuisier/platrier/decorateur/peintre/plombier/carreleur/pisciniste/piscinier/chauffagiste/92000-nanterre-france/m-abd-985",
+        "adresse": "57 Rue de Suresnes, 92000 Nanterre",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6241309914484043975",
+        "nom": "LB Concept",
+        "slug": "lb-concept",
+        "telephone": "01 34 10 84 40",
+        "site_web": "https://www.lbconcept.net/?utm_source=gmb",
+        "adresse": "3 Rue Marcel Paul, 95870 Bezons",
+        "note": 4.6,
+        "avis": 16,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "montrouge": {
+    "artisans": [
+      {
+        "id": "13106315278027873643",
+        "nom": "2FBTP",
+        "slug": "2fbtp",
+        "telephone": "06 05 51 43 23",
+        "site_web": null,
+        "adresse": "3 All. de la Vallière, 92120 Montrouge",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "4975886332869293387",
+        "nom": "La Boutique du Menuisier Paris 16 - Paris ouest Fenêtres & Menuiseries",
+        "slug": "la-boutique-du-menuisier-paris-16-paris-ouest-fenetres-menuiseries",
+        "telephone": "01 73 71 56 88",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/la-boutique-du-menuisier-paris-16",
+        "adresse": "170 Av. de Versailles, 75016 Paris",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6384899193351862190",
+        "nom": "L'Atelier du Renard - Menuisier à Paris",
+        "slug": "latelier-du-renard-menuisier-a-paris",
+        "telephone": "06 01 20 16 44",
+        "site_web": "http://www.latelierdurenard.com/",
+        "adresse": "126 Rue d'Alésia, 75014 Paris",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6102702448918854014",
+        "nom": "Bos Renovation",
+        "slug": "bos-renovation",
+        "telephone": "06 85 33 66 19",
+        "site_web": null,
+        "adresse": "110 Av. Henri Ginoux, 92120 Montrouge",
+        "note": 0,
+        "avis": 0,
+        "type": "Constructeur de maisons personnalisées"
+      },
+      {
+        "id": "12164551375459370427",
+        "nom": "Menuiserie DESCHENES - Artisan à Paris",
+        "slug": "menuiserie-deschenes-artisan-a-paris",
+        "telephone": "06 84 64 48 63",
+        "site_web": "https://menuiserie-deschenes.fr/",
+        "adresse": "15 Rue d'Alésia, 75014 Paris",
+        "note": 5,
+        "avis": 77,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3965000632518116077",
+        "nom": "Maison de Lumière by Technal - Montrouge",
+        "slug": "maison-de-lumiere-by-technal-montrouge",
+        "telephone": "09 72 57 85 37",
+        "site_web": "http://www.amdf-technal.fr/",
+        "adresse": "13 Av. de la Marne, 92120 Montrouge",
+        "note": 1.7,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "10520835710837404186",
+        "nom": "MkaroS",
+        "slug": "mkaros",
+        "telephone": "06 52 53 06 26",
+        "site_web": "http://mkaros.com/",
+        "adresse": "18 Rue de Châtillon, 75014 Paris",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10513374741072758583",
+        "nom": "ESCALIERS DÉCORS - Île de France",
+        "slug": "escaliers-decors-ile-de-france",
+        "telephone": "01 46 56 05 50",
+        "site_web": "http://www.ed-ei.fr/",
+        "adresse": "65 Bd Romain Rolland, 92120 Montrouge",
+        "note": 4.7,
+        "avis": 72,
+        "type": "Société de fabrication d'escaliers"
+      },
+      {
+        "id": "7620770581550697404",
+        "nom": "BSD RENOV",
+        "slug": "bsd-renov",
+        "telephone": "01 71 17 65 25",
+        "site_web": "https://www.bsd-renov.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "74 Rue Carvès, 92120 Montrouge",
+        "note": 5,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "2226728912200387141",
+        "nom": "M N Aluminium France",
+        "slug": "m-n-aluminium-france",
+        "telephone": "01 46 55 18 09",
+        "site_web": null,
+        "adresse": "76 Rue Gabriel Péri, 92120 Montrouge",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Façadier"
+      }
+    ]
+  },
+  "neuilly-sur-seine": {
+    "artisans": [
+      {
+        "id": "9844272246098484811",
+        "nom": "SCHMIDT Neuilly sur Seine",
+        "slug": "schmidt-neuilly-sur-seine",
+        "telephone": "01 46 37 60 00",
+        "site_web": "https://www.home-design.schmidt/fr-fr/magasins/hauts-de-seine/neuilly-sur-seine",
+        "adresse": "83 Av. Charles de Gaulle, 92200 Neuilly-sur-Seine",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Prestataire de réaménagement de cuisine"
+      },
+      {
+        "id": "1387853376952522887",
+        "nom": "KparK Neuilly",
+        "slug": "kpark-neuilly",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/105-kpark-neuilly?utm_source=gmb",
+        "adresse": "54 Rue de Sablonville, 92200 Neuilly-sur-Seine",
+        "note": 3.5,
+        "avis": 27,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "18177622548610446487",
+        "nom": "mv concept",
+        "slug": "mv-concept",
+        "telephone": "07 45 36 77 63",
+        "site_web": null,
+        "adresse": "32 Rue Madeleine Michelis, 92200 Neuilly-sur-Seine",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13051671203608271089",
+        "nom": "TRYBA Neuilly-sur-Seine",
+        "slug": "tryba-neuilly-sur-seine",
+        "telephone": "01 59 30 12 29",
+        "site_web": "https://www.tryba.com/espace-conseil/92/tryba-neuilly-sur-seine/?utm_campaign=Tryba_Neuilly-sur-Seine&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "31 Av. Charles de Gaulle, 92200 Neuilly-sur-Seine",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15426397545655319616",
+        "nom": "Atelier Lafarge",
+        "slug": "atelier-lafarge",
+        "telephone": "01 47 45 36 14",
+        "site_web": null,
+        "adresse": "28 Rue d'Orléans, 92200 Neuilly-sur-Seine",
+        "note": 5,
+        "avis": 0,
+        "type": "Service de restauration de meubles anciens"
+      },
+      {
+        "id": "1583827511654785529",
+        "nom": "Archea Neuilly-sur-Seine",
+        "slug": "archea-neuilly-sur-seine",
+        "telephone": "01 46 24 36 07",
+        "site_web": "http://archea.fr/magasin/neuilly-sur-seine/",
+        "adresse": "65 Av. Charles de Gaulle, 92200 Neuilly-sur-Seine",
+        "note": 4.9,
+        "avis": 37,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "2140631981243682772",
+        "nom": "Quadro Intérieurs sur-mesure",
+        "slug": "quadro-interieurs-sur-mesure",
+        "telephone": "01 46 37 48 55",
+        "site_web": "https://www.quadro.fr/magasins/neuilly-sur-seine-92200",
+        "adresse": "20 bis Av. Charles de Gaulle, 92200 Neuilly-sur-Seine",
+        "note": 4.9,
+        "avis": 43,
+        "type": "Magasin d'ameublement et de décoration"
+      },
+      {
+        "id": "4811165217581802411",
+        "nom": "svs concept",
+        "slug": "svs-concept",
+        "telephone": "07 45 36 77 63",
+        "site_web": null,
+        "adresse": "32 Rue Madeleine Michelis, 92200 Neuilly-sur-Seine",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5116388422128162220",
+        "nom": "les ateliers de Jacky",
+        "slug": "les-ateliers-de-jacky",
+        "telephone": "09 54 65 32 07",
+        "site_web": "https://tapissier-92.fr/",
+        "adresse": "99 Av. Achille Peretti, 92200 Neuilly-sur-Seine",
+        "note": 5,
+        "avis": 0,
+        "type": "Tapissier décorateur"
+      },
+      {
+        "id": "13666321925949432218",
+        "nom": "GJ Habitat",
+        "slug": "gj-habitat",
+        "telephone": "06 62 90 00 74",
+        "site_web": "https://www.gjhabitat.fr/",
+        "adresse": "99 Av. Achille Peretti, 92200 Neuilly-sur-Seine",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "sevres": {
+    "artisans": [
+      {
+        "id": "2977143948808118316",
+        "nom": "La Fenêtre de la Reine",
+        "slug": "la-fenetre-de-la-reine",
+        "telephone": "01 41 31 09 33",
+        "site_web": "http://www.fenetredelareine.com/?utm_source=gmb",
+        "adresse": "160 Rte de la Reine, 92100 Boulogne-Billancourt",
+        "note": 4.8,
+        "avis": 187,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "18125818073998760366",
+        "nom": "Marcel Verniservices MV",
+        "slug": "marcel-verniservices-mv",
+        "telephone": "06 09 24 13 08",
+        "site_web": "https://etsmarcel-ebeniste.fr/?utm_source=gmb",
+        "adresse": "27 Rue Esnault Pelterie, 92100 Boulogne-Billancourt",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Service de restauration de meubles anciens"
+      },
+      {
+        "id": "8703378476298998404",
+        "nom": "Retouches Atelier France",
+        "slug": "retouches-atelier-france",
+        "telephone": "09 52 52 19 98",
+        "site_web": null,
+        "adresse": "90 Grande Rue, 92310 Sèvres",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Service de retouche de vêtements"
+      },
+      {
+        "id": "17053818320403211148",
+        "nom": "Intérieurs Privés Sèvres",
+        "slug": "interieurs-prives-sevres",
+        "telephone": "01 70 62 93 47",
+        "site_web": "https://www.interieurs-prives.com/magasins/interieurs-prives-sevres/",
+        "adresse": "37 Grande Rue, 92310 Sèvres",
+        "note": 4.8,
+        "avis": 59,
+        "type": "Magasin d'ameublement et de décoration"
+      },
+      {
+        "id": "6718522414883190514",
+        "nom": "Peinture & Décoration d'intérieur - M. Trochez",
+        "slug": "peinture-decoration-dinterieur-m-trochez",
+        "telephone": "06 19 24 09 54",
+        "site_web": "https://mtrochez.fr/",
+        "adresse": "143 Grande Rue, 92310 Sèvres",
+        "note": 5,
+        "avis": 13,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "16391410243633668357",
+        "nom": "Promex Fenêtres",
+        "slug": "promex-fenetres",
+        "telephone": "01 41 31 14 72",
+        "site_web": "https://www.fenetres-promex-boulogne.fr/?utm_source=gmb",
+        "adresse": "133 Rue de Silly, 92100 Boulogne-Billancourt",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "13033207526231370273",
+        "nom": "Sécuristes de France",
+        "slug": "securistes-de-france",
+        "telephone": "01 45 07 93 30",
+        "site_web": "http://www.securiste.com/",
+        "adresse": "22 Grande Rue, 92310 Sèvres",
+        "note": 5,
+        "avis": 14,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "rueil-malmaison": {
+    "artisans": [
+      {
+        "id": "7713063160529140772",
+        "nom": "Quadro Intérieurs sur-mesure",
+        "slug": "quadro-interieurs-sur-mesure",
+        "telephone": "01 41 29 13 68",
+        "site_web": "https://www.quadro.fr/fr/magasins/rueil-malmaison-92500",
+        "adresse": "59 Rue des Bons Raisins, 92500 Rueil-Malmaison",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Magasin d'ameublement et de décoration"
+      },
+      {
+        "id": "11774391488354783023",
+        "nom": "La boutique du menuisier Manach Fermetures",
+        "slug": "la-boutique-du-menuisier-manach-fermetures",
+        "telephone": "01 47 51 09 06",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/manach-fermetures",
+        "adresse": "74 Av. du 18 Juin 1940, 92500 Rueil-Malmaison",
+        "note": 3,
+        "avis": 6,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "le-plessis-robinson": {
+    "artisans": [
+      {
+        "id": "16984112585446426080",
+        "nom": "Ak Pro'pose",
+        "slug": "ak-propose",
+        "telephone": "06 07 11 64 84",
+        "site_web": "http://www.ak-propose.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "60 Av. de Paris, 91790 Boissy-sous-Saint-Yon",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-cloud": {
+    "artisans": [
+      {
+        "id": "7993621839548755853",
+        "nom": "Idsv maintenance",
+        "slug": "idsv-maintenance",
+        "telephone": "06 16 52 48 64",
+        "site_web": "https://idsv-maintenance.fr/",
+        "adresse": "7 Av. Eugénie, 92210 Saint-Cloud",
+        "note": 5,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "13089692695065023269",
+        "nom": "HERVÉ - ÉBÉNISTE",
+        "slug": "herve-ebeniste",
+        "telephone": "01 55 28 66 37",
+        "site_web": "http://www.herve-ebeniste.fr/",
+        "adresse": "Le Viaduc des Arts sur rendez-vous, 117 Av. Daumesnil, 75012 Paris",
+        "note": 4.5,
+        "avis": 16,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "3625562346634984079",
+        "nom": "Abeille Générale de Bâtiment",
+        "slug": "abeille-generale-de-batiment",
+        "telephone": "06 64 91 02 76",
+        "site_web": "https://www.abeillebatiment.fr/nous-contacter/",
+        "adresse": "7 Rue de Nogent, 92210 Saint-Cloud",
+        "note": 0,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "4638424566337102866",
+        "nom": "Studio Esô | Architecte d’intérieur – Décoration – Suivi de travaux",
+        "slug": "studio-eso-architecte-dinterieur-decoration-suivi-de-travaux",
+        "telephone": "06 61 54 16 01",
+        "site_web": "https://studioeso.com/",
+        "adresse": "45 Quai du Président Carnot, 92210 Saint-Cloud",
+        "note": 5,
+        "avis": 0,
+        "type": "Cabinet d'architecte d'intérieur"
+      },
+      {
+        "id": "12533291016123514868",
+        "nom": "La Maison Des Travaux",
+        "slug": "la-maison-des-travaux",
+        "telephone": "01 82 00 65 77",
+        "site_web": "https://boulognebillancourt.lamaisondestravaux.com/",
+        "adresse": "26 Rue de la Libération, 92210 Saint-Cloud",
+        "note": 4.6,
+        "avis": 67,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "16072402168010322374",
+        "nom": "Hiro",
+        "slug": "hiro",
+        "telephone": "07 62 61 14 12",
+        "site_web": null,
+        "adresse": "92210 All. de la Carrière, 92210 Saint-Cloud",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "sceaux": {
+    "artisans": [
+      {
+        "id": "17054326506081242335",
+        "nom": "Barragan Anne",
+        "slug": "barragan-anne",
+        "telephone": "06 72 07 56 46",
+        "site_web": null,
+        "adresse": "11 Av. Jean Jaurès, 92330 Sceaux",
+        "note": 5,
+        "avis": 0,
+        "type": "Designer d'intérieur"
+      },
+      {
+        "id": "15643219416050197795",
+        "nom": "Best Renova",
+        "slug": "best-renova",
+        "telephone": "06 21 85 22 34",
+        "site_web": "https://www.instagram.com/best_renova/?utm_medium=copy_link",
+        "adresse": "1 Rue du Dr Lequeux, 92330 Sceaux",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Service de restauration de bâtiments"
+      }
+    ]
+  },
+  "vanves": {
+    "artisans": [
+      {
+        "id": "4763042680261003456",
+        "nom": "Coulon - SA",
+        "slug": "coulon-sa",
+        "telephone": "01 41 90 26 90",
+        "site_web": "http://www.coulon-sa.fr/",
+        "adresse": "15 Rue René Coche, 92170 Vanves",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "13971093880854631604",
+        "nom": "Quadro Intérieurs sur-mesure",
+        "slug": "quadro-interieurs-sur-mesure",
+        "telephone": "01 47 34 03 60",
+        "site_web": "https://www.quadro.fr/magasins/paris-15-75015",
+        "adresse": "202 Rue de Vaugirard, 75015 Paris",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin d'ameublement et de décoration"
+      },
+      {
+        "id": "12463394267723202358",
+        "nom": "AP AUGUSTIN",
+        "slug": "ap-augustin",
+        "telephone": "06 32 93 01 37",
+        "site_web": "http://apaugustin.com/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "suresnes": {
+    "artisans": [
+      {
+        "id": "2902574828095120031",
+        "nom": "3AR Atelier d'ébénisterie",
+        "slug": "3ar-atelier-debenisterie",
+        "telephone": "01 47 72 60 95",
+        "site_web": "http://www.3ar.fr/?utm_source=gmb",
+        "adresse": "28 Rue Victor Hugo, 92150 Suresnes",
+        "note": 5,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "2393779547211789720",
+        "nom": "Miroiterie Du Mont Valerien",
+        "slug": "miroiterie-du-mont-valerien",
+        "telephone": "01 40 99 11 74",
+        "site_web": "https://www.mmv-miroiterie.fr/",
+        "adresse": "2 Av. Gustave Stresemann, 92150 Suresnes",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "11172452673557841425",
+        "nom": "Design by Dexmier",
+        "slug": "design-by-dexmier",
+        "telephone": "07 80 99 84 08",
+        "site_web": "https://www.welinkbuilders.fr/menuisier/carreleur/charpentier/couvreur/92500-rueil-malmaison-france/design-by-dexmier-1363",
+        "adresse": "60 Rue Gallieni, 92500 Rueil-Malmaison",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6676061498607140307",
+        "nom": "RENOMAX",
+        "slug": "renomax",
+        "telephone": "01 47 72 20 06",
+        "site_web": "https://renomax-92.fr/",
+        "adresse": "84 Bd Maréchal de Lattre de Tassigny, 92150 Suresnes",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "18156888549565101773",
+        "nom": "Bâtie génie",
+        "slug": "batie-genie",
+        "telephone": "01 70 15 92 01",
+        "site_web": "http://batiegenie.fr/",
+        "adresse": "2 Rue des Acquevilles, 92150 Suresnes",
+        "note": 5,
+        "avis": 30,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "14700392004267313971",
+        "nom": "DARTY Cuisine & Literie Suresnes",
+        "slug": "darty-cuisine-literie-suresnes",
+        "telephone": "01 84 11 21 00",
+        "site_web": "https://magasin.darty.com/605-darty-cuisine-literie-suresnes?utm_source=gmb",
+        "adresse": "41 Bd Henri Sellier, 92150 Suresnes",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "10810336177961082963",
+        "nom": "Artec",
+        "slug": "artec",
+        "telephone": "01 45 06 08 22",
+        "site_web": "https://www.btp-artec.fr/",
+        "adresse": "90 Bd Maréchal de Lattre de Tassigny, 92150 Suresnes",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "17182316127973989327",
+        "nom": "Rivet Création - Entreprise de Rénovation et Menuiserie haut de gamme",
+        "slug": "rivet-creation-entreprise-de-renovation-et-menuiserie-haut-de-gamme",
+        "telephone": "06 86 17 39 40",
+        "site_web": "https://rivet-creation.com/",
+        "adresse": "45 Rue Emile Augier, 92500 Rueil-Malmaison",
+        "note": 5,
+        "avis": 20,
+        "type": "Entreprise de bricolage"
+      },
+      {
+        "id": "2302353879986487999",
+        "nom": "L’art Green Constructions",
+        "slug": "lart-green-constructions",
+        "telephone": "07 51 24 23 23",
+        "site_web": "https://www.lartgreenconstructions.fr/",
+        "adresse": "1 Rue Gambetta, 92150 Suresnes",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "15484625233465349539",
+        "nom": "Gilsol SAS",
+        "slug": "gilsol-sas",
+        "telephone": "01 47 72 10 99",
+        "site_web": "http://www.gilsol.com/?utm_source=gmb",
+        "adresse": "10 Rue de Verdun, 92150 Suresnes",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "ville-d-avray": {
+    "artisans": [
+      {
+        "id": "3579485990613860412",
+        "nom": "La Maison Des Travaux Meudon - Sèvres - Chaville",
+        "slug": "la-maison-des-travaux-meudon-sevres-chaville",
+        "telephone": "01 84 19 70 39",
+        "site_web": "https://meudon.lamaisondestravaux.com/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "13061492336416149807",
+        "nom": "RJ RENOVATION (Paris / Hauts de Seine / Yvelines / Val de Marne)",
+        "slug": "rj-renovation-paris-hauts-de-seine-yvelines-val-de-marne",
+        "telephone": "09 56 27 50 06",
+        "site_web": "https://rj-renovation.fr/",
+        "adresse": "34 Rue Blanchard, 92260 Fontenay-aux-Roses",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "16927431018411279943",
+        "nom": "ALNT",
+        "slug": "alnt",
+        "telephone": "06 43 52 44 62",
+        "site_web": null,
+        "adresse": "6 Av. Halphen, 92410 Ville-d'Avray",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "4220991638990970264",
+        "nom": "France Menuiseries",
+        "slug": "france-menuiseries",
+        "telephone": "01 43 31 33 50",
+        "site_web": "https://www.france-menuiseries.fr/",
+        "adresse": null,
+        "note": 4.3,
+        "avis": 20,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  }
+}

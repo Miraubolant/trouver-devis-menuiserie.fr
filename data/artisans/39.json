@@ -1,0 +1,2528 @@
+{
+  "clairvaux-les-lacs": {
+    "artisans": [
+      {
+        "id": "3317162639429421148",
+        "nom": "Lab Atelier Bois",
+        "slug": "lab-atelier-bois",
+        "telephone": "06 19 98 99 88",
+        "site_web": "https://www.labatelierbois.com/",
+        "adresse": "9 Rue des Sablières, 39130 Clairvaux-les-Lacs",
+        "note": 5,
+        "avis": 0,
+        "type": "Constructeur de maisons en bois"
+      },
+      {
+        "id": "15835010807026787533",
+        "nom": "Grosfillex Fenêtres Espace Menuiseries",
+        "slug": "grosfillex-fenetres-espace-menuiseries",
+        "telephone": "03 84 44 77 06",
+        "site_web": "https://www.grosfillex.com/stores/espace-menuiseries-sarl-clairvaux-les-lacs",
+        "adresse": "3 Rte de Lons le Saunier, 39130 Clairvaux-les-Lacs",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "cousance": {
+    "artisans": [
+      {
+        "id": "14319307473346308739",
+        "nom": "Didier Sagetat",
+        "slug": "didier-sagetat",
+        "telephone": "03 85 72 54 43",
+        "site_web": null,
+        "adresse": "5 ZA les Vauvres, 39190 Cousance",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "3023157391341511287",
+        "nom": "ARTEBA M.C.G.",
+        "slug": "arteba-mcg",
+        "telephone": "03 84 24 69 54",
+        "site_web": "http://mcg-pvc.fr/",
+        "adresse": "40 Av. Pasteur, 39570 Montmorot",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2958537063854628541",
+        "nom": "Agencement Menuiserie Griot Pertuizet",
+        "slug": "agencement-menuiserie-griot-pertuizet",
+        "telephone": "06 45 41 66 92",
+        "site_web": "http://www.amgriotpertuizet.fr/",
+        "adresse": "180 Rue du Glacier, 39190 Cousance",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "dampierre": {
+    "artisans": [
+      {
+        "id": "9939049192114055168",
+        "nom": "menuiserie val de loue",
+        "slug": "menuiserie-val-de-loue",
+        "telephone": "06 58 30 33 84",
+        "site_web": "https://menuiserievaldeloue.fr/",
+        "adresse": "17 Rte nationale, 39100 Parcey",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7716656538801398933",
+        "nom": "SARL MORISSEAU",
+        "slug": "sarl-morisseau",
+        "telephone": "03 84 67 08 20",
+        "site_web": null,
+        "adresse": "Z.A. de la Côte Renversé, 70180 Dampierre-sur-Salon",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2722486751875979354",
+        "nom": "Menuiserie Figard",
+        "slug": "menuiserie-figard",
+        "telephone": "03 84 78 33 46",
+        "site_web": "https://www.menuiserie-figard.fr/",
+        "adresse": "Les Vernes, 20 Rue de la Chapelle, 70230 Dampierre-sur-Linotte",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7149344980896476822",
+        "nom": "SAS Druet usine",
+        "slug": "sas-druet-usine",
+        "telephone": "09 63 64 28 39",
+        "site_web": "http://www.druet.fr/",
+        "adresse": "Zone Artisanale Côte Renverse, 70180 Dampierre-sur-Salon",
+        "note": 4.4,
+        "avis": 18,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15830467268314777001",
+        "nom": "Menuiseries L.G.S.",
+        "slug": "menuiseries-lgs",
+        "telephone": null,
+        "site_web": "https://www.lgs-menuiserie.com/menuiseries-exterieures.htm",
+        "adresse": "2 Rue de l'Église, 39600 Saint-Cyr-Montmalin",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10991730747636863032",
+        "nom": "Menuiserie du Jura",
+        "slug": "menuiserie-du-jura",
+        "telephone": "03 84 52 53 02",
+        "site_web": null,
+        "adresse": "Rte de Champagnole, 39300 Sapois",
+        "note": 5,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "8960448827175575739",
+        "nom": "MVA Jura",
+        "slug": "mva-jura",
+        "telephone": "03 84 71 54 77",
+        "site_web": "https://www.mvajura.fr/",
+        "adresse": "26 Chem. des Baraques, 39120 Le Deschaux",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7162046836793642417",
+        "nom": "Menuiserie PESEUX",
+        "slug": "menuiserie-peseux",
+        "telephone": "03 81 87 71 77",
+        "site_web": "http://www.menuiserie-peseux.fr/",
+        "adresse": "2 Rue Jean Moulin, 25410 Saint-Vit",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13419590223343048471",
+        "nom": "JURA PVC SAS",
+        "slug": "jura-pvc-sas",
+        "telephone": "03 84 71 03 08",
+        "site_web": "http://www.jurapvc.com/?utm_source=gmb",
+        "adresse": "4 Chem. de la Loye, 39100 Parcey",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8460306736636647729",
+        "nom": "DRUET SAS",
+        "slug": "druet-sas",
+        "telephone": "03 84 67 70 75",
+        "site_web": "http://druetsas.com/",
+        "adresse": "5 Rue Alfred Dornier, 70180 Dampierre-sur-Salon",
+        "note": 2.9,
+        "avis": 14,
+        "type": null
+      }
+    ]
+  },
+  "tavaux": {
+    "artisans": [
+      {
+        "id": "7703243142538163690",
+        "nom": "Jacquet Hervé",
+        "slug": "jacquet-herve",
+        "telephone": "03 84 71 43 64",
+        "site_web": "http://www.menuiserie-jacquet-dole.com/",
+        "adresse": "3 Rue de Saint-Aubin, 39500 Tavaux",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "courlaoux": {
+    "artisans": [
+      {
+        "id": "10505894142941174974",
+        "nom": "A.C Désign",
+        "slug": "ac-design",
+        "telephone": "03 84 44 53 07",
+        "site_web": null,
+        "adresse": "110 Rue du Montarlier, 39570 Courlans",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11651927290284994448",
+        "nom": "Menuiserie GRAND",
+        "slug": "menuiserie-grand",
+        "telephone": "06 43 37 51 03",
+        "site_web": null,
+        "adresse": "698 Chem. des Vernes, 39570 Courlaoux",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8555200041339400435",
+        "nom": "Lons Menuiserie",
+        "slug": "lons-menuiserie",
+        "telephone": "03 84 24 24 54",
+        "site_web": "http://www.lons-menuiserie.com/",
+        "adresse": "ZAC de la Levanchée, 90 Chem. du Champ Poly, 39570 Courlaoux",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "18427994046180626593",
+        "nom": "GP Menuiserie Bois Alu PVC",
+        "slug": "gp-menuiserie-bois-alu-pvc",
+        "telephone": "06 72 09 13 30",
+        "site_web": null,
+        "adresse": "310 Rue des Gay, 39570 Courlaoux",
+        "note": 0,
+        "avis": 0,
+        "type": "Siège social"
+      },
+      {
+        "id": "3388227136037580440",
+        "nom": "Bouillod Yannick",
+        "slug": "bouillod-yannick",
+        "telephone": "03 84 43 21 79",
+        "site_web": "https://www.yannick-bouillod-scierie.fr/",
+        "adresse": "200 Rte de Trenal, 39570 Courlaoux",
+        "note": 5,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "848936265624041386",
+        "nom": "Petiot Herve",
+        "slug": "petiot-herve",
+        "telephone": "03 84 35 33 72",
+        "site_web": null,
+        "adresse": "121 Chem. du Pré de la Mare, 39570 Courlaoux",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "8985607827718081288",
+        "nom": "Turin Christophe",
+        "slug": "turin-christophe",
+        "telephone": "03 84 35 79 46",
+        "site_web": null,
+        "adresse": "71 Rue Chp Beaulieu, 39570 Courlaoux",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "2363032959152888906",
+        "nom": "Steel Français",
+        "slug": "steel-francais",
+        "telephone": "06 80 03 73 76",
+        "site_web": null,
+        "adresse": "224 Rue du Monument aux Morts, 39570 Courlaoux",
+        "note": 5,
+        "avis": 3,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "10806775333048566091",
+        "nom": "JURA FERMETURES",
+        "slug": "jura-fermetures",
+        "telephone": "03 84 35 58 99",
+        "site_web": "http://www.jurafermetures.com/",
+        "adresse": "465 Rue de la Lieme, 39570 Perrigny",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3188468891587660102",
+        "nom": "SASU Rolearenov",
+        "slug": "sasu-rolearenov",
+        "telephone": "06 51 23 09 97",
+        "site_web": "http://rolearenov.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "damparis": {
+    "artisans": [
+      {
+        "id": "14875637815938222773",
+        "nom": "Delcroix Alexandre",
+        "slug": "delcroix-alexandre",
+        "telephone": "06 83 22 00 95",
+        "site_web": null,
+        "adresse": "7 Rue Pasteur, 39100 Foucherans",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6918073659864620039",
+        "nom": "TRYBA Dole (Foucherans)",
+        "slug": "tryba-dole-foucherans",
+        "telephone": "03 53 64 13 54",
+        "site_web": "https://www.tryba.com/espace-conseil/39/tryba-foucherans/?utm_campaign=Tryba_Foucherans&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "13 Rue des Chaucheux, 39100 Foucherans",
+        "note": 3.1,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7703243142538163690",
+        "nom": "Jacquet Hervé",
+        "slug": "jacquet-herve",
+        "telephone": "03 84 71 43 64",
+        "site_web": "http://www.menuiserie-jacquet-dole.com/",
+        "adresse": "3 Rue de Saint-Aubin, 39500 Tavaux",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5009924120930898127",
+        "nom": "Pilliard Menuiserie",
+        "slug": "pilliard-menuiserie",
+        "telephone": "06 17 51 56 64",
+        "site_web": "http://www.pilliard-menuiserie.fr/",
+        "adresse": "38 Rue du Boichot, 39100 Dole",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7570503055831021211",
+        "nom": "Menuiserie Julita",
+        "slug": "menuiserie-julita",
+        "telephone": "03 84 72 17 04",
+        "site_web": "http://menuiseriejulita.site-solocal.com/",
+        "adresse": "4 Rue des Prairies, 39100 Dole",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4231045377073071007",
+        "nom": "Menuiserie Cantet",
+        "slug": "menuiserie-cantet",
+        "telephone": "03 84 72 16 87",
+        "site_web": "https://www.menuiserie-cantet.com/",
+        "adresse": "Rue de Champvans, 39100 Sampans",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "7676479390572129498",
+        "nom": "Fermoconseil",
+        "slug": "fermoconseil",
+        "telephone": "06 63 99 64 18",
+        "site_web": "http://www.facebook.com/Fermoconseil-513487725481797/",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "10024550051060218436",
+        "nom": "SARL JLB HABITAT à Dole - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "sarl-jlb-habitat-a-dole-pergolas-stores-fenetres-menuiseries",
+        "telephone": "03 84 70 89 00",
+        "site_web": "https://www.komilfo.fr/magasins/gilles-stepczak-dole-39?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "56 rue des equevillons zac de foucherans, 39100 Dole",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7037154737610833277",
+        "nom": "Gustave Rideau",
+        "slug": "gustave-rideau",
+        "telephone": "03 84 79 13 12",
+        "site_web": "https://www.gustaverideau.com/agences/choisey-moyse-3d/?utm_campaign=choisey&utm_medium=GMB&utm_source=google",
+        "adresse": "Rue de la Croix Qui Viré, 39100 Choisey",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "15784017783676248006",
+        "nom": "M.D.B. Bouchard et Associés SARL",
+        "slug": "mdb-bouchard-et-associes-sarl",
+        "telephone": "03 84 82 51 23",
+        "site_web": null,
+        "adresse": "13 Rue du Stade, 39100 Foucherans",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "le-deschaux": {
+    "artisans": [
+      {
+        "id": "15256230958486060450",
+        "nom": "CZC Bailly Maitre Pere Et Fils",
+        "slug": "czc-bailly-maitre-pere-et-fils",
+        "telephone": "03 84 81 54 48",
+        "site_web": "https://czc-charpentier-jura.fr/?utm_source=gmb",
+        "adresse": "39 Rte de Dole, 39120 Le Deschaux",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "12513094221082756713",
+        "nom": "Oakleaf Studio",
+        "slug": "oakleaf-studio",
+        "telephone": "07 68 11 35 55",
+        "site_web": "https://www.instagram.com/oakleaf.studio/?hl=fr",
+        "adresse": "30 Rte de Dole, 39120 Le Deschaux",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18441799041021983267",
+        "nom": "Euro Menuiseries",
+        "slug": "euro-menuiseries",
+        "telephone": "06 07 97 55 97",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5121518799897544429",
+        "nom": "Andres Menuiserie",
+        "slug": "andres-menuiserie",
+        "telephone": "06 07 97 55 97",
+        "site_web": null,
+        "adresse": "18 Chem. des Baraques, 39120 Le Deschaux",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fabricant de portes"
+      }
+    ]
+  },
+  "choisey": {
+    "artisans": [
+      {
+        "id": "13129062874757870468",
+        "nom": "Siti Rénov",
+        "slug": "siti-renov",
+        "telephone": "06 12 35 50 79",
+        "site_web": "https://www.facebook.com/profile.php?id=100090211128685&sk=followers",
+        "adresse": "2 Rue Pablo Neruda, 39100 Dole",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11262249341935901184",
+        "nom": "Cuisines Cavina - Créateur de cuisines à Dole (39100)",
+        "slug": "cuisines-cavina-createur-de-cuisines-a-dole-39100",
+        "telephone": "06 06 50 67 98",
+        "site_web": "https://www.cavina-cuisines.fr/",
+        "adresse": "4 Rue du Petit Pasquier, 39500 Molay",
+        "note": 5,
+        "avis": 0,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "5984010440496447107",
+        "nom": "JB Fenêtres",
+        "slug": "jb-fenetres",
+        "telephone": "06 23 74 59 18",
+        "site_web": "https://www.facebook.com/people/JB-Fen%C3%AAtres-Dole/100091553350585/",
+        "adresse": "1 Rue du 19 Mars 1962, 39100 Dole",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9656990486118199047",
+        "nom": "ARTEBA",
+        "slug": "arteba",
+        "telephone": "03 80 65 40 27",
+        "site_web": "http://www.arteba.fr/",
+        "adresse": "11 Rue Jean Baptiste Say, 21800 Chevigny-Saint-Sauveur",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14165829259643348297",
+        "nom": "Laporte Amiot - Métallerie & Menuiserie Aluminium",
+        "slug": "laporte-amiot-metallerie-menuiserie-aluminium",
+        "telephone": "03 84 82 01 10",
+        "site_web": "https://www.laporte-amiot.com/",
+        "adresse": "37 Rue du Bizard, 39100 Dole",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3153217394046499936",
+        "nom": "Artisans Artipôle Dole Choisey",
+        "slug": "artisans-artipole-dole-choisey",
+        "telephone": "03 39 50 20 30",
+        "site_web": "https://www.artisans-artipole-bfc.fr/",
+        "adresse": "5 AVENUE INNOVIA, 39100 Choisey",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "7926212023798982048",
+        "nom": "Vincent José",
+        "slug": "vincent-jose",
+        "telephone": "03 84 71 08 00",
+        "site_web": "http://www.atelier-jose-vincent.fr/",
+        "adresse": "35 Rue Macedonio Melloni, 39100 Dole",
+        "note": 4,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "17111536837783223637",
+        "nom": "menuiserie soret",
+        "slug": "menuiserie-soret",
+        "telephone": "06 65 05 44 99",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9806006865264220554",
+        "nom": "Moyse 3D : Rénovation et aménagements extérieurs",
+        "slug": "moyse-3d-renovation-et-amenagements-exterieurs",
+        "telephone": "03 84 79 13 12",
+        "site_web": "https://moyse3d.fr/amenagement-renovation-maison-dole/",
+        "adresse": "Rue de la Croix Qui Viré, 39100 Choisey",
+        "note": 4.8,
+        "avis": 101,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "dole": {
+    "artisans": [
+      {
+        "id": "13636644680020064620",
+        "nom": "Centre Est Fermetures",
+        "slug": "centre-est-fermetures",
+        "telephone": "03 10 45 24 40",
+        "site_web": "https://www.centre-est-isolation-21.fr/?utm_source=gmb",
+        "adresse": "29 Pl. du 11 Novembre, 39100 Dole",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5012797230499125979",
+        "nom": "SCOP Fermetures",
+        "slug": "scop-fermetures",
+        "telephone": "03 84 82 67 14",
+        "site_web": "https://www.scop-fermetures.com/",
+        "adresse": "39 Rue Macedonio Melloni, 39100 Dole",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5740978911677158352",
+        "nom": "Fenêtres sur Cour",
+        "slug": "fenetres-sur-cour",
+        "telephone": "06 87 24 28 52",
+        "site_web": "https://www.fenetres-sur-cour.fr/",
+        "adresse": "9 Rue Croix de l'Épine, 39380 La Loye",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8852197804227484793",
+        "nom": "Miroiterie Doloise",
+        "slug": "miroiterie-doloise",
+        "telephone": "03 84 72 54 08",
+        "site_web": "http://www.miroiterie-dole.fr/",
+        "adresse": "83 Av. Jacques Duhamel, 39100 Dole",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "17515238849669700679",
+        "nom": "CUISINES LAURENT TETU",
+        "slug": "cuisines-laurent-tetu",
+        "telephone": "03 84 82 38 12",
+        "site_web": "https://www.cuisinestetu.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "33 Av. Léon Jouhaux, 39100 Dole",
+        "note": 5,
+        "avis": 0,
+        "type": "Cuisiniste"
+      }
+    ]
+  },
+  "domblans": {
+    "artisans": [
+      {
+        "id": "10480092988770407585",
+        "nom": "L'oeil au bois - Ébénisterie / Menuiserie / Agencement",
+        "slug": "loeil-au-bois-ebenisterie-menuiserie-agencement",
+        "telephone": "07 75 71 88 86",
+        "site_web": "http://oeilaubois.fr/",
+        "adresse": "125 Rue Chateraine, 39210 Montain",
+        "note": 5,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "14650361017741707893",
+        "nom": "Sébastien Bonin",
+        "slug": "sebastien-bonin",
+        "telephone": "03 84 44 90 20",
+        "site_web": "http://www.menuiserie-bonin.fr/",
+        "adresse": "15 Chem. de Condamine, 39210 Domblans",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16544415455558096047",
+        "nom": "Liardon Menuiserie Agencement",
+        "slug": "liardon-menuiserie-agencement",
+        "telephone": "03 84 85 20 34",
+        "site_web": "http://liardonma.wix.com/menuisier",
+        "adresse": "131 Rue Saint-Vincent, 39210 Frontenay",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "1314888414349437509",
+        "nom": "EURL ROUSSELOT-EMART Nicolas",
+        "slug": "eurl-rousselot-emart-nicolas",
+        "telephone": "06 83 01 23 39",
+        "site_web": null,
+        "adresse": "380 Rue du Vergerot, 39210 Domblans",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "351009559906047653",
+        "nom": "Jean Luc PAULY",
+        "slug": "jean-luc-pauly",
+        "telephone": "09 79 29 25 03",
+        "site_web": null,
+        "adresse": "136 Rue de Montalent, 39210 Le Louverot",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15147921140256135206",
+        "nom": "Ren'essence Bois",
+        "slug": "renessence-bois",
+        "telephone": "06 82 82 88 54",
+        "site_web": null,
+        "adresse": "13 Grande Rue, 39230 Domblans",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17506385714034114529",
+        "nom": "Michelin Jean-Marc",
+        "slug": "michelin-jean-marc",
+        "telephone": "06 81 52 14 95",
+        "site_web": "http://michelinjeanmarcsarl.site-solocal.com/",
+        "adresse": "580 Chem. de la Fretinee, 39210 Arlay",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "911159485998289558",
+        "nom": "Menuiserie Ebénisterie Blondeau Sébastien",
+        "slug": "menuiserie-ebenisterie-blondeau-sebastien",
+        "telephone": "06 89 94 59 96",
+        "site_web": "https://blondeausebastien3.wixsite.com/monsite",
+        "adresse": "154 Rue de la Gare, 39210 Domblans",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "foncine-le-haut": {
+    "artisans": [
+      {
+        "id": "6609716541619530828",
+        "nom": "Morel Gilles",
+        "slug": "morel-gilles",
+        "telephone": "03 63 86 50 08",
+        "site_web": null,
+        "adresse": "304 Rte de Champagnole, 39520 Foncine-le-Bas",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "297595752431621449",
+        "nom": "Menuiserie BOURGEOIS",
+        "slug": "menuiserie-bourgeois",
+        "telephone": "06 88 32 55 18",
+        "site_web": null,
+        "adresse": "36 Bas de ville, 39460 Foncine-le-Haut",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6332313224120378524",
+        "nom": "Lecoultre Entreprise (Sarl) .",
+        "slug": "lecoultre-entreprise-sarl",
+        "telephone": "03 84 51 91 01",
+        "site_web": "https://www.lecoultre-charpente.fr/",
+        "adresse": "15 Rue de l'Église, 39460 Foncine-le-Haut",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "lavans-les-saint-claude": {
+    "artisans": [
+      {
+        "id": "6466377266026464254",
+        "nom": "Menuiserie Vaudey",
+        "slug": "menuiserie-vaudey",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "ZA Planchamp, 39170 Lavans-lès-Saint-Claude",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "fraisans": {
+    "artisans": [
+      {
+        "id": "3463618709604558886",
+        "nom": "Coincenot Nicolas",
+        "slug": "coincenot-nicolas",
+        "telephone": "03 84 80 14 84",
+        "site_web": "https://menuiserie-coincenot.fr/",
+        "adresse": "1 Rue de Fraisans, 39700 Salans",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10243753770696686345",
+        "nom": "FC Menuiserie",
+        "slug": "fc-menuiserie",
+        "telephone": "06 73 03 28 18",
+        "site_web": "https://www.instagram.com/flaviencarrey/profilecard/?igsh=OHlscDB0anpqa2xs",
+        "adresse": "7 bis Rue de l'Étang, 39600 Villers-Farlay",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7237313763983083683",
+        "nom": "FMB : Fermetures et Menuiserie de la Bruyère",
+        "slug": "fmb-fermetures-et-menuiserie-de-la-bruyere",
+        "telephone": "03 84 81 33 22",
+        "site_web": "http://www.fmb39.com/",
+        "adresse": "7 Moulin de la Bruyère, 39700 Rans",
+        "note": 5,
+        "avis": 25,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "6118435828333458248",
+        "nom": "Fermapro",
+        "slug": "fermapro",
+        "telephone": "03 84 72 29 83",
+        "site_web": null,
+        "adresse": "6 Rue d'Etrepigney, 39700 Rans",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7307723744687594176",
+        "nom": "Groupe ROY",
+        "slug": "groupe-roy",
+        "telephone": "09 63 05 00 43",
+        "site_web": null,
+        "adresse": "21 Rue Henri Paul, 39700 Ranchot",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de bois"
+      },
+      {
+        "id": "17208124786872070504",
+        "nom": "FC Bois",
+        "slug": "fc-bois",
+        "telephone": "06 85 13 47 95",
+        "site_web": "http://www.ebeniste-fcbois.com/",
+        "adresse": "2 Rue du Port, 39600 Cramans",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "3199282029754498566",
+        "nom": "Menuiserie Agencement Patrick Kassai",
+        "slug": "menuiserie-agencement-patrick-kassai",
+        "telephone": "06 34 18 43 18",
+        "site_web": null,
+        "adresse": "Les épinettes, 9 Rte nationale, 39700 Évans",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16653275903954447180",
+        "nom": "LCP",
+        "slug": "lcp",
+        "telephone": "06 79 96 01 64",
+        "site_web": null,
+        "adresse": "9 Rue Henri Paul, 39700 Ranchot",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10704170976474782600",
+        "nom": "Creamesure",
+        "slug": "creamesure",
+        "telephone": "06 21 45 27 26",
+        "site_web": null,
+        "adresse": "23 Grande Rue, 25320 Byans-sur-Doubs",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "11079018394945893520",
+        "nom": "MAIGNAN Menuisier Agenceur",
+        "slug": "maignan-menuisier-agenceur",
+        "telephone": "03 84 70 61 36",
+        "site_web": "https://maignan-sas.fr/",
+        "adresse": "6 Rue des Métiers, 39700 Rochefort-sur-Nenon",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "foucherans": {
+    "artisans": [
+      {
+        "id": "2091848913775983041",
+        "nom": "Entreprise JAM’S",
+        "slug": "entreprise-jams",
+        "telephone": "03 84 82 21 78",
+        "site_web": null,
+        "adresse": "1 Rue Eugène Chalon, 39100 Foucherans",
+        "note": 5,
+        "avis": 0,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "3771142252045158849",
+        "nom": "FINSTRAL Centre Est Menuiserie",
+        "slug": "finstral-centre-est-menuiserie",
+        "telephone": "03 84 69 67 75",
+        "site_web": "http://www.facebook.com/pages/Centre-Est-Menuiserie-Finstral-Fen%C3%AAtres-Volets-V%C3%A9randas-PVC-D%C3%B4le-Jura/195983263756451",
+        "adresse": "60 Av. Jacques Duhamel, 39100 Dole",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "16111717272085962347",
+        "nom": "Entreprise PARAFFE",
+        "slug": "entreprise-paraffe",
+        "telephone": "06 16 75 30 82",
+        "site_web": null,
+        "adresse": "3 Chem. des Noches, 39100 Dole",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chaussin": {
+    "artisans": [
+      {
+        "id": "6206819227787960457",
+        "nom": "Menuiserie Peguillet SARL",
+        "slug": "menuiserie-peguillet-sarl",
+        "telephone": "03 84 81 62 43",
+        "site_web": null,
+        "adresse": "4 Rue des Écoles, 39120 Longwy-sur-le-Doubs",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15219274015670864396",
+        "nom": "Bornier Clément",
+        "slug": "bornier-clement",
+        "telephone": "06 45 92 07 25",
+        "site_web": "http://charpente-bornier-clement.com/",
+        "adresse": "18 bis Rte de Dijon, 39120 Chaussin",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4230964926619326500",
+        "nom": "MARTIN MENUISERIE PETIT NOIR",
+        "slug": "martin-menuiserie-petit-noir",
+        "telephone": "06 42 01 02 89",
+        "site_web": "https://www.eldo.com/pro/martin_menuiserie_petit_noir/",
+        "adresse": "8 Rue de la Pastorelle, 39120 Petit-Noir",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17791269826636721126",
+        "nom": "Meugin Xavier",
+        "slug": "meugin-xavier",
+        "telephone": "06 63 61 27 50",
+        "site_web": "http://www.menuiserie-meugin.fr/?utm_source=gmb",
+        "adresse": "31 Rue du Château, 39500 Champdivers",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14619970546812895354",
+        "nom": "Ferraroli Christophe",
+        "slug": "ferraroli-christophe",
+        "telephone": "03 84 71 89 46",
+        "site_web": "http://www.sarl-ferraroli.com/",
+        "adresse": "29 Rte de Longwy, 39120 Chaussin",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13289139190399354097",
+        "nom": "Bati Conseil.sn",
+        "slug": "bati-conseilsn",
+        "telephone": "03 84 69 07 62",
+        "site_web": null,
+        "adresse": "7 Rue de l'Hôtel de ville, 39120 Chaussin",
+        "note": 3,
+        "avis": 0,
+        "type": "Agence d'architecture"
+      },
+      {
+        "id": "10961523526288867898",
+        "nom": "Art Fermetures",
+        "slug": "art-fermetures",
+        "telephone": "03 84 69 68 06",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Service establishment"
+      },
+      {
+        "id": "3219714732645505446",
+        "nom": "L'atelier JMC",
+        "slug": "latelier-jmc",
+        "telephone": "06 81 65 97 48",
+        "site_web": null,
+        "adresse": "2A Rue de Sainte-Marie, 39120 Balaiseaux",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "longchaumois": {
+    "artisans": [
+      {
+        "id": "2700889745169780770",
+        "nom": "Verchère Mickael",
+        "slug": "verchere-mickael",
+        "telephone": "06 83 12 33 69",
+        "site_web": null,
+        "adresse": "161 Rte du Génie, 39220 Les Rousses",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9110199807939341538",
+        "nom": "MENUISERIE BAILLY MAITRE",
+        "slug": "menuiserie-bailly-maitre",
+        "telephone": "06 40 50 45 36",
+        "site_web": "https://www.menuiserie-bailly-maitre.fr/",
+        "adresse": "16 Rue Louis Grandchavin, 39400 Hauts de Bienne",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7556420563040193937",
+        "nom": "Scierie PERRIN SAS",
+        "slug": "scierie-perrin-sas",
+        "telephone": "03 84 60 62 25",
+        "site_web": "https://www.facebook.com/profile.php?id=61575295822198",
+        "adresse": "Lieu-dit, À la Saugea, 39400 Longchaumois",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "10019586155286527861",
+        "nom": "Bricomarché Morez",
+        "slug": "bricomarche-morez",
+        "telephone": "03 84 33 57 37",
+        "site_web": "https://www.bricomarche.com/magasin/morez/03839?store=03839&utm_source=gmb",
+        "adresse": "16 Rue Pierre Morel, 39400 Hauts de Bienne",
+        "note": 4.1,
+        "avis": 452,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "16973142109610581093",
+        "nom": "ARTDUBOIS JURA SAS",
+        "slug": "artdubois-jura-sas",
+        "telephone": "03 84 34 67 78",
+        "site_web": "http://www.artduboisjura.fr/",
+        "adresse": "11 Rue du Comté, 39400 Longchaumois",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "4660248569662495939",
+        "nom": "MG RENOVE",
+        "slug": "mg-renove",
+        "telephone": "06 51 33 04 11",
+        "site_web": "https://www.mg-renov39.fr/",
+        "adresse": "5 Rue Emile Zola, 39400 Hauts de Bienne",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16720303969461728425",
+        "nom": "Menuiserie Charpente TAGLIONE",
+        "slug": "menuiserie-charpente-taglione",
+        "telephone": "03 84 33 02 09",
+        "site_web": "http://www.menuiserie-taglione.com/",
+        "adresse": "125 Rte des Buclets, 39400 Morbier",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "11797660012604079914",
+        "nom": "Nicolet Charpente",
+        "slug": "nicolet-charpente",
+        "telephone": "03 84 41 66 21",
+        "site_web": null,
+        "adresse": "Le Grand Essard, 39310 Septmoncel les Molunes",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "10342800241631347887",
+        "nom": "Menuiserie Marquant",
+        "slug": "menuiserie-marquant",
+        "telephone": "06 75 12 85 97",
+        "site_web": "https://www.menuiserie-marquant-signejurabois.fr/",
+        "adresse": "18 Rue Rouget de Lisle, 39170 Coteaux du Lizon",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10463658533532416120",
+        "nom": "Menuiserie Lizon",
+        "slug": "menuiserie-lizon",
+        "telephone": "06 88 48 70 76",
+        "site_web": null,
+        "adresse": "959 Chem. des Berthets, 39220 Les Rousses",
+        "note": 5,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      }
+    ]
+  },
+  "montmorot": {
+    "artisans": [
+      {
+        "id": "16892102519033466053",
+        "nom": "Komilfo Stor's Ferm's à Lons / Montmorot - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-stors-ferms-a-lons-montmorot-pergolas-stores-fenetres-menuiseries",
+        "telephone": "03 84 24 30 40",
+        "site_web": "https://www.komilfo.fr/magasins/stors-ferms-lons-saunier-39?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "34 Rue Aristide Briand, 39570 Montmorot",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Vitrier"
+      },
+      {
+        "id": "8604276556978856287",
+        "nom": "TRYBA - Lons-le-Saunier (Montmorot)",
+        "slug": "tryba-lons-le-saunier-montmorot",
+        "telephone": "03 53 64 13 05",
+        "site_web": "https://www.tryba.com/espace-conseil/39/tryba-lons-le-saunier/?utm_campaign=Tryba_lons-le-saunier&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "85 Rue des Salines, 39570 Montmorot",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1421073000277991303",
+        "nom": "Socobois Montmorot",
+        "slug": "socobois-montmorot",
+        "telephone": "03 84 87 19 91",
+        "site_web": "https://www.socobois.fr/?utm_source=gmb",
+        "adresse": "31 Av. Maillot, 39570 Montmorot",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Négociant en bois"
+      },
+      {
+        "id": "10117906438727983097",
+        "nom": "Bernard Fieux Aluminium",
+        "slug": "bernard-fieux-aluminium",
+        "telephone": "03 84 47 43 02",
+        "site_web": "https://www.fieux-aluminium.com/",
+        "adresse": "Z.a.c Des Toupes, 6 Rte de Bletterans, 39570 Montmorot",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "7187345148242663228",
+        "nom": "Jura Bois Concept",
+        "slug": "jura-bois-concept",
+        "telephone": "06 83 93 64 96",
+        "site_web": "https://www.facebook.com/share/1ErXM3GnXq/?mibextid=wwXIfr",
+        "adresse": "451 Rue du Grand Messia, 39570 Messia-sur-Sorne",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3283283477811093434",
+        "nom": "Paget Menuiserie Agencements SA",
+        "slug": "paget-menuiserie-agencements-sa",
+        "telephone": "03 84 24 23 19",
+        "site_web": null,
+        "adresse": "180 Rue Blaise Pascal, 39000 Lons-le-Saunier",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "730589049146059181",
+        "nom": "‍ Kidepann Stor's Ferm's - Réparation de volet roulant & store à Montmorot",
+        "slug": "kidepann-stors-ferms-reparation-de-volet-roulant-store-a-montmorot",
+        "telephone": "03 84 24 30 40",
+        "site_web": null,
+        "adresse": "34 Rue Aristide Briand, 39570 Montmorot",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "10029481492777171655",
+        "nom": "LUXANCE pvc concept",
+        "slug": "luxance-pvc-concept",
+        "telephone": "06 74 51 10 13",
+        "site_web": "https://www.luxance-habitat.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "8 Rue Rouget de Lisle, 39000 Lons-le-Saunier",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16725972588706556594",
+        "nom": "FILLON MAILLET SARL",
+        "slug": "fillon-maillet-sarl",
+        "telephone": "06 07 17 26 53",
+        "site_web": "https://www.fillon-mailletsarl.fr/",
+        "adresse": "70 Rue des Salines, 39000 Lons-le-Saunier",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15777794904607680003",
+        "nom": "PERNIN Menuiseries - SOLABAIE",
+        "slug": "pernin-menuiseries-solabaie",
+        "telephone": "03 84 48 36 35",
+        "site_web": "http://www.menuiserie-jura.com/",
+        "adresse": "Lieu dit la rippe - sous la cure, 39570 Saint-Maur",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "morbier": {
+    "artisans": [
+      {
+        "id": "16720303969461728425",
+        "nom": "Menuiserie Charpente TAGLIONE",
+        "slug": "menuiserie-charpente-taglione",
+        "telephone": "03 84 33 02 09",
+        "site_web": "http://www.menuiserie-taglione.com/",
+        "adresse": "125 Rte des Buclets, 39400 Morbier",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "chassal-molinges": {
+    "artisans": [
+      {
+        "id": "8688470426053018661",
+        "nom": "Metallerie Et Ouvertures - Sur Mesure Menuiserie",
+        "slug": "metallerie-et-ouvertures-sur-mesure-menuiserie",
+        "telephone": "03 84 45 27 80",
+        "site_web": "https://chassal-molinges.surmesure-menuiserie.fr/",
+        "adresse": "zone artisanale, En Chambouille II, 39360",
+        "note": 4.5,
+        "avis": 17,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "macornay": {
+    "artisans": [
+      {
+        "id": "15418119713979666107",
+        "nom": "Miroiterie Ranneaud SAS",
+        "slug": "miroiterie-ranneaud-sas",
+        "telephone": "03 84 47 28 01",
+        "site_web": "https://ranneaud.fr/",
+        "adresse": "284 Rue de Longefin, 39570 Macornay",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "13606509250114054150",
+        "nom": "JM maitrise d'oeuvre",
+        "slug": "jm-maitrise-doeuvre",
+        "telephone": "03 84 86 01 56",
+        "site_web": "http://www.meilland-maitredoeuvre.com/",
+        "adresse": "360 Rue du Jura, 39570 Macornay",
+        "note": 4.3,
+        "avis": 11,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "2288272770402654239",
+        "nom": "Roch - Constructeur Bois",
+        "slug": "roch-constructeur-bois",
+        "telephone": "03 84 24 31 51",
+        "site_web": "http://www.roch.fr/",
+        "adresse": "195 Rue de la Font aux Daims, 39570 Macornay",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Constructeur de maisons en bois"
+      },
+      {
+        "id": "8378517229058358914",
+        "nom": "Bricojura",
+        "slug": "bricojura",
+        "telephone": "06 82 67 77 49",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9494493552011208882",
+        "nom": "Grosperrin Frederic",
+        "slug": "grosperrin-frederic",
+        "telephone": "03 84 44 65 25",
+        "site_web": null,
+        "adresse": "190 Chem. de Condamine, 39570 Macornay",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "lons-le-saunier": {
+    "artisans": [
+      {
+        "id": "16085969969792295903",
+        "nom": "Morel S.A.S",
+        "slug": "morel-sas",
+        "telephone": "03 84 87 05 05",
+        "site_web": "http://www.morel.fr/",
+        "adresse": "720 Rue Blaise Pascal, 39000 Lons-le-Saunier",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Entreprise de fabrication de plastique"
+      },
+      {
+        "id": "11199543522525840272",
+        "nom": "Aquistapace Jany",
+        "slug": "aquistapace-jany",
+        "telephone": "06 84 85 57 96",
+        "site_web": "http://www.menuiserie-aquistapace-jura.fr/",
+        "adresse": "7 Rue Lecourbe, 39000 Lons-le-Saunier",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "15020728907212378136",
+        "nom": "MENUISERIE PASTOORS JULIEN",
+        "slug": "menuiserie-pastoors-julien",
+        "telephone": "06 06 81 64 68",
+        "site_web": "https://www.menuiserie-pastoors.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11175782632921548519",
+        "nom": "Go Groupe",
+        "slug": "go-groupe",
+        "telephone": "03 84 47 71 68",
+        "site_web": "http://www.gogroupe.fr/",
+        "adresse": "495 Rue Blaise Pascal, 39000 Lons-le-Saunier",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "4794251496598110007",
+        "nom": "KparK Lons le Saunier",
+        "slug": "kpark-lons-le-saunier",
+        "telephone": "03 66 82 01 29",
+        "site_web": "https://magasins.kpark.fr/35-kpark-lons-le-saunier?utm_source=gmb",
+        "adresse": "45 Av. de la Marseillaise, 39000 Lons-le-Saunier",
+        "note": 4.3,
+        "avis": 35,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "moirans-en-montagne": {
+    "artisans": [
+      {
+        "id": "16173246385982746663",
+        "nom": "Capelli Berrod",
+        "slug": "capelli-berrod",
+        "telephone": "03 84 42 01 84",
+        "site_web": "http://www.sarl-capelli-berrod.fr/",
+        "adresse": "4 All. de Bonneille, 39260 Moirans-en-Montagne",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4487670584646287074",
+        "nom": "Oli'wood",
+        "slug": "oliwood",
+        "telephone": "06 52 14 74 34",
+        "site_web": "https://www.facebook.com/OliWood.OssatureBois",
+        "adresse": "1 Rue du Tongea, 39260 Moirans-en-Montagne",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12510202239485358746",
+        "nom": "Atelier Louis Astier - Ébéniste Jura",
+        "slug": "atelier-louis-astier-ebeniste-jura",
+        "telephone": "06 79 87 22 16",
+        "site_web": "http://www.louis-astier.com/",
+        "adresse": "3 Rue du Moulin, 39260 Moirans-en-Montagne",
+        "note": 5,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "7815487496572128275",
+        "nom": "SAS RENOBAT",
+        "slug": "sas-renobat",
+        "telephone": "03 84 42 03 33",
+        "site_web": null,
+        "adresse": "15 Rue Charles Favre, 39260 Moirans-en-Montagne",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2561785810923684852",
+        "nom": "Menuiserie du Lizon Jura",
+        "slug": "menuiserie-du-lizon-jura",
+        "telephone": "06 47 63 34 77",
+        "site_web": "https://fblanc63.wixsite.com/my-site",
+        "adresse": "83 Av. de Saint-Claude, 39260 Moirans-en-Montagne",
+        "note": 2.1,
+        "avis": 7,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "17242531974589616972",
+        "nom": "SARL RENOBAT",
+        "slug": "sarl-renobat",
+        "telephone": "09 70 35 38 06",
+        "site_web": "http://menuiserie-renobat.com/",
+        "adresse": "15 Rue Charles Favre, 39260 Moirans-en-Montagne",
+        "note": 3.3,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "8752900876799965837",
+        "nom": "Aquistapace Pascal",
+        "slug": "aquistapace-pascal",
+        "telephone": "03 84 42 39 82",
+        "site_web": null,
+        "adresse": "2 Rue Mère Térésa, 39260 Moirans-en-Montagne",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "mont-sous-vaudrey": {
+    "artisans": [
+      {
+        "id": "2905558170434310304",
+        "nom": "BEAUBOIS",
+        "slug": "beaubois",
+        "telephone": "03 84 71 71 78",
+        "site_web": "https://sarl-beaubois.com/",
+        "adresse": "Zone Artisanale Prepitalier, 39380 Mont-sous-Vaudrey",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "647865961541901116",
+        "nom": "Scierie Gauthier 39",
+        "slug": "scierie-gauthier-39",
+        "telephone": "03 84 81 50 51",
+        "site_web": "https://www.scieriegauthier.net/",
+        "adresse": "13 Rte de Dole, 39380 Mont-sous-Vaudrey",
+        "note": 5,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "9382413025687872349",
+        "nom": "CHAUVIN Construction Bois",
+        "slug": "chauvin-construction-bois",
+        "telephone": "03 84 80 04 40",
+        "site_web": "https://www.constructions-chauvin.fr/",
+        "adresse": "2 Imp. Roch, 39380 Mont-sous-Vaudrey",
+        "note": 4.8,
+        "avis": 66,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "8240225568238501202",
+        "nom": "Les Frerots Jurassiens",
+        "slug": "les-frerots-jurassiens",
+        "telephone": "06 62 88 22 80",
+        "site_web": null,
+        "adresse": "19 Rue Louis Guillaume, 39380 Mont-sous-Vaudrey",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4012227613886928739",
+        "nom": "Colalu",
+        "slug": "colalu",
+        "telephone": "09 54 36 00 31",
+        "site_web": "https://colalu.fr/",
+        "adresse": "2B Chem. des Érables, 39380 Bans",
+        "note": 4,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "12457846547154810411",
+        "nom": "LFX",
+        "slug": "lfx",
+        "telephone": "06 89 52 60 49",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "mouchard": {
+    "artisans": [
+      {
+        "id": "2543278339979615920",
+        "nom": "Societe Jurassienne Des Bois Secs",
+        "slug": "societe-jurassienne-des-bois-secs",
+        "telephone": "03 84 37 84 07",
+        "site_web": null,
+        "adresse": "1 Qur Bel-air, 39330 Mouchard",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "11821879176911227512",
+        "nom": "Les Charpentiers Réunis",
+        "slug": "les-charpentiers-reunis",
+        "telephone": "03 84 37 89 69",
+        "site_web": "http://les-charpentiers-reunis.com/",
+        "adresse": "zone des Essarts, Route de Cramans, 39330 Mouchard",
+        "note": 4,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "14804921849040609259",
+        "nom": "L'Arboiserie",
+        "slug": "larboiserie",
+        "telephone": "03 84 66 57 05",
+        "site_web": "https://www.arboiserie.com/",
+        "adresse": "3 rue du bois, 39330 Mouchard",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Fabricant"
+      },
+      {
+        "id": "169172108574406961",
+        "nom": "Lycée des Métiers du Bois",
+        "slug": "lycee-des-metiers-du-bois",
+        "telephone": "03 84 73 74 00",
+        "site_web": "http://www.lycee-du-bois.com/",
+        "adresse": "67 Rue de Strasbourg, 39330 Mouchard",
+        "note": 2.8,
+        "avis": 0,
+        "type": "Établissement d'enseignement"
+      },
+      {
+        "id": "17688461090331800066",
+        "nom": "Institut Européen de Formation des Compagnons du Tour de France - Lycée Professionnel et CFA bois, bâtiment et métiers d'arts",
+        "slug": "institut-europeen-de-formation-des-compagnons-du-tour-de-france-lycee-professionnel-et-cfa-bois-batiment-et-metiers-darts",
+        "telephone": "03 84 73 82 46",
+        "site_web": "https://mouchard-ief.compagnonsdutourdefrance.org/",
+        "adresse": "2 Rue Léopold Alixant, 39330 Mouchard",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Établissement d'enseignement professionnel"
+      },
+      {
+        "id": "13759601787432605613",
+        "nom": "Institut des Compagnons (atelier de menuiserie)",
+        "slug": "institut-des-compagnons-atelier-de-menuiserie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sous les Vignes, 39330 Mouchard",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10224113107963214174",
+        "nom": "Thirion Machines à Bois",
+        "slug": "thirion-machines-a-bois",
+        "telephone": "03 84 37 85 06",
+        "site_web": null,
+        "adresse": "3 Rue de la Vigne aux Moines, 39330 Mouchard",
+        "note": 4,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "orchamps": {
+    "artisans": [
+      {
+        "id": "15099050746921815400",
+        "nom": "Sas Kozjek",
+        "slug": "sas-kozjek",
+        "telephone": "03 84 81 20 27",
+        "site_web": null,
+        "adresse": "8 Rue Caulin, 39700 Orchamps",
+        "note": 5,
+        "avis": 0,
+        "type": "Siège social"
+      },
+      {
+        "id": "12555029811280260295",
+        "nom": "SN Menuiserie Bertin",
+        "slug": "sn-menuiserie-bertin",
+        "telephone": "03 81 67 69 00",
+        "site_web": "http://www.bertinmenuiserie.com/",
+        "adresse": "1 Chemin Du Champ Du Creux ZA, 25390 Orchamps-Vennes",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15339577682284294723",
+        "nom": "Entreprise Richard",
+        "slug": "entreprise-richard",
+        "telephone": "03 84 71 35 80",
+        "site_web": null,
+        "adresse": "Les Pierrettes, 39700 Orchamps",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "16297328848349026636",
+        "nom": "Sa Exploi Bat Trvx Publics Moyse SAS Moy",
+        "slug": "sa-exploi-bat-trvx-publics-moyse-sas-moy",
+        "telephone": "03 84 71 30 70",
+        "site_web": null,
+        "adresse": "Zi. Rue Du Bois, 39700 Orchamps",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "325559408099680876",
+        "nom": "EUROCUISINES",
+        "slug": "eurocuisines",
+        "telephone": "03 84 70 50 29",
+        "site_web": null,
+        "adresse": "42 Rue de la Libération, 39700 Orchamps",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "7450387357861151292",
+        "nom": "Agricolis Orchamp",
+        "slug": "agricolis-orchamp",
+        "telephone": "06 82 38 36 13",
+        "site_web": null,
+        "adresse": "24 Rue de la Résistance, 39700 Orchamps",
+        "note": 5,
+        "avis": 0,
+        "type": "Casier à colis"
+      },
+      {
+        "id": "7485864202315251374",
+        "nom": "JURASCIAGES Scierie Bertin",
+        "slug": "jurasciages-scierie-bertin",
+        "telephone": "03 81 43 54 98",
+        "site_web": "http://www.jurasciages.com/",
+        "adresse": "Rue de Morteau, 25390 Orchamps-Vennes",
+        "note": 4.4,
+        "avis": 17,
+        "type": "Scierie"
+      }
+    ]
+  },
+  "poligny": {
+    "artisans": [
+      {
+        "id": "17801399270637898143",
+        "nom": "FOUL METAL ET BOIS",
+        "slug": "foul-metal-et-bois",
+        "telephone": "07 87 63 51 45",
+        "site_web": null,
+        "adresse": "Rue Charles et Jules Arnaud, 39800 Poligny",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "8074141514021026803",
+        "nom": "Huguet Menuiserie",
+        "slug": "huguet-menuiserie",
+        "telephone": "06 45 61 28 26",
+        "site_web": null,
+        "adresse": "5 Rue Claude Nicolas Ledoux, 39800 Poligny",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14118382964032776686",
+        "nom": "MENUISERIE POLINOISE",
+        "slug": "menuiserie-polinoise",
+        "telephone": "03 84 37 13 13",
+        "site_web": "http://menuiseriepolinoise.fr/",
+        "adresse": "Rue Denis Papin, 39800 Poligny",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9846413308946451461",
+        "nom": "Charpente Couverture Henriet",
+        "slug": "charpente-couverture-henriet",
+        "telephone": "03 84 37 74 49",
+        "site_web": null,
+        "adresse": "Rue François Arago, 39800 Poligny",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "8140072899364290860",
+        "nom": "OuvertureS - Menuiserie Poux",
+        "slug": "ouvertures-menuiserie-poux",
+        "telephone": "03 84 37 27 96",
+        "site_web": null,
+        "adresse": "11 Av. de la Gare, 39800 Poligny",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16031906062669444244",
+        "nom": "Sassier Gilles",
+        "slug": "sassier-gilles",
+        "telephone": "03 84 37 08 85",
+        "site_web": "http://ebenisterie-sassier.fr/",
+        "adresse": "Rue Jean Bertin, 39800 Poligny",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "17297579417808631103",
+        "nom": "SIMON MENUISERIE",
+        "slug": "simon-menuiserie",
+        "telephone": "06 43 82 33 22",
+        "site_web": "https://www.simon-menuiserie.fr/",
+        "adresse": "10 Rue du Ctre, 39800 Molain",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13215381161273433351",
+        "nom": "Thomas Parnet - Menuiserie | Agencement d'intérieur",
+        "slug": "thomas-parnet-menuiserie-agencement-dinterieur",
+        "telephone": "06 74 00 68 16",
+        "site_web": "https://agencement39.wixsite.com/thomas-parnet",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "orgelet": {
+    "artisans": [
+      {
+        "id": "13734550170220758833",
+        "nom": "les Cabiottins",
+        "slug": "les-cabiottins",
+        "telephone": "06 64 41 56 87",
+        "site_web": "http://www.lescabiottins.com/",
+        "adresse": "36 bis chemin de l'Epinette, 39270 Orgelet",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15821292025773511917",
+        "nom": "Fenêtres Fermetures du Jura / Pose de menuiseries extérieures et toutes fermetures / Jura 39",
+        "slug": "fenetres-fermetures-du-jura-pose-de-menuiseries-exterieures-et-toutes-fermetures-jura-39",
+        "telephone": "03 84 25 40 82",
+        "site_web": "http://www.fenetresfermeturesdujura.com/?utm_source=gmb",
+        "adresse": "1 Rte des Lacs, 39270 Orgelet",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "perrigny": {
+    "artisans": [
+      {
+        "id": "12719769093732805130",
+        "nom": "Lomibois",
+        "slug": "lomibois",
+        "telephone": "03 84 24 10 02",
+        "site_web": "http://www.machines-a-bois.pro/",
+        "adresse": "875 Rue de la Lieme, 39570 Perrigny",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Magasin de matériel pour le travail du bois"
+      },
+      {
+        "id": "6049514417186248266",
+        "nom": "Vandelle Agencement Bois",
+        "slug": "vandelle-agencement-bois",
+        "telephone": "06 68 75 35 43",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "petit-noir": {
+    "artisans": [
+      {
+        "id": "4230964926619326500",
+        "nom": "MARTIN MENUISERIE PETIT NOIR",
+        "slug": "martin-menuiserie-petit-noir",
+        "telephone": "06 42 01 02 89",
+        "site_web": "https://www.eldo.com/pro/martin_menuiserie_petit_noir/",
+        "adresse": "8 Rue de la Pastorelle, 39120 Petit-Noir",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-amour": {
+    "artisans": [
+      {
+        "id": "5113035991778401632",
+        "nom": "Jouve Jean-Sébastien",
+        "slug": "jouve-jean-sebastien",
+        "telephone": "03 84 48 84 20",
+        "site_web": "https://menuiseriejouve.fr/",
+        "adresse": "3 Rue Lamartine, 39160 Saint-Amour",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-laurent-en-grandvaux": {
+    "artisans": [
+      {
+        "id": "17407454609091323521",
+        "nom": "JP Construction Bois",
+        "slug": "jp-construction-bois",
+        "telephone": "06 43 70 83 00",
+        "site_web": "https://jp-construction-bois.com/",
+        "adresse": "1 Rue Lacuzon, 39150 Saint-Laurent-en-Grandvaux",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5125707925899865078",
+        "nom": "Menuiserie des Gentianes",
+        "slug": "menuiserie-des-gentianes",
+        "telephone": "03 84 60 82 73",
+        "site_web": "http://languilaireemile.unblog.fr/",
+        "adresse": "1 Imp. des Gentianes, 39150 Saint-Laurent-en-Grandvaux",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5312613093771999681",
+        "nom": "Atelier Intemporel | Créateur d'espaces à vivre | Jura",
+        "slug": "atelier-intemporel-createur-despaces-a-vivre-jura",
+        "telephone": "06 29 37 11 27",
+        "site_web": "http://www.atelier-intemporel.fr/",
+        "adresse": "1 Chem. des Maisonnettes, 39150 Saint-Laurent-en-Grandvaux",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14602004330292945866",
+        "nom": "Chevriaut Emmanuel",
+        "slug": "chevriaut-emmanuel",
+        "telephone": "03 84 60 25 93",
+        "site_web": null,
+        "adresse": "3 Qur la Savine, 39150 Saint-Laurent-en-Grandvaux",
+        "note": 5,
+        "avis": 5,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "13884680610415211614",
+        "nom": "Delacroix Paul et Fils SARL",
+        "slug": "delacroix-paul-et-fils-sarl",
+        "telephone": "03 84 60 15 64",
+        "site_web": "http://www.delacroixpauletfils.fr/",
+        "adresse": "14 Rue de Paris, 39150 Saint-Laurent-en-Grandvaux",
+        "note": 3,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "salins-les-bains": {
+    "artisans": [
+      {
+        "id": "4378128085590820190",
+        "nom": "Romain.F Services",
+        "slug": "romainf-services",
+        "telephone": "06 31 48 63 51",
+        "site_web": "https://romainfservices.fr/",
+        "adresse": "3 Blègny, 39110 Salins-les-Bains",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13709147853692072578",
+        "nom": "ART BOIS",
+        "slug": "art-bois",
+        "telephone": "07 60 01 05 60",
+        "site_web": "https://www.art-bois-jura.com/",
+        "adresse": "14 Rte de Champagnole, 39110 Salins-les-Bains",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15003205519439703928",
+        "nom": "Chabod Pierre",
+        "slug": "chabod-pierre",
+        "telephone": "03 84 73 59 73",
+        "site_web": null,
+        "adresse": "Rue Louis Pasteur, 39110 Salins-les-Bains",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Fabricant"
+      },
+      {
+        "id": "12320701245960223410",
+        "nom": "Hediguer Laurent",
+        "slug": "hediguer-laurent",
+        "telephone": "03 84 73 07 91",
+        "site_web": null,
+        "adresse": "2 bis Av. Aristide Briand, 39110 Salins-les-Bains",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "371750994305778244",
+        "nom": "AFMS du Triangle d'Or",
+        "slug": "afms-du-triangle-dor",
+        "telephone": "03 84 73 06 53",
+        "site_web": null,
+        "adresse": "3 Av. Aristide Briand, 39110 Salins-les-Bains",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "17501607892008189984",
+        "nom": "Atelier A.LACKER - Ebéniste d'art - Meuble sur mesure",
+        "slug": "atelier-alacker-ebeniste-dart-meuble-sur-mesure",
+        "telephone": "06 61 07 35 35",
+        "site_web": "http://www.atelier-lacker.fr/",
+        "adresse": "5bis Martinet du haut, 39110 Salins-les-Bains",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "10671506789312340571",
+        "nom": "Gouget Sylvain",
+        "slug": "gouget-sylvain",
+        "telephone": "03 84 73 50 67",
+        "site_web": "http://www.sgouget.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Lieu Dit Pontamougeard, 39110 Lemuy",
+        "note": 3,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1874848481605134136",
+        "nom": "Maraux Etienne",
+        "slug": "maraux-etienne",
+        "telephone": "03 84 66 20 25",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-aubin": {
+    "artisans": [
+      {
+        "id": "7922283667711967247",
+        "nom": "Menuiserie Jacquot Etienne",
+        "slug": "menuiserie-jacquot-etienne",
+        "telephone": "06 43 33 44 74",
+        "site_web": null,
+        "adresse": "36 Rue d'Aumur, 39410 Saint-Aubin",
+        "note": 4,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-claude": {
+    "artisans": [
+      {
+        "id": "16838525990592807388",
+        "nom": "Au Bois Solaire",
+        "slug": "au-bois-solaire",
+        "telephone": "06 81 12 89 14",
+        "site_web": null,
+        "adresse": "Au Pré Barre, 39360 Vaux-lès-Saint-Claude",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11975177693215001212",
+        "nom": "Jean François PERNIN",
+        "slug": "jean-francois-pernin",
+        "telephone": "06 79 45 21 15",
+        "site_web": null,
+        "adresse": "34 Rte de Besançon, 39200 Saint-Claude",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15395905660904681019",
+        "nom": "LANÇON ET FILS SARL",
+        "slug": "lancon-et-fils-sarl",
+        "telephone": "09 70 35 91 22",
+        "site_web": null,
+        "adresse": "45 Rue du Miroir, 39200 Saint-Claude",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "coteaux-du-lizon": {
+    "artisans": [
+      {
+        "id": "2391403991596477410",
+        "nom": "Marquant Laurent",
+        "slug": "marquant-laurent",
+        "telephone": "03 84 42 25 03",
+        "site_web": null,
+        "adresse": "18 Rue Rouget de Lisle, 39170 Coteaux du Lizon",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "10147184030264302494",
+        "nom": "MIKAFEN",
+        "slug": "mikafen",
+        "telephone": "06 15 12 33 88",
+        "site_web": "https://www.mikafen-menuiserie.fr/",
+        "adresse": "8 Grande Rue, 39170 Coteaux du Lizon",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "sampans": {
+    "artisans": [
+      {
+        "id": "6989572182561727379",
+        "nom": "Menuiserie Darcq",
+        "slug": "menuiserie-darcq",
+        "telephone": "06 79 98 00 68",
+        "site_web": "https://www.menuiserie-darcq.fr/",
+        "adresse": "2 Rte de Dole, 39100 Sampans",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "beaufort-orbagna": {
+    "artisans": [
+      {
+        "id": "3845432609384755151",
+        "nom": "Menuiserie Cuenin",
+        "slug": "menuiserie-cuenin",
+        "telephone": "03 84 47 76 35",
+        "site_web": null,
+        "adresse": "1 Rte de Rieland, 39190 Val-Sonnette",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4505059215668440458",
+        "nom": "Menuiserie de À à Z",
+        "slug": "menuiserie-de-a-a-z",
+        "telephone": "06 10 49 18 79",
+        "site_web": null,
+        "adresse": "13 Rue d'Auvergne, 39190 Beaufort-Orbagna",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14465287068591914236",
+        "nom": "Beaufort-Orbagna",
+        "slug": "beaufort-orbagna",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "39190 Beaufort-Orbagna",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "8652244172753891007",
+        "nom": "Boudin Jean-Pierre",
+        "slug": "boudin-jean-pierre",
+        "telephone": "06 72 68 69 29",
+        "site_web": null,
+        "adresse": "10 Côte Chaude, 39270 Augisey",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11806239561608368341",
+        "nom": "Menuis'art",
+        "slug": "menuisart",
+        "telephone": "06 43 05 42 76",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5344575159090951603",
+        "nom": "TOURNERIE TABLETTERIE BLANC",
+        "slug": "tournerie-tabletterie-blanc",
+        "telephone": "03 84 25 02 72",
+        "site_web": null,
+        "adresse": "31 Rue du Château, 39190 Beaufort-Orbagna",
+        "note": 3,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "arbois": {
+    "artisans": [
+      {
+        "id": "4484813061874115998",
+        "nom": "Maison Lacker - Création d'objets en bois design",
+        "slug": "maison-lacker-creation-dobjets-en-bois-design",
+        "telephone": "07 68 04 46 52",
+        "site_web": "https://maison-lacker.fr/",
+        "adresse": "2 Rue Vermot, 39600 Mesnay",
+        "note": 5,
+        "avis": 0,
+        "type": "Artisanat"
+      },
+      {
+        "id": "207019846072484071",
+        "nom": "Roberget Philippe",
+        "slug": "roberget-philippe",
+        "telephone": "06 87 16 79 75",
+        "site_web": null,
+        "adresse": "2 bis Rue de l'Orme, 39600 Arbois",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12708748254682944055",
+        "nom": "2BMS",
+        "slug": "2bms",
+        "telephone": "06 38 30 98 95",
+        "site_web": "https://www.facebook.com/2BMSSARL",
+        "adresse": "1 BIS Rue Basse, 39600 Mesnay",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5758429494064272953",
+        "nom": "Charpentes Duchêne",
+        "slug": "charpentes-duchene",
+        "telephone": "03 84 66 06 23",
+        "site_web": "http://www.charpentes-duchene.com/",
+        "adresse": "24 rue de l'Industrie, ZAC de l'Éthole, 39600 Arbois",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "8627121432329842776",
+        "nom": "JUET Rémi menuiserie",
+        "slug": "juet-remi-menuiserie",
+        "telephone": "06 64 00 20 68",
+        "site_web": null,
+        "adresse": "Rue du Ruisseau, 39600 Mesnay",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8769423764027163353",
+        "nom": "Delta Bois",
+        "slug": "delta-bois",
+        "telephone": "04 76 40 37 72",
+        "site_web": "http://www.deltabois.com/",
+        "adresse": "51 Grande Rue, 39600 Villette-lès-Arbois",
+        "note": 5,
+        "avis": 3,
+        "type": "Scierie"
+      },
+      {
+        "id": "5342078856734581420",
+        "nom": "Jura Menuiserie SAS",
+        "slug": "jura-menuiserie-sas",
+        "telephone": "03 84 66 08 47",
+        "site_web": null,
+        "adresse": "19 Rte de Villeneuve, 39600 Arbois",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7595010554257867472",
+        "nom": "ATELIER ARBOISIEN",
+        "slug": "atelier-arboisien",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "37 Av. Pasteur, 39600 Arbois",
+        "note": 5,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      }
+    ]
+  },
+  "arinthod": {
+    "artisans": [
+      {
+        "id": "10855241659632076004",
+        "nom": "Atelier Les Sens du Bois",
+        "slug": "atelier-les-sens-du-bois",
+        "telephone": "07 68 36 05 62",
+        "site_web": "http://www.lessensdubois.fr/",
+        "adresse": "21 Rue Font du Frene, 39240 Arinthod",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2637793631997433904",
+        "nom": "TLB Habitat",
+        "slug": "tlb-habitat",
+        "telephone": "04 74 73 45 65",
+        "site_web": null,
+        "adresse": "zone artisanale Forêt, 39240 Arinthod",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5941422908958337873",
+        "nom": "bête à bois",
+        "slug": "bete-a-bois",
+        "telephone": "06 73 81 18 47",
+        "site_web": "http://beteabois.com/",
+        "adresse": "39240 Arinthod",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "arlay": {
+    "artisans": [
+      {
+        "id": "17352307505415772550",
+        "nom": "Etablissements Melesi",
+        "slug": "etablissements-melesi",
+        "telephone": "03 84 48 10 36",
+        "site_web": null,
+        "adresse": "Chem. de Champagne, 39140 Arlay",
+        "note": 5,
+        "avis": 0,
+        "type": "Scierie"
+      }
+    ]
+  },
+  "bois-d-amont": {
+    "artisans": [
+      {
+        "id": "10078616948548079127",
+        "nom": "Guillot Gérald",
+        "slug": "guillot-gerald",
+        "telephone": "06 83 75 25 38",
+        "site_web": "https://www.guillot-multi-services.fr/contact",
+        "adresse": "303 Rue des Primevères, 39220 Bois-d'Amont",
+        "note": 5,
+        "avis": 0,
+        "type": "Artisanat"
+      },
+      {
+        "id": "1285007549466487789",
+        "nom": "Lacroix Xavier",
+        "slug": "lacroix-xavier",
+        "telephone": "03 84 60 96 83",
+        "site_web": null,
+        "adresse": "47 Rue des Chardonnerets, 39220 Bois-d'Amont",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5383668089784689832",
+        "nom": "Jean-Michel Vanini - Artisan décorateur",
+        "slug": "jean-michel-vanini-artisan-decorateur",
+        "telephone": "06 32 22 20 67",
+        "site_web": null,
+        "adresse": "597 Rue de Franche-Comté, 39220 Bois-d'Amont",
+        "note": 5,
+        "avis": 0,
+        "type": "Artiste"
+      },
+      {
+        "id": "16584667142863029249",
+        "nom": "Menuiserie du coin d'aval",
+        "slug": "menuiserie-du-coin-daval",
+        "telephone": "06 72 76 72 30",
+        "site_web": null,
+        "adresse": "19 Le Coin d'Aval, 39150 Fort-du-Plasne",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "674498409819595910",
+        "nom": "MENUISERIE BÜHLMANN",
+        "slug": "menuiserie-buhlmann",
+        "telephone": "+41 78 689 20 28",
+        "site_web": "http://www.menuiserie-buhlmann.com/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bletterans": {
+    "artisans": [
+      {
+        "id": "3383520755922964926",
+        "nom": "AB Menuiserie Agencement",
+        "slug": "ab-menuiserie-agencement",
+        "telephone": "03 84 43 45 30",
+        "site_web": null,
+        "adresse": "5 Rue des Acacias, 39140 Bletterans",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "champagnole": {
+    "artisans": [
+      {
+        "id": "3199670020376718077",
+        "nom": "Bois 39",
+        "slug": "bois-39",
+        "telephone": "03 84 52 49 27",
+        "site_web": "https://bois39.fr/fr/contact/",
+        "adresse": "39 - 57 Rue Léon et Georges Bazinet, 39300 Champagnole",
+        "note": 0,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "11881459348674076928",
+        "nom": "Rizzi Fermetures",
+        "slug": "rizzi-fermetures",
+        "telephone": "06 85 09 18 02",
+        "site_web": null,
+        "adresse": "67 Grande Rue, 39300 Le Pasquier",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2397676157900453122",
+        "nom": "Jurawood",
+        "slug": "jurawood",
+        "telephone": "03 84 37 64 50",
+        "site_web": "https://www.jurawood.fr/contact/",
+        "adresse": "57 Rue Léon et Georges Bazinet, 39300 Champagnole",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "1687062004408489371",
+        "nom": "Bavoysi",
+        "slug": "bavoysi",
+        "telephone": "03 84 52 07 47",
+        "site_web": "https://bavoysi.com/",
+        "adresse": "100 Rue Alfred et Maurice Bouvet, 39300 Champagnole",
+        "note": 5,
+        "avis": 4,
+        "type": "Fabricant"
+      },
+      {
+        "id": "13651181382122888152",
+        "nom": "Jouham Charpente Menuiserie",
+        "slug": "jouham-charpente-menuiserie",
+        "telephone": "03 84 51 14 87",
+        "site_web": "http://jouham.fr/",
+        "adresse": "2 Rue des Grandes Chantres, 39300 Crotenay",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "12907532707641664736",
+        "nom": "MFK AGENCEMENT Cuisine KOCHER, Salle de bain clés en main, Dressing",
+        "slug": "mfk-agencement-cuisine-kocher-salle-de-bain-cles-en-main-dressing",
+        "telephone": "03 84 51 83 30",
+        "site_web": "https://www.mfkagencement.fr/",
+        "adresse": "21 Rue du Général Leclerc, 39300 Champagnole",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "6758594719797216527",
+        "nom": "Sanijura",
+        "slug": "sanijura",
+        "telephone": "03 84 52 71 11",
+        "site_web": "https://www.sanijura.fr/",
+        "adresse": "33 Rue Stephen Pichon, 39300 Champagnole",
+        "note": 4.2,
+        "avis": 119,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "6602258809958566262",
+        "nom": "Morel Pascal et Fils SAS",
+        "slug": "morel-pascal-et-fils-sas",
+        "telephone": "03 84 51 83 61",
+        "site_web": "https://menuiseriemorel.fr/",
+        "adresse": "11 Rue du Stade, 39300 Sirod",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "7989262674504353689",
+        "nom": "NB RENOV",
+        "slug": "nb-renov",
+        "telephone": "06 72 11 76 76",
+        "site_web": null,
+        "adresse": "18 Rue Ambroise Croizat, 39300 Champagnole",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11924435694468071631",
+        "nom": "Travaillot SAS",
+        "slug": "travaillot-sas",
+        "telephone": "03 84 52 18 66",
+        "site_web": "https://travaillot.wixsite.com/charpente-menuisier",
+        "adresse": "261 Rue du Stade, 39300 Ney",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  }
+}

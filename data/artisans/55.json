@@ -1,0 +1,1657 @@
+{
+  "ancerville": {
+    "artisans": [
+      {
+        "id": "10366667118996317251",
+        "nom": "Sarl Audinot Jim",
+        "slug": "sarl-audinot-jim",
+        "telephone": "03 25 55 59 48",
+        "site_web": null,
+        "adresse": "23 Rue de la Forêt, 55170 Ancerville",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "691831477116492494",
+        "nom": "Sarl gamm ALU",
+        "slug": "sarl-gamm-alu",
+        "telephone": "03 29 75 39 86",
+        "site_web": null,
+        "adresse": "Rue de la Forêt, 55170 Ancerville",
+        "note": 4.5,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10340743194500682453",
+        "nom": "Menuiserie Hocquet",
+        "slug": "menuiserie-hocquet",
+        "telephone": "03 25 55 52 41",
+        "site_web": "https://www.hocquet-menuiserie.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "5 Lot. Lucien Lesprit, 52100 Saint-Dizier",
+        "note": 4.6,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4031068288885624155",
+        "nom": "Finalu",
+        "slug": "finalu",
+        "telephone": "03 29 75 22 25",
+        "site_web": "http://www.clos2000.fr/",
+        "adresse": "19 Rue de la Forêt, 55170 Ancerville",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les clôtures"
+      },
+      {
+        "id": "17777038218314819869",
+        "nom": "Le Hangar à Bois",
+        "slug": "le-hangar-a-bois",
+        "telephone": "06 84 46 82 35",
+        "site_web": null,
+        "adresse": "3 Rue du Paradis, 55170 Cousances-les-Forges",
+        "note": 3.8,
+        "avis": 4,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "3512891989964384645",
+        "nom": "Collignon Christian",
+        "slug": "collignon-christian",
+        "telephone": "06 31 49 74 40",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6872591803888854818",
+        "nom": "APB Menuiserie",
+        "slug": "apb-menuiserie",
+        "telephone": "03 29 78 55 73",
+        "site_web": "https://www.apbmenuiserie.com/",
+        "adresse": "Chem. Fargi Pré, 55800 Vassincourt",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "242067379584138977",
+        "nom": "Menuiserie Barberet | Atelier de menuiserie Roches sur Marne",
+        "slug": "menuiserie-barberet-atelier-de-menuiserie-roches-sur-marne",
+        "telephone": "06 75 81 19 95",
+        "site_web": null,
+        "adresse": "67 Rte nationale, 52410 Roches-sur-Marne",
+        "note": 3,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15154320007763622657",
+        "nom": "Castellar EURL",
+        "slug": "castellar-eurl",
+        "telephone": "03 29 76 18 75",
+        "site_web": "https://www.castellar-menuiserie-meuse.fr/",
+        "adresse": "8 ter Av. de la Libération, 55000 Fains-Véel",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "pagny-sur-meuse": {
+    "artisans": [
+      {
+        "id": "10630909492010480233",
+        "nom": "Meuse Bois",
+        "slug": "meuse-bois",
+        "telephone": "03 29 89 75 75",
+        "site_web": "http://www.meusebois.fr/",
+        "adresse": "26 Rte de Bar, 55130 Abainville",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "4523495091682047973",
+        "nom": "Menuiserie Girardin (Artisan Artipôle)",
+        "slug": "menuiserie-girardin-artisan-artipole",
+        "telephone": "03 83 81 70 40",
+        "site_web": "http://www.menuiserie-girardin.com/",
+        "adresse": "22 b Rue Pasteur, 54530 Pagny-sur-Moselle",
+        "note": 4,
+        "avis": 25,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10224698053020198398",
+        "nom": "Menuiserie Lafrogne Meuse",
+        "slug": "menuiserie-lafrogne-meuse",
+        "telephone": "06 44 22 89 03",
+        "site_web": null,
+        "adresse": "17 Av. de Domrémy, 55140 Vaucouleurs",
+        "note": 5,
+        "avis": 3,
+        "type": "Charpentier"
+      },
+      {
+        "id": "14517318991712439340",
+        "nom": "Menuiserie D'Agencement Magni",
+        "slug": "menuiserie-dagencement-magni",
+        "telephone": "06 46 82 63 07",
+        "site_web": null,
+        "adresse": "12 Espa. Doumenc, 55840 Thierville-sur-Meuse",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de meubles de cuisine"
+      },
+      {
+        "id": "369709579372828236",
+        "nom": "Alpha Pose Menuiserie",
+        "slug": "alpha-pose-menuiserie",
+        "telephone": "03 29 90 66 16",
+        "site_web": null,
+        "adresse": "7 Rue de Trondes, 55190 Pagny-sur-Meuse",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "2088760048786075703",
+        "nom": "Houssard Sarl",
+        "slug": "houssard-sarl",
+        "telephone": "03 29 89 87 65",
+        "site_web": "https://www.menuiserie-houssard.com/",
+        "adresse": "3 Rue de la Côté, 55190 Laneuville-au-Rupt",
+        "note": 4.8,
+        "avis": 31,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "belleville-sur-meuse": {
+    "artisans": [
+      {
+        "id": "7398541724486514309",
+        "nom": "Menuiserie L'Atelier 547",
+        "slug": "menuiserie-latelier-547",
+        "telephone": "06 89 52 45 89",
+        "site_web": "https://atelier547.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3888421632663153279",
+        "nom": "Alliances Fermetures 55",
+        "slug": "alliances-fermetures-55",
+        "telephone": "03 29 85 17 32",
+        "site_web": "https://alliancesfermetures55.fr/",
+        "adresse": "ZA DU WAMEAU, 1 Rue Joseph Cugnot, 55430 Belleville-sur-Meuse",
+        "note": 4.9,
+        "avis": 30,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2765840696468601980",
+        "nom": "Mathieu David",
+        "slug": "mathieu-david",
+        "telephone": "03 29 88 89 68",
+        "site_web": null,
+        "adresse": "18 Rue du Bataillon 12, 55430 Belleville-sur-Meuse",
+        "note": 4.5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15348611052676596891",
+        "nom": "Meyniel Agencement",
+        "slug": "meyniel-agencement",
+        "telephone": "03 29 84 61 83",
+        "site_web": "http://www.meyniel-agencement.com/",
+        "adresse": "8 Rue Jean-Claude Duret, 55430 Belleville-sur-Meuse",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13878074127052414190",
+        "nom": "FEL MENUISERIE",
+        "slug": "fel-menuiserie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "12 Rue du Bataillon 12, 55430 Belleville-sur-Meuse",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "9899463915456090645",
+        "nom": "Addenet Lamorlette",
+        "slug": "addenet-lamorlette",
+        "telephone": "03 29 84 76 76",
+        "site_web": "https://www.veranda-addenet-lamorlette.fr/",
+        "adresse": "Rue Alfred Sauvy, 55430 Belleville-sur-Meuse",
+        "note": 4.8,
+        "avis": 84,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17486517194309506760",
+        "nom": "La Boutique du Menuisier MGP",
+        "slug": "la-boutique-du-menuisier-mgp",
+        "telephone": "04 74 66 32 59",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/mgp",
+        "adresse": "15 Rte nationale 6, 69220 Belleville",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16409530794888095329",
+        "nom": "Patrick Robert Menuiserie",
+        "slug": "patrick-robert-menuiserie",
+        "telephone": "03 29 80 74 38",
+        "site_web": "http://patrickrobertmenuiserie.site-solocal.com/",
+        "adresse": "6 Rue André Royer, 55400 Étain",
+        "note": 4.3,
+        "avis": 12,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5233913326964065015",
+        "nom": "Kb Menuiserie",
+        "slug": "kb-menuiserie",
+        "telephone": "07 86 11 35 80",
+        "site_web": "https://www.kb-menuiserie.fr/",
+        "adresse": "15 Chem. du la Vanne, 55210 Vigneulles-lès-Hattonchâtel",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11911869635996092986",
+        "nom": "Lor'fermetures",
+        "slug": "lorfermetures",
+        "telephone": "06 70 01 84 20",
+        "site_web": null,
+        "adresse": "30 Rue des Closeries, 55430 Belleville-sur-Meuse",
+        "note": 3.4,
+        "avis": 5,
+        "type": null
+      }
+    ]
+  },
+  "dieue-sur-meuse": {
+    "artisans": [
+      {
+        "id": "17167680210140757062",
+        "nom": "Grandpierre Patrick",
+        "slug": "grandpierre-patrick",
+        "telephone": "03 29 87 60 26",
+        "site_web": null,
+        "adresse": "64 Rue du Rattentout, 55320 Dieue-sur-Meuse",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "void-vacon": {
+    "artisans": [
+      {
+        "id": "12961159475234525072",
+        "nom": "A.B. Profils",
+        "slug": "ab-profils",
+        "telephone": "09 81 42 85 38",
+        "site_web": "https://www.facebook.com/ABProfilsmenuiserie",
+        "adresse": "Rte de Toul, 55190 Void-Vacon",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fabricant"
+      },
+      {
+        "id": "9410313547106302302",
+        "nom": "Conseil Rénovation Meuse",
+        "slug": "conseil-renovation-meuse",
+        "telephone": "03 29 90 32 90",
+        "site_web": null,
+        "adresse": "3 chemin sous la ville, 55190 Void-Vacon",
+        "note": 3.2,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6189149447492490778",
+        "nom": "Menuiserie Laurent",
+        "slug": "menuiserie-laurent",
+        "telephone": "03 29 89 10 14",
+        "site_web": "https://menuiserielaurent.odoo.com/",
+        "adresse": "15 Rue du Gén Leclerc, 55190 Sorcy-Saint-Martin",
+        "note": 3.6,
+        "avis": 8,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7375112065582758496",
+        "nom": "Entreprise voisin morgan",
+        "slug": "entreprise-voisin-morgan",
+        "telephone": "06 64 46 59 23",
+        "site_web": null,
+        "adresse": "Rue la Pierrerue, 55190 Void-Vacon",
+        "note": 5,
+        "avis": 57,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "14055002552971601472",
+        "nom": "Lorest Habitat",
+        "slug": "lorest-habitat",
+        "telephone": "06 43 56 24 66",
+        "site_web": null,
+        "adresse": "14 Rte de Commercy, 55190 Void-Vacon",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "14568373667026962412",
+        "nom": "l'Essence du Bois",
+        "slug": "lessence-du-bois",
+        "telephone": "06 72 18 41 90",
+        "site_web": "http://lessencedubois-meuse.fr/",
+        "adresse": "42 Rue la Pierrerue, 55190 Void-Vacon",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les revêtements de sol"
+      },
+      {
+        "id": "4523580241800078476",
+        "nom": "Menuiserie PIERRE Benoit",
+        "slug": "menuiserie-pierre-benoit",
+        "telephone": "06 48 78 34 71",
+        "site_web": null,
+        "adresse": "2 Rte de Vignot, 55200 Commercy",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "thierville-sur-meuse": {
+    "artisans": [
+      {
+        "id": "9678500522854306139",
+        "nom": "TRYBA Verdun",
+        "slug": "tryba-verdun",
+        "telephone": "03 53 64 11 38",
+        "site_web": "https://www.tryba.com/espace-conseil/55/tryba-verdun/?utm_campaign=Tryba_verdun&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "14 Pl. Chevert, 55100 Verdun",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13352990355007749696",
+        "nom": "Petitjean SARL",
+        "slug": "petitjean-sarl",
+        "telephone": "03 29 86 01 70",
+        "site_web": "http://agencement-petitjean.com/",
+        "adresse": "20 Av. de l'Étang Bleu, 55840 Thierville-sur-Meuse",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Agenceur"
+      },
+      {
+        "id": "12789205751962840760",
+        "nom": "Lepezel Fermetures",
+        "slug": "lepezel-fermetures",
+        "telephone": "06 37 83 81 98",
+        "site_web": "https://lepezelfermetures.fr/",
+        "adresse": "22 Av. du Général de Gaulle, 55100 Verdun",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7082638434173190020",
+        "nom": "L’ENVELOPPE DU BATIMENT - EDBAT",
+        "slug": "lenveloppe-du-batiment-edbat",
+        "telephone": "03 29 84 35 93",
+        "site_web": "https://www.edbat.fr/",
+        "adresse": "2 Rue du Champ de Mars, 55840 Thierville-sur-Meuse",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "16976087608319687827",
+        "nom": "Instal SARL",
+        "slug": "instal-sarl",
+        "telephone": "03 29 87 69 74",
+        "site_web": "http://www.instal-55.com/",
+        "adresse": "Espace Driant, Rue Saint-Michel, 55100 Verdun",
+        "note": 5,
+        "avis": 7,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "7877524200470812043",
+        "nom": "CPE Energies",
+        "slug": "cpe-energies",
+        "telephone": "03 29 86 19 23",
+        "site_web": null,
+        "adresse": "25 Av. Goubet Van Heeghe, 55840 Thierville-sur-Meuse",
+        "note": 3,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "940269695098594370",
+        "nom": "Ateliers Courtois",
+        "slug": "ateliers-courtois",
+        "telephone": "03 29 86 77 00",
+        "site_web": "http://www.atelierscourtois.fr/",
+        "adresse": "8 Av. des Poilus, 55100 Verdun",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18436379867382552888",
+        "nom": "Levigne Jean-Philippe",
+        "slug": "levigne-jean-philippe",
+        "telephone": "03 29 88 10 19",
+        "site_web": null,
+        "adresse": "1 Rue Dame Zabee, 55100 Verdun",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "bar-le-duc": {
+    "artisans": [
+      {
+        "id": "10282415146386799149",
+        "nom": "Menuiserie Lefevre",
+        "slug": "menuiserie-lefevre",
+        "telephone": "03 29 79 11 89",
+        "site_web": "https://www.menuiserie-lefevre.fr/",
+        "adresse": "4 Rue Maréchal Lannes, 55000 Savonnières-devant-Bar",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5737623613060347896",
+        "nom": "Tecniver Miroiterie Morel",
+        "slug": "tecniver-miroiterie-morel",
+        "telephone": "03 29 79 23 54",
+        "site_web": "http://www.menuiserie-tecniver.fr/",
+        "adresse": "3 Zone de la, Imp. de la Praye, 55000 Longeville-en-Barrois",
+        "note": 4.6,
+        "avis": 38,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6963835714874975058",
+        "nom": "Jeanjan Pere Et Fils",
+        "slug": "jeanjan-pere-et-fils",
+        "telephone": "03 74 09 72 54",
+        "site_web": "http://www.jeanjan-pere-fils.com/",
+        "adresse": "5 Rue Louise Weiss, 55000 Bar-le-Duc",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1883427646163501483",
+        "nom": "Steiner Menuiserie",
+        "slug": "steiner-menuiserie",
+        "telephone": "03 29 45 04 03",
+        "site_web": "http://www.facebook.com/SteinerMenuiserie/?utm_source=gmb",
+        "adresse": "2 Imp. Marcel Pagnol, 55000 Savonnières-devant-Bar",
+        "note": 4.7,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1637881096600778856",
+        "nom": "Fenêtres du Barrois",
+        "slug": "fenetres-du-barrois",
+        "telephone": "03 29 46 13 28",
+        "site_web": "https://www.fenetresdubarrois.com/",
+        "adresse": "10 Av. de la Libération, 55000 Fains-Véel",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4716753014035667111",
+        "nom": "Concept Home et Veranda Bar Le Duc",
+        "slug": "concept-home-et-veranda-bar-le-duc",
+        "telephone": "06 48 96 90 43",
+        "site_web": "http://concepthomeverandas.fr/?utm_source=gmb",
+        "adresse": "8 Rue de Popey, 55000 Bar-le-Duc",
+        "note": 5,
+        "avis": 94,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      },
+      {
+        "id": "4072735844862448686",
+        "nom": "Huis Clos",
+        "slug": "huis-clos",
+        "telephone": "03 29 79 29 30",
+        "site_web": "http://www.huisclos.fr/",
+        "adresse": "17 Rue Jean Jacques Rousseau, 55000 Bar-le-Duc",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3091694049782813742",
+        "nom": "Le Concept - Cuisine - Dressing - Aménagement",
+        "slug": "le-concept-cuisine-dressing-amenagement",
+        "telephone": "07 87 08 82 78",
+        "site_web": "https://www.leconcept-cuisine.fr/",
+        "adresse": "7 bis Rue Maréchal Lannes, 55000 Savonnières-devant-Bar",
+        "note": 5,
+        "avis": 0,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "8095638620117604986",
+        "nom": "Techniverre",
+        "slug": "techniverre",
+        "telephone": "03 29 79 23 54",
+        "site_web": null,
+        "adresse": "1 parc Bradfer, 55000 Bar-le-Duc",
+        "note": 2,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5471174390592808969",
+        "nom": "Boa Agencement",
+        "slug": "boa-agencement",
+        "telephone": "03 29 78 80 88",
+        "site_web": null,
+        "adresse": "1 Rue Maréchal Lannes, 55000 Savonnières-devant-Bar",
+        "note": 5,
+        "avis": 0,
+        "type": "Agenceur"
+      }
+    ]
+  },
+  "bouligny": {
+    "artisans": [
+      {
+        "id": "8567543406175371781",
+        "nom": "Menuiserie - Ebénisterie Christophe POUSSIN",
+        "slug": "menuiserie-ebenisterie-christophe-poussin",
+        "telephone": "06 32 67 92 95",
+        "site_web": null,
+        "adresse": "9 Grand Rue, 54470 Bernécourt",
+        "note": 4.5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1320177202331754852",
+        "nom": "Bati Pro Menuiserie Meder Pascal",
+        "slug": "bati-pro-menuiserie-meder-pascal",
+        "telephone": "03 82 24 44 87",
+        "site_web": "https://www.facebook.com/Bati-Pro-Menuiserie-226439574207891",
+        "adresse": "11 Grand Rue, 54260 Charency-Vezin",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8472299710073911178",
+        "nom": "Ebénisterie HENRY Benoit",
+        "slug": "ebenisterie-henry-benoit",
+        "telephone": "06 31 22 25 75",
+        "site_web": null,
+        "adresse": "3 Rue du Craquet, 55300 Sampigny",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10310613401417106119",
+        "nom": "LM Fenêtre 55",
+        "slug": "lm-fenetre-55",
+        "telephone": "06 88 43 43 07",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "18156551463433465434",
+        "nom": "Piennes Menuiseries",
+        "slug": "piennes-menuiseries",
+        "telephone": "03 82 33 79 24",
+        "site_web": "http://www.piennesmenuiseries.com/",
+        "adresse": "16 Rue Eugène Varlin, 54490 Piennes",
+        "note": 4.5,
+        "avis": 21,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "18345435548010303252",
+        "nom": "Dgs Menuiserie",
+        "slug": "dgs-menuiserie",
+        "telephone": "06 34 30 31 14",
+        "site_web": "https://www.lorrainemenuiseries.com/",
+        "adresse": "7 Rue du Dr Roux, 54780 Giraumont",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2465161636500240405",
+        "nom": "SAS - Francis Baudier menuiserie",
+        "slug": "sas-francis-baudier-menuiserie",
+        "telephone": "03 29 80 44 09",
+        "site_web": "http://www.fbm-menuiserie.fr/",
+        "adresse": "1 bis Rte d'Inor, 55700 Autréville-Saint-Lambert",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4933074646470739020",
+        "nom": "Leo Huynen Sarl",
+        "slug": "leo-huynen-sarl",
+        "telephone": "03 29 87 20 22",
+        "site_web": "http://www.leo-huynen.fr/",
+        "adresse": "30 bis Av. Prud Homme Havette, 55400 Étain",
+        "note": 4,
+        "avis": 29,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "revigny-sur-ornain": {
+    "artisans": [
+      {
+        "id": "5133275095244380195",
+        "nom": "MKM HABITAT",
+        "slug": "mkm-habitat",
+        "telephone": "03 55 12 01 63",
+        "site_web": "http://mkmhabitat.fr/",
+        "adresse": "17 Rue de la Tresse, 55800 Revigny-sur-Ornain",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18436806818593961364",
+        "nom": "Gaspar Menuiserie",
+        "slug": "gaspar-menuiserie",
+        "telephone": "03 29 75 18 57",
+        "site_web": "https://gaspar-menuiserie.fr/",
+        "adresse": "Croix Champé, 55800 Contrisson",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3979200505866963564",
+        "nom": "D&G Menuiserie",
+        "slug": "dg-menuiserie",
+        "telephone": "03 29 75 17 83",
+        "site_web": "https://www.menuisierconseil.com/artisans/dg-menuiserie/",
+        "adresse": "3 Grande Rue, 55800 Andernay",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14857961040057330146",
+        "nom": "Arcelor Mittal Revigny",
+        "slug": "arcelor-mittal-revigny",
+        "telephone": "03 29 79 79 79",
+        "site_web": "https://france.arcelormittal.com/",
+        "adresse": "avenue 55800 sur, 5005F Av. du Xvème Corps, 55800 Revigny-sur-Ornain",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Manufacture de métal"
+      },
+      {
+        "id": "12742956528192214245",
+        "nom": "Varlet Philippe",
+        "slug": "varlet-philippe",
+        "telephone": "06 74 70 90 20",
+        "site_web": "http://www.ferronnerie-varlet.fr/",
+        "adresse": "3 bis VC les Usages de Launois, 55800 Revigny-sur-Ornain",
+        "note": 5,
+        "avis": 0,
+        "type": "Siège social"
+      },
+      {
+        "id": "10792251952145567098",
+        "nom": "Sarl Nouvelle Menuiserie Lion",
+        "slug": "sarl-nouvelle-menuiserie-lion",
+        "telephone": "03 29 75 10 65",
+        "site_web": null,
+        "adresse": "34 Rue de la Tresse, 55800 Revigny-sur-Ornain",
+        "note": 5,
+        "avis": 1,
+        "type": "Entreprise de pompes funèbres"
+      }
+    ]
+  },
+  "saint-mihiel": {
+    "artisans": [
+      {
+        "id": "16269796747318609868",
+        "nom": "Viralor",
+        "slug": "viralor",
+        "telephone": "07 83 14 68 84",
+        "site_web": "https://www.viralor.net/",
+        "adresse": "3 Au Champ Thumaux, 55300 Chauvoncourt",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      },
+      {
+        "id": "9855210953834170816",
+        "nom": "Guery Michel",
+        "slug": "guery-michel",
+        "telephone": "06 14 95 59 83",
+        "site_web": "http://pose-et-travaux-guery.net/",
+        "adresse": "14 Rue du Général Pershing, 55300 Saint-Mihiel",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "14551974172288928564",
+        "nom": "Pierre Et Fils Sarl",
+        "slug": "pierre-et-fils-sarl",
+        "telephone": "03 29 78 22 05",
+        "site_web": "http://www.menuiserie-pierre-et-fils.fr/",
+        "adresse": "8 Rue de Nancois, 55500 Velaines",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17924254959403760707",
+        "nom": "MD Fenêtres",
+        "slug": "md-fenetres",
+        "telephone": "06 86 49 17 53",
+        "site_web": "https://www.md-fenetres.com/",
+        "adresse": "8 Rue de l'Église, 55300 Les Paroches",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3848603430648599750",
+        "nom": "Haxel – Granulés de bois, Fioul, Béton, Bricolage & Matériaux – Saint-Mihiel (55)",
+        "slug": "haxel-granules-de-bois-fioul-beton-bricolage-materiaux-saint-mihiel-55",
+        "telephone": "03 29 89 05 70",
+        "site_web": "https://haxelsa.com/",
+        "adresse": "10 Rue René Frybourg, 55300 Saint-Mihiel",
+        "note": 4,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "13078729506278265058",
+        "nom": "BATIMEUSE",
+        "slug": "batimeuse",
+        "telephone": "07 56 89 91 93",
+        "site_web": "http://www.batimeuse.fr/",
+        "adresse": "12 Rue du Colonel de Chéron, 55300 Chauvoncourt",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "15413546312094979180",
+        "nom": "MENUISERIE MACONNERIE CKC",
+        "slug": "menuiserie-maconnerie-ckc",
+        "telephone": "06 71 92 94 77",
+        "site_web": null,
+        "adresse": "10 Bis Rue Principale, 55300 Xivray-et-Marvoisin",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10756645321099251918",
+        "nom": "f",
+        "slug": "f",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "16 Rue Jeanne d'Arc, 55300 Sampigny",
+        "note": 5,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16652229194223344103",
+        "nom": "Meubles Gente SAS",
+        "slug": "meubles-gente-sas",
+        "telephone": "03 29 90 22 22",
+        "site_web": "http://www.meubles-gente.fr/",
+        "adresse": "Rte de Bar le Duc, 55300 Chauvoncourt",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "8307739105502319178",
+        "nom": "M.G.P Rimlinger",
+        "slug": "mgp-rimlinger",
+        "telephone": "06 08 05 93 07",
+        "site_web": "http://mgp-rimlinger.fr/",
+        "adresse": "8 Rue du Moulin, 55260 Villotte-sur-Aire",
+        "note": 3,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "vignot": {
+    "artisans": [
+      {
+        "id": "14201037603599910174",
+        "nom": "Fortel Jean-Paul Hubert",
+        "slug": "fortel-jean-paul-hubert",
+        "telephone": "03 29 92 06 60",
+        "site_web": null,
+        "adresse": "7 Rue Marcel Dassault, 55200 Vignot",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "stenay": {
+    "artisans": [
+      {
+        "id": "3814454176436240942",
+        "nom": "Veret Mickael",
+        "slug": "veret-mickael",
+        "telephone": "03 29 85 77 08",
+        "site_web": null,
+        "adresse": "4 Rue de l'École, 55700 Wiseppe",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "679291637512391659",
+        "nom": "Menuiserie De Almeida",
+        "slug": "menuiserie-de-almeida",
+        "telephone": "03 29 88 90 65",
+        "site_web": null,
+        "adresse": "14 Rue du Moulin, 55600 Louppy-sur-Loison",
+        "note": 5,
+        "avis": 4,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "4268173247225463302",
+        "nom": "L.c. Renov",
+        "slug": "lc-renov",
+        "telephone": "06 59 85 52 56",
+        "site_web": "https://www.lc-renov55.com/",
+        "adresse": "3 Rue de la Fromonne, 55110 Milly-sur-Bradon",
+        "note": 5,
+        "avis": 1,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "16397237831039193847",
+        "nom": "Menuiserie Christophe Frenois",
+        "slug": "menuiserie-christophe-frenois",
+        "telephone": null,
+        "site_web": "https://www.la-maison-du-bois.com/",
+        "adresse": "12-17 Rue du Château, 08210 Mouzon",
+        "note": 3.6,
+        "avis": 8,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13783486111934056964",
+        "nom": "Scierie Watrin",
+        "slug": "scierie-watrin",
+        "telephone": "03 29 80 34 15",
+        "site_web": null,
+        "adresse": "Rue Principale, 55700 Beauclair",
+        "note": 5,
+        "avis": 5,
+        "type": "Scierie"
+      },
+      {
+        "id": "10303761304882591313",
+        "nom": "EURL Menuiserie Thiry",
+        "slug": "eurl-menuiserie-thiry",
+        "telephone": "06 68 63 49 35",
+        "site_web": null,
+        "adresse": "5 Rte de Douzy, 08450 Remilly-Aillicourt",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "18191523213508613455",
+        "nom": "LM. Menuiserie sarl",
+        "slug": "lm-menuiserie-sarl",
+        "telephone": "06 88 43 43 07",
+        "site_web": null,
+        "adresse": "1 Rue des Huttes, 55600 Jametz",
+        "note": 5,
+        "avis": 0,
+        "type": "Résidence"
+      },
+      {
+        "id": "4901177473787632171",
+        "nom": "Ardennes menuiseries concept : fenêtres, portes, volets, portails, clôtures, garde-corps",
+        "slug": "ardennes-menuiseries-concept-fenetres-portes-volets-portails-clotures-garde-corps",
+        "telephone": "09 84 42 99 27",
+        "site_web": "http://www.ardennes-menuiseries-concept.fr/",
+        "adresse": "1 Av. Philippoteaux, 08200 Sedan",
+        "note": 4.9,
+        "avis": 67,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10583633526512881669",
+        "nom": "John ZWISLER Menuisier Créateur",
+        "slug": "john-zwisler-menuisier-createur",
+        "telephone": "07 81 92 68 35",
+        "site_web": "https://linktr.ee/johnzwislermenuisiercreateur",
+        "adresse": "14 Rue du Général Dubois, 08200 Sedan",
+        "note": 4.9,
+        "avis": 35,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1194389140721824764",
+        "nom": "Manufacture TRISTANT",
+        "slug": "manufacture-tristant",
+        "telephone": "06 18 57 29 33",
+        "site_web": "https://www.facebook.com/profile.php?id=100063533558351",
+        "adresse": "19 Rue de Faubourg Saint-Martin, 55110 Dun-sur-Meuse",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "sorcy-saint-martin": {
+    "artisans": [
+      {
+        "id": "6189149447492490778",
+        "nom": "Menuiserie Laurent",
+        "slug": "menuiserie-laurent",
+        "telephone": "03 29 89 10 14",
+        "site_web": "https://menuiserielaurent.odoo.com/",
+        "adresse": "15 Rue du Gén Leclerc, 55190 Sorcy-Saint-Martin",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "tronville-en-barrois": {
+    "artisans": [
+      {
+        "id": "14114966639167596814",
+        "nom": "Ebenisterie Gigot Sebastien",
+        "slug": "ebenisterie-gigot-sebastien",
+        "telephone": "03 29 78 64 57",
+        "site_web": null,
+        "adresse": "13 Rue de la Chalaide, 55500 Stainville",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "15233522966346966949",
+        "nom": "Efc Menuiserie",
+        "slug": "efc-menuiserie",
+        "telephone": "06 38 66 81 28",
+        "site_web": null,
+        "adresse": "10 Rue du Moulin, 55000 Rumont",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9136046799549913911",
+        "nom": "NICOLAS PANIER",
+        "slug": "nicolas-panier",
+        "telephone": "07 68 75 91 83",
+        "site_web": null,
+        "adresse": "36 Av. des Glycines, 55310 Tronville-en-Barrois",
+        "note": 0,
+        "avis": 0,
+        "type": "Plâtrier.ère"
+      }
+    ]
+  },
+  "dugny-sur-meuse": {
+    "artisans": [
+      {
+        "id": "12876049175478704095",
+        "nom": "LNG Construction",
+        "slug": "lng-construction",
+        "telephone": "07 49 59 84 08",
+        "site_web": "https://www.lng-construction.fr/",
+        "adresse": "16 Rue de Mouilly, 55320 Sommedieue",
+        "note": 5,
+        "avis": 0,
+        "type": "Constructeur de maisons en bois"
+      },
+      {
+        "id": "4308091246855845948",
+        "nom": "Ébénisterie Lambry Gérard",
+        "slug": "ebenisterie-lambry-gerard",
+        "telephone": "06 70 78 24 25",
+        "site_web": null,
+        "adresse": "29 Rue de Saint-Mihiel, 55100 Haudainville",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17167680210140757062",
+        "nom": "Grandpierre Patrick",
+        "slug": "grandpierre-patrick",
+        "telephone": "03 29 87 60 26",
+        "site_web": null,
+        "adresse": "64 Rue du Rattentout, 55320 Dieue-sur-Meuse",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2370969936266483354",
+        "nom": "Dugny-sur-Meuse",
+        "slug": "dugny-sur-meuse",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "55100 Dugny-sur-Meuse",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "16906464588488541943",
+        "nom": "Tradition Technologie",
+        "slug": "tradition-technologie",
+        "telephone": "03 29 87 70 51",
+        "site_web": "http://www.traditiontechnologie.fr/",
+        "adresse": "Zone d'activité LD Aux Pachis, 55220 Villers-sur-Meuse",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "ligny-en-barrois": {
+    "artisans": [
+      {
+        "id": "11282467525194943452",
+        "nom": "EURL ETIENNE LOG'ISOL",
+        "slug": "eurl-etienne-logisol",
+        "telephone": "03 29 78 35 35",
+        "site_web": "https://logisol-menuiserie.fr/",
+        "adresse": "Gr Grande Rue, 55500 Saulvaux",
+        "note": 4.4,
+        "avis": 11,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "18307773115615529235",
+        "nom": "Muel Mobilier",
+        "slug": "muel-mobilier",
+        "telephone": "03 29 78 41 81",
+        "site_web": "http://muelmobilier.fr/",
+        "adresse": "74 Rue de Strasbourg, 55500 Ligny-en-Barrois",
+        "note": 5,
+        "avis": 0,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "16189315775942397476",
+        "nom": "L’Atelier du Barrois",
+        "slug": "latelier-du-barrois",
+        "telephone": "06 26 07 32 37",
+        "site_web": "https://m.facebook.com/LAtelierduBarrois/?ref=m_notif&mt_nav=0&notif_t=page_fan&paipv=1",
+        "adresse": "5 Rue Leroux, 55500 Ligny-en-Barrois",
+        "note": 4.6,
+        "avis": 171,
+        "type": "Restauration rapide"
+      },
+      {
+        "id": "7793821951886290042",
+        "nom": "Scierie Mathieu",
+        "slug": "scierie-mathieu",
+        "telephone": "03 29 78 66 96",
+        "site_web": null,
+        "adresse": "La Varenne Scierie, 55500 Le Bouchon-sur-Saulx",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Scierie"
+      },
+      {
+        "id": "14476420426705939836",
+        "nom": "Scierie Régnier-Fouchères SARL",
+        "slug": "scierie-regnier-foucheres-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 Rue Devant l'Église, 55500 Fouchères-aux-Bois",
+        "note": 0,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "8952084872966678356",
+        "nom": "EFC MENUISERIE",
+        "slug": "efc-menuiserie",
+        "telephone": "06 38 66 81 28",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14981321488143108669",
+        "nom": "Scierie Dylmax",
+        "slug": "scierie-dylmax",
+        "telephone": "03 29 79 33 16",
+        "site_web": "http://scierie-dylmax.com/",
+        "adresse": "Lieudit Duranvalotte Route de Boviolles, 55500 Naix-aux-Forges",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Scierie"
+      },
+      {
+        "id": "16556772276526597050",
+        "nom": "Menuiserie Briard",
+        "slug": "menuiserie-briard",
+        "telephone": "06 79 00 86 45",
+        "site_web": "https://menuiseriebriard.my.canva.site/menuiseriebriard",
+        "adresse": null,
+        "note": 4.2,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5492844819628451522",
+        "nom": "Inter Bois Lorrain - I.B.L.",
+        "slug": "inter-bois-lorrain-ibl",
+        "telephone": "06 85 75 58 02",
+        "site_web": "http://www.inter-bois-lorrain.fr/?utm_source=gmb",
+        "adresse": "6 Rte de Ligny en Barrois, 55500 Ménil-sur-Saulx",
+        "note": 5,
+        "avis": 0,
+        "type": "Exploitation forestière"
+      }
+    ]
+  },
+  "montmedy": {
+    "artisans": [
+      {
+        "id": "10126212094766253395",
+        "nom": "Menuiserie Dacremont",
+        "slug": "menuiserie-dacremont",
+        "telephone": "+32 494 16 99 56",
+        "site_web": "https://www.facebook.com/share/1C8bXFXgzk/?mibextid=wwXIfr",
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3123310511699312021",
+        "nom": "Menuiserie Collignon Laurent",
+        "slug": "menuiserie-collignon-laurent",
+        "telephone": "+32 484 34 05 24",
+        "site_web": "https://www.menuiserie-collignon.be/",
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3823763764989966514",
+        "nom": "Bricomarché Montmédy",
+        "slug": "bricomarche-montmedy",
+        "telephone": "03 29 73 61 81",
+        "site_web": "https://www.bricomarche.com/magasin/montmedy/09698?store=09698&utm_source=gmb",
+        "adresse": "9023 Av. de Verdun, 55600 Montmédy",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "13968306521408621727",
+        "nom": "Menuiserie Poncin",
+        "slug": "menuiserie-poncin",
+        "telephone": "+32 63 58 20 26",
+        "site_web": "https://poncin-menuiserie.com/",
+        "adresse": "ZI de Latour, Rue des Cygnes 2, 6760 Virton, Belgique",
+        "note": 4.1,
+        "avis": 16,
+        "type": "Charpentier"
+      },
+      {
+        "id": "1096553982297183547",
+        "nom": "S.I.B.A.M Société Industrielle des Bois Ardennes et Meuse",
+        "slug": "sibam-societe-industrielle-des-bois-ardennes-et-meuse",
+        "telephone": "07 80 94 22 68",
+        "site_web": null,
+        "adresse": "Base Aérienne, 55600 Marville",
+        "note": 5,
+        "avis": 1,
+        "type": "Scierie"
+      },
+      {
+        "id": "2948995641349328335",
+        "nom": "Menuiserie générale Probalux SRL",
+        "slug": "menuiserie-generale-probalux-srl",
+        "telephone": "+32 493 21 21 31",
+        "site_web": "https://www.probalux.be/",
+        "adresse": "Rue des Aubépines 15, 6769 Meix-devant-Virton, Belgique",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12609681244858272198",
+        "nom": "Sibam Pierrel SAS",
+        "slug": "sibam-pierrel-sas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "ZI, 55600 Marville",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1104278691401916084",
+        "nom": "A.D. Fils",
+        "slug": "ad-fils",
+        "telephone": "06 35 52 58 00",
+        "site_web": null,
+        "adresse": "21 Rue Mazelle, 54260 Longuyon",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6675183450820768612",
+        "nom": "Menuiserie Moinil",
+        "slug": "menuiserie-moinil",
+        "telephone": "+32 497 55 17 17",
+        "site_web": "http://www.menuiserie-moinil.be/",
+        "adresse": "Rue du Lary, 6750 Musson, Belgique",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "898330010974357080",
+        "nom": "JB MENUISERIE",
+        "slug": "jb-menuiserie",
+        "telephone": "+32 474 90 22 81",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "longeville-en-barrois": {
+    "artisans": [
+      {
+        "id": "12812283778151975696",
+        "nom": "Ober s.a.",
+        "slug": "ober-sa",
+        "telephone": "03 29 76 77 78",
+        "site_web": "http://www.ober-surfaces.com/",
+        "adresse": "31 Rue de Bar, 55000 Longeville-en-Barrois",
+        "note": 3.9,
+        "avis": 25,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "lerouville": {
+    "artisans": [
+      {
+        "id": "16111125012883773469",
+        "nom": "Navarro fermetures",
+        "slug": "navarro-fermetures",
+        "telephone": "03 29 45 50 47",
+        "site_web": "http://www.navarro-fermetures.fr/",
+        "adresse": "6 Rue de la Rouchotte, 55190 Troussey",
+        "note": 4.6,
+        "avis": 15,
+        "type": "Fabricant"
+      },
+      {
+        "id": "8873140537447953906",
+        "nom": "HBS",
+        "slug": "hbs",
+        "telephone": "03 29 91 22 05",
+        "site_web": "https://hbs-menuiserie.fr/",
+        "adresse": "Rue d'Euville, 55200 Commercy",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "10853392184815051348",
+        "nom": "SARL Houssard",
+        "slug": "sarl-houssard",
+        "telephone": "03 74 09 59 34",
+        "site_web": "https://www.menuiserie-houssard.com/devis-menuisier-commercy-toul.php",
+        "adresse": "19 Av. Stanislas, 55200 Commercy",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "10415518338584064161",
+        "nom": "Scierie Du Grand Clos",
+        "slug": "scierie-du-grand-clos",
+        "telephone": "03 29 91 89 89",
+        "site_web": "https://www.scieriedugrandclos.fr/",
+        "adresse": "18 Rue du Moulin, 55200 Euville",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "15296992858385683429",
+        "nom": "ROUSSEL Bruno",
+        "slug": "roussel-bruno",
+        "telephone": "03 29 91 57 77",
+        "site_web": null,
+        "adresse": "91 Rue Jeanne d'Arc, 55200 Euville",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "commercy": {
+    "artisans": [
+      {
+        "id": "903125630485473897",
+        "nom": "Cuisines ML DESIGN Commercy",
+        "slug": "cuisines-ml-design-commercy",
+        "telephone": "07 71 59 49 09",
+        "site_web": "https://www.mldesigncuisines-meuse.com/",
+        "adresse": "46 ter Av. des Forges, 55200 Commercy",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "10688360082206612504",
+        "nom": "Janot Combustibles",
+        "slug": "janot-combustibles",
+        "telephone": "03 29 91 10 19",
+        "site_web": "https://www.janotcombustibles-commercy.fr/",
+        "adresse": "4 Rue des Roises, 55200 Commercy",
+        "note": 4.3,
+        "avis": 4,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "9239639722324695351",
+        "nom": "L.G.Batireno - MATP",
+        "slug": "lgbatireno-matp",
+        "telephone": "03 29 89 69 52",
+        "site_web": "http://www.lg-batireno.com/",
+        "adresse": "8 Rue du Port Canal, 55200 Commercy",
+        "note": 3.4,
+        "avis": 32,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "5519199081671445008",
+        "nom": "Dulin Entreprise",
+        "slug": "dulin-entreprise",
+        "telephone": "03 29 91 21 91",
+        "site_web": null,
+        "adresse": "11 Rue du 1er Septembre 1944, 55200 Boncourt-sur-Meuse",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "12683188558348075372",
+        "nom": "Mairel SAS - Menusierie Toul & Meurthe et Moselle",
+        "slug": "mairel-sas-menusierie-toul-meurthe-et-moselle",
+        "telephone": "03 83 63 81 61",
+        "site_web": "http://www.mairel.fr/",
+        "adresse": "44 Rue Basse, 54200 Boucq",
+        "note": 4.8,
+        "avis": 100,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "cousances-les-forges": {
+    "artisans": [
+      {
+        "id": "3005972821220149432",
+        "nom": "EUROFERM",
+        "slug": "euroferm",
+        "telephone": "06 46 82 91 47",
+        "site_web": null,
+        "adresse": "1 Rue du chêne sessile, 55170 Cousances-les-Forges",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10188081360205229090",
+        "nom": "Ebenisterie - Menuiserie Boudier Laurent",
+        "slug": "ebenisterie-menuiserie-boudier-laurent",
+        "telephone": "03 29 76 22 75",
+        "site_web": null,
+        "adresse": "16 Rue Basse, 55170 Cousances-les-Forges",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "15644470642674774435",
+        "nom": "Vernis ETS",
+        "slug": "vernis-ets",
+        "telephone": "03 29 70 81 43",
+        "site_web": "http://www.vernis-timber.com/",
+        "adresse": "2 Chem. du Rouchy, 55170 Cousances-les-Forges",
+        "note": 4,
+        "avis": 0,
+        "type": "Scierie"
+      }
+    ]
+  },
+  "etain": {
+    "artisans": [
+      {
+        "id": "441923497741711151",
+        "nom": "L'Expert Fenêtre SAS Del",
+        "slug": "lexpert-fenetre-sas-del",
+        "telephone": "03 29 74 84 21",
+        "site_web": null,
+        "adresse": "15 Rue du Jura, 55400 Étain",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "verdun": {
+    "artisans": [
+      {
+        "id": "8631743673099413011",
+        "nom": "Le Compagnonnage Artisanal L C A",
+        "slug": "le-compagnonnage-artisanal-l-c-a",
+        "telephone": "03 29 80 34 55",
+        "site_web": "https://www.le-compagnonage-artisanal.fr/",
+        "adresse": "1 Av. du 30E Corps, 55100 Verdun",
+        "note": 4.8,
+        "avis": 38,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8978140463058824666",
+        "nom": "Bricomarché Verdun",
+        "slug": "bricomarche-verdun",
+        "telephone": "03 29 85 33 33",
+        "site_web": "https://www.bricomarche.com/magasin/verdun/03628?store=03628&utm_source=gmb",
+        "adresse": "Av. de Metz, 55100 Verdun",
+        "note": 4,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "7974494299130661460",
+        "nom": "Bois & Tradition",
+        "slug": "bois-tradition",
+        "telephone": "07 71 75 67 15",
+        "site_web": "https://www.toitures-bet.com/",
+        "adresse": "23 Av. du 30E Corps, 55100 Verdun",
+        "note": 3.3,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14502727953176788184",
+        "nom": "Tout Faire Moulet Matériaux Verdun",
+        "slug": "tout-faire-moulet-materiaux-verdun",
+        "telephone": "03 29 86 50 51",
+        "site_web": "https://www.toutfaire.fr/moulet-materiaux-negoce-verdun.html",
+        "adresse": "Bd de la Citadelle, 55100 Verdun",
+        "note": 4.4,
+        "avis": 93,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "gondrecourt-le-chateau": {
+    "artisans": [
+      {
+        "id": "10954118362758478143",
+        "nom": "Iso Plaquiste",
+        "slug": "iso-plaquiste",
+        "telephone": "03 29 90 93 54",
+        "site_web": "http://www.iso-plaquiste.fr/",
+        "adresse": "2 Rte de Neufchâteau, 55130 Gondrecourt-le-Château",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "433084804516117910",
+        "nom": "Chaudronnier Meuse, réalisation de carters, BP METALLERIE",
+        "slug": "chaudronnier-meuse-realisation-de-carters-bp-metallerie",
+        "telephone": "06 62 77 92 71",
+        "site_web": "https://www.bpmetallerie.com/",
+        "adresse": "2 Rte de Neufchâteau, 55130 Gondrecourt-le-Château",
+        "note": 5,
+        "avis": 0,
+        "type": "Chaudronnerie"
+      },
+      {
+        "id": "8864602400969290022",
+        "nom": "Menuiserie Ébénisterie Langard Romain",
+        "slug": "menuiserie-ebenisterie-langard-romain",
+        "telephone": "06 24 18 76 50",
+        "site_web": null,
+        "adresse": "1 route nationale, 55140 Goussaincourt",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10994302608505907238",
+        "nom": "Menuiserie Fauvet",
+        "slug": "menuiserie-fauvet",
+        "telephone": "03 29 06 91 23",
+        "site_web": null,
+        "adresse": "2 Gr Grande Rue, 88630 Maxey-sur-Meuse",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6491228201932681061",
+        "nom": "Instal'au Poêle",
+        "slug": "instalau-poele",
+        "telephone": "03 29 90 45 97",
+        "site_web": "https://www.instalaupoele.fr/",
+        "adresse": "5 Rue de Verdun, 55130 Gondrecourt-le-Château",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "5015397668605042084",
+        "nom": "S.T.P.P.",
+        "slug": "stpp",
+        "telephone": "03 29 89 73 80",
+        "site_web": "https://www.stpp-lorraine.com/",
+        "adresse": "5 Rue de Verdun, 55130 Gondrecourt-le-Château",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "clermont-en-argonne": {
+    "artisans": [
+      {
+        "id": "155969027478846442",
+        "nom": "Menuiserie COLLIN",
+        "slug": "menuiserie-collin",
+        "telephone": "03 29 87 41 56",
+        "site_web": "http://www.menuiserie-collin.com/",
+        "adresse": "Le Bas de la Roulie, Rue de Varennes Z.A, 55120 Clermont-en-Argonne",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "vaucouleurs": {
+    "artisans": [
+      {
+        "id": "10224698053020198398",
+        "nom": "Menuiserie Lafrogne Meuse",
+        "slug": "menuiserie-lafrogne-meuse",
+        "telephone": "06 44 22 89 03",
+        "site_web": null,
+        "adresse": "17 Av. de Domrémy, 55140 Vaucouleurs",
+        "note": 5,
+        "avis": 3,
+        "type": "Charpentier"
+      }
+    ]
+  }
+}
