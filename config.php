@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /**
  * ============================================
  * ANNUAIRE-MENUISIERS.FR - CONFIGURATION
@@ -8,7 +8,7 @@
 define('SITE_NAME', 'trouver-devis-menuiserie.fr');
 define('SITE_DOMAIN', 'trouver-devis-menuiserie.fr');
 define('SITE_URL', 'https://trouver-devis-menuiserie.fr');
-define('SITE_EMAIL', 'contact@trouver-devis-menuiserie.fr');
+define('SITE_EMAIL', 'admin@miraubolant.com');
 define('SITE_TAGLINE', "Menuiserie et Agencement Partout en France");
 define('SITE_DESCRIPTION', "Trouvez un menuisier pour la création de vos meubles sur mesure, portes ou escaliers.");
 
