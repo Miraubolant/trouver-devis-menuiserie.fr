@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /**
  * ============================================
  * ANNUAIRE-MENUISIERS.FR - CONFIGURATION
@@ -8,23 +8,23 @@
 define('SITE_NAME', 'trouver-devis-menuiserie.fr');
 define('SITE_DOMAIN', 'trouver-devis-menuiserie.fr');
 define('SITE_URL', 'https://trouver-devis-menuiserie.fr');
-define('SITE_EMAIL', 'contact@trouver-devis-menuiserie.fr');
+define('SITE_EMAIL', 'admin@miraubolant.com');
 define('SITE_TAGLINE', "Menuiserie et Agencement Partout en France");
-define('SITE_DESCRIPTION', "Trouvez un menuisier pour la création de vos meubles sur mesure, portes ou escaliers.");
+define('SITE_DESCRIPTION', "Trouvez un menuisier pour la crÃ©ation de vos meubles sur mesure, portes ou escaliers.");
 
 define('SITE_LOGO_TEXT', 'TROUVER-DEVIS-MENUISERIE');
 define('SITE_LOGO_TLD', '.FR');
 
 define('METIER', "menuisier");
 define('METIER_PLURAL', "menuisiers");
-define('METIER_TITLE', "Menuisier Ébéniste");
+define('METIER_TITLE', "Menuisier Ã‰bÃ©niste");
 define('METIER_ICON', "hammer");
 
 define('VUD_PARTENAIRE_ID', '2372');
 define('VUD_CATEGORIE_ID', '10');
 define('VUD_IFRAME_URL', 'https://www.viteundevis.com/widget/devis.php');
 
-define('SCRAPE_QUERY', "menuisier bois sur mesure aménagement");
+define('SCRAPE_QUERY', "menuisier bois sur mesure amÃ©nagement");
 define('SCRAPE_API_KEY', '[CLE_API_SEMSCRAPER]');
 
 define('ITEMS_PER_PAGE', 24);
@@ -36,116 +36,116 @@ define('DATA_PATH', __DIR__ . '/data/');
 define('REGIONS_FILE', DATA_PATH . 'regions/regions.json');
 
 define('MODELES', [
-    ['slug' => 'amenagement-sur-mesure', 'nom' => 'Aménagement Intérieur', 'emoji' => "🪑", 'vud_cat' => '137'],
-    ['slug' => 'dressing-sur-mesure', 'nom' => 'Dressing', 'emoji' => "👗", 'vud_cat' => '137'],
-    ['slug' => 'escalier-bois', 'nom' => 'Escalier Bois', 'emoji' => "🪜", 'vud_cat' => '137'],
-    ['slug' => 'cuisine-sur-mesure', 'nom' => 'Cuisine sur Mesure', 'emoji' => "🍳", 'vud_cat' => '137'],
-    ['slug' => 'meuble-salle-de-bain', 'nom' => 'Meuble Salle de Bain', 'emoji' => "🛁", 'vud_cat' => '137'],
-    ['slug' => 'bibliotheque-bois', 'nom' => 'Bibliothèque Sur Mesure', 'emoji' => "📚", 'vud_cat' => '137'],
-    ['slug' => 'portes-interieures-bois', 'nom' => 'Portes Intérieures', 'emoji' => "🚪", 'vud_cat' => '137'],
-    ['slug' => 'verriere-interieure', 'nom' => 'Verrière Intérieure', 'emoji' => "🪟", 'vud_cat' => '137'],
-    ['slug' => 'placard-sous-escalier', 'nom' => 'Placard Sous Escalier', 'emoji' => "📦", 'vud_cat' => '137'],
-    ['slug' => 'parquet-massif', 'nom' => 'Pose de Parquet Massif', 'emoji' => "🪵", 'vud_cat' => '137'],
-    ['slug' => 'parquet-flottant', 'nom' => 'Pose de Parquet Flottant', 'emoji' => "🧩", 'vud_cat' => '137'],
-    ['slug' => 'terrasse-bois', 'nom' => 'Terrasse en Bois', 'emoji' => "🌴", 'vud_cat' => '137'],
-    ['slug' => 'fenetres-bois', 'nom' => 'Fenêtres en Bois', 'emoji' => "🪟", 'vud_cat' => '137'],
-    ['slug' => 'volets-bois', 'nom' => 'Volets Battants/Roulants', 'emoji' => "🏘️", 'vud_cat' => '137'],
-    ['slug' => 'meubles-tv', 'nom' => 'Meuble TV Sur Mesure', 'emoji' => "📺", 'vud_cat' => '137'],
-    ['slug' => 'lit-estrade', 'nom' => 'Lit Estrade & Tête de Lit', 'emoji' => "🛌", 'vud_cat' => '137'],
-    ['slug' => 'portail-bois', 'nom' => 'Portail en Bois', 'emoji' => "⛩️", 'vud_cat' => '137'],
-    ['slug' => 'claustra-bois', 'nom' => 'Claustra et Séparation', 'emoji' => "🪚", 'vud_cat' => '137'],
-    ['slug' => 'restauration-meubles', 'nom' => 'Restauration de Meubles', 'emoji' => "🛠️", 'vud_cat' => '137'],
-    ['slug' => 'facade-placard', 'nom' => 'Façades de Placard', 'emoji' => "🚪", 'vud_cat' => '137'],
-    ['slug' => 'garde-corps-bois', 'nom' => 'Garde-Corps et Rambarde', 'emoji' => "🛡️", 'vud_cat' => '137'],
-    ['slug' => 'banquette-coffre', 'nom' => 'Banquette avec Coffre', 'emoji' => "🛋️", 'vud_cat' => '137'],
-    ['slug' => 'habillage-mural', 'nom' => 'Habillage Mural Bois', 'emoji' => "🧱", 'vud_cat' => '137'],
-    ['slug' => 'mezzanine-bois', 'nom' => 'Mezzanine & Lit Cabane', 'emoji' => "🎪", 'vud_cat' => '137'],
-    ['slug' => 'comptoir-bar', 'nom' => 'Comptoir et Bar', 'emoji' => "🍺", 'vud_cat' => '137'],
-    ['slug' => 'bureau-sur-mesure', 'nom' => 'Bureau Sur Mesure', 'emoji' => "💻", 'vud_cat' => '137'],
-    ['slug' => 'cache-radiateur', 'nom' => 'Cache Radiateur', 'emoji' => "🌡️", 'vud_cat' => '137'],
-    ['slug' => 'abris-de-jardin', 'nom' => 'Abri de Jardin & Carport', 'emoji' => "🛖", 'vud_cat' => '137'],
-    ['slug' => 'bardage-bois', 'nom' => 'Bardage Extérieur', 'emoji' => "🏡", 'vud_cat' => '137'],
-    ['slug' => 'volets-persiennes', 'nom' => 'Volets / Persiennes', 'emoji' => "🪟", 'vud_cat' => '137'],
+    ['slug' => 'amenagement-sur-mesure', 'nom' => 'AmÃ©nagement IntÃ©rieur', 'emoji' => "ðŸª‘", 'vud_cat' => '137'],
+    ['slug' => 'dressing-sur-mesure', 'nom' => 'Dressing', 'emoji' => "ðŸ‘—", 'vud_cat' => '137'],
+    ['slug' => 'escalier-bois', 'nom' => 'Escalier Bois', 'emoji' => "ðŸªœ", 'vud_cat' => '137'],
+    ['slug' => 'cuisine-sur-mesure', 'nom' => 'Cuisine sur Mesure', 'emoji' => "ðŸ³", 'vud_cat' => '137'],
+    ['slug' => 'meuble-salle-de-bain', 'nom' => 'Meuble Salle de Bain', 'emoji' => "ðŸ›", 'vud_cat' => '137'],
+    ['slug' => 'bibliotheque-bois', 'nom' => 'BibliothÃ¨que Sur Mesure', 'emoji' => "ðŸ“š", 'vud_cat' => '137'],
+    ['slug' => 'portes-interieures-bois', 'nom' => 'Portes IntÃ©rieures', 'emoji' => "ðŸšª", 'vud_cat' => '137'],
+    ['slug' => 'verriere-interieure', 'nom' => 'VerriÃ¨re IntÃ©rieure', 'emoji' => "ðŸªŸ", 'vud_cat' => '137'],
+    ['slug' => 'placard-sous-escalier', 'nom' => 'Placard Sous Escalier', 'emoji' => "ðŸ“¦", 'vud_cat' => '137'],
+    ['slug' => 'parquet-massif', 'nom' => 'Pose de Parquet Massif', 'emoji' => "ðŸªµ", 'vud_cat' => '137'],
+    ['slug' => 'parquet-flottant', 'nom' => 'Pose de Parquet Flottant', 'emoji' => "ðŸ§©", 'vud_cat' => '137'],
+    ['slug' => 'terrasse-bois', 'nom' => 'Terrasse en Bois', 'emoji' => "ðŸŒ´", 'vud_cat' => '137'],
+    ['slug' => 'fenetres-bois', 'nom' => 'FenÃªtres en Bois', 'emoji' => "ðŸªŸ", 'vud_cat' => '137'],
+    ['slug' => 'volets-bois', 'nom' => 'Volets Battants/Roulants', 'emoji' => "ðŸ˜ï¸", 'vud_cat' => '137'],
+    ['slug' => 'meubles-tv', 'nom' => 'Meuble TV Sur Mesure', 'emoji' => "ðŸ“º", 'vud_cat' => '137'],
+    ['slug' => 'lit-estrade', 'nom' => 'Lit Estrade & TÃªte de Lit', 'emoji' => "ðŸ›Œ", 'vud_cat' => '137'],
+    ['slug' => 'portail-bois', 'nom' => 'Portail en Bois', 'emoji' => "â›©ï¸", 'vud_cat' => '137'],
+    ['slug' => 'claustra-bois', 'nom' => 'Claustra et SÃ©paration', 'emoji' => "ðŸªš", 'vud_cat' => '137'],
+    ['slug' => 'restauration-meubles', 'nom' => 'Restauration de Meubles', 'emoji' => "ðŸ› ï¸", 'vud_cat' => '137'],
+    ['slug' => 'facade-placard', 'nom' => 'FaÃ§ades de Placard', 'emoji' => "ðŸšª", 'vud_cat' => '137'],
+    ['slug' => 'garde-corps-bois', 'nom' => 'Garde-Corps et Rambarde', 'emoji' => "ðŸ›¡ï¸", 'vud_cat' => '137'],
+    ['slug' => 'banquette-coffre', 'nom' => 'Banquette avec Coffre', 'emoji' => "ðŸ›‹ï¸", 'vud_cat' => '137'],
+    ['slug' => 'habillage-mural', 'nom' => 'Habillage Mural Bois', 'emoji' => "ðŸ§±", 'vud_cat' => '137'],
+    ['slug' => 'mezzanine-bois', 'nom' => 'Mezzanine & Lit Cabane', 'emoji' => "ðŸŽª", 'vud_cat' => '137'],
+    ['slug' => 'comptoir-bar', 'nom' => 'Comptoir et Bar', 'emoji' => "ðŸº", 'vud_cat' => '137'],
+    ['slug' => 'bureau-sur-mesure', 'nom' => 'Bureau Sur Mesure', 'emoji' => "ðŸ’»", 'vud_cat' => '137'],
+    ['slug' => 'cache-radiateur', 'nom' => 'Cache Radiateur', 'emoji' => "ðŸŒ¡ï¸", 'vud_cat' => '137'],
+    ['slug' => 'abris-de-jardin', 'nom' => 'Abri de Jardin & Carport', 'emoji' => "ðŸ›–", 'vud_cat' => '137'],
+    ['slug' => 'bardage-bois', 'nom' => 'Bardage ExtÃ©rieur', 'emoji' => "ðŸ¡", 'vud_cat' => '137'],
+    ['slug' => 'volets-persiennes', 'nom' => 'Volets / Persiennes', 'emoji' => "ðŸªŸ", 'vud_cat' => '137'],
 ]);
 
 define('STYLES', [
-    ['slug' => 'amenagement-sur-mesure', 'nom' => 'Aménagement Intérieur', 'emoji' => "🪑", 'desc' => 'Optimisation de l\'espace'],
-    ['slug' => 'dressing-sur-mesure', 'nom' => 'Dressing', 'emoji' => "👗", 'desc' => 'Penderie et rangements optimisés'],
-    ['slug' => 'escalier-bois', 'nom' => 'Escalier Bois', 'emoji' => "🪜", 'desc' => 'Conception droite, quart tournant ou hélicoïdal'],
-    ['slug' => 'cuisine-sur-mesure', 'nom' => 'Cuisine sur Mesure', 'emoji' => "🍳", 'desc' => 'Conception de cuisine équipée'],
-    ['slug' => 'meuble-salle-de-bain', 'nom' => 'Meuble Salle de Bain', 'emoji' => "🛁", 'desc' => 'Meuble sous vasque résistant à l\'eau'],
-    ['slug' => 'bibliotheque-bois', 'nom' => 'Bibliothèque Sur Mesure', 'emoji' => "📚", 'desc' => 'Modulable et toute hauteur'],
-    ['slug' => 'portes-interieures-bois', 'nom' => 'Portes Intérieures', 'emoji' => "🚪", 'desc' => 'Coulissantes ou à galandage'],
-    ['slug' => 'verriere-interieure', 'nom' => 'Verrière Intérieure', 'emoji' => "🪟", 'desc' => 'Séparation verre et bois/métal'],
-    ['slug' => 'placard-sous-escalier', 'nom' => 'Placard Sous Escalier', 'emoji' => "📦", 'desc' => 'Tiroirs et aménagements malins'],
-    ['slug' => 'parquet-massif', 'nom' => 'Pose de Parquet Massif', 'emoji' => "🪵", 'desc' => 'Collée ou clouée, ponçage inclus'],
-    ['slug' => 'parquet-flottant', 'nom' => 'Pose de Parquet Flottant', 'emoji' => "🧩", 'desc' => 'Stratifié ou contrecollé'],
-    ['slug' => 'terrasse-bois', 'nom' => 'Terrasse en Bois', 'emoji' => "🌴", 'desc' => 'Bois exotique, composite ou pin'],
-    ['slug' => 'fenetres-bois', 'nom' => 'Fenêtres en Bois', 'emoji' => "🪟", 'desc' => 'Double vitrage, tradition ou moderne'],
-    ['slug' => 'volets-bois', 'nom' => 'Volets Battants/Roulants', 'emoji' => "🏘️", 'desc' => 'Bois massif et motorisation'],
-    ['slug' => 'meubles-tv', 'nom' => 'Meuble TV Sur Mesure', 'emoji' => "📺", 'desc' => 'Passage de câbles dissimulé'],
-    ['slug' => 'lit-estrade', 'nom' => 'Lit Estrade & Tête de Lit', 'emoji' => "🛌", 'desc' => 'Rangements sous le matelas'],
-    ['slug' => 'portail-bois', 'nom' => 'Portail en Bois', 'emoji' => "⛩️", 'desc' => 'Portails battants, plein ou ajourés'],
-    ['slug' => 'claustra-bois', 'nom' => 'Claustra et Séparation', 'emoji' => "🪚", 'desc' => 'Paroi ajourée esthétique'],
-    ['slug' => 'restauration-meubles', 'nom' => 'Restauration de Meubles', 'emoji' => "🛠️", 'desc' => 'Ponçage, vernis et réparation'],
-    ['slug' => 'facade-placard', 'nom' => 'Façades de Placard', 'emoji' => "🚪", 'desc' => 'Sur mesure, coulissant ou battant'],
-    ['slug' => 'garde-corps-bois', 'nom' => 'Garde-Corps et Rambarde', 'emoji' => "🛡️", 'desc' => 'Sécurisation d\'étage'],
-    ['slug' => 'banquette-coffre', 'nom' => 'Banquette avec Coffre', 'emoji' => "🛋️", 'desc' => 'Assise et rangement dissimulé'],
-    ['slug' => 'habillage-mural', 'nom' => 'Habillage Mural Bois', 'emoji' => "🧱", 'desc' => 'Tasseaux, panneaux ou lambris'],
-    ['slug' => 'mezzanine-bois', 'nom' => 'Mezzanine & Lit Cabane', 'emoji' => "🎪", 'desc' => 'Plateforme sur mesure'],
-    ['slug' => 'comptoir-bar', 'nom' => 'Comptoir et Bar', 'emoji' => "🍺", 'desc' => 'Pour particuliers et professionnels'],
-    ['slug' => 'bureau-sur-mesure', 'nom' => 'Bureau Sur Mesure', 'emoji' => "💻", 'desc' => 'Espace de télétravail adapté'],
-    ['slug' => 'cache-radiateur', 'nom' => 'Cache Radiateur', 'emoji' => "🌡️", 'desc' => 'Grille bois esthétique'],
-    ['slug' => 'abris-de-jardin', 'nom' => 'Abri de Jardin & Carport', 'emoji' => "🛖", 'desc' => 'Structure bois extérieur'],
-    ['slug' => 'bardage-bois', 'nom' => 'Bardage Extérieur', 'emoji' => "🏡", 'desc' => 'Isolation et finition de façade'],
-    ['slug' => 'volets-persiennes', 'nom' => 'Volets / Persiennes', 'emoji' => "🪟", 'desc' => 'Style traditionnel'],
+    ['slug' => 'amenagement-sur-mesure', 'nom' => 'AmÃ©nagement IntÃ©rieur', 'emoji' => "ðŸª‘", 'desc' => 'Optimisation de l\'espace'],
+    ['slug' => 'dressing-sur-mesure', 'nom' => 'Dressing', 'emoji' => "ðŸ‘—", 'desc' => 'Penderie et rangements optimisÃ©s'],
+    ['slug' => 'escalier-bois', 'nom' => 'Escalier Bois', 'emoji' => "ðŸªœ", 'desc' => 'Conception droite, quart tournant ou hÃ©licoÃ¯dal'],
+    ['slug' => 'cuisine-sur-mesure', 'nom' => 'Cuisine sur Mesure', 'emoji' => "ðŸ³", 'desc' => 'Conception de cuisine Ã©quipÃ©e'],
+    ['slug' => 'meuble-salle-de-bain', 'nom' => 'Meuble Salle de Bain', 'emoji' => "ðŸ›", 'desc' => 'Meuble sous vasque rÃ©sistant Ã  l\'eau'],
+    ['slug' => 'bibliotheque-bois', 'nom' => 'BibliothÃ¨que Sur Mesure', 'emoji' => "ðŸ“š", 'desc' => 'Modulable et toute hauteur'],
+    ['slug' => 'portes-interieures-bois', 'nom' => 'Portes IntÃ©rieures', 'emoji' => "ðŸšª", 'desc' => 'Coulissantes ou Ã  galandage'],
+    ['slug' => 'verriere-interieure', 'nom' => 'VerriÃ¨re IntÃ©rieure', 'emoji' => "ðŸªŸ", 'desc' => 'SÃ©paration verre et bois/mÃ©tal'],
+    ['slug' => 'placard-sous-escalier', 'nom' => 'Placard Sous Escalier', 'emoji' => "ðŸ“¦", 'desc' => 'Tiroirs et amÃ©nagements malins'],
+    ['slug' => 'parquet-massif', 'nom' => 'Pose de Parquet Massif', 'emoji' => "ðŸªµ", 'desc' => 'CollÃ©e ou clouÃ©e, ponÃ§age inclus'],
+    ['slug' => 'parquet-flottant', 'nom' => 'Pose de Parquet Flottant', 'emoji' => "ðŸ§©", 'desc' => 'StratifiÃ© ou contrecollÃ©'],
+    ['slug' => 'terrasse-bois', 'nom' => 'Terrasse en Bois', 'emoji' => "ðŸŒ´", 'desc' => 'Bois exotique, composite ou pin'],
+    ['slug' => 'fenetres-bois', 'nom' => 'FenÃªtres en Bois', 'emoji' => "ðŸªŸ", 'desc' => 'Double vitrage, tradition ou moderne'],
+    ['slug' => 'volets-bois', 'nom' => 'Volets Battants/Roulants', 'emoji' => "ðŸ˜ï¸", 'desc' => 'Bois massif et motorisation'],
+    ['slug' => 'meubles-tv', 'nom' => 'Meuble TV Sur Mesure', 'emoji' => "ðŸ“º", 'desc' => 'Passage de cÃ¢bles dissimulÃ©'],
+    ['slug' => 'lit-estrade', 'nom' => 'Lit Estrade & TÃªte de Lit', 'emoji' => "ðŸ›Œ", 'desc' => 'Rangements sous le matelas'],
+    ['slug' => 'portail-bois', 'nom' => 'Portail en Bois', 'emoji' => "â›©ï¸", 'desc' => 'Portails battants, plein ou ajourÃ©s'],
+    ['slug' => 'claustra-bois', 'nom' => 'Claustra et SÃ©paration', 'emoji' => "ðŸªš", 'desc' => 'Paroi ajourÃ©e esthÃ©tique'],
+    ['slug' => 'restauration-meubles', 'nom' => 'Restauration de Meubles', 'emoji' => "ðŸ› ï¸", 'desc' => 'PonÃ§age, vernis et rÃ©paration'],
+    ['slug' => 'facade-placard', 'nom' => 'FaÃ§ades de Placard', 'emoji' => "ðŸšª", 'desc' => 'Sur mesure, coulissant ou battant'],
+    ['slug' => 'garde-corps-bois', 'nom' => 'Garde-Corps et Rambarde', 'emoji' => "ðŸ›¡ï¸", 'desc' => 'SÃ©curisation d\'Ã©tage'],
+    ['slug' => 'banquette-coffre', 'nom' => 'Banquette avec Coffre', 'emoji' => "ðŸ›‹ï¸", 'desc' => 'Assise et rangement dissimulÃ©'],
+    ['slug' => 'habillage-mural', 'nom' => 'Habillage Mural Bois', 'emoji' => "ðŸ§±", 'desc' => 'Tasseaux, panneaux ou lambris'],
+    ['slug' => 'mezzanine-bois', 'nom' => 'Mezzanine & Lit Cabane', 'emoji' => "ðŸŽª", 'desc' => 'Plateforme sur mesure'],
+    ['slug' => 'comptoir-bar', 'nom' => 'Comptoir et Bar', 'emoji' => "ðŸº", 'desc' => 'Pour particuliers et professionnels'],
+    ['slug' => 'bureau-sur-mesure', 'nom' => 'Bureau Sur Mesure', 'emoji' => "ðŸ’»", 'desc' => 'Espace de tÃ©lÃ©travail adaptÃ©'],
+    ['slug' => 'cache-radiateur', 'nom' => 'Cache Radiateur', 'emoji' => "ðŸŒ¡ï¸", 'desc' => 'Grille bois esthÃ©tique'],
+    ['slug' => 'abris-de-jardin', 'nom' => 'Abri de Jardin & Carport', 'emoji' => "ðŸ›–", 'desc' => 'Structure bois extÃ©rieur'],
+    ['slug' => 'bardage-bois', 'nom' => 'Bardage ExtÃ©rieur', 'emoji' => "ðŸ¡", 'desc' => 'Isolation et finition de faÃ§ade'],
+    ['slug' => 'volets-persiennes', 'nom' => 'Volets / Persiennes', 'emoji' => "ðŸªŸ", 'desc' => 'Style traditionnel'],
 ]);
 
 define('SERVICES', [
     [
         'titre' => "Agencement Sur Mesure",
-        'icon' => "📐",
-        'desc' => "Conception 3D, fabrication et pose de vos bibliothèques, dressings et rangements parfaitement adaptés à vos espaces.",
-        'points' => ["Optimisation des petits espaces", "Large choix d'essences de bois", "Conception personnalisée unique"]
+        'icon' => "ðŸ“",
+        'desc' => "Conception 3D, fabrication et pose de vos bibliothÃ¨ques, dressings et rangements parfaitement adaptÃ©s Ã  vos espaces.",
+        'points' => ["Optimisation des petits espaces", "Large choix d'essences de bois", "Conception personnalisÃ©e unique"]
     ],
     [
-        'titre' => "Menuiserie Extérieure",
-        'icon' => "🏡",
-        'desc' => "Améliorez l'esthétique et l'isolation de votre maison avec la pose de fenêtres, portes d'entrée, volets et terrasses en bois.",
-        'points' => ["Produits certifiés et isolants", "Portes, fenêtres, terrasses", "Rénovation thermique"]
+        'titre' => "Menuiserie ExtÃ©rieure",
+        'icon' => "ðŸ¡",
+        'desc' => "AmÃ©liorez l'esthÃ©tique et l'isolation de votre maison avec la pose de fenÃªtres, portes d'entrÃ©e, volets et terrasses en bois.",
+        'points' => ["Produits certifiÃ©s et isolants", "Portes, fenÃªtres, terrasses", "RÃ©novation thermique"]
     ],
     [
         'titre' => "Restauration & Entretien",
-        'icon' => "🛠️",
-        'desc' => "Redonnez vie à vos anciens parquets, escaliers ou meubles en bois massif grâce à des techniques traditionnelles.",
-        'points' => ["Ponçage et vitrification", "Techniques d'ébénisterie classiques", "Revalorisation du patrimoine"]
+        'icon' => "ðŸ› ï¸",
+        'desc' => "Redonnez vie Ã  vos anciens parquets, escaliers ou meubles en bois massif grÃ¢ce Ã  des techniques traditionnelles.",
+        'points' => ["PonÃ§age et vitrification", "Techniques d'Ã©bÃ©nisterie classiques", "Revalorisation du patrimoine"]
     ],
 ]);
 
 define('FAQ_ACCUEIL', [
     [
-        'question' => "Quelle est la différence entre un menuisier et un ébéniste ?",
-        'reponse' => "Généralement, le menuisier s'occupe de l'agencement (portes, placards, escaliers, parquets, fenêtres), souvent avec des bois massifs ou des panneaux dérivés (MDF, mélaminé). L'ébéniste, en revanche, se concentre sur la création ou la restauration de meubles de valeur, en utilisant des placages de bois précieux et de la marqueterie."
+        'question' => "Quelle est la diffÃ©rence entre un menuisier et un Ã©bÃ©niste ?",
+        'reponse' => "GÃ©nÃ©ralement, le menuisier s'occupe de l'agencement (portes, placards, escaliers, parquets, fenÃªtres), souvent avec des bois massifs ou des panneaux dÃ©rivÃ©s (MDF, mÃ©laminÃ©). L'Ã©bÃ©niste, en revanche, se concentre sur la crÃ©ation ou la restauration de meubles de valeur, en utilisant des placages de bois prÃ©cieux et de la marqueterie."
     ],
     [
-        'question' => "Pourquoi faire faire un dressing sur mesure plutôt que l'acheter en kit ?",
-        'reponse' => "Un dressing sur mesure épouse parfaitement votre pièce (y compris sous rampants ou sous escaliers). Il optimise le moindre centimètre carré du sol au plafond, s'adapte à vos contraintes (murs non droits), offre une bien meilleure solidité et vous permet de choisir la couleur et les finitions exactes (tiroirs freinés, éclairage intégré)."
+        'question' => "Pourquoi faire faire un dressing sur mesure plutÃ´t que l'acheter en kit ?",
+        'reponse' => "Un dressing sur mesure Ã©pouse parfaitement votre piÃ¨ce (y compris sous rampants ou sous escaliers). Il optimise le moindre centimÃ¨tre carrÃ© du sol au plafond, s'adapte Ã  vos contraintes (murs non droits), offre une bien meilleure soliditÃ© et vous permet de choisir la couleur et les finitions exactes (tiroirs freinÃ©s, Ã©clairage intÃ©grÃ©)."
     ],
     [
-        'question' => "Quelles essences de bois sont recommandées pour une terrasse extérieure ?",
-        'reponse' => "Pour l'extérieur, il faut des bois de classe 4 ou 5 (résistants à l'humidité et aux champignons). On utilise souvent des bois exotiques (Ipé, Cumaru, Teck) très durables, ou des bois européens traités autoclave (Pin) ou naturellement résistants (Douglas, Châtaignier, Robinier). Le bois composite est aussi une excellente alternative sans échardes."
+        'question' => "Quelles essences de bois sont recommandÃ©es pour une terrasse extÃ©rieure ?",
+        'reponse' => "Pour l'extÃ©rieur, il faut des bois de classe 4 ou 5 (rÃ©sistants Ã  l'humiditÃ© et aux champignons). On utilise souvent des bois exotiques (IpÃ©, Cumaru, Teck) trÃ¨s durables, ou des bois europÃ©ens traitÃ©s autoclave (Pin) ou naturellement rÃ©sistants (Douglas, ChÃ¢taignier, Robinier). Le bois composite est aussi une excellente alternative sans Ã©chardes."
     ],
     [
-        'question' => "Combien coûte un meuble sur mesure ?",
-        'reponse' => "Le prix dépend des dimensions, de l'aménagement interne (nombre de tiroirs, quincaillerie), et surtout des matériaux : le mélaminé sera plus économique que le placage bois, lui-même moins cher que le bois massif. Seul un devis précis de l'artisan, après prise de cotes, peut vous donner le tarif de votre projet."
+        'question' => "Combien coÃ»te un meuble sur mesure ?",
+        'reponse' => "Le prix dÃ©pend des dimensions, de l'amÃ©nagement interne (nombre de tiroirs, quincaillerie), et surtout des matÃ©riaux : le mÃ©laminÃ© sera plus Ã©conomique que le placage bois, lui-mÃªme moins cher que le bois massif. Seul un devis prÃ©cis de l'artisan, aprÃ¨s prise de cotes, peut vous donner le tarif de votre projet."
     ],
     [
         'question' => "Restaurez-vous les anciens parquets ?",
-        'reponse' => "Oui, la rénovation d'un parquet massif ancien est l'une des prestations de la menuiserie. Cela passe généralement par le remplacement des lames abîmées, un ponçage complet (dégrossissage et finition) et l'application d'un traitement protecteur : vitrification (vernis), huilage ou cirage au choix."
+        'reponse' => "Oui, la rÃ©novation d'un parquet massif ancien est l'une des prestations de la menuiserie. Cela passe gÃ©nÃ©ralement par le remplacement des lames abÃ®mÃ©es, un ponÃ§age complet (dÃ©grossissage et finition) et l'application d'un traitement protecteur : vitrification (vernis), huilage ou cirage au choix."
     ],
     [
-        'question' => "Pouvez-vous installer des fenêtres en respectant les normes énergétiques ?",
-        'reponse' => "Absolument. Les menuisiers partenaires proposent des fenêtres en bois, alu ou PVC équipées de double ou triple vitrage. S'ils sont certifiés RGE (Reconnu Garant de l'Environnement), leur intervention peut vous donner droit à des aides financières pour la rénovation thermique."
+        'question' => "Pouvez-vous installer des fenÃªtres en respectant les normes Ã©nergÃ©tiques ?",
+        'reponse' => "Absolument. Les menuisiers partenaires proposent des fenÃªtres en bois, alu ou PVC Ã©quipÃ©es de double ou triple vitrage. S'ils sont certifiÃ©s RGE (Reconnu Garant de l'Environnement), leur intervention peut vous donner droit Ã  des aides financiÃ¨res pour la rÃ©novation thermique."
     ]
 ]);
 
@@ -171,9 +171,9 @@ define('TOP_VILLES', [
 ]);
 
 define('AVANTAGES', [
-    ['titre' => 'Réseau National', 'desc' => 'Des milliers de professionnels référencés dans toute la France.', 'icon' => "🗺️"],
-    ['titre' => 'Partenaires Expérimentés', 'desc' => 'Trouvez le bon interlocuteur pour la réussite de votre projet', 'icon' => "✅"],
-    ['titre' => 'Mise en Relation Rapide', 'desc' => 'Obtenez gratuitement des devis adaptés à vos besoins.', 'icon' => "💰"],
+    ['titre' => 'RÃ©seau National', 'desc' => 'Des milliers de professionnels rÃ©fÃ©rencÃ©s dans toute la France.', 'icon' => "ðŸ—ºï¸"],
+    ['titre' => 'Partenaires ExpÃ©rimentÃ©s', 'desc' => 'Trouvez le bon interlocuteur pour la rÃ©ussite de votre projet', 'icon' => "âœ…"],
+    ['titre' => 'Mise en Relation Rapide', 'desc' => 'Obtenez gratuitement des devis adaptÃ©s Ã  vos besoins.', 'icon' => "ðŸ’°"],
 ]);
 
 define('HERO_IMAGE', 'https://images.unsplash.com/photo-1533090481720-856c6e3c1fdc?w=1920&q=80&auto=format&fit=crop');
@@ -211,3 +211,4 @@ function getVudCatForModele($modele = null)
     }
     return VUD_CATEGORIE_ID;
 }
+
